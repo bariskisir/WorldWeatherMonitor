@@ -1,0 +1,12 @@
+{
+  "name": "world-weather-monitor",
+  "version": "1.0.0",
+  "description": "Interactive world weather map with live forecasts, animations, and air quality data.",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y serve src -p 3000",
+    "start": "npx -y serve src -p 3000"
+  },
+  "keywords": ["weather", "map", "leaflet", "forecast"],
+  "license": "MIT"
+}
