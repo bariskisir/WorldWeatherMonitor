@@ -16,6 +16,13 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## Credits & API
+
+This project uses the [Open-Meteo API](https://open-meteo.com/) for weather and air quality data.
+
+- **Website:** [https://open-meteo.com/](https://open-meteo.com/)
+- **GitHub:** [https://github.com/open-meteo/open-meteo](https://github.com/open-meteo/open-meteo)
+
 ## License
 
 MIT
