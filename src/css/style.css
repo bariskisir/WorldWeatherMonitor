@@ -1100,7 +1100,7 @@ input:checked + .slider:before {
 @media (max-width: 768px) {
   .detail-popup {
     width: calc(100vw - 20px);
-    max-height: 90vh;
+    max-height: 80vh;
   }
   .dp-grid {
     display: flex;
@@ -1119,6 +1119,13 @@ input:checked + .slider:before {
   }
   .dp-location {
     font-size: 14px;
+  }
+  .dp-close {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    top: 10px;
+    right: 10px;
   }
   .dp-stat {
     flex: 1 1 calc(33.333% - 4px);
@@ -1143,6 +1150,9 @@ input:checked + .slider:before {
 @media (max-width: 480px) {
   .dp-stat {
     flex: 1 1 calc(50% - 4px);
+  }
+  .detail-popup {
+    max-height: 85vh;
   }
   .dp-temp {
     font-size: 24px;
