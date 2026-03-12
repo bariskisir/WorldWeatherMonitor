@@ -1017,6 +1017,18 @@ input:checked + .slider:before {
   border: 1px solid rgba(0, 229, 255, 0.1);
   padding: 8px;
 }
+.aqi-skeleton {
+  height: 48px;
+  background: linear-gradient(90deg, rgba(0, 229, 255, 0.03) 25%, rgba(0, 229, 255, 0.08) 50%, rgba(0, 229, 255, 0.03) 75%);
+  background-size: 200% 100%;
+  animation: aqi-pulse 1.5s infinite linear;
+  border-radius: 8px;
+  margin-top: 5px;
+}
+@keyframes aqi-pulse {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
 .dp-aqi-gauge {
   width: 44px;
   height: 44px;

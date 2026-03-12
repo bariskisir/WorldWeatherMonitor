@@ -7,8 +7,10 @@ import {
 import { WeatherAnimation } from "./animations.js";
 import { createHourlyChart, createDailyChart } from "./charts.js";
 import { getSettings, formatTemp } from "./settings.js";
+
 let detailPanel = null;
-function showWeatherPopup(city, weatherData, map) {
+
+function showWeatherPopup(city, weatherData, map, aqiPromise) {
   closeDetailPanel();
   const current = weatherData.current;
   const daily = weatherData.daily;
@@ -20,6 +22,7 @@ function showWeatherPopup(city, weatherData, map) {
   const isWarm = tempOriginal >= 20;
   const settings = getSettings();
   const curHour = new Date().getHours();
+
   let hourlyHtml = "";
   for (let i = curHour; i < curHour + 12 && i < hourly.time.length; i++) {
     const t = new Date(hourly.time[i]);
@@ -33,6 +36,7 @@ function showWeatherPopup(city, weatherData, map) {
           <span class="ph-temp">${formatTemp(hourly.temperature_2m[i])}°${settings.tempUnit}</span>
         </div>`;
   }
+
   let dailyHtml = "";
   for (let i = 0; i < daily.time.length; i++) {
     const d = new Date(daily.time[i]);
@@ -50,6 +54,7 @@ function showWeatherPopup(city, weatherData, map) {
           <span class="pd-low">${formatTemp(daily.temperature_2m_min[i])}°${settings.tempUnit}</span>
         </div>`;
   }
+
   const sunrise = daily.sunrise?.[0]
     ? new Date(daily.sunrise[0]).toLocaleTimeString("en", {
         hour: "2-digit",
@@ -62,6 +67,7 @@ function showWeatherPopup(city, weatherData, map) {
         minute: "2-digit",
       })
     : "—";
+
   const panel = document.createElement("div");
   panel.className = "detail-popup";
   panel.innerHTML = `
@@ -95,7 +101,10 @@ function showWeatherPopup(city, weatherData, map) {
             <div class="dp-sun">🌅 ${sunrise}</div>
             <div class="dp-sun">🌇 ${sunset}</div>
           </div>
-          <div id="dp-aqi-section"></div>
+          <div id="dp-aqi-section">
+            <div class="dp-section-title">Air Quality</div>
+            <div class="aqi-skeleton"></div>
+          </div>
           <div class="dp-section-title">Daily Trends</div>
           <div class="dp-chart-wrap"><canvas id="popup-daily-chart"></canvas></div>
         </div>
@@ -109,9 +118,12 @@ function showWeatherPopup(city, weatherData, map) {
         </div>
       </div>
     </div>`;
+
   document.body.appendChild(panel);
   detailPanel = panel;
+
   requestAnimationFrame(() => panel.classList.add("open"));
+
   const closeBtn = document.getElementById("dp-close");
   if (closeBtn) {
     closeBtn.onclick = (e) => {
@@ -124,11 +136,17 @@ function showWeatherPopup(city, weatherData, map) {
       closeDetailPanel();
     };
   }
+
   setTimeout(() => {
-    const popupCanvas = document.getElementById("popup-canvas");
+    const popupCanvas = panel.querySelector("#popup-canvas");
+    if (!popupCanvas) return;
+    
     const animArea = popupCanvas.parentElement;
+    if (!animArea) return;
+
     popupCanvas.width = animArea.offsetWidth;
     popupCanvas.height = animArea.offsetHeight;
+
     if (settings.animations) {
       const popupAnim = new WeatherAnimation(popupCanvas);
       popupAnim.setWeather(wInfo.group, isDay);
@@ -136,15 +154,21 @@ function showWeatherPopup(city, weatherData, map) {
       const ctx = popupCanvas.getContext("2d");
       ctx.clearRect(0, 0, popupCanvas.width, popupCanvas.height);
     }
-    createHourlyChart("popup-hourly-chart", hourly, settings.tempUnit);
-    createDailyChart("popup-daily-chart", daily, settings.tempUnit);
-  }, 150);
-  fetchAirQuality(city.lat, city.lng)
+
+    const hCanvas = panel.querySelector("#popup-hourly-chart");
+    const dCanvas = panel.querySelector("#popup-daily-chart");
+    
+    createHourlyChart(hCanvas, hourly, settings.tempUnit);
+    createDailyChart(dCanvas, daily, settings.tempUnit);
+  }, 100);
+
+  const finalAqiPromise = aqiPromise || fetchAirQuality(city.lat, city.lng);
+  finalAqiPromise
     .then((airData) => {
       if (airData?.current) {
         const aqi = airData.current.us_aqi || 0;
         const level = getAQILevel(aqi);
-        const section = document.getElementById("dp-aqi-section");
+        const section = panel.querySelector("#dp-aqi-section");
         if (section) {
           section.innerHTML = `
                 <div class="dp-section-title">Air Quality</div>
@@ -163,6 +187,7 @@ function showWeatherPopup(city, weatherData, map) {
     })
     .catch(() => {});
 }
+
 function closeDetailPanel() {
   if (detailPanel) {
     detailPanel.classList.remove("open");
@@ -172,4 +197,5 @@ function closeDetailPanel() {
     }, 350);
   }
 }
+
 export { showWeatherPopup, closeDetailPanel };

@@ -1,5 +1,6 @@
-import { fetchWeatherData } from "./weather.js";
-import { getWeatherInfo } from "./weather.js";
+import { fetchWeatherData, fetchAirQuality, getWeatherInfo } from "./weather.js";
+import { weatherCache } from "./cache.js";
+
 import { showWeatherPopup, closeDetailPanel } from "./popup.js";
 import { initSearch } from "./search.js";
 import { loadLocations, getCapitalLocations, getCitiesInBounds } from "./locations.js";
@@ -21,36 +22,10 @@ import {
 let map, mapOverlay;
 let cityMarkers = [];
 let markerPool = [];
-let cityWeatherCache = {};
 let initialLoadDone = false;
-function loadCacheFromStorage() {
-  try {
-    const stored = localStorage.getItem("wwm_weather_cache");
-    if (stored) cityWeatherCache = JSON.parse(stored);
-  } catch (e) {
-    cityWeatherCache = {};
-  }
-}
-function saveCacheToStorage() {
-  try {
-    localStorage.setItem("wwm_weather_cache", JSON.stringify(cityWeatherCache));
-  } catch (e) {}
-}
-function getCachedWeather(key) {
-  const entry = cityWeatherCache[key];
-  if (!entry) return null;
-  const cacheMs = getSettings().cacheDuration * 60 * 1000;
-  if (Date.now() - entry.ts > cacheMs) {
-    delete cityWeatherCache[key];
-    saveCacheToStorage();
-    return null;
-  }
-  return entry.data;
-}
-function setCachedWeather(key, data) {
-  cityWeatherCache[key] = { data, ts: Date.now() };
-  saveCacheToStorage();
-}
+
+
+
 let currentFetchController = null;
 let isFetchingWeather = false;
 
@@ -72,15 +47,8 @@ async function fetchWeatherBatch(cities, onProgress) {
       const promises = batch.map(async (city) => {
         if (signal.aborted) return null;
         
-        const key = `${city.lat},${city.lng}`;
-        const cached = getCachedWeather(key);
-        if (cached) {
-          if (onProgress) onProgress(city, cached);
-          return { city, data: cached };
-        }
         try {
           const data = await fetchWeatherData(city.lat, city.lng, signal);
-          setCachedWeather(key, data);
           if (onProgress) onProgress(city, data);
           return { city, data };
         } catch (e) {
@@ -163,8 +131,8 @@ function initMap() {
   map.on("zoomend", onMapInteraction);
   
   loadSettings();
-  loadCacheFromStorage();
   initSettingsUI();
+
   
   loadLocations().then(() => {
     initialLoadDone = true;
@@ -341,7 +309,8 @@ function addWeatherMarker(city, weatherData) {
   marker.off("click");
   marker.on("click", (e) => {
     L.DomEvent.stopPropagation(e);
-    showWeatherPopup(city, weatherData, map);
+    const aqiPromise = fetchAirQuality(city.lat, city.lng);
+    showWeatherPopup(city, weatherData, map, aqiPromise);
   });
   cityMarkers.push({ marker, city, data: weatherData });
 }

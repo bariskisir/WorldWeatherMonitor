@@ -162,41 +162,68 @@ class WeatherAnimation {
       t = performance.now() * 0.001;
     const cx = this.width * 0.85,
       cy = this.height * 0.2;
+
+    const coreSize = 25;
     if (this.isDay) {
-      const g = ctx.createRadialGradient(cx, cy, 10, cx, cy, 120);
-      const p = 0.12 + Math.sin(t * 1.5) * 0.05;
-      g.addColorStop(0, `rgba(251,191,36,${p})`);
-      g.addColorStop(0.5, `rgba(251,146,60,${p * 0.4})`);
-      g.addColorStop(1, "rgba(251,146,60,0)");
+      const g = ctx.createRadialGradient(cx, cy, coreSize * 0.2, cx, cy, coreSize * 4);
+      const pulse = Math.sin(t * 1.5) * 0.05;
+      const baseOpacity = 0.4 + pulse;
+      
+      g.addColorStop(0, `rgba(255, 255, 255, ${baseOpacity * 0.9})`);
+      g.addColorStop(0.1, `rgba(255, 243, 100, ${baseOpacity})`);
+      g.addColorStop(0.3, `rgba(251, 191, 36, ${baseOpacity * 0.7})`);
+      g.addColorStop(0.6, `rgba(251, 146, 60, ${baseOpacity * 0.3})`);
+      g.addColorStop(1, "rgba(251, 146, 60, 0)");
+      
       ctx.fillStyle = g;
       ctx.fillRect(0, 0, this.width, this.height);
+
+      ctx.beginPath();
+      ctx.arc(cx, cy, coreSize, 0, Math.PI * 2);
+      const coreGrad = ctx.createRadialGradient(cx, cy, 0, cx, cy, coreSize);
+      coreGrad.addColorStop(0, "#ffffff");
+      coreGrad.addColorStop(0.6, "#fff364");
+      coreGrad.addColorStop(1, "#fbbf24");
+      ctx.fillStyle = coreGrad;
+      ctx.fill();
     }
+
     this.particles.forEach((p) => {
       if (p.type === "ray" && this.isDay) {
         p.pulse += p.speed;
         const ps = Math.sin(p.pulse) * 0.5 + 0.5;
-        const l = p.length * (0.5 + ps * 0.5);
+        const l = p.length * (0.6 + ps * 0.4);
+        
+        ctx.save();
+        ctx.translate(cx, cy);
+        ctx.rotate(p.angle + t * 0.08);
+        
+        const rayGrad = ctx.createLinearGradient(0, 0, l, 0);
+        rayGrad.addColorStop(0, `rgba(255, 243, 100, ${p.opacity * ps * 0.8})`);
+        rayGrad.addColorStop(0.5, `rgba(251, 191, 36, ${p.opacity * ps * 0.4})`);
+        rayGrad.addColorStop(1, "rgba(251, 146, 60, 0)");
+        
         ctx.beginPath();
-        ctx.moveTo(cx, cy);
-        ctx.lineTo(
-          cx + Math.cos(p.angle + t * 0.1) * l,
-          cy + Math.sin(p.angle + t * 0.1) * l,
-        );
-        ctx.strokeStyle = `rgba(251,191,36,${p.opacity * ps})`;
-        ctx.lineWidth = 1.5;
+        ctx.moveTo(coreSize * 0.8 || 20, 0);
+        ctx.lineTo(l, 0);
+        ctx.strokeStyle = rayGrad;
+        ctx.lineWidth = 2 * (0.5 + ps * 0.5);
+        ctx.lineCap = "round";
         ctx.stroke();
+        ctx.restore();
       } else if (p.type === "sparkle") {
         p.phase += p.speed;
         p.opacity = p.targetOpacity * (Math.sin(p.phase) * 0.5 + 0.5);
         ctx.beginPath();
         ctx.arc(p.x, p.y, p.size, 0, Math.PI * 2);
         ctx.fillStyle = this.isDay
-          ? `rgba(251,191,36,${p.opacity})`
-          : `rgba(148,163,184,${p.opacity})`;
+          ? `rgba(255, 243, 100, ${p.opacity})`
+          : `rgba(148, 163, 184, ${p.opacity * 0.6})`;
         ctx.fill();
       }
     });
   }
+
   _drawClouds() {
     const ctx = this.ctx;
     this.particles.forEach((p) => {

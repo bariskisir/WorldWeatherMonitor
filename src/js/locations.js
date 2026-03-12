@@ -33,9 +33,8 @@ function getFlattenedCities() {
         
         if (state.districts) {
           state.districts.forEach(district => {
-            // Skip district if it's the exact same name as the state/province 
-            // (we already added the state marker with higher priority above)
             if (district.name === state.name) return;
+
 
             const districtObj = { 
               name: district.name, 

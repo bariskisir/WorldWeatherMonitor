@@ -1,25 +1,32 @@
 import { convertTemp } from "./settings.js";
 let hourlyChart = null;
 let dailyChart = null;
-function createHourlyChart(canvasId, hourlyData, tempUnit = "C") {
-  const canvas = document.getElementById(canvasId);
-  if (!canvas) return;
+function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
+  if (!canvas || !hourlyData || !hourlyData.time || !hourlyData.temperature_2m) return;
+  
+  const ChartLib = window.Chart || (typeof Chart !== 'undefined' ? Chart : null);
+  if (!ChartLib) return;
+
   if (hourlyChart) hourlyChart.destroy();
   const now = new Date();
   const currentHour = now.getHours();
+
+  if (hourlyData.time.length < currentHour) return;
+
   const times = hourlyData.time.slice(currentHour, currentHour + 24);
-  const temps = hourlyData.temperature_2m
+  const temps = (hourlyData.temperature_2m || [])
     .slice(currentHour, currentHour + 24)
-    .map(convertTemp);
-  const precip = hourlyData.precipitation_probability.slice(
-    currentHour,
-    currentHour + 24,
-  );
+    .map(t => convertTemp(t));
+  const precipRaw = (hourlyData.precipitation_probability || [])
+    .slice(currentHour, currentHour + 24);
+  
+  const precip = times.map((_, i) => precipRaw[i] ?? 0);
+
   const labels = times.map((t) => {
     const d = new Date(t);
     return d.getHours().toString().padStart(2, "0") + ":00";
   });
-  hourlyChart = new Chart(canvas, {
+  hourlyChart = new ChartLib(canvas, {
     type: "line",
     data: {
       labels,
@@ -109,22 +116,27 @@ function createHourlyChart(canvasId, hourlyData, tempUnit = "C") {
     },
   });
 }
-function createDailyChart(canvasId, dailyData, tempUnit = "C") {
-  const canvas = document.getElementById(canvasId);
-  if (!canvas) return;
+function createDailyChart(canvas, dailyData, tempUnit = "C") {
+  if (!canvas || !dailyData || !dailyData.time || !dailyData.temperature_2m_max) return;
+
+  const ChartLib = window.Chart || (typeof Chart !== 'undefined' ? Chart : null);
+  if (!ChartLib) return;
+
   if (dailyChart) dailyChart.destroy();
+
+
   const labels = dailyData.time.map((t) => {
     const d = new Date(t);
     return d.toLocaleDateString("en", { weekday: "short" });
   });
-  dailyChart = new Chart(canvas, {
+  dailyChart = new ChartLib(canvas, {
     type: "bar",
     data: {
       labels,
       datasets: [
         {
           label: `Max °${tempUnit}`,
-          data: dailyData.temperature_2m_max.map(convertTemp),
+          data: dailyData.temperature_2m_max.map(t => convertTemp(t)),
           backgroundColor: "rgba(251,146,60,0.6)",
           borderColor: "#fb923c",
           borderWidth: 1,
@@ -133,7 +145,7 @@ function createDailyChart(canvasId, dailyData, tempUnit = "C") {
         },
         {
           label: `Min °${tempUnit}`,
-          data: dailyData.temperature_2m_min.map(convertTemp),
+          data: dailyData.temperature_2m_min.map(t => convertTemp(t)),
           backgroundColor: "rgba(56,189,248,0.4)",
           borderColor: "#38bdf8",
           borderWidth: 1,

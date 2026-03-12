@@ -5,6 +5,14 @@ import {
   SEARCH_RESULT_COUNT,
   SEARCH_MIN_LENGTH,
 } from "./config.js";
+import { getSettings } from "./settings.js";
+import { aqiCache, weatherCache } from "./cache.js";
+
+
+
+
+
+
 const WMO_CODES = {
   0: { description: "Clear Sky", icon: "☀️", iconNight: "🌙", group: "clear" },
   1: {
@@ -190,8 +198,17 @@ function getWindDirection(degrees) {
   return dirs[Math.round(degrees / 22.5) % 16];
 }
 async function fetchWeatherData(lat, lng, signal = null) {
+  const cached = weatherCache.get(lat, lng);
+  if (cached && cached.hourly && cached.daily) {
+    return cached;
+  }
+
+
+
+
   const url = `${API.FORECAST}?latitude=${lat}&longitude=${lng}&current=${WEATHER_PARAMS.CURRENT}&hourly=${WEATHER_PARAMS.HOURLY}&daily=${WEATHER_PARAMS.DAILY}&timezone=auto&forecast_days=${FORECAST_DAYS}`;
   const response = await fetch(url, { signal });
+
   if (!response.ok) {
     if (response.status === 429) {
       const errData = await response.json().catch(() => ({}));
@@ -201,15 +218,34 @@ async function fetchWeatherData(lat, lng, signal = null) {
     }
     throw new Error(`Weather API error: ${response.status}`);
   }
-  return response.json();
+  const data = await response.json();
+  if (data && data.current) {
+    weatherCache.set(lat, lng, data);
+  }
+
+
+  return data;
 }
+
+
 async function fetchAirQuality(lat, lng, signal = null) {
+  const cached = aqiCache.get(lat, lng);
+  if (cached) return cached;
+
   const url = `${API.AIR_QUALITY}?latitude=${lat}&longitude=${lng}&current=${WEATHER_PARAMS.AIR_QUALITY}`;
   const response = await fetch(url, { signal });
   if (!response.ok)
     throw new Error(`Air Quality API error: ${response.status}`);
-  return response.json();
+  
+  const data = await response.json();
+  if (data && data.current) {
+    aqiCache.set(lat, lng, data);
+  }
+  return data;
 }
+
+
+
 async function searchLocations(query) {
   if (!query || query.trim().length < SEARCH_MIN_LENGTH) return [];
   const url = `${API.GEOCODING}?name=${encodeURIComponent(query)}&count=${SEARCH_RESULT_COUNT}&language=en&format=json`;
