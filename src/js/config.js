@@ -2,8 +2,6 @@ export const API = {
   FORECAST: "https://api.open-meteo.com/v1/forecast",
   AIR_QUALITY: "https://air-quality-api.open-meteo.com/v1/air-quality",
   GEOCODING: "https://geocoding-api.open-meteo.com/v1/search",
-  GEOJSON:
-    "https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson",
 };
 export const WEATHER_PARAMS = {
   CURRENT:
@@ -22,8 +20,9 @@ export const MAP = {
   TILE_URL: "https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}",
   TILE_ATTRIBUTION: "&copy; Google Maps",
 };
-export const BATCH_SIZE = 6;
-export const BATCH_DELAY = 200;
+export const BATCH_SIZE = 3;
+export const BATCH_DELAY = 500;
+export const MAX_CONCURRENT_BATCHES = 1;
 export const CACHE_TTL = 5 * 60 * 1000;
 export const MAX_MARKERS = 20;
 export const INITIAL_CAPITALS = 50;

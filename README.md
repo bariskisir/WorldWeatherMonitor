@@ -26,7 +26,3 @@ This project uses the [Open-Meteo API](https://open-meteo.com/) for weather and 
 ## License
 
 MIT
-
-## Known Issues
-
-- Some city/province locations may be missing from the database or incorrectly defined. Geographic data is provided as-is and may not be 100% accurate or exhaustive.

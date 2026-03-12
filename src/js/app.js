@@ -2,7 +2,7 @@ import { fetchWeatherData } from "./weather.js";
 import { getWeatherInfo } from "./weather.js";
 import { showWeatherPopup, closeDetailPanel } from "./popup.js";
 import { initSearch } from "./search.js";
-import { getCapitalLocations, getCitiesInBounds } from "./locations.js";
+import { loadLocations, getCapitalLocations, getCitiesInBounds } from "./locations.js";
 import { MapWeatherOverlay } from "./mapAnimations.js";
 import {
   API,
@@ -23,7 +23,6 @@ let cityMarkers = [];
 let markerPool = [];
 let cityWeatherCache = {};
 let initialLoadDone = false;
-let cachedGeoJSON = null;
 function loadCacheFromStorage() {
   try {
     const stored = localStorage.getItem("wwm_weather_cache");
@@ -52,49 +51,87 @@ function setCachedWeather(key, data) {
   cityWeatherCache[key] = { data, ts: Date.now() };
   saveCacheToStorage();
 }
+let currentFetchController = null;
+let isFetchingWeather = false;
+
 async function fetchWeatherBatch(cities, onProgress) {
+  if (currentFetchController) {
+    currentFetchController.abort();
+  }
+  
+  isFetchingWeather = true;
+  currentFetchController = new AbortController();
+  const { signal } = currentFetchController;
+
   const results = [];
-  for (let i = 0; i < cities.length; i += BATCH_SIZE) {
-    const batch = cities.slice(i, i + BATCH_SIZE);
-    const promises = batch.map(async (city) => {
-      const key = `${city.lat},${city.lng}`;
-      const cached = getCachedWeather(key);
-      if (cached) {
-        if (onProgress) onProgress(city, cached);
-        return { city, data: cached };
-      }
-      try {
-        const data = await fetchWeatherData(city.lat, city.lng);
-        setCachedWeather(key, data);
-        if (onProgress) onProgress(city, data);
-        return { city, data };
-      } catch (e) {
-        if (e.message && e.message.includes("429")) {
-          showApiErrorToast(e.message);
+  try {
+    for (let i = 0; i < cities.length; i += BATCH_SIZE) {
+      if (signal.aborted) break;
+      
+      const batch = cities.slice(i, i + BATCH_SIZE);
+      const promises = batch.map(async (city) => {
+        if (signal.aborted) return null;
+        
+        const key = `${city.lat},${city.lng}`;
+        const cached = getCachedWeather(key);
+        if (cached) {
+          if (onProgress) onProgress(city, cached);
+          return { city, data: cached };
         }
-        return null;
+        try {
+          const data = await fetchWeatherData(city.lat, city.lng, signal);
+          setCachedWeather(key, data);
+          if (onProgress) onProgress(city, data);
+          return { city, data };
+        } catch (e) {
+          if (e.name === 'AbortError') return null;
+          if (e.message && e.message.includes("429")) {
+            showApiErrorToast(e.message);
+          }
+          return null;
+        }
+      });
+      const batchResults = await Promise.all(promises);
+      results.push(...batchResults.filter(Boolean));
+      
+      if (i + BATCH_SIZE < cities.length && !signal.aborted) {
+        await new Promise((r) => {
+          const timer = setTimeout(r, BATCH_DELAY);
+          signal.addEventListener('abort', () => clearTimeout(timer));
+        });
       }
-    });
-    const batchResults = await Promise.all(promises);
-    results.push(...batchResults.filter(Boolean));
-    if (i + BATCH_SIZE < cities.length)
-      await new Promise((r) => setTimeout(r, BATCH_DELAY));
+    }
+  } finally {
+    isFetchingWeather = false;
+    if (currentFetchController?.signal === signal) {
+      currentFetchController = null;
+    }
   }
   return results;
 }
+let isErrorShowing = false;
 function showApiErrorToast(msg) {
+  if (isErrorShowing) return;
   const toast = document.getElementById("api-error-toast");
   if (!toast) return;
-  if (msg) {
-    const reason = msg.replace("429: ", "");
-    toast.innerHTML = `<span style="font-size: 14px; font-weight: bold;">Rate Limit Exceeded</span><br><span style="font-size: 10px; opacity: 0.8;">${reason}</span>`;
-  } else {
-    toast.innerHTML = `<span style="font-size: 14px; font-weight: bold;">Rate Limit Exceeded</span><br><span style="font-size: 10px; opacity: 0.8;">Please try again later.</span>`;
-  }
+  
+  isErrorShowing = true;
+  const waitMsg = `
+    <div style="font-size: 15px; font-weight: bold; margin-bottom: 4px;">⚠️ FREE API RATE LIMIT EXCEEDED</div>
+    <div style="font-size: 11px; opacity: 0.9; margin-bottom: 6px;">Too many requests. Please wait a moment and try again.</div>
+    <div style="font-size: 9px; opacity: 0.7; border-top: 1px solid rgba(255,255,255,0.2); pt-4; margin-top: 4px; display: inline-block;">
+      Limits: 600 calls/min · 5,000 calls/hr · 10,000 calls/day
+    </div>
+  `;
+  
+  toast.innerHTML = waitMsg;
   toast.classList.add("active");
-  setTimeout(() => toast.classList.remove("active"), 5000);
+  
+  setTimeout(() => {
+    toast.classList.remove("active");
+    isErrorShowing = false;
+  }, 5000);
 }
-let countryBordersLayer = null;
 function initMap() {
   let initialCenter = MAP.CENTER;
   let initialZoom = MAP.ZOOM;
@@ -121,11 +158,18 @@ function initMap() {
     attribution: MAP.TILE_ATTRIBUTION,
     maxZoom: 20,
   }).addTo(map);
+  
+  map.on("moveend", onMapInteraction);
+  map.on("zoomend", onMapInteraction);
+  
   loadSettings();
   loadCacheFromStorage();
   initSettingsUI();
-  loadCountryBorders();
-  loadInitialView();
+  
+  loadLocations().then(() => {
+    initialLoadDone = true;
+    updateVisibleMarkers();
+  });
 }
 function initSettingsUI() {
   const btn = document.getElementById("settings-btn");
@@ -188,33 +232,6 @@ function applySettingsToMap() {
     updateVisibleMarkers();
   });
 }
-async function loadCountryBorders() {
-  try {
-    if (!cachedGeoJSON) {
-      const resp = await fetch(API.GEOJSON);
-      cachedGeoJSON = await resp.json();
-    }
-    countryBordersLayer = L.geoJSON(cachedGeoJSON, {
-      style: () => ({
-        color: "rgba(0, 229, 255, 0.15)",
-        weight: 1,
-        fillColor: "transparent",
-        fillOpacity: 0,
-      }),
-      interactive: false,
-    }).addTo(map);
-    map.on("moveend", onMapInteraction);
-    map.on("zoomend", onMapInteraction);
-  } catch (e) {}
-}
-async function loadInitialView() {
-  const cities = getCapitalLocations().slice(0, INITIAL_CAPITALS);
-  showLoadingBar(true);
-  await fetchWeatherBatch(cities, (city, data) => addWeatherMarker(city, data));
-  showLoadingBar(false);
-  initialLoadDone = true;
-  updateVisibleMarkers();
-}
 let lastUpdateBounds = null;
 let updatePending = false;
 function saveMapState() {
@@ -230,8 +247,10 @@ function saveMapState() {
 function onMapInteraction() {
   saveMapState();
   if (!initialLoadDone) return;
+  
   if (updatePending) return;
   updatePending = true;
+  
   requestAnimationFrame(() => {
     updatePending = false;
     updateVisibleMarkers();
@@ -239,8 +258,6 @@ function onMapInteraction() {
 }
 async function updateVisibleMarkers() {
   const bounds = map.getBounds();
-  if (lastUpdateBounds && lastUpdateBounds.equals(bounds)) return;
-  lastUpdateBounds = bounds;
   const center = map.getCenter();
   const visible = getCitiesInBounds(bounds, map.getZoom());
   const uniqueVisible = [];
@@ -256,8 +273,8 @@ async function updateVisibleMarkers() {
     c._d = Math.pow(c.lat - center.lat, 2) + Math.pow(c.lng - center.lng, 2);
   });
   uniqueVisible.sort((a, b) => {
-    const scoreA = a.isCapital ? 2 : a.isCity ? 1 : 0;
-    const scoreB = b.isCapital ? 2 : b.isCity ? 1 : 0;
+    const scoreA = a.priority || 1;
+    const scoreB = b.priority || 1;
     if (scoreA !== scoreB) return scoreB - scoreA;
     return a._d - b._d;
   });
@@ -292,9 +309,8 @@ function addWeatherMarker(city, weatherData) {
   const tempC = Math.round(current.temperature_2m);
   const tempDisplay =
     s.tempUnit === "F" ? Math.round((tempC * 9) / 5 + 32) : tempC;
-  const colorClass = tempC >= 20 ? "warm" : "cool";
   const fxHtml = s.animations ? `<div class="hud-weather-fx"></div>` : "";
-  const html = `<div class="hud-marker ${colorClass} weather-${wInfo.group}">
+  const html = `<div class="hud-marker priority-${city.priority || 1} weather-${wInfo.group}">
       <div class="hud-card">
         ${fxHtml}
         <span class="hud-card-name">${city.name}</span>

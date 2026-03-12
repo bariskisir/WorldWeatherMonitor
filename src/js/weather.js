@@ -189,9 +189,9 @@ function getWindDirection(degrees) {
   ];
   return dirs[Math.round(degrees / 22.5) % 16];
 }
-async function fetchWeatherData(lat, lng) {
+async function fetchWeatherData(lat, lng, signal = null) {
   const url = `${API.FORECAST}?latitude=${lat}&longitude=${lng}&current=${WEATHER_PARAMS.CURRENT}&hourly=${WEATHER_PARAMS.HOURLY}&daily=${WEATHER_PARAMS.DAILY}&timezone=auto&forecast_days=${FORECAST_DAYS}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { signal });
   if (!response.ok) {
     if (response.status === 429) {
       const errData = await response.json().catch(() => ({}));
@@ -203,9 +203,9 @@ async function fetchWeatherData(lat, lng) {
   }
   return response.json();
 }
-async function fetchAirQuality(lat, lng) {
+async function fetchAirQuality(lat, lng, signal = null) {
   const url = `${API.AIR_QUALITY}?latitude=${lat}&longitude=${lng}&current=${WEATHER_PARAMS.AIR_QUALITY}`;
-  const response = await fetch(url);
+  const response = await fetch(url, { signal });
   if (!response.ok)
     throw new Error(`Air Quality API error: ${response.status}`);
   return response.json();

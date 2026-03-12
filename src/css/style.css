@@ -283,9 +283,6 @@ body {
   line-height: 1.2;
   margin-bottom: 1px;
 }
-.hud-marker.warm .hud-card-name {
-  color: var(--hud-warm);
-}
 .hud-card-row {
   display: flex;
   align-items: center;
@@ -298,16 +295,12 @@ body {
   font-family: "Orbitron", sans-serif;
   font-size: 10px;
   font-weight: 700;
-  color: #fff;
+  color: var(--hud-cyan);
 }
 .hud-marker:hover .hud-card {
   border-color: var(--hud-cyan);
   box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);
   z-index: 100;
-}
-.hud-marker.warm:hover .hud-card {
-  border-color: var(--hud-warm);
-  box-shadow: 0 0 15px rgba(255, 107, 53, 0.15);
 }
 .hud-card::before {
   content: "";
@@ -327,9 +320,21 @@ body {
   height: 12px;
   background: var(--hud-cyan);
 }
-.hud-marker.warm .hud-card::before,
-.hud-marker.warm .hud-card::after {
+.hud-marker.priority-4 .hud-card::before,
+.hud-marker.priority-4 .hud-card::after {
+  background: var(--hud-cyan);
+}
+.hud-marker.priority-3 .hud-card::before,
+.hud-marker.priority-3 .hud-card::after {
   background: var(--hud-warm);
+}
+.hud-marker.priority-2 .hud-card::before,
+.hud-marker.priority-2 .hud-card::after {
+  background: var(--accent-green);
+}
+.hud-marker.priority-1 .hud-card::before,
+.hud-marker.priority-1 .hud-card::after {
+  background: var(--accent-purple);
 }
 .hud-card {
   position: relative;
@@ -500,25 +505,27 @@ body {
 }
 .api-error-toast {
   position: fixed;
-  top: 10px;
-  left: 50%;
-  transform: translateX(-50%) translateY(-20px);
-  background: rgba(248, 113, 113, 0.15);
-  border: 1px solid var(--accent-red);
-  color: var(--accent-red);
-  padding: 8px 16px;
-  border-radius: 4px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(220, 38, 38, 0.95);
+  border-bottom: 2px solid var(--accent-red);
+  color: #fff;
+  padding: 12px 20px;
   font-family: "Share Tech Mono", monospace;
-  font-size: 12px;
-  z-index: 5000;
-  opacity: 0;
+  font-size: 14px;
+  z-index: 10000;
+  transform: translateY(-100%);
+  transition: transform 0.4s cubic-bezier(0.18, 0.89, 0.32, 1.28);
   pointer-events: none;
-  transition: all 0.3s ease;
-  box-shadow: 0 4px 20px rgba(248, 113, 113, 0.2);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(10px);
-  white-space: pre-wrap;
-  text-align: left;
-  min-width: 300px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.api-error-toast.active {
+  transform: translateY(0);
+  pointer-events: auto;
 }
 .settings-overlay {
   position: fixed;
