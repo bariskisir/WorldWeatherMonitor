@@ -1,14 +1,38 @@
+interface MapParticle {
+  type: string;
+  x: number;
+  y: number;
+  [key: string]: any;
+}
+
 class MapWeatherOverlay {
-  constructor(canvasId) {
-    this.canvas = document.getElementById(canvasId);
-    this.ctx = this.canvas.getContext("2d");
+  private canvas: HTMLCanvasElement;
+  private ctx: CanvasRenderingContext2D;
+  private particles: MapParticle[];
+  private animationId: number | null;
+  private activeEffects: any[];
+  private width: number;
+  private height: number;
+  private currentGroup: string | null;
+  private lightningTimer: number;
+  private lightningOpacity: number;
+
+  constructor(canvasId: string) {
+    this.canvas = document.getElementById(canvasId) as HTMLCanvasElement;
+    this.ctx = this.canvas.getContext("2d")!;
     this.particles = [];
     this.animationId = null;
     this.activeEffects = [];
+    this.width = 0;
+    this.height = 0;
+    this.currentGroup = null;
+    this.lightningTimer = 0;
+    this.lightningOpacity = 0;
     this.resize();
     window.addEventListener("resize", () => this.resize());
   }
-  resize() {
+
+  private resize(): void {
     this.canvas.width = window.innerWidth * window.devicePixelRatio;
     this.canvas.height = window.innerHeight * window.devicePixelRatio;
     this.canvas.style.width = window.innerWidth + "px";
@@ -19,31 +43,47 @@ class MapWeatherOverlay {
       0,
       window.devicePixelRatio,
       0,
-      0,
+      0
     );
     this.width = window.innerWidth;
     this.height = window.innerHeight;
   }
-  setGlobalWeather(weatherGroup) {
+
+  setGlobalWeather(weatherGroup: string): void {
     this.particles = [];
     if (this.animationId) cancelAnimationFrame(this.animationId);
     this.currentGroup = weatherGroup;
     this._initParticles();
     this._animate();
   }
-  clearAll() {
+
+  stop(): void {
+    this.clearAll();
+  }
+
+  updateWeather(state: string): void {
+    if (state === "clear") {
+      this.clearAll();
+    } else {
+      this.setGlobalWeather(state);
+    }
+  }
+
+  clearAll(): void {
     this.particles = [];
     if (this.animationId) cancelAnimationFrame(this.animationId);
     this.ctx.clearRect(0, 0, this.width, this.height);
   }
-  _initParticles() {
+
+  private _initParticles(): void {
     const g = this.currentGroup;
     if (g === "rain" || g === "drizzle") this._initRain();
     else if (g === "snow") this._initSnow();
     else if (g === "thunderstorm") this._initThunder();
     else if (g === "clear") this._initClear();
   }
-  _initRain() {
+
+  private _initRain(): void {
     for (let i = 0; i < 120; i++)
       this.particles.push({
         type: "rain",
@@ -55,7 +95,8 @@ class MapWeatherOverlay {
         wind: 2 + Math.random() * 2,
       });
   }
-  _initSnow() {
+
+  private _initSnow(): void {
     for (let i = 0; i < 80; i++)
       this.particles.push({
         type: "snow",
@@ -68,12 +109,14 @@ class MapWeatherOverlay {
         opacity: 0.15 + Math.random() * 0.3,
       });
   }
-  _initThunder() {
+
+  private _initThunder(): void {
     this._initRain();
     this.lightningTimer = 0;
     this.lightningOpacity = 0;
   }
-  _initClear() {
+
+  private _initClear(): void {
     for (let i = 0; i < 20; i++)
       this.particles.push({
         type: "sparkle",
@@ -85,14 +128,17 @@ class MapWeatherOverlay {
         opacity: 0,
       });
   }
-  _animate() {
+
+  private _animate(): void {
     const ctx = this.ctx;
     ctx.clearRect(0, 0, this.width, this.height);
+
     this.particles.forEach((p) => {
       if (p.type === "rain") this._drawRaindrop(p);
       else if (p.type === "snow") this._drawSnowflake(p);
       else if (p.type === "sparkle") this._drawSparkle(p);
     });
+
     if (this.currentGroup === "thunderstorm") {
       this.lightningTimer = (this.lightningTimer || 0) + 16;
       if (this.lightningTimer > 4000 + Math.random() * 6000) {
@@ -105,9 +151,11 @@ class MapWeatherOverlay {
         this.lightningOpacity -= 0.02;
       }
     }
+
     this.animationId = requestAnimationFrame(() => this._animate());
   }
-  _drawRaindrop(p) {
+
+  private _drawRaindrop(p: MapParticle): void {
     p.x += p.wind;
     p.y += p.speed;
     if (p.y > this.height) {
@@ -121,7 +169,8 @@ class MapWeatherOverlay {
     this.ctx.lineWidth = 1;
     this.ctx.stroke();
   }
-  _drawSnowflake(p) {
+
+  private _drawSnowflake(p: MapParticle): void {
     p.wobble += p.wobbleSpd;
     p.x += Math.sin(p.wobble) * 0.6;
     p.y += p.speed;
@@ -134,7 +183,8 @@ class MapWeatherOverlay {
     this.ctx.fillStyle = `rgba(255,255,255,${p.opacity})`;
     this.ctx.fill();
   }
-  _drawSparkle(p) {
+
+  private _drawSparkle(p: MapParticle): void {
     p.phase += p.speed;
     const o = 0.15 * (Math.sin(p.phase) * 0.5 + 0.5);
     this.ctx.beginPath();
@@ -143,4 +193,5 @@ class MapWeatherOverlay {
     this.ctx.fill();
   }
 }
+
 export { MapWeatherOverlay };

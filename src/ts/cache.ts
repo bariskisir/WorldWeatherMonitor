@@ -2,14 +2,26 @@ import { getSettings } from "./settings.js";
 
 const CACHE_VERSION = "v2";
 
+interface CacheEntry {
+  data: unknown;
+  ts: number;
+}
+
+interface CacheStore {
+  [key: string]: CacheEntry;
+}
+
 class CacheManager {
-  constructor(storageKey) {
+  private storageKey: string;
+  private cache: CacheStore;
+
+  constructor(storageKey: string) {
     this.storageKey = `${storageKey}_${CACHE_VERSION}`;
     this.cache = {};
     this.load();
   }
 
-  load() {
+  private load(): void {
     try {
       const stored = localStorage.getItem(this.storageKey);
       if (stored) {
@@ -20,18 +32,18 @@ class CacheManager {
     }
   }
 
-  save() {
+  private save(): void {
     try {
       localStorage.setItem(this.storageKey, JSON.stringify(this.cache));
     } catch (e) {
     }
   }
 
-  normalizeKey(lat, lng) {
+  private normalizeKey(lat: number, lng: number): string {
     return `${Number(lat).toFixed(4)},${Number(lng).toFixed(4)}`;
   }
 
-  get(lat, lng) {
+  get(lat: number, lng: number): unknown | null {
     const key = this.normalizeKey(lat, lng);
     const entry = this.cache[key];
     if (!entry) return null;
@@ -47,13 +59,13 @@ class CacheManager {
     return entry.data;
   }
 
-  set(lat, lng, data) {
+  set(lat: number, lng: number, data: unknown): void {
     const key = this.normalizeKey(lat, lng);
     this.cache[key] = { data, ts: Date.now() };
     this.save();
   }
 
-  clear() {
+  clear(): void {
     this.cache = {};
     localStorage.removeItem(this.storageKey);
   }

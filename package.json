@@ -4,8 +4,14 @@
   "description": "Interactive world weather map with live forecasts, animations, and air quality data.",
   "private": true,
   "scripts": {
-    "dev": "npx -y serve src -p 3000",
-    "start": "npx -y serve src -p 3000"
+    "clean": "npx rimraf src/dist",
+    "build": "npm run clean && npx tsc",
+    "dev": "npm run build && npx -y serve src -p 3000",
+    "start": "npm run build && npx -y serve src -p 3000"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/leaflet": "^1.9.8"
   },
   "keywords": ["weather", "map", "leaflet", "forecast"],
   "license": "MIT"

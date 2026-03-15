@@ -1,13 +1,21 @@
 import { convertTemp } from "./settings.js";
-let hourlyChart = null;
-let dailyChart = null;
-function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
-  if (!canvas || !hourlyData || !hourlyData.time || !hourlyData.temperature_2m) return;
-  
-  const ChartLib = window.Chart || (typeof Chart !== 'undefined' ? Chart : null);
+
+let hourlyChart: any = null;
+let dailyChart: any = null;
+
+function createHourlyChart(
+  canvas: HTMLCanvasElement,
+  hourlyData: any,
+  tempUnit: string = "C"
+): void {
+  if (!canvas || !hourlyData || !hourlyData.time || !hourlyData.temperature_2m)
+    return;
+
+  const ChartLib = (window as any).Chart;
   if (!ChartLib) return;
 
   if (hourlyChart) hourlyChart.destroy();
+
   const now = new Date();
   const currentHour = now.getHours();
 
@@ -16,16 +24,19 @@ function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
   const times = hourlyData.time.slice(currentHour, currentHour + 24);
   const temps = (hourlyData.temperature_2m || [])
     .slice(currentHour, currentHour + 24)
-    .map(t => convertTemp(t));
-  const precipRaw = (hourlyData.precipitation_probability || [])
-    .slice(currentHour, currentHour + 24);
-  
-  const precip = times.map((_, i) => precipRaw[i] ?? 0);
+    .map((t: number) => convertTemp(t));
+  const precipRaw = (hourlyData.precipitation_probability || []).slice(
+    currentHour,
+    currentHour + 24
+  );
 
-  const labels = times.map((t) => {
+  const precip = times.map((_: any, i: number) => precipRaw[i] ?? 0);
+
+  const labels = times.map((t: string) => {
     const d = new Date(t);
     return d.getHours().toString().padStart(2, "0") + ":00";
   });
+
   hourlyChart = new ChartLib(canvas, {
     type: "line",
     data: {
@@ -97,7 +108,7 @@ function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
           ticks: {
             color: "#38bdf8",
             font: { family: "Inter", size: 10 },
-            callback: (v) => v + "°",
+            callback: (v: any) => v + "°",
           },
           grid: { color: "rgba(255,255,255,0.04)" },
         },
@@ -108,7 +119,7 @@ function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
           ticks: {
             color: "#a78bfa",
             font: { family: "Inter", size: 10 },
-            callback: (v) => v + "%",
+            callback: (v: any) => v + "%",
           },
           grid: { display: false },
         },
@@ -116,19 +127,25 @@ function createHourlyChart(canvas, hourlyData, tempUnit = "C") {
     },
   });
 }
-function createDailyChart(canvas, dailyData, tempUnit = "C") {
-  if (!canvas || !dailyData || !dailyData.time || !dailyData.temperature_2m_max) return;
 
-  const ChartLib = window.Chart || (typeof Chart !== 'undefined' ? Chart : null);
+function createDailyChart(
+  canvas: HTMLCanvasElement,
+  dailyData: any,
+  tempUnit: string = "C"
+): void {
+  if (!canvas || !dailyData || !dailyData.time || !dailyData.temperature_2m_max)
+    return;
+
+  const ChartLib = (window as any).Chart;
   if (!ChartLib) return;
 
   if (dailyChart) dailyChart.destroy();
 
-
-  const labels = dailyData.time.map((t) => {
+  const labels = dailyData.time.map((t: string) => {
     const d = new Date(t);
     return d.toLocaleDateString("en", { weekday: "short" });
   });
+
   dailyChart = new ChartLib(canvas, {
     type: "bar",
     data: {
@@ -136,7 +153,7 @@ function createDailyChart(canvas, dailyData, tempUnit = "C") {
       datasets: [
         {
           label: `Max °${tempUnit}`,
-          data: dailyData.temperature_2m_max.map(t => convertTemp(t)),
+          data: dailyData.temperature_2m_max.map((t: number) => convertTemp(t)),
           backgroundColor: "rgba(251,146,60,0.6)",
           borderColor: "#fb923c",
           borderWidth: 1,
@@ -145,7 +162,7 @@ function createDailyChart(canvas, dailyData, tempUnit = "C") {
         },
         {
           label: `Min °${tempUnit}`,
-          data: dailyData.temperature_2m_min.map(t => convertTemp(t)),
+          data: dailyData.temperature_2m_min.map((t: number) => convertTemp(t)),
           backgroundColor: "rgba(56,189,248,0.4)",
           borderColor: "#38bdf8",
           borderWidth: 1,
@@ -186,7 +203,7 @@ function createDailyChart(canvas, dailyData, tempUnit = "C") {
           ticks: {
             color: "#64748b",
             font: { family: "Inter", size: 10 },
-            callback: (v) => v + "°",
+            callback: (v: any) => v + "°",
           },
           grid: { color: "rgba(255,255,255,0.04)" },
         },
@@ -194,4 +211,5 @@ function createDailyChart(canvas, dailyData, tempUnit = "C") {
     },
   });
 }
+
 export { createHourlyChart, createDailyChart };

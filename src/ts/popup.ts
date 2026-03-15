@@ -8,10 +8,56 @@ import { WeatherAnimation } from "./animations.js";
 import { createHourlyChart, createDailyChart } from "./charts.js";
 import { getSettings, formatTemp } from "./settings.js";
 
-let detailPanel = null;
+interface IMap {
+  on: (event: string, callback: (e?: any) => void) => void;
+}
 
-function showWeatherPopup(city, weatherData, map, aqiPromise) {
+let detailPanel: HTMLElement | null = null;
+
+interface CityData {
+  name: string;
+  lat: number;
+  lng: number;
+  country?: string;
+}
+
+interface WeatherData {
+  current: {
+    weather_code: number;
+    temperature_2m: number;
+    is_day: boolean;
+    apparent_temperature: number;
+    relative_humidity_2m: number;
+    wind_speed_10m: number;
+    surface_pressure: number;
+    cloud_cover: number;
+  };
+  hourly: {
+    time: string[];
+    temperature_2m: number[];
+    weather_code: number[];
+    is_day?: boolean[];
+    precipitation_probability?: number[];
+  };
+  daily: {
+    time: string[];
+    weather_code: number[];
+    temperature_2m_max: number[];
+    temperature_2m_min: number[];
+    sunrise?: string[];
+    sunset?: string[];
+    uv_index_max?: number[];
+  };
+}
+
+function showWeatherPopup(
+  city: CityData,
+  weatherData: WeatherData,
+  map: IMap,
+  aqiPromise?: Promise<any>
+): void {
   closeDetailPanel();
+
   const current = weatherData.current;
   const daily = weatherData.daily;
   const hourly = weatherData.hourly;
@@ -28,7 +74,7 @@ function showWeatherPopup(city, weatherData, map, aqiPromise) {
     const t = new Date(hourly.time[i]);
     const hInfo = getWeatherInfo(
       hourly.weather_code[i],
-      hourly.is_day?.[i] ?? true,
+      hourly.is_day?.[i] ?? true
     );
     hourlyHtml += `<div class="popup-hour">
           <span class="ph-time">${i === curHour ? "Now" : t.getHours() + ":00"}</span>
@@ -130,7 +176,7 @@ function showWeatherPopup(city, weatherData, map, aqiPromise) {
       e.stopPropagation();
       closeDetailPanel();
     };
-    closeBtn.ontouchend = (e) => {
+    closeBtn.ontouchend = (e: any) => {
       e.preventDefault();
       e.stopPropagation();
       closeDetailPanel();
@@ -138,9 +184,11 @@ function showWeatherPopup(city, weatherData, map, aqiPromise) {
   }
 
   setTimeout(() => {
-    const popupCanvas = panel.querySelector("#popup-canvas");
+    const popupCanvas = panel.querySelector(
+      "#popup-canvas"
+    ) as HTMLCanvasElement;
     if (!popupCanvas) return;
-    
+
     const animArea = popupCanvas.parentElement;
     if (!animArea) return;
 
@@ -152,12 +200,16 @@ function showWeatherPopup(city, weatherData, map, aqiPromise) {
       popupAnim.setWeather(wInfo.group, isDay);
     } else {
       const ctx = popupCanvas.getContext("2d");
-      ctx.clearRect(0, 0, popupCanvas.width, popupCanvas.height);
+      if (ctx) ctx.clearRect(0, 0, popupCanvas.width, popupCanvas.height);
     }
 
-    const hCanvas = panel.querySelector("#popup-hourly-chart");
-    const dCanvas = panel.querySelector("#popup-daily-chart");
-    
+    const hCanvas = panel.querySelector(
+      "#popup-hourly-chart"
+    ) as HTMLCanvasElement;
+    const dCanvas = panel.querySelector(
+      "#popup-daily-chart"
+    ) as HTMLCanvasElement;
+
     createHourlyChart(hCanvas, hourly, settings.tempUnit);
     createDailyChart(dCanvas, daily, settings.tempUnit);
   }, 100);
@@ -185,14 +237,15 @@ function showWeatherPopup(city, weatherData, map, aqiPromise) {
         }
       }
     })
-    .catch(() => {});
+    .catch(() => {
+    });
 }
 
-function closeDetailPanel() {
+function closeDetailPanel(): void {
   if (detailPanel) {
     detailPanel.classList.remove("open");
     setTimeout(() => {
-      detailPanel.remove();
+      detailPanel?.remove();
       detailPanel = null;
     }, 350);
   }
