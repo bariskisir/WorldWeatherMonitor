@@ -1,0 +1,2318 @@
+{
+  "name": "Finland",
+  "lat": 64,
+  "lng": 26,
+  "cities": [
+    {
+      "name": "Central Finland",
+      "lat": 62.6093658,
+      "lng": 25.579461,
+      "districts": [
+        {
+          "name": "Jyväskylä",
+          "lat": 62.24147,
+          "lng": 25.72088
+        },
+        {
+          "name": "Äänekoski",
+          "lat": 62.6,
+          "lng": 25.73333
+        },
+        {
+          "name": "Hankasalmi",
+          "lat": 62.38333,
+          "lng": 26.43333
+        },
+        {
+          "name": "Jämsä",
+          "lat": 61.8642,
+          "lng": 25.19002
+        },
+        {
+          "name": "Jämsänkoski",
+          "lat": 61.919,
+          "lng": 25.17011
+        },
+        {
+          "name": "Joutsa",
+          "lat": 61.73333,
+          "lng": 26.11667
+        },
+        {
+          "name": "Kannonkoski",
+          "lat": 62.96667,
+          "lng": 25.25
+        },
+        {
+          "name": "Karstula",
+          "lat": 62.86667,
+          "lng": 24.78333
+        },
+        {
+          "name": "Keuruu",
+          "lat": 62.26667,
+          "lng": 24.7
+        },
+        {
+          "name": "Kinnula",
+          "lat": 63.38333,
+          "lng": 24.95
+        },
+        {
+          "name": "Kivijärvi",
+          "lat": 63.11984,
+          "lng": 25.07835
+        },
+        {
+          "name": "Konnevesi",
+          "lat": 62.61667,
+          "lng": 26.31667
+        },
+        {
+          "name": "Korpilahti",
+          "lat": 62.01667,
+          "lng": 25.55
+        },
+        {
+          "name": "Kuhmoinen",
+          "lat": 61.56667,
+          "lng": 25.18333
+        },
+        {
+          "name": "Kyyjärvi",
+          "lat": 63.03333,
+          "lng": 24.56667
+        },
+        {
+          "name": "Laukaa",
+          "lat": 62.41407,
+          "lng": 25.95194
+        },
+        {
+          "name": "Leivonmäki",
+          "lat": 61.91198,
+          "lng": 26.12796
+        },
+        {
+          "name": "Luhanka",
+          "lat": 61.79682,
+          "lng": 25.70457
+        },
+        {
+          "name": "Multia",
+          "lat": 62.41667,
+          "lng": 24.78333
+        },
+        {
+          "name": "Muurame",
+          "lat": 62.13333,
+          "lng": 25.66667
+        },
+        {
+          "name": "Petäjävesi",
+          "lat": 62.25,
+          "lng": 25.2
+        },
+        {
+          "name": "Pihtipudas",
+          "lat": 63.38333,
+          "lng": 25.56667
+        },
+        {
+          "name": "Pylkönmäki",
+          "lat": 62.66667,
+          "lng": 24.8
+        },
+        {
+          "name": "Saarijärvi",
+          "lat": 62.70486,
+          "lng": 25.25396
+        },
+        {
+          "name": "Säynätsalo",
+          "lat": 62.14025,
+          "lng": 25.76948
+        },
+        {
+          "name": "Sumiainen",
+          "lat": 62.65736,
+          "lng": 26.04642
+        },
+        {
+          "name": "Suolahti",
+          "lat": 62.56421,
+          "lng": 25.85363
+        },
+        {
+          "name": "Toivakka",
+          "lat": 62.1,
+          "lng": 26.08333
+        },
+        {
+          "name": "Uurainen",
+          "lat": 62.5,
+          "lng": 25.45
+        },
+        {
+          "name": "Viitasaari",
+          "lat": 63.06667,
+          "lng": 25.86667
+        }
+      ]
+    },
+    {
+      "name": "Central Ostrobothnia",
+      "lat": 63.6476557,
+      "lng": 24.1114113,
+      "districts": [
+        {
+          "name": "Halsua",
+          "lat": 63.46667,
+          "lng": 24.16667
+        },
+        {
+          "name": "Kälviä",
+          "lat": 63.86067,
+          "lng": 23.45289
+        },
+        {
+          "name": "Kannus",
+          "lat": 63.9,
+          "lng": 23.9
+        },
+        {
+          "name": "Kaustinen",
+          "lat": 63.54878,
+          "lng": 23.68845
+        },
+        {
+          "name": "Kokkola",
+          "lat": 63.85414,
+          "lng": 23.58562
+        },
+        {
+          "name": "Lestijärvi",
+          "lat": 63.53333,
+          "lng": 24.65
+        },
+        {
+          "name": "Lohtaja",
+          "lat": 64.02472,
+          "lng": 23.50482
+        },
+        {
+          "name": "Perho",
+          "lat": 63.21667,
+          "lng": 24.41667
+        },
+        {
+          "name": "Toholampi",
+          "lat": 63.76667,
+          "lng": 24.25
+        },
+        {
+          "name": "Ullava",
+          "lat": 63.6,
+          "lng": 24.08333
+        },
+        {
+          "name": "Veteli",
+          "lat": 63.47839,
+          "lng": 23.78285
+        }
+      ]
+    },
+    {
+      "name": "Finland Proper",
+      "lat": 60.3036113,
+      "lng": 22.4113084,
+      "districts": [
+        {
+          "name": "Turku",
+          "lat": 60.45148,
+          "lng": 22.26869
+        },
+        {
+          "name": "Alastaro",
+          "lat": 60.95,
+          "lng": 22.85
+        },
+        {
+          "name": "Askainen",
+          "lat": 60.56667,
+          "lng": 21.86667
+        },
+        {
+          "name": "Aura",
+          "lat": 60.6471,
+          "lng": 22.58755
+        },
+        {
+          "name": "Dragsfjärd",
+          "lat": 60.06667,
+          "lng": 22.48333
+        },
+        {
+          "name": "Halikko",
+          "lat": 60.4,
+          "lng": 23.08333
+        },
+        {
+          "name": "Houtskär",
+          "lat": 60.22284,
+          "lng": 21.37218
+        },
+        {
+          "name": "Iniö",
+          "lat": 60.4,
+          "lng": 21.4
+        },
+        {
+          "name": "Kaarina",
+          "lat": 60.40724,
+          "lng": 22.36904
+        },
+        {
+          "name": "Karinainen",
+          "lat": 60.66667,
+          "lng": 22.76667
+        },
+        {
+          "name": "Kiikala",
+          "lat": 60.46667,
+          "lng": 23.56667
+        },
+        {
+          "name": "Kimito",
+          "lat": 60.16047,
+          "lng": 22.729
+        },
+        {
+          "name": "Kisko",
+          "lat": 60.23333,
+          "lng": 23.48333
+        },
+        {
+          "name": "Kustavi",
+          "lat": 60.54529,
+          "lng": 21.3588
+        },
+        {
+          "name": "Kuusjoki",
+          "lat": 60.51667,
+          "lng": 23.2
+        },
+        {
+          "name": "Laitila",
+          "lat": 60.87575,
+          "lng": 21.69765
+        },
+        {
+          "name": "Lemu",
+          "lat": 60.56667,
+          "lng": 21.96667
+        },
+        {
+          "name": "Lieto",
+          "lat": 60.51032,
+          "lng": 22.46176
+        },
+        {
+          "name": "Marttila",
+          "lat": 60.58333,
+          "lng": 22.9
+        },
+        {
+          "name": "Masku",
+          "lat": 60.57082,
+          "lng": 22.09883
+        },
+        {
+          "name": "Mellilä",
+          "lat": 60.76667,
+          "lng": 22.95
+        },
+        {
+          "name": "Merimasku",
+          "lat": 60.48333,
+          "lng": 21.86667
+        },
+        {
+          "name": "Mietoinen",
+          "lat": 60.63333,
+          "lng": 21.93333
+        },
+        {
+          "name": "Muurla",
+          "lat": 60.35,
+          "lng": 23.28333
+        },
+        {
+          "name": "Mynämäki",
+          "lat": 60.67915,
+          "lng": 21.99274
+        },
+        {
+          "name": "Naantali",
+          "lat": 60.46744,
+          "lng": 22.02428
+        },
+        {
+          "name": "Nagu",
+          "lat": 60.19375,
+          "lng": 21.90972
+        },
+        {
+          "name": "Nousiainen",
+          "lat": 60.60416,
+          "lng": 22.07926
+        },
+        {
+          "name": "Oripää",
+          "lat": 60.85,
+          "lng": 22.68333
+        },
+        {
+          "name": "Paimio",
+          "lat": 60.45671,
+          "lng": 22.68694
+        },
+        {
+          "name": "Pargas",
+          "lat": 60.30672,
+          "lng": 22.30097
+        },
+        {
+          "name": "Perniö",
+          "lat": 60.2,
+          "lng": 23.13333
+        },
+        {
+          "name": "Pertteli",
+          "lat": 60.43333,
+          "lng": 23.26667
+        },
+        {
+          "name": "Piikkiö",
+          "lat": 60.42481,
+          "lng": 22.51601
+        },
+        {
+          "name": "Pöytyä",
+          "lat": 60.76667,
+          "lng": 22.66667
+        },
+        {
+          "name": "Pyhäranta",
+          "lat": 60.95,
+          "lng": 21.45
+        },
+        {
+          "name": "Raisio",
+          "lat": 60.48592,
+          "lng": 22.16895
+        },
+        {
+          "name": "Rusko",
+          "lat": 60.53333,
+          "lng": 22.21667
+        },
+        {
+          "name": "Rymättylä",
+          "lat": 60.37658,
+          "lng": 21.94184
+        },
+        {
+          "name": "Salo",
+          "lat": 60.38333,
+          "lng": 23.13333
+        },
+        {
+          "name": "Särkisalo",
+          "lat": 60.11389,
+          "lng": 22.95
+        },
+        {
+          "name": "Sauvo",
+          "lat": 60.34306,
+          "lng": 22.69642
+        },
+        {
+          "name": "Somero",
+          "lat": 60.61667,
+          "lng": 23.53333
+        },
+        {
+          "name": "Suomusjärvi",
+          "lat": 60.35,
+          "lng": 23.65
+        },
+        {
+          "name": "Taivassalo",
+          "lat": 60.56085,
+          "lng": 21.61639
+        },
+        {
+          "name": "Tarvasjoki",
+          "lat": 60.58333,
+          "lng": 22.73333
+        },
+        {
+          "name": "Uusikaupunki",
+          "lat": 60.80043,
+          "lng": 21.40841
+        },
+        {
+          "name": "Vahto",
+          "lat": 60.6,
+          "lng": 22.3
+        },
+        {
+          "name": "Väståboland",
+          "lat": 60.29972,
+          "lng": 22.3004
+        },
+        {
+          "name": "Västanfjärd",
+          "lat": 60.05,
+          "lng": 22.68333
+        },
+        {
+          "name": "Vehmaa",
+          "lat": 60.68333,
+          "lng": 21.66667
+        },
+        {
+          "name": "Velkua",
+          "lat": 60.46667,
+          "lng": 21.66667
+        },
+        {
+          "name": "Yläne",
+          "lat": 60.88333,
+          "lng": 22.41667
+        }
+      ]
+    },
+    {
+      "name": "Kainuu",
+      "lat": 64.5946354,
+      "lng": 28.6810524,
+      "districts": [
+        {
+          "name": "Hyrynsalmi",
+          "lat": 64.66667,
+          "lng": 28.53333
+        },
+        {
+          "name": "Kajaani",
+          "lat": 64.22728,
+          "lng": 27.72846
+        },
+        {
+          "name": "Kuhmo",
+          "lat": 64.13333,
+          "lng": 29.51667
+        },
+        {
+          "name": "Paltamo",
+          "lat": 64.41667,
+          "lng": 27.83333
+        },
+        {
+          "name": "Puolanka",
+          "lat": 64.86667,
+          "lng": 27.66667
+        },
+        {
+          "name": "Ristijärvi",
+          "lat": 64.5,
+          "lng": 28.21667
+        },
+        {
+          "name": "Sotkamo",
+          "lat": 64.13333,
+          "lng": 28.41667
+        },
+        {
+          "name": "Suomussalmi",
+          "lat": 64.88685,
+          "lng": 28.90778
+        },
+        {
+          "name": "Vaala",
+          "lat": 64.56667,
+          "lng": 26.83333
+        },
+        {
+          "name": "Vuokatti",
+          "lat": 64.14466,
+          "lng": 28.28196
+        },
+        {
+          "name": "Vuolijoki",
+          "lat": 64.18538,
+          "lng": 26.99547
+        }
+      ]
+    },
+    {
+      "name": "Kymenlaakso",
+      "lat": 60.7318529,
+      "lng": 27.0828744,
+      "districts": [
+        {
+          "name": "Anjala",
+          "lat": 60.68333,
+          "lng": 26.83333
+        },
+        {
+          "name": "Elimäki",
+          "lat": 60.71667,
+          "lng": 26.46667
+        },
+        {
+          "name": "Hamina",
+          "lat": 60.56974,
+          "lng": 27.19794
+        },
+        {
+          "name": "Iitti",
+          "lat": 60.89488,
+          "lng": 26.33869
+        },
+        {
+          "name": "Jaala",
+          "lat": 61.05251,
+          "lng": 26.48117
+        },
+        {
+          "name": "Karhula",
+          "lat": 60.52156,
+          "lng": 26.93125
+        },
+        {
+          "name": "Kotka",
+          "lat": 60.4664,
+          "lng": 26.94582
+        },
+        {
+          "name": "Kouvola",
+          "lat": 60.86667,
+          "lng": 26.7
+        },
+        {
+          "name": "Miehikkälä",
+          "lat": 60.66667,
+          "lng": 27.7
+        },
+        {
+          "name": "Pyhtää",
+          "lat": 60.49349,
+          "lng": 26.54346
+        },
+        {
+          "name": "Virojoki",
+          "lat": 60.5794,
+          "lng": 27.70354
+        }
+      ]
+    },
+    {
+      "name": "Lapland",
+      "lat": 67.6929104,
+      "lng": 26.7282142,
+      "districts": [
+        {
+          "name": "Enontekiö",
+          "lat": 68.38573,
+          "lng": 23.63215
+        },
+        {
+          "name": "Inari",
+          "lat": 68.90596,
+          "lng": 27.02881
+        },
+        {
+          "name": "Ivalo",
+          "lat": 68.65986,
+          "lng": 27.53891
+        },
+        {
+          "name": "Kemi",
+          "lat": 65.73641,
+          "lng": 24.56371
+        },
+        {
+          "name": "Kemijärvi",
+          "lat": 66.71309,
+          "lng": 27.43056
+        },
+        {
+          "name": "Keminmaa",
+          "lat": 65.80158,
+          "lng": 24.54483
+        },
+        {
+          "name": "Kittilä",
+          "lat": 67.66474,
+          "lng": 24.89356
+        },
+        {
+          "name": "Kolari",
+          "lat": 67.33047,
+          "lng": 23.77785
+        },
+        {
+          "name": "Muonio",
+          "lat": 67.95,
+          "lng": 23.7
+        },
+        {
+          "name": "Pelkosenniemi",
+          "lat": 67.11083,
+          "lng": 27.51056
+        },
+        {
+          "name": "Pello",
+          "lat": 66.77364,
+          "lng": 23.96255
+        },
+        {
+          "name": "Posio",
+          "lat": 66.10856,
+          "lng": 28.17186
+        },
+        {
+          "name": "Pyhäjärvi",
+          "lat": 67.0701,
+          "lng": 27.21763
+        },
+        {
+          "name": "Ranua",
+          "lat": 65.91667,
+          "lng": 26.53333
+        },
+        {
+          "name": "Rovaniemi",
+          "lat": 66.5,
+          "lng": 25.71667
+        },
+        {
+          "name": "Salla",
+          "lat": 66.83333,
+          "lng": 28.66667
+        },
+        {
+          "name": "Savukoski",
+          "lat": 67.2925,
+          "lng": 28.15806
+        },
+        {
+          "name": "Simo",
+          "lat": 65.66667,
+          "lng": 25.05
+        },
+        {
+          "name": "Sodankylä",
+          "lat": 67.41667,
+          "lng": 26.6
+        },
+        {
+          "name": "Tervola",
+          "lat": 66.08333,
+          "lng": 24.8
+        },
+        {
+          "name": "Tornio",
+          "lat": 65.84811,
+          "lng": 24.14662
+        },
+        {
+          "name": "Utsjoki",
+          "lat": 69.90864,
+          "lng": 27.02843
+        },
+        {
+          "name": "Ylitornio",
+          "lat": 66.30893,
+          "lng": 23.67734
+        }
+      ]
+    },
+    {
+      "name": "North Karelia",
+      "lat": 62.801052,
+      "lng": 30.2127116,
+      "districts": [
+        {
+          "name": "Eno",
+          "lat": 62.80511,
+          "lng": 30.15422
+        },
+        {
+          "name": "Ilomantsi",
+          "lat": 62.67162,
+          "lng": 30.93276
+        },
+        {
+          "name": "Joensuu",
+          "lat": 62.60118,
+          "lng": 29.76316
+        },
+        {
+          "name": "Juuka",
+          "lat": 63.23333,
+          "lng": 29.25
+        },
+        {
+          "name": "Kesälahti",
+          "lat": 61.89752,
+          "lng": 29.83494
+        },
+        {
+          "name": "Kiihtelysvaara",
+          "lat": 62.49525,
+          "lng": 30.25081
+        },
+        {
+          "name": "Kitee",
+          "lat": 62.1,
+          "lng": 30.15
+        },
+        {
+          "name": "Kontiolahti",
+          "lat": 62.76023,
+          "lng": 29.84711
+        },
+        {
+          "name": "Lieksa",
+          "lat": 63.31667,
+          "lng": 30.01667
+        },
+        {
+          "name": "Liperi",
+          "lat": 62.53333,
+          "lng": 29.36667
+        },
+        {
+          "name": "Nurmes",
+          "lat": 63.54205,
+          "lng": 29.13965
+        },
+        {
+          "name": "Outokumpu",
+          "lat": 62.72685,
+          "lng": 29.01592
+        },
+        {
+          "name": "Polvijärvi",
+          "lat": 62.85,
+          "lng": 29.36667
+        },
+        {
+          "name": "Pyhäselkä",
+          "lat": 62.43333,
+          "lng": 29.96667
+        },
+        {
+          "name": "Rääkkylä",
+          "lat": 62.31667,
+          "lng": 29.61667
+        },
+        {
+          "name": "Tohmajärvi",
+          "lat": 62.18333,
+          "lng": 30.38333
+        },
+        {
+          "name": "Tuupovaara",
+          "lat": 62.48372,
+          "lng": 30.62731
+        },
+        {
+          "name": "Valtimo",
+          "lat": 63.66667,
+          "lng": 28.8
+        }
+      ]
+    },
+    {
+      "name": "Northern Ostrobothnia",
+      "lat": 64.9521512,
+      "lng": 25.6968812,
+      "districts": [
+        {
+          "name": "Oulu",
+          "lat": 65.01236,
+          "lng": 25.46816
+        },
+        {
+          "name": "Alavieska",
+          "lat": 64.16667,
+          "lng": 24.3
+        },
+        {
+          "name": "Haapajärvi",
+          "lat": 63.75,
+          "lng": 25.33333
+        },
+        {
+          "name": "Haapavesi",
+          "lat": 64.13333,
+          "lng": 25.36667
+        },
+        {
+          "name": "Hailuoto",
+          "lat": 65.009,
+          "lng": 24.71385
+        },
+        {
+          "name": "Haukipudas",
+          "lat": 65.17654,
+          "lng": 25.35233
+        },
+        {
+          "name": "Himanka",
+          "lat": 64.06218,
+          "lng": 23.65447
+        },
+        {
+          "name": "Ii",
+          "lat": 65.31735,
+          "lng": 25.3731
+        },
+        {
+          "name": "Kalajoki",
+          "lat": 64.25,
+          "lng": 23.95
+        },
+        {
+          "name": "Kärsämäki",
+          "lat": 63.96667,
+          "lng": 25.76667
+        },
+        {
+          "name": "Kempele",
+          "lat": 64.91314,
+          "lng": 25.50339
+        },
+        {
+          "name": "Kestilä",
+          "lat": 64.35002,
+          "lng": 26.27921
+        },
+        {
+          "name": "Kiiminki",
+          "lat": 65.13139,
+          "lng": 25.79744
+        },
+        {
+          "name": "Kuivaniemi",
+          "lat": 65.57847,
+          "lng": 25.18814
+        },
+        {
+          "name": "Kuusamo",
+          "lat": 65.96667,
+          "lng": 29.18333
+        },
+        {
+          "name": "Liminka",
+          "lat": 64.80985,
+          "lng": 25.41545
+        },
+        {
+          "name": "Lumijoki",
+          "lat": 64.83744,
+          "lng": 25.18607
+        },
+        {
+          "name": "Merijärvi",
+          "lat": 64.3,
+          "lng": 24.45
+        },
+        {
+          "name": "Muhos",
+          "lat": 64.80798,
+          "lng": 25.99314
+        },
+        {
+          "name": "Nivala",
+          "lat": 63.91667,
+          "lng": 24.96667
+        },
+        {
+          "name": "Oulainen",
+          "lat": 64.26667,
+          "lng": 24.8
+        },
+        {
+          "name": "Oulunsalo",
+          "lat": 64.93456,
+          "lng": 25.41121
+        },
+        {
+          "name": "Piippola",
+          "lat": 64.16667,
+          "lng": 25.96667
+        },
+        {
+          "name": "Pudasjärvi",
+          "lat": 65.38333,
+          "lng": 26.91667
+        },
+        {
+          "name": "Pulkkila",
+          "lat": 64.26667,
+          "lng": 25.86667
+        },
+        {
+          "name": "Pyhäjärvi",
+          "lat": 63.66667,
+          "lng": 25.9
+        },
+        {
+          "name": "Pyhäjoki",
+          "lat": 64.46667,
+          "lng": 24.23333
+        },
+        {
+          "name": "Pyhäntä",
+          "lat": 64.1,
+          "lng": 26.31667
+        },
+        {
+          "name": "Raahe",
+          "lat": 64.68333,
+          "lng": 24.48333
+        },
+        {
+          "name": "Rantsila",
+          "lat": 64.50613,
+          "lng": 25.66449
+        },
+        {
+          "name": "Reisjärvi",
+          "lat": 63.61667,
+          "lng": 24.9
+        },
+        {
+          "name": "Ruukki",
+          "lat": 64.66667,
+          "lng": 25.1
+        },
+        {
+          "name": "Sievi",
+          "lat": 63.9,
+          "lng": 24.5
+        },
+        {
+          "name": "Siikajoki",
+          "lat": 64.81455,
+          "lng": 24.75924
+        },
+        {
+          "name": "Taivalkoski",
+          "lat": 65.56667,
+          "lng": 28.25
+        },
+        {
+          "name": "Tyrnävä",
+          "lat": 64.76469,
+          "lng": 25.6523
+        },
+        {
+          "name": "Utajärvi",
+          "lat": 64.75,
+          "lng": 26.38333
+        },
+        {
+          "name": "Vihanti",
+          "lat": 64.48472,
+          "lng": 24.99157
+        },
+        {
+          "name": "Yli-Ii",
+          "lat": 65.37181,
+          "lng": 25.8458
+        },
+        {
+          "name": "Ylikiiminki",
+          "lat": 65.08333,
+          "lng": 26.25
+        },
+        {
+          "name": "Ylivieska",
+          "lat": 64.08333,
+          "lng": 24.55
+        }
+      ]
+    },
+    {
+      "name": "Northern Savonia",
+      "lat": 62.9370461,
+      "lng": 27.4942995,
+      "districts": []
+    },
+    {
+      "name": "Ostrobothnia",
+      "lat": 62.9651857,
+      "lng": 21.2099367,
+      "districts": [
+        {
+          "name": "Hietalahti",
+          "lat": 63.0848,
+          "lng": 21.61716
+        },
+        {
+          "name": "Isokyrö",
+          "lat": 63.01172,
+          "lng": 22.33332
+        },
+        {
+          "name": "Jakobstad",
+          "lat": 63.67486,
+          "lng": 22.70256
+        },
+        {
+          "name": "Kaskinen",
+          "lat": 62.38444,
+          "lng": 21.22331
+        },
+        {
+          "name": "Korsholm",
+          "lat": 63.11418,
+          "lng": 21.68216
+        },
+        {
+          "name": "Korsnäs",
+          "lat": 62.78333,
+          "lng": 21.2
+        },
+        {
+          "name": "Kristinestad",
+          "lat": 62.27429,
+          "lng": 21.37596
+        },
+        {
+          "name": "Kronoby",
+          "lat": 63.72859,
+          "lng": 23.03387
+        },
+        {
+          "name": "Laihia",
+          "lat": 62.97609,
+          "lng": 22.01143
+        },
+        {
+          "name": "Larsmo",
+          "lat": 63.75388,
+          "lng": 22.74728
+        },
+        {
+          "name": "Malax",
+          "lat": 62.94225,
+          "lng": 21.57311
+        },
+        {
+          "name": "Nykarleby",
+          "lat": 63.52277,
+          "lng": 22.53073
+        },
+        {
+          "name": "Oravais",
+          "lat": 63.30135,
+          "lng": 22.37821
+        },
+        {
+          "name": "Pedersöre",
+          "lat": 63.65,
+          "lng": 22.68333
+        },
+        {
+          "name": "Replot",
+          "lat": 63.22882,
+          "lng": 21.41691
+        },
+        {
+          "name": "Ristinummi",
+          "lat": 63.09192,
+          "lng": 21.72297
+        },
+        {
+          "name": "Teeriniemi",
+          "lat": 63.09705,
+          "lng": 21.6959
+        },
+        {
+          "name": "Vaasa",
+          "lat": 63.096,
+          "lng": 21.61577
+        },
+        {
+          "name": "Vähäkyrö",
+          "lat": 63.05635,
+          "lng": 22.10584
+        },
+        {
+          "name": "Vörå",
+          "lat": 63.13607,
+          "lng": 22.25223
+        }
+      ]
+    },
+    {
+      "name": "Päijänne Tavastia",
+      "lat": 61.1444196,
+      "lng": 25.6872502,
+      "districts": [
+        {
+          "name": "Lahti",
+          "lat": 60.98267,
+          "lng": 25.66151
+        },
+        {
+          "name": "Artjärvi",
+          "lat": 60.74544,
+          "lng": 26.07084
+        },
+        {
+          "name": "Asikkala",
+          "lat": 61.21667,
+          "lng": 25.5
+        },
+        {
+          "name": "Auttoinen",
+          "lat": 61.29901,
+          "lng": 25.08887
+        },
+        {
+          "name": "Hämeenkoski",
+          "lat": 61.02222,
+          "lng": 25.15417
+        },
+        {
+          "name": "Hartola",
+          "lat": 61.58333,
+          "lng": 26.01667
+        },
+        {
+          "name": "Heinola",
+          "lat": 61.20564,
+          "lng": 26.03811
+        },
+        {
+          "name": "Hollola",
+          "lat": 61.05,
+          "lng": 25.43333
+        },
+        {
+          "name": "Nastola",
+          "lat": 60.95,
+          "lng": 25.93333
+        },
+        {
+          "name": "Orimattila",
+          "lat": 60.80487,
+          "lng": 25.72964
+        },
+        {
+          "name": "Padasjoki",
+          "lat": 61.35,
+          "lng": 25.28333
+        },
+        {
+          "name": "Sysmä",
+          "lat": 61.5,
+          "lng": 25.68333
+        }
+      ]
+    },
+    {
+      "name": "Pirkanmaa",
+      "lat": 61.717433,
+      "lng": 23.7157115,
+      "districts": [
+        {
+          "name": "Tampere",
+          "lat": 61.49805556,
+          "lng": 23.76
+        },
+        {
+          "name": "Äetsä",
+          "lat": 61.28333,
+          "lng": 22.68333
+        },
+        {
+          "name": "Aimala",
+          "lat": 61.33,
+          "lng": 23.69
+        },
+        {
+          "name": "Aitoo",
+          "lat": 61.338974,
+          "lng": 24.494319
+        },
+        {
+          "name": "Akaa",
+          "lat": 61.16666667,
+          "lng": 23.86805556
+        },
+        {
+          "name": "Amuri",
+          "lat": 61.5,
+          "lng": 23.745
+        },
+        {
+          "name": "Haihara",
+          "lat": 61.4763,
+          "lng": 23.87711
+        },
+        {
+          "name": "Hallila",
+          "lat": 61.4625,
+          "lng": 23.82916667
+        },
+        {
+          "name": "Hämeenkyrö",
+          "lat": 61.63333333,
+          "lng": 23.2
+        },
+        {
+          "name": "Hervanta",
+          "lat": 61.4481,
+          "lng": 23.8521
+        },
+        {
+          "name": "Ikaalinen",
+          "lat": 61.76944444,
+          "lng": 23.06805556
+        },
+        {
+          "name": "Juupajoki",
+          "lat": 61.79666667,
+          "lng": 24.37
+        },
+        {
+          "name": "Kangasala",
+          "lat": 61.463889,
+          "lng": 24.065
+        },
+        {
+          "name": "Kihniö",
+          "lat": 62.20833333,
+          "lng": 23.17916667
+        },
+        {
+          "name": "Kiikka",
+          "lat": 61.32077778,
+          "lng": 22.77538889
+        },
+        {
+          "name": "Kiikoinen",
+          "lat": 61.45,
+          "lng": 22.575
+        },
+        {
+          "name": "Kolho",
+          "lat": 62.13333333,
+          "lng": 24.51666667
+        },
+        {
+          "name": "Kuhmalahti",
+          "lat": 61.505,
+          "lng": 24.56666667
+        },
+        {
+          "name": "Kuru",
+          "lat": 61.87558,
+          "lng": 23.71948
+        },
+        {
+          "name": "Kylmäkoski",
+          "lat": 61.15,
+          "lng": 23.69166667
+        },
+        {
+          "name": "Längelmäki",
+          "lat": 61.6889,
+          "lng": 24.69194
+        },
+        {
+          "name": "Lempäälä",
+          "lat": 61.31388889,
+          "lng": 23.75277778
+        },
+        {
+          "name": "Lentävänniemi",
+          "lat": 61.52801,
+          "lng": 23.70575
+        },
+        {
+          "name": "Lielahti",
+          "lat": 61.51666667,
+          "lng": 23.66666667
+        },
+        {
+          "name": "Luopioinen",
+          "lat": 61.36293,
+          "lng": 24.66781
+        },
+        {
+          "name": "Mänttä",
+          "lat": 62.03014,
+          "lng": 24.62791
+        },
+        {
+          "name": "Messukylä",
+          "lat": 61.48527778,
+          "lng": 23.84472222
+        },
+        {
+          "name": "Mouhijärvi",
+          "lat": 61.5,
+          "lng": 23.01667
+        },
+        {
+          "name": "Naistenmatka",
+          "lat": 61.46518,
+          "lng": 23.65253
+        },
+        {
+          "name": "Nekala",
+          "lat": 61.48333333,
+          "lng": 23.79055556
+        },
+        {
+          "name": "Nokia",
+          "lat": 61.47666667,
+          "lng": 23.50527778
+        },
+        {
+          "name": "Nurmi",
+          "lat": 61.53779,
+          "lng": 23.94178
+        },
+        {
+          "name": "Nuutajärvi",
+          "lat": 61.04,
+          "lng": 23.43
+        },
+        {
+          "name": "Orivesi",
+          "lat": 61.67777778,
+          "lng": 24.35694444
+        },
+        {
+          "name": "Osara",
+          "lat": 61.70866,
+          "lng": 23.15871
+        },
+        {
+          "name": "Pälkäne",
+          "lat": 61.35403,
+          "lng": 24.51912
+        },
+        {
+          "name": "Parkano",
+          "lat": 62.00972222,
+          "lng": 23.025
+        },
+        {
+          "name": "Pirkkala",
+          "lat": 61.46666667,
+          "lng": 23.65
+        },
+        {
+          "name": "Pispala",
+          "lat": 61.50611111,
+          "lng": 23.7025
+        },
+        {
+          "name": "Pohjaslahti",
+          "lat": 62.15631,
+          "lng": 24.1319
+        },
+        {
+          "name": "Punkalaidun",
+          "lat": 61.11166667,
+          "lng": 23.105
+        },
+        {
+          "name": "Ruovesi",
+          "lat": 61.983333,
+          "lng": 24.083333
+        },
+        {
+          "name": "Sääksmäki",
+          "lat": 61.2,
+          "lng": 24.06666667
+        },
+        {
+          "name": "Sahalahti",
+          "lat": 61.46666667,
+          "lng": 24.31666667
+        },
+        {
+          "name": "Sastamala",
+          "lat": 61.34166667,
+          "lng": 22.90833333
+        },
+        {
+          "name": "Suodenniemi",
+          "lat": 61.5581,
+          "lng": 22.78526
+        },
+        {
+          "name": "Suoniemi",
+          "lat": 61.44111111,
+          "lng": 23.215
+        },
+        {
+          "name": "Teisko",
+          "lat": 61.67336111,
+          "lng": 23.84766944
+        },
+        {
+          "name": "Toijala",
+          "lat": 61.1678,
+          "lng": 23.83819
+        },
+        {
+          "name": "Tottijärvi",
+          "lat": 61.39777778,
+          "lng": 23.34277778
+        },
+        {
+          "name": "Urjala",
+          "lat": 61.08333333,
+          "lng": 23.55
+        },
+        {
+          "name": "Valkeakoski",
+          "lat": 61.26666667,
+          "lng": 24.03055556
+        },
+        {
+          "name": "Vammala",
+          "lat": 61.34027778,
+          "lng": 22.90972222
+        },
+        {
+          "name": "Vesilahti",
+          "lat": 61.316667,
+          "lng": 23.616667
+        },
+        {
+          "name": "Viiala",
+          "lat": 61.21023,
+          "lng": 23.76738
+        },
+        {
+          "name": "Viljakkala",
+          "lat": 61.70601,
+          "lng": 23.26688
+        },
+        {
+          "name": "Vilppula",
+          "lat": 62.02121,
+          "lng": 24.50483
+        },
+        {
+          "name": "Virrat",
+          "lat": 62.24027778,
+          "lng": 23.77083333
+        },
+        {
+          "name": "Vuores",
+          "lat": 61.431,
+          "lng": 23.81184
+        },
+        {
+          "name": "Ylöjärvi",
+          "lat": 61.55,
+          "lng": 23.58333333
+        }
+      ]
+    },
+    {
+      "name": "Satakunta",
+      "lat": 61.5934279,
+      "lng": 21.7824512,
+      "districts": [
+        {
+          "name": "Eura",
+          "lat": 61.13333,
+          "lng": 22.13333
+        },
+        {
+          "name": "Eurajoki",
+          "lat": 61.2,
+          "lng": 21.73333
+        },
+        {
+          "name": "Harjavalta",
+          "lat": 61.31667,
+          "lng": 22.13333
+        },
+        {
+          "name": "Huittinen",
+          "lat": 61.18333,
+          "lng": 22.7
+        },
+        {
+          "name": "Jämijärvi",
+          "lat": 61.81667,
+          "lng": 22.7
+        },
+        {
+          "name": "Kankaanpää",
+          "lat": 61.8,
+          "lng": 22.41667
+        },
+        {
+          "name": "Karvia",
+          "lat": 62.13333,
+          "lng": 22.56667
+        },
+        {
+          "name": "Kiukainen",
+          "lat": 61.21667,
+          "lng": 22.08333
+        },
+        {
+          "name": "Kokemäki",
+          "lat": 61.25647,
+          "lng": 22.35643
+        },
+        {
+          "name": "Köyliö",
+          "lat": 61.1191,
+          "lng": 22.30976
+        },
+        {
+          "name": "Kullaa",
+          "lat": 61.46998,
+          "lng": 22.16145
+        },
+        {
+          "name": "Längelmäki",
+          "lat": 61.65,
+          "lng": 22.1
+        },
+        {
+          "name": "Lappi",
+          "lat": 61.1,
+          "lng": 21.83333
+        },
+        {
+          "name": "Lavia",
+          "lat": 61.6,
+          "lng": 22.6
+        },
+        {
+          "name": "Luvia",
+          "lat": 61.36375,
+          "lng": 21.62556
+        },
+        {
+          "name": "Merikarvia",
+          "lat": 61.85839,
+          "lng": 21.50035
+        },
+        {
+          "name": "Nakkila",
+          "lat": 61.36667,
+          "lng": 22
+        },
+        {
+          "name": "Noormarkku",
+          "lat": 61.59274,
+          "lng": 21.86846
+        },
+        {
+          "name": "Pomarkku",
+          "lat": 61.69348,
+          "lng": 22.00862
+        },
+        {
+          "name": "Pori",
+          "lat": 61.48333,
+          "lng": 21.78333
+        },
+        {
+          "name": "Rauma",
+          "lat": 61.12724,
+          "lng": 21.51127
+        },
+        {
+          "name": "Säkylä",
+          "lat": 61.03333,
+          "lng": 22.33333
+        },
+        {
+          "name": "Siikainen",
+          "lat": 61.87703,
+          "lng": 21.81945
+        },
+        {
+          "name": "Ulvila",
+          "lat": 61.42844,
+          "lng": 21.87103
+        },
+        {
+          "name": "Vampula",
+          "lat": 61.01667,
+          "lng": 22.7
+        }
+      ]
+    },
+    {
+      "name": "South Karelia",
+      "lat": 61.2667443,
+      "lng": 28.4054849,
+      "districts": [
+        {
+          "name": "Imatra",
+          "lat": 61.17185,
+          "lng": 28.75242
+        },
+        {
+          "name": "Joutseno",
+          "lat": 61.11796,
+          "lng": 28.50763
+        },
+        {
+          "name": "Lappeenranta",
+          "lat": 61.05871,
+          "lng": 28.18871
+        },
+        {
+          "name": "Lemi",
+          "lat": 61.06244,
+          "lng": 27.80571
+        },
+        {
+          "name": "Luumäki",
+          "lat": 60.92618,
+          "lng": 27.58135
+        },
+        {
+          "name": "Nuijamaa",
+          "lat": 60.96011,
+          "lng": 28.55104
+        },
+        {
+          "name": "Parikkala",
+          "lat": 61.55,
+          "lng": 29.5
+        },
+        {
+          "name": "Rautjärvi",
+          "lat": 61.43333,
+          "lng": 29.35
+        },
+        {
+          "name": "Ruokolahti",
+          "lat": 61.28333,
+          "lng": 28.83333
+        },
+        {
+          "name": "Saari",
+          "lat": 61.65,
+          "lng": 29.75
+        },
+        {
+          "name": "Savitaipale",
+          "lat": 61.2,
+          "lng": 27.7
+        },
+        {
+          "name": "Taipalsaari",
+          "lat": 61.15,
+          "lng": 28.05
+        },
+        {
+          "name": "Ylämaa",
+          "lat": 60.8,
+          "lng": 28
+        }
+      ]
+    },
+    {
+      "name": "Southern Ostrobothnia",
+      "lat": 62.9433099,
+      "lng": 23.5285267,
+      "districts": [
+        {
+          "name": "Ähtäri",
+          "lat": 62.55403,
+          "lng": 24.06186
+        },
+        {
+          "name": "Alahärmä",
+          "lat": 63.23333,
+          "lng": 22.85
+        },
+        {
+          "name": "Alajärvi",
+          "lat": 63,
+          "lng": 23.81667
+        },
+        {
+          "name": "Alavus",
+          "lat": 62.58333,
+          "lng": 23.61667
+        },
+        {
+          "name": "Evijärvi",
+          "lat": 63.36667,
+          "lng": 23.48333
+        },
+        {
+          "name": "Ilmajoki",
+          "lat": 62.73333,
+          "lng": 22.56667
+        },
+        {
+          "name": "Isojoki",
+          "lat": 62.11319,
+          "lng": 21.95884
+        },
+        {
+          "name": "Jalasjärvi",
+          "lat": 62.5,
+          "lng": 22.75
+        },
+        {
+          "name": "Jurva",
+          "lat": 62.68333,
+          "lng": 21.98333
+        },
+        {
+          "name": "Karijoki",
+          "lat": 62.30851,
+          "lng": 21.70856
+        },
+        {
+          "name": "Kauhajoki",
+          "lat": 62.43333,
+          "lng": 22.18333
+        },
+        {
+          "name": "Kauhava",
+          "lat": 63.10299,
+          "lng": 23.07129
+        },
+        {
+          "name": "Kortesjärvi",
+          "lat": 63.3,
+          "lng": 23.16667
+        },
+        {
+          "name": "Kuortane",
+          "lat": 62.8,
+          "lng": 23.5
+        },
+        {
+          "name": "Kurikka",
+          "lat": 62.61667,
+          "lng": 22.41667
+        },
+        {
+          "name": "Lappajärvi",
+          "lat": 63.2,
+          "lng": 23.63333
+        },
+        {
+          "name": "Lapua",
+          "lat": 62.96927,
+          "lng": 23.0088
+        },
+        {
+          "name": "Lehtimäki",
+          "lat": 62.78333,
+          "lng": 23.91667
+        },
+        {
+          "name": "Nurmo",
+          "lat": 62.8287,
+          "lng": 22.9099
+        },
+        {
+          "name": "Seinäjoki",
+          "lat": 62.79446,
+          "lng": 22.82822
+        },
+        {
+          "name": "Soini",
+          "lat": 62.86667,
+          "lng": 24.21667
+        },
+        {
+          "name": "Teuva",
+          "lat": 62.4819,
+          "lng": 21.74156
+        },
+        {
+          "name": "Töysä",
+          "lat": 62.62803,
+          "lng": 23.81828
+        },
+        {
+          "name": "Vimpeli",
+          "lat": 63.16187,
+          "lng": 23.81922
+        },
+        {
+          "name": "Ylihärmä",
+          "lat": 63.15,
+          "lng": 22.78333
+        },
+        {
+          "name": "Ylistaro",
+          "lat": 62.93958,
+          "lng": 22.51306
+        }
+      ]
+    },
+    {
+      "name": "Southern Savonia",
+      "lat": 61.6945148,
+      "lng": 27.8005015,
+      "districts": [
+        {
+          "name": "Enonkoski",
+          "lat": 62.08333,
+          "lng": 28.93333
+        },
+        {
+          "name": "Haukivuori",
+          "lat": 62.01753,
+          "lng": 27.21906
+        },
+        {
+          "name": "Heinävesi",
+          "lat": 62.43333,
+          "lng": 28.6
+        },
+        {
+          "name": "Hirvensalmi",
+          "lat": 61.63333,
+          "lng": 26.8
+        },
+        {
+          "name": "Jäppilä",
+          "lat": 62.37899,
+          "lng": 27.43372
+        },
+        {
+          "name": "Joroinen",
+          "lat": 62.17823,
+          "lng": 27.83165
+        },
+        {
+          "name": "Juva",
+          "lat": 61.9,
+          "lng": 27.85
+        },
+        {
+          "name": "Kangasniemi",
+          "lat": 61.99357,
+          "lng": 26.64785
+        },
+        {
+          "name": "Kerimäki",
+          "lat": 61.91069,
+          "lng": 29.28228
+        },
+        {
+          "name": "Mäntyharju",
+          "lat": 61.41667,
+          "lng": 26.88333
+        },
+        {
+          "name": "Mikkeli",
+          "lat": 61.68857,
+          "lng": 27.27227
+        },
+        {
+          "name": "Pertunmaa",
+          "lat": 61.5,
+          "lng": 26.48333
+        },
+        {
+          "name": "Pieksämäki",
+          "lat": 62.3,
+          "lng": 27.13333
+        },
+        {
+          "name": "Punkaharju",
+          "lat": 61.75883,
+          "lng": 29.38843
+        },
+        {
+          "name": "Puumala",
+          "lat": 61.52728,
+          "lng": 28.17495
+        },
+        {
+          "name": "Rantasalmi",
+          "lat": 62.06667,
+          "lng": 28.3
+        },
+        {
+          "name": "Ristiina",
+          "lat": 61.50579,
+          "lng": 27.24643
+        },
+        {
+          "name": "Savonlinna",
+          "lat": 61.8699,
+          "lng": 28.87999
+        },
+        {
+          "name": "Savonranta",
+          "lat": 62.18333,
+          "lng": 29.2
+        },
+        {
+          "name": "Sulkava",
+          "lat": 61.78691,
+          "lng": 28.37299
+        },
+        {
+          "name": "Virtasalmi",
+          "lat": 62.12695,
+          "lng": 27.46276
+        }
+      ]
+    },
+    {
+      "name": "Tavastia Proper",
+      "lat": 60.937696,
+      "lng": 24.1531919,
+      "districts": [
+        {
+          "name": "Forssa",
+          "lat": 60.81462,
+          "lng": 23.62146
+        },
+        {
+          "name": "Hämeenlinna",
+          "lat": 60.99596,
+          "lng": 24.46434
+        },
+        {
+          "name": "Hauho",
+          "lat": 61.17255,
+          "lng": 24.56303
+        },
+        {
+          "name": "Hausjärvi",
+          "lat": 60.78333,
+          "lng": 24.93333
+        },
+        {
+          "name": "Humppila",
+          "lat": 60.93333,
+          "lng": 23.36667
+        },
+        {
+          "name": "Janakkala",
+          "lat": 60.9,
+          "lng": 24.6
+        },
+        {
+          "name": "Jokioinen",
+          "lat": 60.80162,
+          "lng": 23.48004
+        },
+        {
+          "name": "Kalvola",
+          "lat": 61.10081,
+          "lng": 24.12177
+        },
+        {
+          "name": "Lammi",
+          "lat": 61.08333,
+          "lng": 25.01667
+        },
+        {
+          "name": "Loppi",
+          "lat": 60.71667,
+          "lng": 24.45
+        },
+        {
+          "name": "Renko",
+          "lat": 60.89563,
+          "lng": 24.28785
+        },
+        {
+          "name": "Riihimäki",
+          "lat": 60.73769,
+          "lng": 24.77726
+        },
+        {
+          "name": "Tammela",
+          "lat": 60.81035,
+          "lng": 23.76823
+        },
+        {
+          "name": "Tervakoski",
+          "lat": 60.81412,
+          "lng": 24.62594
+        },
+        {
+          "name": "Tuulos",
+          "lat": 61.15,
+          "lng": 24.8
+        },
+        {
+          "name": "Ypäjä",
+          "lat": 60.8,
+          "lng": 23.28333
+        }
+      ]
+    },
+    {
+      "name": "Uusimaa",
+      "lat": 60.2246684,
+      "lng": 25.1272631,
+      "districts": [
+        {
+          "name": "Espoo",
+          "lat": 60.2052,
+          "lng": 24.6522
+        },
+        {
+          "name": "Helsinki",
+          "lat": 60.16952,
+          "lng": 24.93545,
+          "iscapital": true
+        },
+        {
+          "name": "Vantaa",
+          "lat": 60.29414,
+          "lng": 25.04099
+        },
+        {
+          "name": "Askola",
+          "lat": 60.53333,
+          "lng": 25.6
+        },
+        {
+          "name": "Ekenäs",
+          "lat": 59.97359,
+          "lng": 23.43389
+        },
+        {
+          "name": "Gumböle",
+          "lat": 60.21948,
+          "lng": 24.61684
+        },
+        {
+          "name": "Hanko",
+          "lat": 59.83333,
+          "lng": 22.95
+        },
+        {
+          "name": "Hyvinge",
+          "lat": 60.63333,
+          "lng": 24.86667
+        },
+        {
+          "name": "Ingå",
+          "lat": 60.04587,
+          "lng": 24.00459
+        },
+        {
+          "name": "Järvenpää",
+          "lat": 60.47369,
+          "lng": 25.08992
+        },
+        {
+          "name": "Kaarela",
+          "lat": 60.25174,
+          "lng": 24.88111
+        },
+        {
+          "name": "Kallio",
+          "lat": 60.18427,
+          "lng": 24.95034
+        },
+        {
+          "name": "Karis",
+          "lat": 60.07178,
+          "lng": 23.66163
+        },
+        {
+          "name": "Karjalohja",
+          "lat": 60.24015,
+          "lng": 23.71789
+        },
+        {
+          "name": "Karkkila",
+          "lat": 60.53418,
+          "lng": 24.20977
+        },
+        {
+          "name": "Kärkölä",
+          "lat": 60.61292,
+          "lng": 23.94196
+        },
+        {
+          "name": "Kauniainen",
+          "lat": 60.21209,
+          "lng": 24.72756
+        },
+        {
+          "name": "Kellokoski",
+          "lat": 60.53271,
+          "lng": 25.10917
+        },
+        {
+          "name": "Kerava",
+          "lat": 60.40338,
+          "lng": 25.105
+        },
+        {
+          "name": "Kilo",
+          "lat": 60.21746,
+          "lng": 24.78151
+        },
+        {
+          "name": "Kirkkonummi",
+          "lat": 60.12381,
+          "lng": 24.43853
+        },
+        {
+          "name": "Koukkuniemi",
+          "lat": 60.15261,
+          "lng": 24.76467
+        },
+        {
+          "name": "Lapinjärvi",
+          "lat": 60.62443,
+          "lng": 26.1972
+        },
+        {
+          "name": "Lauttasaari",
+          "lat": 60.15896,
+          "lng": 24.86797
+        },
+        {
+          "name": "Liljendal",
+          "lat": 60.57346,
+          "lng": 26.05257
+        },
+        {
+          "name": "Lohja",
+          "lat": 60.24859,
+          "lng": 24.06534
+        },
+        {
+          "name": "Lovisa",
+          "lat": 60.45659,
+          "lng": 26.22505
+        },
+        {
+          "name": "Mäntsälä",
+          "lat": 60.63333,
+          "lng": 25.31667
+        },
+        {
+          "name": "Mellunkylä",
+          "lat": 60.23355,
+          "lng": 25.09947
+        },
+        {
+          "name": "Munkkiniemi",
+          "lat": 60.19861,
+          "lng": 24.87772
+        },
+        {
+          "name": "Myrskylä",
+          "lat": 60.66965,
+          "lng": 25.8475
+        },
+        {
+          "name": "Nurmijärvi",
+          "lat": 60.46407,
+          "lng": 24.8073
+        },
+        {
+          "name": "Otaniemi",
+          "lat": 60.18395,
+          "lng": 24.82786
+        },
+        {
+          "name": "Pernå",
+          "lat": 60.44869,
+          "lng": 26.03187
+        },
+        {
+          "name": "Pohja",
+          "lat": 60.09626,
+          "lng": 23.52757
+        },
+        {
+          "name": "Pornainen",
+          "lat": 60.47581,
+          "lng": 25.3749
+        },
+        {
+          "name": "Porvoo",
+          "lat": 60.39233,
+          "lng": 25.66507
+        },
+        {
+          "name": "Pukkila",
+          "lat": 60.65,
+          "lng": 25.56667
+        },
+        {
+          "name": "Raaseporin",
+          "lat": 60.00273,
+          "lng": 23.55499
+        },
+        {
+          "name": "Ruotsinpyhtää",
+          "lat": 60.5268,
+          "lng": 26.46203
+        },
+        {
+          "name": "Sammatti",
+          "lat": 60.31991,
+          "lng": 23.82085
+        },
+        {
+          "name": "Sibbo",
+          "lat": 60.37752,
+          "lng": 25.26906
+        },
+        {
+          "name": "Siuntio",
+          "lat": 60.13862,
+          "lng": 24.22715
+        },
+        {
+          "name": "Tuusula",
+          "lat": 60.40368,
+          "lng": 25.02638
+        },
+        {
+          "name": "Vihti",
+          "lat": 60.41699,
+          "lng": 24.31965
+        },
+        {
+          "name": "Vuosaari",
+          "lat": 60.20963,
+          "lng": 25.14195
+        }
+      ]
+    }
+  ]
+}

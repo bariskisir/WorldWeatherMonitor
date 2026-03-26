@@ -1,0 +1,398 @@
+{
+  "name": "Tajikistan",
+  "lat": 39,
+  "lng": 71,
+  "cities": [
+    {
+      "name": "Dushanbe",
+      "lat": 38.53666667,
+      "lng": 68.78,
+      "districts": [
+        {
+          "name": "Dushanbe",
+          "lat": 38.53666667,
+          "lng": 68.78,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Gorno-Badakhshan",
+      "lat": 38.3492457,
+      "lng": 72.9988168,
+      "districts": [
+        {
+          "name": "Ishqoshim",
+          "lat": 36.72484,
+          "lng": 71.61331
+        },
+        {
+          "name": "Khorugh",
+          "lat": 37.48974,
+          "lng": 71.55304
+        },
+        {
+          "name": "Murghob",
+          "lat": 38.17023,
+          "lng": 73.96674
+        },
+        {
+          "name": "Nohiyai Shughnon",
+          "lat": 37.70004,
+          "lng": 72.16748
+        }
+      ]
+    },
+    {
+      "name": "Khatlon",
+      "lat": 37.8804734,
+      "lng": 69.2636923,
+      "districts": [
+        {
+          "name": "Kŭlob",
+          "lat": 37.91459,
+          "lng": 69.78454
+        },
+        {
+          "name": "Abdurahmoni Jomí",
+          "lat": 37.94636,
+          "lng": 68.80878
+        },
+        {
+          "name": "Boshchorbogh",
+          "lat": 37.52027,
+          "lng": 68.12825
+        },
+        {
+          "name": "Bŭstonqal’a",
+          "lat": 37.84783,
+          "lng": 68.83125
+        },
+        {
+          "name": "Chubek",
+          "lat": 37.61453,
+          "lng": 69.70525
+        },
+        {
+          "name": "Danghara",
+          "lat": 38.09578,
+          "lng": 69.33998
+        },
+        {
+          "name": "Dŭstí",
+          "lat": 37.34812,
+          "lng": 68.66398
+        },
+        {
+          "name": "Farkhor",
+          "lat": 37.49219,
+          "lng": 69.40356
+        },
+        {
+          "name": "Gharavŭtí",
+          "lat": 37.56703,
+          "lng": 68.44668
+        },
+        {
+          "name": "Jilikŭl",
+          "lat": 37.49167,
+          "lng": 68.53106
+        },
+        {
+          "name": "Kirov",
+          "lat": 37.81908,
+          "lng": 68.85905
+        },
+        {
+          "name": "Kolkhozobod",
+          "lat": 37.58823,
+          "lng": 68.65886
+        },
+        {
+          "name": "Moskovskiy",
+          "lat": 37.60931,
+          "lng": 68.58094
+        },
+        {
+          "name": "Mŭ’minobod",
+          "lat": 38.10714,
+          "lng": 70.03213
+        },
+        {
+          "name": "Nohiyai Kolkhozobod",
+          "lat": 37.57277,
+          "lng": 68.81528
+        },
+        {
+          "name": "Nohiyai Panj",
+          "lat": 37.31611,
+          "lng": 69.16679
+        },
+        {
+          "name": "Nohiyai Vakhsh",
+          "lat": 37.75602,
+          "lng": 68.94138
+        },
+        {
+          "name": "Norak",
+          "lat": 38.38917,
+          "lng": 69.32272
+        },
+        {
+          "name": "Orzu",
+          "lat": 37.5582,
+          "lng": 68.81952
+        },
+        {
+          "name": "Panj",
+          "lat": 37.23634,
+          "lng": 69.09911
+        },
+        {
+          "name": "Qŭrghonteppa",
+          "lat": 37.83399,
+          "lng": 68.78186
+        },
+        {
+          "name": "Shahritus",
+          "lat": 37.26206,
+          "lng": 68.13849
+        },
+        {
+          "name": "Sovet",
+          "lat": 38.0467,
+          "lng": 69.58822
+        },
+        {
+          "name": "Tartiki",
+          "lat": 37.58221,
+          "lng": 68.13347
+        },
+        {
+          "name": "Vakhsh",
+          "lat": 37.71485,
+          "lng": 68.83456
+        },
+        {
+          "name": "Vose’",
+          "lat": 37.80396,
+          "lng": 69.64417
+        },
+        {
+          "name": "Yovon",
+          "lat": 38.31408,
+          "lng": 69.03784
+        }
+      ]
+    },
+    {
+      "name": "Nohiyahoi Tobei Jumhurí ",
+      "lat": 39.0857902,
+      "lng": 70.2408325,
+      "districts": [
+        {
+          "name": "Vahdat District",
+          "lat": 38.83333,
+          "lng": 69.33333
+        },
+        {
+          "name": "Darband",
+          "lat": 38.86776,
+          "lng": 69.96642
+        },
+        {
+          "name": "Hisor",
+          "lat": 38.52504,
+          "lng": 68.55124
+        },
+        {
+          "name": "Karakenja",
+          "lat": 39.23585,
+          "lng": 71.52412
+        },
+        {
+          "name": "Khodzha-Maston",
+          "lat": 38.74457,
+          "lng": 68.62702
+        },
+        {
+          "name": "Novobod",
+          "lat": 39.01084,
+          "lng": 70.15082
+        },
+        {
+          "name": "Obigarm",
+          "lat": 38.71731,
+          "lng": 69.70885
+        },
+        {
+          "name": "Rasht",
+          "lat": 39.02871,
+          "lng": 70.37446
+        },
+        {
+          "name": "Roghun",
+          "lat": 38.69331,
+          "lng": 69.73692
+        },
+        {
+          "name": "Shahrinav",
+          "lat": 38.57085,
+          "lng": 68.33498
+        },
+        {
+          "name": "Tagob",
+          "lat": 38.83827,
+          "lng": 68.89847
+        },
+        {
+          "name": "Tursunzoda",
+          "lat": 38.51271,
+          "lng": 68.23163
+        },
+        {
+          "name": "Vahdat",
+          "lat": 38.55632,
+          "lng": 69.01354
+        },
+        {
+          "name": "Varzob",
+          "lat": 38.77369,
+          "lng": 68.81776
+        },
+        {
+          "name": "Varzob District",
+          "lat": 38.75,
+          "lng": 68.75
+        }
+      ]
+    },
+    {
+      "name": "Sughd ",
+      "lat": 39.3548602,
+      "lng": 68.8268012,
+      "districts": [
+        {
+          "name": "Isfara",
+          "lat": 40.12649,
+          "lng": 70.62526
+        },
+        {
+          "name": "Istaravshan",
+          "lat": 39.9142,
+          "lng": 69.00328
+        },
+        {
+          "name": "Khŭjand",
+          "lat": 40.28256,
+          "lng": 69.62216
+        },
+        {
+          "name": "Konibodom",
+          "lat": 40.29414,
+          "lng": 70.43122
+        },
+        {
+          "name": "Adrasmon",
+          "lat": 40.64928,
+          "lng": 69.98472
+        },
+        {
+          "name": "Ayní",
+          "lat": 39.39406,
+          "lng": 68.53766
+        },
+        {
+          "name": "Bŭston",
+          "lat": 40.52286,
+          "lng": 69.33307
+        },
+        {
+          "name": "Chkalov",
+          "lat": 40.23417,
+          "lng": 69.69481
+        },
+        {
+          "name": "Ghafurov",
+          "lat": 40.21571,
+          "lng": 69.72867
+        },
+        {
+          "name": "Kim",
+          "lat": 40.20798,
+          "lng": 70.46882
+        },
+        {
+          "name": "Konsoy",
+          "lat": 40.49155,
+          "lng": 69.70245
+        },
+        {
+          "name": "Neftobod",
+          "lat": 40.21524,
+          "lng": 70.57193
+        },
+        {
+          "name": "Nohiyai Konibodom",
+          "lat": 40.26877,
+          "lng": 70.33057
+        },
+        {
+          "name": "Nov",
+          "lat": 40.1522,
+          "lng": 69.37076
+        },
+        {
+          "name": "Oltintopkan",
+          "lat": 40.65425,
+          "lng": 69.59811
+        },
+        {
+          "name": "Pakhtakoron",
+          "lat": 40.15709,
+          "lng": 68.74659
+        },
+        {
+          "name": "Palos",
+          "lat": 40.31628,
+          "lng": 69.73743
+        },
+        {
+          "name": "Panjakent",
+          "lat": 39.49524,
+          "lng": 67.60931
+        },
+        {
+          "name": "Proletar",
+          "lat": 40.16713,
+          "lng": 69.50163
+        },
+        {
+          "name": "Quruqsoy",
+          "lat": 40.57648,
+          "lng": 69.37962
+        },
+        {
+          "name": "Shaydon",
+          "lat": 40.66992,
+          "lng": 70.3502
+        },
+        {
+          "name": "Shŭrob",
+          "lat": 40.04605,
+          "lng": 70.54117
+        },
+        {
+          "name": "Taboshar",
+          "lat": 40.57017,
+          "lng": 69.64175
+        },
+        {
+          "name": "Vorukh",
+          "lat": 39.85125,
+          "lng": 70.58012
+        }
+      ]
+    }
+  ]
+}

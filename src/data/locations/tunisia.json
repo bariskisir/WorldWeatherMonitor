@@ -1,0 +1,1001 @@
+{
+  "name": "Tunisia",
+  "lat": 34,
+  "lng": 9,
+  "cities": [
+    {
+      "name": "Ariana",
+      "lat": 36.9685735,
+      "lng": 10.1219855,
+      "districts": [
+        {
+          "name": "Ariana",
+          "lat": 36.86012,
+          "lng": 10.19337
+        },
+        {
+          "name": "La Soukra",
+          "lat": 36.8535,
+          "lng": 10.2525
+        },
+        {
+          "name": "Ettadhamen-Mnihla",
+          "lat": 36.8625,
+          "lng": 10.1703
+        },
+        {
+          "name": "Kalaat el-Andalous",
+          "lat": 36.8811,
+          "lng": 10.2622
+        },
+        {
+          "name": "Mnihla",
+          "lat": 36.8369,
+          "lng": 10.2002
+        },
+        {
+          "name": "Raoued",
+          "lat": 36.885,
+          "lng": 10.2465
+        },
+        {
+          "name": "Sidi Thabet",
+          "lat": 36.8399,
+          "lng": 10.0403
+        }
+      ]
+    },
+    {
+      "name": "Béja",
+      "lat": 36.7236755,
+      "lng": 9.185382,
+      "districts": [
+        {
+          "name": "Amdoun",
+          "lat": 36.7442,
+          "lng": 9.0513
+        },
+        {
+          "name": "Béja",
+          "lat": 36.72564,
+          "lng": 9.18169
+        },
+        {
+          "name": "Goubellat",
+          "lat": 36.5956,
+          "lng": 9.2078
+        },
+        {
+          "name": "Medjez el Bab",
+          "lat": 36.7064,
+          "lng": 9.6106
+        },
+        {
+          "name": "Nefza",
+          "lat": 36.6049,
+          "lng": 8.9702
+        },
+        {
+          "name": "Tabursuq",
+          "lat": 36.45692,
+          "lng": 9.24751
+        },
+        {
+          "name": "Téboursouk",
+          "lat": 36.7104,
+          "lng": 9.0008
+        },
+        {
+          "name": "Testour",
+          "lat": 36.5014,
+          "lng": 9.6664
+        },
+        {
+          "name": "Thibar",
+          "lat": 36.4656,
+          "lng": 9.0622
+        }
+      ]
+    },
+    {
+      "name": "Ben Arous",
+      "lat": 36.6306483,
+      "lng": 10.2100827,
+      "districts": [
+        {
+          "name": "Ben Arous",
+          "lat": 36.7531,
+          "lng": 10.2294
+        },
+        {
+          "name": "Hammam Lif",
+          "lat": 36.7203,
+          "lng": 10.3261
+        },
+        {
+          "name": "Mornag",
+          "lat": 36.6616,
+          "lng": 10.1463
+        },
+        {
+          "name": "Mornaguia",
+          "lat": 36.7214,
+          "lng": 10.0494
+        },
+        {
+          "name": "Radès",
+          "lat": 36.76946,
+          "lng": 10.27468
+        }
+      ]
+    },
+    {
+      "name": "Bizerte",
+      "lat": 37.0354339,
+      "lng": 9.6393259,
+      "districts": [
+        {
+          "name": "Bizerte",
+          "lat": 37.27442,
+          "lng": 9.87391
+        },
+        {
+          "name": "Al Matlīn",
+          "lat": 37.24516,
+          "lng": 10.05
+        },
+        {
+          "name": "Bizerte Sud",
+          "lat": 37.25528,
+          "lng": 9.67915
+        },
+        {
+          "name": "Douar Tindja",
+          "lat": 37.16667,
+          "lng": 9.75
+        },
+        {
+          "name": "El Alia",
+          "lat": 37.16911,
+          "lng": 10.03478
+        },
+        {
+          "name": "Mateur",
+          "lat": 37.04045,
+          "lng": 9.66557
+        },
+        {
+          "name": "Menzel Abderhaman",
+          "lat": 37.23737,
+          "lng": 9.86313
+        },
+        {
+          "name": "Menzel Bourguiba",
+          "lat": 37.15368,
+          "lng": 9.78594
+        },
+        {
+          "name": "Menzel Jemil",
+          "lat": 37.23618,
+          "lng": 9.91448
+        },
+        {
+          "name": "Rafrāf",
+          "lat": 37.19043,
+          "lng": 10.18365
+        },
+        {
+          "name": "Rhar el Melah",
+          "lat": 37.16939,
+          "lng": 10.19064
+        },
+        {
+          "name": "Sejenane",
+          "lat": 37.05722,
+          "lng": 9.23806
+        },
+        {
+          "name": "Zahānah",
+          "lat": 37.03959,
+          "lng": 10.03876
+        }
+      ]
+    },
+    {
+      "name": "Gabès",
+      "lat": 33.7765032,
+      "lng": 9.793063,
+      "districts": [
+        {
+          "name": "Gabès",
+          "lat": 33.88146,
+          "lng": 10.0982
+        },
+        {
+          "name": "Bou Attouche",
+          "lat": 33.89927,
+          "lng": 9.78496
+        },
+        {
+          "name": "El Hamma",
+          "lat": 33.89152,
+          "lng": 9.79629
+        },
+        {
+          "name": "Matmata",
+          "lat": 33.54445,
+          "lng": 9.97157
+        }
+      ]
+    },
+    {
+      "name": "Gafsa",
+      "lat": 34.4224374,
+      "lng": 8.7843862,
+      "districts": [
+        {
+          "name": "Ar Rudayyif",
+          "lat": 34.3827,
+          "lng": 8.15549
+        },
+        {
+          "name": "As Sanad",
+          "lat": 34.4628,
+          "lng": 9.26404
+        },
+        {
+          "name": "Gafsa",
+          "lat": 34.425,
+          "lng": 8.78417
+        },
+        {
+          "name": "Metlaoui",
+          "lat": 34.32081,
+          "lng": 8.40157
+        },
+        {
+          "name": "Mu‘tamadīyat ar Rudayyif",
+          "lat": 34.40081,
+          "lng": 8.17057
+        }
+      ]
+    },
+    {
+      "name": "Jendouba",
+      "lat": 36.6779725,
+      "lng": 8.752647,
+      "districts": [
+        {
+          "name": "Fernana",
+          "lat": 36.65547,
+          "lng": 8.69602
+        },
+        {
+          "name": "Jendouba",
+          "lat": 36.48519,
+          "lng": 8.82325
+        },
+        {
+          "name": "Oued Meliz",
+          "lat": 36.46813,
+          "lng": 8.54951
+        },
+        {
+          "name": "Tabarka",
+          "lat": 36.95442,
+          "lng": 8.75801
+        }
+      ]
+    },
+    {
+      "name": "Kairouan",
+      "lat": 35.6711663,
+      "lng": 10.1005469,
+      "districts": [
+        {
+          "name": "Kairouan",
+          "lat": 35.6781,
+          "lng": 10.09633
+        },
+        {
+          "name": "Haffouz",
+          "lat": 35.63235,
+          "lng": 9.67624
+        },
+        {
+          "name": "Sbikha",
+          "lat": 35.93325,
+          "lng": 10.02081
+        }
+      ]
+    },
+    {
+      "name": "Kasserine",
+      "lat": 35.1687646,
+      "lng": 8.8365654,
+      "districts": [
+        {
+          "name": "Kasserine",
+          "lat": 35.16758,
+          "lng": 8.83651
+        },
+        {
+          "name": "Rohia",
+          "lat": 35.65129,
+          "lng": 9.05306
+        },
+        {
+          "name": "Sbiba",
+          "lat": 35.54332,
+          "lng": 9.0737
+        },
+        {
+          "name": "Thala",
+          "lat": 35.57244,
+          "lng": 8.67031
+        }
+      ]
+    },
+    {
+      "name": "Kebili",
+      "lat": 33.7071551,
+      "lng": 8.9714623,
+      "districts": [
+        {
+          "name": "Douz",
+          "lat": 33.46632,
+          "lng": 9.0203
+        },
+        {
+          "name": "El Golaa",
+          "lat": 33.48485,
+          "lng": 9.00678
+        },
+        {
+          "name": "Jemna",
+          "lat": 33.57778,
+          "lng": 9.01472
+        },
+        {
+          "name": "Kebili",
+          "lat": 33.70439,
+          "lng": 8.96903
+        }
+      ]
+    },
+    {
+      "name": "Kef",
+      "lat": 36.0357642,
+      "lng": 8.7249381,
+      "districts": [
+        {
+          "name": "As Sars",
+          "lat": 36.0764,
+          "lng": 9.02117
+        },
+        {
+          "name": "El Kef",
+          "lat": 36.17424,
+          "lng": 8.70486
+        },
+        {
+          "name": "El Ksour",
+          "lat": 35.89607,
+          "lng": 8.88493
+        },
+        {
+          "name": "Menzel Salem",
+          "lat": 35.85673,
+          "lng": 8.47654
+        },
+        {
+          "name": "Nibbar",
+          "lat": 36.29411,
+          "lng": 8.76657
+        },
+        {
+          "name": "Sakiet Sidi Youssef",
+          "lat": 36.22292,
+          "lng": 8.35547
+        },
+        {
+          "name": "Tajerouine",
+          "lat": 35.89174,
+          "lng": 8.55276
+        }
+      ]
+    },
+    {
+      "name": "Mahdia",
+      "lat": 35.4877893,
+      "lng": 10.9622433,
+      "districts": [
+        {
+          "name": "Chebba",
+          "lat": 35.23722,
+          "lng": 11.115
+        },
+        {
+          "name": "Chorbane",
+          "lat": 35.28581,
+          "lng": 10.3858
+        },
+        {
+          "name": "El Jem",
+          "lat": 35.3,
+          "lng": 10.71667
+        },
+        {
+          "name": "Ksour Essaf",
+          "lat": 35.41808,
+          "lng": 10.99475
+        },
+        {
+          "name": "Mahdia",
+          "lat": 35.50472,
+          "lng": 11.06222
+        },
+        {
+          "name": "Melloulèche",
+          "lat": 35.16617,
+          "lng": 11.03504
+        },
+        {
+          "name": "Salakta",
+          "lat": 35.39444,
+          "lng": 11.04361
+        },
+        {
+          "name": "Sidi Alouane",
+          "lat": 35.37505,
+          "lng": 10.93899
+        },
+        {
+          "name": "Zouila",
+          "lat": 35.50056,
+          "lng": 11.06056
+        }
+      ]
+    },
+    {
+      "name": "Manouba",
+      "lat": 36.7624363,
+      "lng": 9.8336191,
+      "districts": [
+        {
+          "name": "El Battan",
+          "lat": 36.80368,
+          "lng": 9.84424
+        },
+        {
+          "name": "Manouba",
+          "lat": 36.81006,
+          "lng": 10.09557
+        },
+        {
+          "name": "Mu‘tamadīyat Manūbah",
+          "lat": 36.80907,
+          "lng": 10.09467
+        },
+        {
+          "name": "Oued Lill",
+          "lat": 36.83408,
+          "lng": 10.04057
+        }
+      ]
+    },
+    {
+      "name": "Medenine",
+      "lat": 33.3434014,
+      "lng": 10.4910703,
+      "districts": [
+        {
+          "name": "Ben Gardane",
+          "lat": 33.13783,
+          "lng": 11.21965
+        },
+        {
+          "name": "Beni Kheddache",
+          "lat": 33.25279,
+          "lng": 10.19883
+        },
+        {
+          "name": "Erriadh",
+          "lat": 33.82063,
+          "lng": 10.85394
+        },
+        {
+          "name": "Houmt El Souk",
+          "lat": 33.87576,
+          "lng": 10.85745
+        },
+        {
+          "name": "Jerba Midoun",
+          "lat": 33.77918,
+          "lng": 10.95215
+        },
+        {
+          "name": "Medenine",
+          "lat": 33.35495,
+          "lng": 10.50548
+        },
+        {
+          "name": "Midoun",
+          "lat": 33.80813,
+          "lng": 10.99228
+        },
+        {
+          "name": "Zarzis",
+          "lat": 33.50398,
+          "lng": 11.11215
+        }
+      ]
+    },
+    {
+      "name": "Monastir",
+      "lat": 35.7707582,
+      "lng": 10.8280511,
+      "districts": [
+        {
+          "name": "Banbalah",
+          "lat": 35.7,
+          "lng": 10.8
+        },
+        {
+          "name": "Bekalta",
+          "lat": 35.61739,
+          "lng": 10.99466
+        },
+        {
+          "name": "Beni Hassane",
+          "lat": 35.5672,
+          "lng": 10.80869
+        },
+        {
+          "name": "Djemmal",
+          "lat": 35.62231,
+          "lng": 10.75696
+        },
+        {
+          "name": "Ksar Hellal",
+          "lat": 35.64773,
+          "lng": 10.89046
+        },
+        {
+          "name": "Ksibet el Mediouni",
+          "lat": 35.68561,
+          "lng": 10.84256
+        },
+        {
+          "name": "Lemta",
+          "lat": 35.66667,
+          "lng": 10.88333
+        },
+        {
+          "name": "Menzel Kamel",
+          "lat": 35.62477,
+          "lng": 10.66727
+        },
+        {
+          "name": "Mesdour",
+          "lat": 35.68206,
+          "lng": 10.72746
+        },
+        {
+          "name": "Monastir",
+          "lat": 35.77799,
+          "lng": 10.82617
+        },
+        {
+          "name": "Ouardenine",
+          "lat": 35.70915,
+          "lng": 10.67397
+        },
+        {
+          "name": "Sahline",
+          "lat": 35.75166,
+          "lng": 10.71109
+        },
+        {
+          "name": "Seïada",
+          "lat": 35.66887,
+          "lng": 10.89246
+        },
+        {
+          "name": "Sidi Ben Nour",
+          "lat": 35.53333,
+          "lng": 10.91667
+        },
+        {
+          "name": "Skanes",
+          "lat": 35.78333,
+          "lng": 10.8
+        },
+        {
+          "name": "Touza",
+          "lat": 35.63544,
+          "lng": 10.82732
+        }
+      ]
+    },
+    {
+      "name": "Nabeul",
+      "lat": 36.4823676,
+      "lng": 10.6707197,
+      "districts": [
+        {
+          "name": "Azmour",
+          "lat": 36.9244,
+          "lng": 11.0069
+        },
+        {
+          "name": "Beni Khalled",
+          "lat": 36.65038,
+          "lng": 10.59004
+        },
+        {
+          "name": "Béni Khiar",
+          "lat": 36.46666667,
+          "lng": 10.78333333
+        },
+        {
+          "name": "Bou Argoub",
+          "lat": 36.53853,
+          "lng": 10.55093
+        },
+        {
+          "name": "Dar Chaabane",
+          "lat": 36.47,
+          "lng": 10.75
+        },
+        {
+          "name": "El Haouaria",
+          "lat": 37.05,
+          "lng": 11.01111111
+        },
+        {
+          "name": "El Maâmoura",
+          "lat": 36.46666667,
+          "lng": 10.8
+        },
+        {
+          "name": "El Mida",
+          "lat": 36.73333333,
+          "lng": 10.85
+        },
+        {
+          "name": "El Mrezga",
+          "lat": 36.42163,
+          "lng": 10.66411
+        },
+        {
+          "name": "Grombalia",
+          "lat": 36.61,
+          "lng": 10.5
+        },
+        {
+          "name": "Hammamet",
+          "lat": 36.41666667,
+          "lng": 10.6
+        },
+        {
+          "name": "Kelibia",
+          "lat": 36.8475,
+          "lng": 11.09388889
+        },
+        {
+          "name": "Korba",
+          "lat": 36.56666667,
+          "lng": 10.86666667
+        },
+        {
+          "name": "Korbous",
+          "lat": 36.81638889,
+          "lng": 10.56861111
+        },
+        {
+          "name": "Menzel Bouzelfa",
+          "lat": 36.6817,
+          "lng": 10.5847
+        },
+        {
+          "name": "Menzel Horr",
+          "lat": 36.73333333,
+          "lng": 10.95
+        },
+        {
+          "name": "Menzel Temime",
+          "lat": 36.78333333,
+          "lng": 10.98333333
+        },
+        {
+          "name": "Nabeul",
+          "lat": 36.451389,
+          "lng": 10.736111
+        },
+        {
+          "name": "Soliman",
+          "lat": 36.695126,
+          "lng": 10.491257
+        },
+        {
+          "name": "Takelsa",
+          "lat": 36.79,
+          "lng": 10.63
+        },
+        {
+          "name": "Tazerka",
+          "lat": 36.55,
+          "lng": 10.8
+        },
+        {
+          "name": "Zaouiet Djedidi",
+          "lat": 36.65,
+          "lng": 10.6
+        },
+        {
+          "name": "Zriba",
+          "lat": 36.35585,
+          "lng": 10.206034
+        }
+      ]
+    },
+    {
+      "name": "Sfax",
+      "lat": 34.7232387,
+      "lng": 10.3358474,
+      "districts": [
+        {
+          "name": "Sfax",
+          "lat": 34.74056,
+          "lng": 10.76028
+        },
+        {
+          "name": "Agareb",
+          "lat": 34.74406,
+          "lng": 10.4611
+        },
+        {
+          "name": "Bir Ali Ben Khalifa",
+          "lat": 34.73592,
+          "lng": 10.0924
+        },
+        {
+          "name": "Djebeniana",
+          "lat": 35.035,
+          "lng": 10.90809
+        },
+        {
+          "name": "Gremda",
+          "lat": 34.75,
+          "lng": 10.78333
+        },
+        {
+          "name": "Skhira",
+          "lat": 34.2992,
+          "lng": 10.06999
+        }
+      ]
+    },
+    {
+      "name": "Sidi Bouzid",
+      "lat": 35.0354386,
+      "lng": 9.4839392,
+      "districts": [
+        {
+          "name": "Bir el Hafey",
+          "lat": 34.93212,
+          "lng": 9.19321
+        },
+        {
+          "name": "Er Regueb",
+          "lat": 34.85932,
+          "lng": 9.78654
+        },
+        {
+          "name": "Jilma",
+          "lat": 35.27311,
+          "lng": 9.42385
+        },
+        {
+          "name": "Mezzouna",
+          "lat": 34.57758,
+          "lng": 9.84193
+        },
+        {
+          "name": "Sidi Bouzid",
+          "lat": 35.03823,
+          "lng": 9.48494
+        }
+      ]
+    },
+    {
+      "name": "Siliana",
+      "lat": 36.0887208,
+      "lng": 9.3645335,
+      "districts": [
+        {
+          "name": "Bou Arada",
+          "lat": 36.35251,
+          "lng": 9.62175
+        },
+        {
+          "name": "Gafour",
+          "lat": 36.32045,
+          "lng": 9.32424
+        },
+        {
+          "name": "Kesra",
+          "lat": 35.81363,
+          "lng": 9.36434
+        },
+        {
+          "name": "Le Krib",
+          "lat": 36.32802,
+          "lng": 9.13613
+        },
+        {
+          "name": "Maktar",
+          "lat": 35.85798,
+          "lng": 9.20072
+        },
+        {
+          "name": "Siliana",
+          "lat": 36.08497,
+          "lng": 9.37082
+        }
+      ]
+    },
+    {
+      "name": "Sousse",
+      "lat": 35.8939852,
+      "lng": 10.3977704,
+      "districts": [
+        {
+          "name": "Sousse",
+          "lat": 35.82539,
+          "lng": 10.63699
+        },
+        {
+          "name": "Akouda",
+          "lat": 35.8691,
+          "lng": 10.5653
+        },
+        {
+          "name": "Hammam Sousse",
+          "lat": 35.8609,
+          "lng": 10.60313
+        },
+        {
+          "name": "Harqalah",
+          "lat": 36.03027,
+          "lng": 10.50904
+        },
+        {
+          "name": "Msaken",
+          "lat": 35.72917,
+          "lng": 10.58082
+        },
+        {
+          "name": "Port el Kantaoui",
+          "lat": 35.89239,
+          "lng": 10.59434
+        },
+        {
+          "name": "Sidi Bou Ali",
+          "lat": 35.95667,
+          "lng": 10.47306
+        },
+        {
+          "name": "Sidi el Hani",
+          "lat": 35.67139,
+          "lng": 10.31583
+        }
+      ]
+    },
+    {
+      "name": "Tataouine",
+      "lat": 31.7317009,
+      "lng": 9.7702197,
+      "districts": [
+        {
+          "name": "Remada",
+          "lat": 32.31662,
+          "lng": 10.39551
+        },
+        {
+          "name": "Tataouine",
+          "lat": 32.92967,
+          "lng": 10.45177
+        }
+      ]
+    },
+    {
+      "name": "Tozeur",
+      "lat": 33.9844105,
+      "lng": 8.0711309,
+      "districts": [
+        {
+          "name": "Chebika",
+          "lat": 34.31909,
+          "lng": 7.93519
+        },
+        {
+          "name": "Degache",
+          "lat": 33.97606,
+          "lng": 8.2081
+        },
+        {
+          "name": "Nefta",
+          "lat": 33.87309,
+          "lng": 7.87765
+        },
+        {
+          "name": "Tamaghzah",
+          "lat": 34.38849,
+          "lng": 7.94313
+        },
+        {
+          "name": "Tozeur",
+          "lat": 33.91968,
+          "lng": 8.13352
+        }
+      ]
+    },
+    {
+      "name": "Tunis",
+      "lat": 36.81791,
+      "lng": 10.2127219,
+      "districts": [
+        {
+          "name": "Tunis",
+          "lat": 36.81897,
+          "lng": 10.16579,
+          "iscapital": true
+        },
+        {
+          "name": "Al Marsá",
+          "lat": 36.87818,
+          "lng": 10.32466
+        },
+        {
+          "name": "Carthage",
+          "lat": 36.85961,
+          "lng": 10.32978
+        },
+        {
+          "name": "La Goulette",
+          "lat": 36.81825,
+          "lng": 10.3052
+        },
+        {
+          "name": "La Mohammedia",
+          "lat": 36.67446,
+          "lng": 10.15633
+        },
+        {
+          "name": "Sidi Bou Saïd",
+          "lat": 36.8687,
+          "lng": 10.34174
+        }
+      ]
+    },
+    {
+      "name": "Zaghouan",
+      "lat": 36.3994751,
+      "lng": 10.1446349,
+      "districts": [
+        {
+          "name": "El Fahs",
+          "lat": 36.37419,
+          "lng": 9.90651
+        },
+        {
+          "name": "Zaghouan",
+          "lat": 36.40291,
+          "lng": 10.14292
+        }
+      ]
+    }
+  ]
+}

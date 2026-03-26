@@ -1,0 +1,153 @@
+{
+  "name": "Togo",
+  "lat": 8,
+  "lng": 1.16666666,
+  "cities": [
+    {
+      "name": "Centrale",
+      "lat": 8.607113,
+      "lng": 1.0458554,
+      "districts": [
+        {
+          "name": "Sokodé",
+          "lat": 8.98333,
+          "lng": 1.13333
+        },
+        {
+          "name": "Sotouboua",
+          "lat": 8.5634,
+          "lng": 0.98399
+        },
+        {
+          "name": "Tchamba",
+          "lat": 9.03333,
+          "lng": 1.41667
+        }
+      ]
+    },
+    {
+      "name": "Kara",
+      "lat": 9.541111,
+      "lng": 0.7876018,
+      "districts": [
+        {
+          "name": "Kara",
+          "lat": 9.55111,
+          "lng": 1.18611
+        },
+        {
+          "name": "Bafilo",
+          "lat": 9.35,
+          "lng": 1.26667
+        },
+        {
+          "name": "Bassar",
+          "lat": 9.25025,
+          "lng": 0.78213
+        },
+        {
+          "name": "Kandé",
+          "lat": 9.95778,
+          "lng": 1.04472
+        },
+        {
+          "name": "Niamtougou",
+          "lat": 9.76806,
+          "lng": 1.10528
+        },
+        {
+          "name": "Pagouda",
+          "lat": 9.7525,
+          "lng": 1.32778
+        },
+        {
+          "name": "Préfecture de Bassar",
+          "lat": 9.25,
+          "lng": 0.75
+        }
+      ]
+    },
+    {
+      "name": "Maritime",
+      "lat": 6.5175177,
+      "lng": 1.2045805,
+      "districts": [
+        {
+          "name": "Lomé",
+          "lat": 6.12874,
+          "lng": 1.22154,
+          "iscapital": true
+        },
+        {
+          "name": "Aného",
+          "lat": 6.22798,
+          "lng": 1.5919
+        },
+        {
+          "name": "Tabligbo",
+          "lat": 6.58333,
+          "lng": 1.5
+        },
+        {
+          "name": "Tsévié",
+          "lat": 6.42611,
+          "lng": 1.21333
+        },
+        {
+          "name": "Vogan",
+          "lat": 6.33333,
+          "lng": 1.53333
+        }
+      ]
+    },
+    {
+      "name": "Plateaux",
+      "lat": 7.450501,
+      "lng": 1.0892702,
+      "districts": [
+        {
+          "name": "Amlamé",
+          "lat": 7.46667,
+          "lng": 0.9
+        },
+        {
+          "name": "Atakpamé",
+          "lat": 7.53333,
+          "lng": 1.13333
+        },
+        {
+          "name": "Badou",
+          "lat": 7.58333,
+          "lng": 0.6
+        },
+        {
+          "name": "Kpalimé",
+          "lat": 6.9,
+          "lng": 0.63333
+        },
+        {
+          "name": "Notsé",
+          "lat": 6.95,
+          "lng": 1.16667
+        }
+      ]
+    },
+    {
+      "name": "Savanes",
+      "lat": 10.511559,
+      "lng": 0.4653751,
+      "districts": [
+        {
+          "name": "Dapaong",
+          "lat": 10.86225,
+          "lng": 0.20762
+        },
+        {
+          "name": "Sansanné-Mango",
+          "lat": 10.35917,
+          "lng": 0.47083
+        }
+      ]
+    }
+  ]
+}

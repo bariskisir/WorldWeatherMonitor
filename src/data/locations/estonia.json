@@ -1,0 +1,1397 @@
+{
+  "name": "Estonia",
+  "lat": 59,
+  "lng": 26,
+  "cities": [
+    {
+      "name": "Alutaguse",
+      "lat": 59.1167,
+      "lng": 27.45,
+      "districts": []
+    },
+    {
+      "name": "Anija",
+      "lat": 59.3167,
+      "lng": 25.3667,
+      "districts": []
+    },
+    {
+      "name": "Antsla",
+      "lat": 57.8333,
+      "lng": 26.5333,
+      "districts": []
+    },
+    {
+      "name": "Elva",
+      "lat": 58.225,
+      "lng": 26.4169,
+      "districts": []
+    },
+    {
+      "name": "Häädemeeste",
+      "lat": 58.0667,
+      "lng": 24.4833,
+      "districts": []
+    },
+    {
+      "name": "Haapsalu",
+      "lat": 58.9433,
+      "lng": 23.5419,
+      "districts": []
+    },
+    {
+      "name": "Haljala",
+      "lat": 59.45,
+      "lng": 26.3167,
+      "districts": []
+    },
+    {
+      "name": "Harju",
+      "lat": 58.9529979,
+      "lng": 22.8981063,
+      "districts": [
+        {
+          "name": "Tallinn",
+          "lat": 59.43696,
+          "lng": 24.75353,
+          "iscapital": true
+        },
+        {
+          "name": "Anija vald",
+          "lat": 59.27644,
+          "lng": 25.48168
+        },
+        {
+          "name": "Aruküla",
+          "lat": 59.36686,
+          "lng": 25.07618
+        },
+        {
+          "name": "Haabneeme",
+          "lat": 59.51358,
+          "lng": 24.82225
+        },
+        {
+          "name": "Harku",
+          "lat": 59.38641,
+          "lng": 24.57176
+        },
+        {
+          "name": "Harku vald",
+          "lat": 59.39157,
+          "lng": 24.46206
+        },
+        {
+          "name": "Jõelähtme vald",
+          "lat": 59.43996,
+          "lng": 25.13535
+        },
+        {
+          "name": "Jüri",
+          "lat": 59.35417,
+          "lng": 24.89417
+        },
+        {
+          "name": "Kehra",
+          "lat": 59.33611,
+          "lng": 25.32111
+        },
+        {
+          "name": "Keila",
+          "lat": 59.30361,
+          "lng": 24.41306
+        },
+        {
+          "name": "Kiili",
+          "lat": 59.30775,
+          "lng": 24.83776
+        },
+        {
+          "name": "Kiili vald",
+          "lat": 59.29672,
+          "lng": 24.85292
+        },
+        {
+          "name": "Kose",
+          "lat": 59.46001,
+          "lng": 24.87824
+        },
+        {
+          "name": "Kuusalu",
+          "lat": 59.44389,
+          "lng": 25.44139
+        },
+        {
+          "name": "Laagri",
+          "lat": 59.35083,
+          "lng": 24.61418
+        },
+        {
+          "name": "Loksa",
+          "lat": 59.57639,
+          "lng": 25.72139
+        },
+        {
+          "name": "Loksa linn",
+          "lat": 59.57844,
+          "lng": 25.71667
+        },
+        {
+          "name": "Loo",
+          "lat": 59.43123,
+          "lng": 24.94949
+        },
+        {
+          "name": "Maardu",
+          "lat": 59.46529,
+          "lng": 24.98215
+        },
+        {
+          "name": "Maardu linn",
+          "lat": 59.46385,
+          "lng": 24.9735
+        },
+        {
+          "name": "Paldiski",
+          "lat": 59.35667,
+          "lng": 24.05306
+        },
+        {
+          "name": "Pringi",
+          "lat": 59.53459,
+          "lng": 24.79726
+        },
+        {
+          "name": "Raasiku",
+          "lat": 59.36639,
+          "lng": 25.18306
+        },
+        {
+          "name": "Rae vald",
+          "lat": 59.33202,
+          "lng": 24.93932
+        },
+        {
+          "name": "Riisipere",
+          "lat": 59.11417,
+          "lng": 24.31056
+        },
+        {
+          "name": "Rummu",
+          "lat": 59.53528,
+          "lng": 24.79972
+        },
+        {
+          "name": "Saku",
+          "lat": 59.30354,
+          "lng": 24.66382
+        },
+        {
+          "name": "Saku vald",
+          "lat": 59.28069,
+          "lng": 24.71649
+        },
+        {
+          "name": "Saue",
+          "lat": 59.32258,
+          "lng": 24.54967
+        },
+        {
+          "name": "Saue vald",
+          "lat": 59.29255,
+          "lng": 24.52503
+        },
+        {
+          "name": "Tabasalu",
+          "lat": 59.42607,
+          "lng": 24.5533
+        },
+        {
+          "name": "Turba",
+          "lat": 59.08306,
+          "lng": 24.225
+        },
+        {
+          "name": "Vaida",
+          "lat": 59.28546,
+          "lng": 24.97897
+        },
+        {
+          "name": "Viimsi",
+          "lat": 59.50502,
+          "lng": 24.84807
+        },
+        {
+          "name": "Viimsi vald",
+          "lat": 59.50204,
+          "lng": 24.84833
+        }
+      ]
+    },
+    {
+      "name": "Harku",
+      "lat": 59.3903,
+      "lng": 24.5697,
+      "districts": []
+    },
+    {
+      "name": "Hiiu",
+      "lat": 59.3830236,
+      "lng": 24.6703848,
+      "districts": [
+        {
+          "name": "Kärdla",
+          "lat": 58.99778,
+          "lng": 22.74917
+        }
+      ]
+    },
+    {
+      "name": "Hiiumaa",
+      "lat": 58.9167,
+      "lng": 22.6,
+      "districts": []
+    },
+    {
+      "name": "Ida-Viru",
+      "lat": 59.219803,
+      "lng": 27.3905162,
+      "districts": [
+        {
+          "name": "Iisaku",
+          "lat": 59.10139,
+          "lng": 27.30806
+        },
+        {
+          "name": "Jõhvi",
+          "lat": 59.35917,
+          "lng": 27.42111
+        },
+        {
+          "name": "Jõhvi vald",
+          "lat": 59.35653,
+          "lng": 27.39304
+        },
+        {
+          "name": "Kiviõli",
+          "lat": 59.35306,
+          "lng": 26.97111
+        },
+        {
+          "name": "Kohtla-Järve",
+          "lat": 59.39861,
+          "lng": 27.27306
+        },
+        {
+          "name": "Kohtla-Nõmme",
+          "lat": 59.35167,
+          "lng": 27.175
+        },
+        {
+          "name": "Lüganuse vald",
+          "lat": 59.39262,
+          "lng": 27.07641
+        },
+        {
+          "name": "Narva",
+          "lat": 59.37722,
+          "lng": 28.19028
+        },
+        {
+          "name": "Narva-Jõesuu",
+          "lat": 59.45889,
+          "lng": 28.04083
+        },
+        {
+          "name": "Narva-Jõesuu linn",
+          "lat": 59.44127,
+          "lng": 28.02142
+        },
+        {
+          "name": "Püssi",
+          "lat": 59.36,
+          "lng": 27.04972
+        },
+        {
+          "name": "Sillamäe",
+          "lat": 59.39697,
+          "lng": 27.76331
+        },
+        {
+          "name": "Toila",
+          "lat": 59.42127,
+          "lng": 27.50807
+        },
+        {
+          "name": "Voka",
+          "lat": 59.40776,
+          "lng": 27.58263
+        }
+      ]
+    },
+    {
+      "name": "Järva",
+      "lat": 58.4133357,
+      "lng": 24.647735,
+      "districts": [
+        {
+          "name": "Järva-Jaani",
+          "lat": 59.03861,
+          "lng": 25.88639
+        },
+        {
+          "name": "Koeru",
+          "lat": 58.96306,
+          "lng": 26.03083
+        },
+        {
+          "name": "Paide",
+          "lat": 58.88556,
+          "lng": 25.55722
+        },
+        {
+          "name": "Paide linn",
+          "lat": 58.88504,
+          "lng": 25.56021
+        },
+        {
+          "name": "Särevere",
+          "lat": 58.79,
+          "lng": 25.42806
+        },
+        {
+          "name": "Türi",
+          "lat": 58.80861,
+          "lng": 25.4325
+        },
+        {
+          "name": "Türi vald",
+          "lat": 58.74143,
+          "lng": 25.46443
+        }
+      ]
+    },
+    {
+      "name": "Järva",
+      "lat": 59,
+      "lng": 25.8667,
+      "districts": []
+    },
+    {
+      "name": "Joelähtme",
+      "lat": 59.4667,
+      "lng": 25.1,
+      "districts": []
+    },
+    {
+      "name": "Jõgeva",
+      "lat": 58.7441059,
+      "lng": 26.3872444,
+      "districts": [
+        {
+          "name": "Jõgeva",
+          "lat": 58.74667,
+          "lng": 26.39389
+        },
+        {
+          "name": "Jõgeva vald",
+          "lat": 58.78732,
+          "lng": 26.38122
+        },
+        {
+          "name": "Mustvee",
+          "lat": 58.84861,
+          "lng": 26.93972
+        },
+        {
+          "name": "Põltsamaa",
+          "lat": 58.6525,
+          "lng": 25.97056
+        },
+        {
+          "name": "Põltsamaa vald",
+          "lat": 58.64067,
+          "lng": 26.00957
+        }
+      ]
+    },
+    {
+      "name": "Jõgeva",
+      "lat": 58.75,
+      "lng": 26.3833,
+      "districts": []
+    },
+    {
+      "name": "Jõhvi",
+      "lat": 59.3583,
+      "lng": 27.4233,
+      "districts": []
+    },
+    {
+      "name": "Kadrina",
+      "lat": 59.3333,
+      "lng": 26.1333,
+      "districts": []
+    },
+    {
+      "name": "Kambja",
+      "lat": 58.2667,
+      "lng": 26.6833,
+      "districts": []
+    },
+    {
+      "name": "Kanepi",
+      "lat": 58,
+      "lng": 26.9,
+      "districts": []
+    },
+    {
+      "name": "Kastre",
+      "lat": 58.3167,
+      "lng": 26.7833,
+      "districts": []
+    },
+    {
+      "name": "Kehtna",
+      "lat": 58.9333,
+      "lng": 24.8833,
+      "districts": []
+    },
+    {
+      "name": "Keila",
+      "lat": 59.3036,
+      "lng": 24.4211,
+      "districts": []
+    },
+    {
+      "name": "Kihnu",
+      "lat": 58.15,
+      "lng": 24,
+      "districts": []
+    },
+    {
+      "name": "Kiili",
+      "lat": 59.3,
+      "lng": 24.8667,
+      "districts": []
+    },
+    {
+      "name": "Kohila",
+      "lat": 59.1667,
+      "lng": 24.7667,
+      "districts": []
+    },
+    {
+      "name": "Kohtla-Järve",
+      "lat": 59.3983,
+      "lng": 27.2731,
+      "districts": []
+    },
+    {
+      "name": "Kose",
+      "lat": 59.1833,
+      "lng": 25.1667,
+      "districts": []
+    },
+    {
+      "name": "Kuusalu",
+      "lat": 59.4333,
+      "lng": 25.45,
+      "districts": []
+    },
+    {
+      "name": "Lääne",
+      "lat": 58.674124,
+      "lng": 25.8106102,
+      "districts": [
+        {
+          "name": "Haapsalu",
+          "lat": 58.94306,
+          "lng": 23.54139
+        },
+        {
+          "name": "Haapsalu linn",
+          "lat": 58.9358,
+          "lng": 23.53005
+        },
+        {
+          "name": "Hullo",
+          "lat": 58.99004,
+          "lng": 23.24441
+        },
+        {
+          "name": "Lääne-Nigula vald",
+          "lat": 58.96045,
+          "lng": 23.74489
+        },
+        {
+          "name": "Taebla",
+          "lat": 58.95389,
+          "lng": 23.75222
+        },
+        {
+          "name": "Uuemõisa",
+          "lat": 58.93944,
+          "lng": 23.58944
+        },
+        {
+          "name": "Vormsi vald",
+          "lat": 58.99986,
+          "lng": 23.23408
+        }
+      ]
+    },
+    {
+      "name": "Lääne-Harju",
+      "lat": 59.3833,
+      "lng": 24.1833,
+      "districts": []
+    },
+    {
+      "name": "Lääne-Nigula",
+      "lat": 58.8667,
+      "lng": 23.7833,
+      "districts": []
+    },
+    {
+      "name": "Lääne-Viru",
+      "lat": 59.4075666,
+      "lng": 26.309987,
+      "districts": [
+        {
+          "name": "Aseri",
+          "lat": 59.45056,
+          "lng": 26.8675
+        },
+        {
+          "name": "Haljala",
+          "lat": 59.43361,
+          "lng": 26.26139
+        },
+        {
+          "name": "Haljala vald",
+          "lat": 59.45427,
+          "lng": 26.22015
+        },
+        {
+          "name": "Kadrina",
+          "lat": 59.33472,
+          "lng": 26.145
+        },
+        {
+          "name": "Kadrina vald",
+          "lat": 59.37463,
+          "lng": 26.0415
+        },
+        {
+          "name": "Kunda",
+          "lat": 59.49861,
+          "lng": 26.52611
+        },
+        {
+          "name": "Pajusti",
+          "lat": 59.27444,
+          "lng": 26.42333
+        },
+        {
+          "name": "Rakke",
+          "lat": 58.98167,
+          "lng": 26.25444
+        },
+        {
+          "name": "Rakvere",
+          "lat": 59.34639,
+          "lng": 26.35583
+        },
+        {
+          "name": "Rakvere vald",
+          "lat": 59.32457,
+          "lng": 26.29757
+        },
+        {
+          "name": "Sõmeru",
+          "lat": 59.36111,
+          "lng": 26.4375
+        },
+        {
+          "name": "Tamsalu",
+          "lat": 59.15861,
+          "lng": 26.11528
+        },
+        {
+          "name": "Tapa",
+          "lat": 59.26056,
+          "lng": 25.95861
+        },
+        {
+          "name": "Tapa vald",
+          "lat": 59.23821,
+          "lng": 25.84572
+        },
+        {
+          "name": "Vaiatu",
+          "lat": 59.35556,
+          "lng": 25.99528
+        },
+        {
+          "name": "Väike-Maarja",
+          "lat": 59.12639,
+          "lng": 26.25
+        },
+        {
+          "name": "Väike-Maarja vald",
+          "lat": 59.06556,
+          "lng": 26.31417
+        },
+        {
+          "name": "Vinni",
+          "lat": 59.29583,
+          "lng": 26.43222
+        },
+        {
+          "name": "Vinni vald",
+          "lat": 59.23744,
+          "lng": 26.62261
+        },
+        {
+          "name": "Viru-Nigula vald",
+          "lat": 59.46387,
+          "lng": 26.58585
+        }
+      ]
+    },
+    {
+      "name": "Lääneranna",
+      "lat": 58.5333,
+      "lng": 24.1,
+      "districts": []
+    },
+    {
+      "name": "Loksa",
+      "lat": 59.5764,
+      "lng": 25.7217,
+      "districts": []
+    },
+    {
+      "name": "Lüganuse",
+      "lat": 59.35,
+      "lng": 27.15,
+      "districts": []
+    },
+    {
+      "name": "Luunja",
+      "lat": 58.3833,
+      "lng": 26.9167,
+      "districts": []
+    },
+    {
+      "name": "Maardu",
+      "lat": 59.4653,
+      "lng": 25.0144,
+      "districts": []
+    },
+    {
+      "name": "Märjamaa",
+      "lat": 58.8833,
+      "lng": 24.4667,
+      "districts": []
+    },
+    {
+      "name": "Muhu",
+      "lat": 58.6,
+      "lng": 23.25,
+      "districts": []
+    },
+    {
+      "name": "Mulgi",
+      "lat": 58.1,
+      "lng": 25.5,
+      "districts": []
+    },
+    {
+      "name": "Mustvee",
+      "lat": 58.85,
+      "lng": 26.9333,
+      "districts": []
+    },
+    {
+      "name": "Narva",
+      "lat": 59.3772,
+      "lng": 28.1903,
+      "districts": []
+    },
+    {
+      "name": "Narva-Jõesuu",
+      "lat": 59.4539,
+      "lng": 28.0394,
+      "districts": []
+    },
+    {
+      "name": "Noo",
+      "lat": 58.2833,
+      "lng": 26.55,
+      "districts": []
+    },
+    {
+      "name": "Otepää",
+      "lat": 58.0667,
+      "lng": 26.5,
+      "districts": []
+    },
+    {
+      "name": "Paide",
+      "lat": 58.8856,
+      "lng": 25.5569,
+      "districts": []
+    },
+    {
+      "name": "Pärnu",
+      "lat": 58.3870833,
+      "lng": 24.502831,
+      "districts": [
+        {
+          "name": "Audru",
+          "lat": 58.40861,
+          "lng": 24.37389
+        },
+        {
+          "name": "Kihnu vald",
+          "lat": 58.13,
+          "lng": 23.99002
+        },
+        {
+          "name": "Kilingi-Nõmme",
+          "lat": 58.15028,
+          "lng": 24.96417
+        },
+        {
+          "name": "Lihula",
+          "lat": 58.68139,
+          "lng": 23.84528
+        },
+        {
+          "name": "Linaküla",
+          "lat": 58.13722,
+          "lng": 23.97444
+        },
+        {
+          "name": "Paikuse",
+          "lat": 58.37917,
+          "lng": 24.63444
+        },
+        {
+          "name": "Pärnu",
+          "lat": 58.38588,
+          "lng": 24.49711
+        },
+        {
+          "name": "Pärnu linn",
+          "lat": 58.37901,
+          "lng": 24.52784
+        },
+        {
+          "name": "Pärnu-Jaagupi",
+          "lat": 58.61052,
+          "lng": 24.50689
+        },
+        {
+          "name": "Saarde vald",
+          "lat": 58.13802,
+          "lng": 24.95564
+        },
+        {
+          "name": "Sauga",
+          "lat": 58.4272,
+          "lng": 24.49496
+        },
+        {
+          "name": "Sindi",
+          "lat": 58.40056,
+          "lng": 24.6675
+        },
+        {
+          "name": "Tootsi",
+          "lat": 58.57806,
+          "lng": 24.7925
+        },
+        {
+          "name": "Tori vald",
+          "lat": 58.48663,
+          "lng": 24.88961
+        },
+        {
+          "name": "Uulu",
+          "lat": 58.28361,
+          "lng": 24.58722
+        },
+        {
+          "name": "Vändra",
+          "lat": 58.64806,
+          "lng": 25.03611
+        }
+      ]
+    },
+    {
+      "name": "Pärnu",
+      "lat": 58.3806,
+      "lng": 24.4989,
+      "districts": []
+    },
+    {
+      "name": "Peipsiääre",
+      "lat": 58.6667,
+      "lng": 27.4167,
+      "districts": []
+    },
+    {
+      "name": "Põhja-Pärnu",
+      "lat": 58.8333,
+      "lng": 24.4167,
+      "districts": []
+    },
+    {
+      "name": "Põhja-Sakala",
+      "lat": 58.4833,
+      "lng": 25.5333,
+      "districts": []
+    },
+    {
+      "name": "Poltsamaa",
+      "lat": 58.65,
+      "lng": 25.9667,
+      "districts": []
+    },
+    {
+      "name": "Põlva",
+      "lat": 58.0667,
+      "lng": 27.05,
+      "districts": []
+    },
+    {
+      "name": "Põlva",
+      "lat": 58.1694924,
+      "lng": 27.1567066,
+      "districts": [
+        {
+          "name": "Kanepi",
+          "lat": 57.98306,
+          "lng": 26.75639
+        },
+        {
+          "name": "Kanepi vald",
+          "lat": 57.98058,
+          "lng": 26.76151
+        },
+        {
+          "name": "Põlva",
+          "lat": 58.06028,
+          "lng": 27.06944
+        },
+        {
+          "name": "Põlva vald",
+          "lat": 58.08368,
+          "lng": 26.98242
+        },
+        {
+          "name": "Räpina",
+          "lat": 58.09806,
+          "lng": 27.46361
+        },
+        {
+          "name": "Räpina vald",
+          "lat": 58.10777,
+          "lng": 27.3858
+        }
+      ]
+    },
+    {
+      "name": "Raasiku",
+      "lat": 59.35,
+      "lng": 25.1833,
+      "districts": []
+    },
+    {
+      "name": "Rae",
+      "lat": 59.35,
+      "lng": 24.9667,
+      "districts": []
+    },
+    {
+      "name": "Rakvere",
+      "lat": 59.347,
+      "lng": 26.3558,
+      "districts": []
+    },
+    {
+      "name": "Rakvere",
+      "lat": 59.347,
+      "lng": 26.3558,
+      "districts": []
+    },
+    {
+      "name": "Räpina",
+      "lat": 58.0983,
+      "lng": 27.4639,
+      "districts": []
+    },
+    {
+      "name": "Rapla",
+      "lat": 58.9833,
+      "lng": 24.8,
+      "districts": []
+    },
+    {
+      "name": "Rapla",
+      "lat": 58.9419781,
+      "lng": 24.6984042,
+      "districts": [
+        {
+          "name": "Järvakandi",
+          "lat": 58.77889,
+          "lng": 24.82583
+        },
+        {
+          "name": "Kehtna",
+          "lat": 58.93028,
+          "lng": 24.87806
+        },
+        {
+          "name": "Kehtna vald",
+          "lat": 58.84274,
+          "lng": 24.89002
+        },
+        {
+          "name": "Kohila",
+          "lat": 59.16806,
+          "lng": 24.7575
+        },
+        {
+          "name": "Kohila vald",
+          "lat": 59.15283,
+          "lng": 24.73337
+        },
+        {
+          "name": "Märjamaa",
+          "lat": 58.90389,
+          "lng": 24.43056
+        },
+        {
+          "name": "Märjamaa vald",
+          "lat": 58.90262,
+          "lng": 24.39423
+        },
+        {
+          "name": "Rapla",
+          "lat": 59.00722,
+          "lng": 24.79278
+        },
+        {
+          "name": "Rapla vald",
+          "lat": 59.03309,
+          "lng": 24.71793
+        }
+      ]
+    },
+    {
+      "name": "Rõuge",
+      "lat": 57.7667,
+      "lng": 27.0333,
+      "districts": []
+    },
+    {
+      "name": "Ruhnu",
+      "lat": 57.8,
+      "lng": 23.2667,
+      "districts": []
+    },
+    {
+      "name": "Saarde",
+      "lat": 58.25,
+      "lng": 24.6667,
+      "districts": []
+    },
+    {
+      "name": "Saare",
+      "lat": 58.3697219,
+      "lng": 23.8358031,
+      "districts": [
+        {
+          "name": "Kuressaare",
+          "lat": 58.24806,
+          "lng": 22.50389
+        },
+        {
+          "name": "Liiva",
+          "lat": 58.60194,
+          "lng": 23.24694
+        },
+        {
+          "name": "Muhu vald",
+          "lat": 58.58486,
+          "lng": 23.25609
+        },
+        {
+          "name": "Orissaare",
+          "lat": 58.55917,
+          "lng": 23.08262
+        },
+        {
+          "name": "Ruhnu",
+          "lat": 57.80028,
+          "lng": 23.24833
+        },
+        {
+          "name": "Ruhnu vald",
+          "lat": 57.80309,
+          "lng": 23.2425
+        },
+        {
+          "name": "Tehumardi",
+          "lat": 58.18027,
+          "lng": 22.24646
+        }
+      ]
+    },
+    {
+      "name": "Saaremaa",
+      "lat": 58.4167,
+      "lng": 22.5,
+      "districts": []
+    },
+    {
+      "name": "Saku",
+      "lat": 59.2833,
+      "lng": 24.6667,
+      "districts": []
+    },
+    {
+      "name": "Saue",
+      "lat": 59.3167,
+      "lng": 24.55,
+      "districts": []
+    },
+    {
+      "name": "Setomaa",
+      "lat": 57.7,
+      "lng": 27.6333,
+      "districts": []
+    },
+    {
+      "name": "Sillamäe",
+      "lat": 59.3969,
+      "lng": 27.7631,
+      "districts": []
+    },
+    {
+      "name": "Tallinn",
+      "lat": 59.437,
+      "lng": 24.7536,
+      "districts": []
+    },
+    {
+      "name": "Tapa",
+      "lat": 59.2667,
+      "lng": 26.0333,
+      "districts": []
+    },
+    {
+      "name": "Tartu",
+      "lat": 58.378,
+      "lng": 26.729,
+      "districts": []
+    },
+    {
+      "name": "Tartu",
+      "lat": 58.3801207,
+      "lng": 26.72245,
+      "districts": [
+        {
+          "name": "Alatskivi",
+          "lat": 58.59806,
+          "lng": 27.13361
+        },
+        {
+          "name": "Elva",
+          "lat": 58.2225,
+          "lng": 26.42111
+        },
+        {
+          "name": "Kallaste",
+          "lat": 58.66312,
+          "lng": 27.16164
+        },
+        {
+          "name": "Kambja vald",
+          "lat": 58.20255,
+          "lng": 26.68996
+        },
+        {
+          "name": "Kõrveküla",
+          "lat": 58.42417,
+          "lng": 26.78222
+        },
+        {
+          "name": "Kurepalu",
+          "lat": 58.31861,
+          "lng": 26.84083
+        },
+        {
+          "name": "Luunja",
+          "lat": 58.35583,
+          "lng": 26.88083
+        },
+        {
+          "name": "Luunja vald",
+          "lat": 58.39178,
+          "lng": 26.95574
+        },
+        {
+          "name": "Nõo",
+          "lat": 58.27556,
+          "lng": 26.5375
+        },
+        {
+          "name": "Nõo vald",
+          "lat": 58.24199,
+          "lng": 26.52499
+        },
+        {
+          "name": "Peipsiääre vald",
+          "lat": 58.51559,
+          "lng": 27.18444
+        },
+        {
+          "name": "Puhja",
+          "lat": 58.34194,
+          "lng": 26.31472
+        },
+        {
+          "name": "Tartu",
+          "lat": 58.38062,
+          "lng": 26.72509
+        },
+        {
+          "name": "Tartu linn",
+          "lat": 58.37498,
+          "lng": 26.73256
+        },
+        {
+          "name": "Tartu vald",
+          "lat": 58.478,
+          "lng": 26.74956
+        },
+        {
+          "name": "Ülenurme",
+          "lat": 58.3162,
+          "lng": 26.72517
+        }
+      ]
+    },
+    {
+      "name": "Tartu",
+      "lat": 58.378,
+      "lng": 26.729,
+      "districts": []
+    },
+    {
+      "name": "Toila",
+      "lat": 59.4167,
+      "lng": 27.5167,
+      "districts": []
+    },
+    {
+      "name": "Tori",
+      "lat": 58.4833,
+      "lng": 24.8167,
+      "districts": []
+    },
+    {
+      "name": "Tõrva",
+      "lat": 58,
+      "lng": 25.9333,
+      "districts": []
+    },
+    {
+      "name": "Türi",
+      "lat": 58.8083,
+      "lng": 25.4333,
+      "districts": []
+    },
+    {
+      "name": "Väike-Maarja",
+      "lat": 59.1333,
+      "lng": 26.25,
+      "districts": []
+    },
+    {
+      "name": "Valga",
+      "lat": 57.7833,
+      "lng": 26.05,
+      "districts": []
+    },
+    {
+      "name": "Valga",
+      "lat": 57.777034,
+      "lng": 26.0315628,
+      "districts": [
+        {
+          "name": "Otepää vald",
+          "lat": 58.02177,
+          "lng": 26.45306
+        },
+        {
+          "name": "Tõrva",
+          "lat": 58.00278,
+          "lng": 25.935
+        },
+        {
+          "name": "Valga",
+          "lat": 57.77781,
+          "lng": 26.0473
+        }
+      ]
+    },
+    {
+      "name": "Viimsi",
+      "lat": 59.5,
+      "lng": 24.8167,
+      "districts": []
+    },
+    {
+      "name": "Viljandi",
+      "lat": 58.3639,
+      "lng": 25.59,
+      "districts": []
+    },
+    {
+      "name": "Viljandi",
+      "lat": 58.36454,
+      "lng": 25.5878074,
+      "districts": [
+        {
+          "name": "Abja-Paluoja",
+          "lat": 58.12528,
+          "lng": 25.34972
+        },
+        {
+          "name": "Karksi-Nuia",
+          "lat": 58.10333,
+          "lng": 25.56278
+        },
+        {
+          "name": "Mõisaküla",
+          "lat": 58.09222,
+          "lng": 25.18639
+        },
+        {
+          "name": "Suure-Jaani",
+          "lat": 58.53611,
+          "lng": 25.47056
+        },
+        {
+          "name": "Viiratsi",
+          "lat": 58.36,
+          "lng": 25.63722
+        },
+        {
+          "name": "Viljandi",
+          "lat": 58.36389,
+          "lng": 25.59
+        },
+        {
+          "name": "Viljandi vald",
+          "lat": 58.36392,
+          "lng": 25.49103
+        },
+        {
+          "name": "Võhma",
+          "lat": 58.62833,
+          "lng": 25.54833
+        }
+      ]
+    },
+    {
+      "name": "Viljandi",
+      "lat": 58.3639,
+      "lng": 25.59,
+      "districts": []
+    },
+    {
+      "name": "Vinni",
+      "lat": 59.35,
+      "lng": 26.4333,
+      "districts": []
+    },
+    {
+      "name": "Viru-Nigula",
+      "lat": 59.3667,
+      "lng": 26.8333,
+      "districts": []
+    },
+    {
+      "name": "Vormsi",
+      "lat": 59,
+      "lng": 23.0167,
+      "districts": []
+    },
+    {
+      "name": "Võru",
+      "lat": 57.8431,
+      "lng": 27.0142,
+      "districts": []
+    },
+    {
+      "name": "Võru",
+      "lat": 57.8132607,
+      "lng": 26.9847576,
+      "districts": [
+        {
+          "name": "Antsla",
+          "lat": 57.82556,
+          "lng": 26.54056
+        },
+        {
+          "name": "Antsla vald",
+          "lat": 57.77738,
+          "lng": 26.5952
+        },
+        {
+          "name": "Rõuge",
+          "lat": 57.72778,
+          "lng": 26.90972
+        },
+        {
+          "name": "Rõuge vald",
+          "lat": 57.7278,
+          "lng": 26.88033
+        },
+        {
+          "name": "Vana-Antsla",
+          "lat": 57.86611,
+          "lng": 26.53222
+        },
+        {
+          "name": "Värska",
+          "lat": 57.95806,
+          "lng": 27.63806
+        },
+        {
+          "name": "Võru",
+          "lat": 57.83389,
+          "lng": 27.01944
+        },
+        {
+          "name": "Võru vald",
+          "lat": 57.86618,
+          "lng": 26.97418
+        }
+      ]
+    },
+    {
+      "name": "Võru",
+      "lat": 57.8431,
+      "lng": 27.0142,
+      "districts": []
+    }
+  ]
+}

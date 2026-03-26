@@ -1,0 +1,61 @@
+{
+  "name": "United States Minor Outlying Islands",
+  "lat": 0,
+  "lng": 0,
+  "cities": [
+    {
+      "name": "Baker Island",
+      "lat": 0.1936266,
+      "lng": -176.476908,
+      "districts": []
+    },
+    {
+      "name": "Howland Island",
+      "lat": 0.8113219,
+      "lng": -176.6182736,
+      "districts": []
+    },
+    {
+      "name": "Jarvis Island",
+      "lat": -0.3743503,
+      "lng": -159.9967206,
+      "districts": []
+    },
+    {
+      "name": "Johnston Atoll",
+      "lat": 16.7295035,
+      "lng": -169.5336477,
+      "districts": []
+    },
+    {
+      "name": "Kingman Reef",
+      "lat": 6.383333,
+      "lng": -162.416667,
+      "districts": []
+    },
+    {
+      "name": "Midway Islands",
+      "lat": 28.2072168,
+      "lng": -177.3734926,
+      "districts": []
+    },
+    {
+      "name": "Navassa Island",
+      "lat": 18.4100689,
+      "lng": -75.0114612,
+      "districts": []
+    },
+    {
+      "name": "Palmyra Atoll",
+      "lat": 5.8885026,
+      "lng": -162.0786656,
+      "districts": []
+    },
+    {
+      "name": "Wake Island",
+      "lat": 19.279619,
+      "lng": 166.6499348,
+      "districts": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Solomon Islands",
+  "lat": -8,
+  "lng": 159,
+  "cities": [
+    {
+      "name": "Central",
+      "lat": -8.9833335,
+      "lng": 159.75,
+      "districts": [
+        {
+          "name": "Tulagi",
+          "lat": -9.10306,
+          "lng": 160.15056
+        }
+      ]
+    },
+    {
+      "name": "Choiseul",
+      "lat": -7.0091756,
+      "lng": 156.9239532,
+      "districts": []
+    },
+    {
+      "name": "Guadalcanal",
+      "lat": -9.5984209,
+      "lng": 160.1485117,
+      "districts": [
+        {
+          "name": "Honiara",
+          "lat": -9.43333,
+          "lng": 159.95,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Honiara",
+      "lat": -9.4377975,
+      "lng": 159.9624175,
+      "districts": []
+    },
+    {
+      "name": "Isabel",
+      "lat": -7.9999999,
+      "lng": 158.9999999,
+      "districts": [
+        {
+          "name": "Buala",
+          "lat": -8.14497,
+          "lng": 159.59212
+        }
+      ]
+    },
+    {
+      "name": "Makira-Ulawa",
+      "lat": -10.2835257,
+      "lng": 161.7280731,
+      "districts": [
+        {
+          "name": "Kirakira",
+          "lat": -10.45442,
+          "lng": 161.92045
+        }
+      ]
+    },
+    {
+      "name": "Malaita",
+      "lat": -8.9551687,
+      "lng": 160.9514413,
+      "districts": [
+        {
+          "name": "Auki",
+          "lat": -8.76778,
+          "lng": 160.69778
+        }
+      ]
+    },
+    {
+      "name": "Rennell and Bellona",
+      "lat": -12.1134266,
+      "lng": 160.3170523,
+      "districts": []
+    },
+    {
+      "name": "Temotu",
+      "lat": -10.8891322,
+      "lng": 166.231035,
+      "districts": [
+        {
+          "name": "Lata",
+          "lat": -10.725,
+          "lng": 165.79722
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "lat": -7.8166667,
+      "lng": 156.683988,
+      "districts": [
+        {
+          "name": "Gizo",
+          "lat": -8.10303,
+          "lng": 156.84186
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "name": "Cape Verde",
+  "lat": 16,
+  "lng": -24,
+  "cities": [
+    {
+      "name": "Barlavento Islands",
+      "lat": 17.0555285,
+      "lng": -25.1723049,
+      "districts": []
+    },
+    {
+      "name": "Boa Vista",
+      "lat": 16.099509,
+      "lng": -22.8009411,
+      "districts": [
+        {
+          "name": "Sal Rei",
+          "lat": 16.17611,
+          "lng": -22.91722
+        }
+      ]
+    },
+    {
+      "name": "Brava",
+      "lat": 14.8519426,
+      "lng": -24.7086939,
+      "districts": [
+        {
+          "name": "Nova Sintra",
+          "lat": 14.87139,
+          "lng": -24.69556
+        }
+      ]
+    },
+    {
+      "name": "Maio",
+      "lat": 15.2272182,
+      "lng": -23.1563014,
+      "districts": [
+        {
+          "name": "Vila do Maio",
+          "lat": 15.13823,
+          "lng": -23.21158
+        }
+      ]
+    },
+    {
+      "name": "Mosteiros",
+      "lat": 15.0347257,
+      "lng": -24.3277421,
+      "districts": [
+        {
+          "name": "Igreja",
+          "lat": 15.03389,
+          "lng": -24.325
+        }
+      ]
+    },
+    {
+      "name": "Paul",
+      "lat": 17.1150295,
+      "lng": -25.0201589,
+      "districts": [
+        {
+          "name": "Pombas",
+          "lat": 17.15026,
+          "lng": -25.02007
+        }
+      ]
+    },
+    {
+      "name": "Porto Novo",
+      "lat": 17.0193423,
+      "lng": -25.0641922,
+      "districts": [
+        {
+          "name": "Porto Novo",
+          "lat": 17.01969,
+          "lng": -25.06471
+        }
+      ]
+    },
+    {
+      "name": "Praia",
+      "lat": 14.9481201,
+      "lng": -23.5158945,
+      "districts": [
+        {
+          "name": "Praia",
+          "lat": 14.93152,
+          "lng": -23.51254,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Ribeira Brava",
+      "lat": 16.615728,
+      "lng": -24.2982543,
+      "districts": [
+        {
+          "name": "Ribeira Brava",
+          "lat": 16.61583,
+          "lng": -24.29833
+        }
+      ]
+    },
+    {
+      "name": "Ribeira Grande",
+      "lat": 17.1833547,
+      "lng": -25.0643795,
+      "districts": [
+        {
+          "name": "Ponta do Sol",
+          "lat": 17.20171,
+          "lng": -25.09217
+        },
+        {
+          "name": "Ribeira Grande",
+          "lat": 17.1825,
+          "lng": -25.065
+        }
+      ]
+    },
+    {
+      "name": "Ribeira Grande de Santiago",
+      "lat": 14.9830298,
+      "lng": -23.6561725,
+      "districts": [
+        {
+          "name": "Cidade Velha",
+          "lat": 14.91531,
+          "lng": -23.60527
+        }
+      ]
+    },
+    {
+      "name": "Sal",
+      "lat": 16.7204556,
+      "lng": -22.9386761,
+      "districts": [
+        {
+          "name": "Espargos",
+          "lat": 16.75524,
+          "lng": -22.9446
+        },
+        {
+          "name": "Santa Maria",
+          "lat": 16.59796,
+          "lng": -22.90509
+        }
+      ]
+    },
+    {
+      "name": "Santa Catarina",
+      "lat": 15.0890754,
+      "lng": -23.7134304,
+      "districts": [
+        {
+          "name": "Assomada",
+          "lat": 15.1,
+          "lng": -23.68333
+        }
+      ]
+    },
+    {
+      "name": "Santa Catarina do Fogo",
+      "lat": 14.9022545,
+      "lng": -24.3212579,
+      "districts": [
+        {
+          "name": "Cova Figueira",
+          "lat": 14.89054,
+          "lng": -24.29343
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "lat": 15.1323932,
+      "lng": -23.5576819,
+      "districts": [
+        {
+          "name": "Pedra Badejo",
+          "lat": 15.1375,
+          "lng": -23.53083
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 15.13333,
+          "lng": -23.56667
+        }
+      ]
+    },
+    {
+      "name": "São Domingos",
+      "lat": 15.0286165,
+      "lng": -23.563922,
+      "districts": [
+        {
+          "name": "São Domingos",
+          "lat": 15.02438,
+          "lng": -23.5625
+        }
+      ]
+    },
+    {
+      "name": "São Filipe",
+      "lat": 14.8951679,
+      "lng": -24.4945636,
+      "districts": [
+        {
+          "name": "São Filipe",
+          "lat": 14.8961,
+          "lng": -24.49556
+        }
+      ]
+    },
+    {
+      "name": "São Lourenço dos Órgãos",
+      "lat": 15.0709442,
+      "lng": -23.5865131,
+      "districts": [
+        {
+          "name": "João Teves",
+          "lat": 15.06694,
+          "lng": -23.58917
+        }
+      ]
+    },
+    {
+      "name": "São Miguel",
+      "lat": 15.1899662,
+      "lng": -23.6420486,
+      "districts": [
+        {
+          "name": "Calheta",
+          "lat": 15.18613,
+          "lng": -23.59228
+        }
+      ]
+    },
+    {
+      "name": "São Salvador do Mundo",
+      "lat": 15.07,
+      "lng": -23.63,
+      "districts": [
+        {
+          "name": "Achada Leitão",
+          "lat": 15.08,
+          "lng": -23.64
+        },
+        {
+          "name": "Leitão Grande",
+          "lat": 15.075,
+          "lng": -23.645
+        },
+        {
+          "name": "Picos",
+          "lat": 15.083,
+          "lng": -23.632
+        },
+        {
+          "name": "Picos Acima",
+          "lat": 15.09,
+          "lng": -23.63
+        }
+      ]
+    },
+    {
+      "name": "São Vicente",
+      "lat": 16.8494412,
+      "lng": -24.9718792,
+      "districts": [
+        {
+          "name": "Mindelo",
+          "lat": 16.89014,
+          "lng": -24.98042
+        }
+      ]
+    },
+    {
+      "name": "Sotavento Islands",
+      "lat": 15.1200758,
+      "lng": -23.6348181,
+      "districts": []
+    },
+    {
+      "name": "Tarrafal",
+      "lat": 15.2760578,
+      "lng": -23.7484077,
+      "districts": [
+        {
+          "name": "Tarrafal",
+          "lat": 15.27881,
+          "lng": -23.75192
+        }
+      ]
+    },
+    {
+      "name": "Tarrafal de São Nicolau",
+      "lat": 16.5636498,
+      "lng": -24.354942,
+      "districts": [
+        {
+          "name": "Tarrafal de São Nicolau",
+          "lat": 16.56622,
+          "lng": -24.35793
+        }
+      ]
+    }
+  ]
+}

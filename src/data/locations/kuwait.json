@@ -1,0 +1,175 @@
+{
+  "name": "Kuwait",
+  "lat": 29.5,
+  "lng": 45.75,
+  "cities": [
+    {
+      "name": "Al Ahmadi",
+      "lat": 28.8538571,
+      "lng": 48.1652377,
+      "districts": [
+        {
+          "name": "Al Aḩmadī",
+          "lat": 29.07694,
+          "lng": 48.08389
+        },
+        {
+          "name": "Al Faḩāḩīl",
+          "lat": 29.0825,
+          "lng": 48.13028
+        },
+        {
+          "name": "Al Finţās",
+          "lat": 29.17389,
+          "lng": 48.12111
+        },
+        {
+          "name": "Al Mahbūlah",
+          "lat": 29.145,
+          "lng": 48.13028
+        },
+        {
+          "name": "Al Manqaf",
+          "lat": 29.09611,
+          "lng": 48.13278
+        },
+        {
+          "name": "Al Wafrah",
+          "lat": 28.63917,
+          "lng": 47.93056
+        },
+        {
+          "name": "Ar Riqqah",
+          "lat": 29.14583,
+          "lng": 48.09472
+        }
+      ]
+    },
+    {
+      "name": "Al Asimah",
+      "lat": 29.0926128,
+      "lng": 48.513355,
+      "districts": [
+        {
+          "name": "Kuwait City",
+          "lat": 29.36972,
+          "lng": 47.97833,
+          "iscapital": true
+        },
+        {
+          "name": "Ad Dasmah",
+          "lat": 29.365,
+          "lng": 48.00139
+        },
+        {
+          "name": "Ar Rābiyah",
+          "lat": 29.295,
+          "lng": 47.93306
+        },
+        {
+          "name": "Ash Shāmīyah",
+          "lat": 29.34722,
+          "lng": 47.96167
+        },
+        {
+          "name": "Az Zawr",
+          "lat": 29.4425,
+          "lng": 48.27472
+        }
+      ]
+    },
+    {
+      "name": "Al Farwaniyah",
+      "lat": 29.2482539,
+      "lng": 47.9136755,
+      "districts": [
+        {
+          "name": "Al Farwānīyah",
+          "lat": 29.2775,
+          "lng": 47.95861
+        },
+        {
+          "name": "Janūb as Surrah",
+          "lat": 29.26917,
+          "lng": 47.97806
+        }
+      ]
+    },
+    {
+      "name": "Al Jahra",
+      "lat": 29.3474636,
+      "lng": 47.6722054,
+      "districts": [
+        {
+          "name": "Al Jahrā’",
+          "lat": 29.3375,
+          "lng": 47.65806
+        }
+      ]
+    },
+    {
+      "name": "Hawalli",
+      "lat": 29.3236609,
+      "lng": 48.1153148,
+      "districts": [
+        {
+          "name": "As Sālimīyah",
+          "lat": 29.33389,
+          "lng": 48.07611
+        },
+        {
+          "name": "Ḩawallī",
+          "lat": 29.33278,
+          "lng": 48.02861
+        },
+        {
+          "name": "Ar Rumaythīyah",
+          "lat": 29.31167,
+          "lng": 48.07417
+        },
+        {
+          "name": "Bayān",
+          "lat": 29.3032,
+          "lng": 48.04881
+        },
+        {
+          "name": "Salwá",
+          "lat": 29.29583,
+          "lng": 48.07861
+        }
+      ]
+    },
+    {
+      "name": "Mubarak Al-Kabeer",
+      "lat": 29.1870956,
+      "lng": 48.0827589,
+      "districts": [
+        {
+          "name": "Şabāḩ as Sālim",
+          "lat": 29.25722,
+          "lng": 48.05722
+        },
+        {
+          "name": "Abu Al Hasaniya",
+          "lat": 29.19076,
+          "lng": 48.11355
+        },
+        {
+          "name": "Abu Fatira",
+          "lat": 29.19746,
+          "lng": 48.10278
+        },
+        {
+          "name": "Al Funayţīs",
+          "lat": 29.22528,
+          "lng": 48.10167
+        },
+        {
+          "name": "Al-Masayel",
+          "lat": 29.2393,
+          "lng": 48.08862
+        }
+      ]
+    }
+  ]
+}

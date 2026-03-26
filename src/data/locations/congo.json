@@ -1,0 +1,176 @@
+{
+  "name": "Congo",
+  "lat": -1,
+  "lng": 15,
+  "cities": [
+    {
+      "name": "Bouenza",
+      "lat": -4.2868653,
+      "lng": 13.3972129,
+      "districts": [
+        {
+          "name": "Kayes",
+          "lat": -4.20493,
+          "lng": 13.28608
+        },
+        {
+          "name": "Madingou",
+          "lat": -4.15361,
+          "lng": 13.55
+        }
+      ]
+    },
+    {
+      "name": "Brazzaville",
+      "lat": -4.2694407,
+      "lng": 15.2712256,
+      "districts": [
+        {
+          "name": "Brazzaville",
+          "lat": -4.26613,
+          "lng": 15.28318,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Cuvette",
+      "lat": -0.4936855,
+      "lng": 16.1602013,
+      "districts": [
+        {
+          "name": "Makoua",
+          "lat": 0.00694,
+          "lng": 15.63333
+        },
+        {
+          "name": "Owando",
+          "lat": -0.48193,
+          "lng": 15.89988
+        }
+      ]
+    },
+    {
+      "name": "Cuvette-Ouest",
+      "lat": 0.280252,
+      "lng": 14.5292599,
+      "districts": [
+        {
+          "name": "Ewo",
+          "lat": -0.8725,
+          "lng": 14.82056
+        }
+      ]
+    },
+    {
+      "name": "Kouilou",
+      "lat": -4.1960964,
+      "lng": 11.9104388,
+      "districts": []
+    },
+    {
+      "name": "Lékoumou",
+      "lat": -3.2315605,
+      "lng": 13.5211721,
+      "districts": [
+        {
+          "name": "Sibiti",
+          "lat": -3.68192,
+          "lng": 13.34985
+        }
+      ]
+    },
+    {
+      "name": "Likouala",
+      "lat": 1.6788828,
+      "lng": 17.4747723,
+      "districts": [
+        {
+          "name": "Impfondo",
+          "lat": 1.61804,
+          "lng": 18.05981
+        }
+      ]
+    },
+    {
+      "name": "Niari",
+      "lat": -2.9077055,
+      "lng": 12.3298313,
+      "districts": [
+        {
+          "name": "Dolisie",
+          "lat": -4.19834,
+          "lng": 12.66664
+        },
+        {
+          "name": "Mossendjo",
+          "lat": -2.94968,
+          "lng": 12.70423
+        }
+      ]
+    },
+    {
+      "name": "Plateaux",
+      "lat": -2.1709644,
+      "lng": 15.2286129,
+      "districts": [
+        {
+          "name": "Djambala",
+          "lat": -2.54472,
+          "lng": 14.75333
+        },
+        {
+          "name": "Gamboma",
+          "lat": -1.87639,
+          "lng": 15.86444
+        }
+      ]
+    },
+    {
+      "name": "Pointe-Noire",
+      "lat": -4.7975373,
+      "lng": 11.8503297,
+      "districts": [
+        {
+          "name": "Pointe-Noire",
+          "lat": -4.77609,
+          "lng": 11.86352
+        },
+        {
+          "name": "Loandjili",
+          "lat": -4.75611,
+          "lng": 11.85778
+        }
+      ]
+    },
+    {
+      "name": "Pool",
+      "lat": -3.7298545,
+      "lng": 15.053872,
+      "districts": [
+        {
+          "name": "Kinkala",
+          "lat": -4.36139,
+          "lng": 14.76444
+        }
+      ]
+    },
+    {
+      "name": "Sangha",
+      "lat": 1.4284362,
+      "lng": 15.4222522,
+      "districts": [
+        {
+          "name": "Ouésso",
+          "lat": 1.61361,
+          "lng": 16.05167
+        },
+        {
+          "name": "Sémbé",
+          "lat": 1.64806,
+          "lng": 14.58056
+        }
+      ]
+    }
+  ]
+}

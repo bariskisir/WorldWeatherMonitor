@@ -1,0 +1,824 @@
+{
+  "name": "Bangladesh",
+  "lat": 24,
+  "lng": 90,
+  "cities": [
+    {
+      "name": "Bagerhat",
+      "lat": 22.65833,
+      "lng": 89.78333,
+      "districts": [
+        {
+          "name": "Bagerhat",
+          "lat": 22.3488059,
+          "lng": 89.0747025
+        }
+      ]
+    },
+    {
+      "name": "Bandarban",
+      "lat": 22.19534,
+      "lng": 92.21946,
+      "districts": [
+        {
+          "name": "Bandarban",
+          "lat": 22,
+          "lng": 92.33333
+        }
+      ]
+    },
+    {
+      "name": "Barguna",
+      "lat": 22.1533,
+      "lng": 90.11997,
+      "districts": [
+        {
+          "name": "Barguna",
+          "lat": 22.1716787,
+          "lng": 89.7974024
+        }
+      ]
+    },
+    {
+      "name": "Barisal ",
+      "lat": 22.4934035,
+      "lng": 90.3548015,
+      "districts": []
+    },
+    {
+      "name": "Barishal",
+      "lat": 22.701,
+      "lng": 90.3536,
+      "districts": [
+        {
+          "name": "Barisal",
+          "lat": 22.4203579,
+          "lng": 89.7825034
+        }
+      ]
+    },
+    {
+      "name": "Bhola",
+      "lat": 22.6854,
+      "lng": 90.6482,
+      "districts": [
+        {
+          "name": "Bhola",
+          "lat": 22.3245248,
+          "lng": 90.1056847
+        }
+      ]
+    },
+    {
+      "name": "Bogura",
+      "lat": 24.84656,
+      "lng": 89.37764,
+      "districts": [
+        {
+          "name": "Bogra",
+          "lat": 24.8296645,
+          "lng": 89.0259857
+        }
+      ]
+    },
+    {
+      "name": "Brahmanbaria",
+      "lat": 23.9609,
+      "lng": 91.1115,
+      "districts": [
+        {
+          "name": "Brahmanbaria",
+          "lat": 23.98333,
+          "lng": 91.16667
+        }
+      ]
+    },
+    {
+      "name": "Chandpur",
+      "lat": 23.2513,
+      "lng": 90.8518,
+      "districts": [
+        {
+          "name": "Chandpur",
+          "lat": 23.25,
+          "lng": 90.83333
+        }
+      ]
+    },
+    {
+      "name": "Chapai Nawabganj",
+      "lat": 24.59548,
+      "lng": 88.29125,
+      "districts": [
+        {
+          "name": "Chapai Nawabganj",
+          "lat": 24.5998869,
+          "lng": 88.2850466
+        }
+      ]
+    },
+    {
+      "name": "Chattogram",
+      "lat": 22.3569,
+      "lng": 91.7832,
+      "districts": [
+        {
+          "name": "Chittagong",
+          "lat": 22.4875,
+          "lng": 91.96333
+        }
+      ]
+    },
+    {
+      "name": "Chittagong ",
+      "lat": 22.6800466,
+      "lng": 91.8839938,
+      "districts": []
+    },
+    {
+      "name": "Chuadanga",
+      "lat": 23.6402,
+      "lng": 88.8412,
+      "districts": [
+        {
+          "name": "Chuadanga",
+          "lat": 23.6035273,
+          "lng": 88.487324
+        }
+      ]
+    },
+    {
+      "name": "Cox's Bazar",
+      "lat": 21.4394,
+      "lng": 92.0099,
+      "districts": [
+        {
+          "name": "Cox's Bazar",
+          "lat": 21.58389,
+          "lng": 92.01528
+        }
+      ]
+    },
+    {
+      "name": "Cumilla",
+      "lat": 23.4605,
+      "lng": 91.1809,
+      "districts": [
+        {
+          "name": "Comilla",
+          "lat": 23.4417,
+          "lng": 91.00987
+        }
+      ]
+    },
+    {
+      "name": "Dhaka",
+      "lat": 23.8105,
+      "lng": 90.4072,
+      "districts": [
+        {
+          "name": "Dhaka",
+          "lat": 23.7841798,
+          "lng": 89.9285983,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Dhaka ",
+      "lat": 23.9456166,
+      "lng": 90.2526382,
+      "districts": []
+    },
+    {
+      "name": "Dinajpur",
+      "lat": 25.6277,
+      "lng": 88.6363,
+      "districts": [
+        {
+          "name": "Dinajpur",
+          "lat": 25.6426103,
+          "lng": 88.1834462
+        }
+      ]
+    },
+    {
+      "name": "Faridpur",
+      "lat": 23.6072,
+      "lng": 89.8406,
+      "districts": [
+        {
+          "name": "Faridpur",
+          "lat": 23.4511524,
+          "lng": 89.5282038
+        }
+      ]
+    },
+    {
+      "name": "Feni",
+      "lat": 23.0133,
+      "lng": 91.4039,
+      "districts": [
+        {
+          "name": "Feni",
+          "lat": 22.96667,
+          "lng": 91.31667
+        }
+      ]
+    },
+    {
+      "name": "Gaibandha",
+      "lat": 25.3288,
+      "lng": 89.543,
+      "districts": [
+        {
+          "name": "Gaibandha",
+          "lat": 25.3431557,
+          "lng": 89.1397857
+        }
+      ]
+    },
+    {
+      "name": "Gazipur",
+      "lat": 24.0958,
+      "lng": 90.4125,
+      "districts": [
+        {
+          "name": "Gazipur",
+          "lat": 24.1091452,
+          "lng": 90.0959614
+        }
+      ]
+    },
+    {
+      "name": "Gopalganj",
+      "lat": 23.0055,
+      "lng": 89.8266,
+      "districts": [
+        {
+          "name": "Gopalganj",
+          "lat": 23.1066012,
+          "lng": 89.5780271
+        }
+      ]
+    },
+    {
+      "name": "Habiganj",
+      "lat": 24.3744,
+      "lng": 91.4153,
+      "districts": [
+        {
+          "name": "Habiganj",
+          "lat": 24.3348197,
+          "lng": 90.7489901
+        }
+      ]
+    },
+    {
+      "name": "Jamalpur",
+      "lat": 25.0833,
+      "lng": 89.9333,
+      "districts": [
+        {
+          "name": "Jamalpur",
+          "lat": 25.0010825,
+          "lng": 89.2605013
+        }
+      ]
+    },
+    {
+      "name": "Jashore",
+      "lat": 23.1665,
+      "lng": 89.2121,
+      "districts": [
+        {
+          "name": "Jessore",
+          "lat": 23.0847356,
+          "lng": 88.8748008
+        }
+      ]
+    },
+    {
+      "name": "Jhalakathi",
+      "lat": 22.6402,
+      "lng": 90.1987,
+      "districts": [
+        {
+          "name": "Jhalokati",
+          "lat": 22.5630352,
+          "lng": 89.8719159
+        }
+      ]
+    },
+    {
+      "name": "Jhenaidah",
+      "lat": 23.5449,
+      "lng": 89.1726,
+      "districts": [
+        {
+          "name": "Jhenaidah",
+          "lat": 23.4952127,
+          "lng": 88.7069493
+        }
+      ]
+    },
+    {
+      "name": "Joypurhat",
+      "lat": 25.0936,
+      "lng": 89.0945,
+      "districts": [
+        {
+          "name": "Joypurhat",
+          "lat": 25.0656707,
+          "lng": 88.7683265
+        }
+      ]
+    },
+    {
+      "name": "Khagrachhari",
+      "lat": 23.1191,
+      "lng": 91.9766,
+      "districts": [
+        {
+          "name": "Khagrachhari",
+          "lat": 23.16667,
+          "lng": 91.9
+        }
+      ]
+    },
+    {
+      "name": "Khulna",
+      "lat": 22.8157,
+      "lng": 89.5681,
+      "districts": [
+        {
+          "name": "Khulna",
+          "lat": 22.3535139,
+          "lng": 88.8340709
+        }
+      ]
+    },
+    {
+      "name": "Khulna ",
+      "lat": 22.9372087,
+      "lng": 89.2852741,
+      "districts": []
+    },
+    {
+      "name": "Kishoreganj",
+      "lat": 24.444,
+      "lng": 90.7767,
+      "districts": [
+        {
+          "name": "Kishoreganj",
+          "lat": 24.3388803,
+          "lng": 90.584998
+        }
+      ]
+    },
+    {
+      "name": "Kurigram",
+      "lat": 25.8055,
+      "lng": 89.6277,
+      "districts": [
+        {
+          "name": "Kurigram",
+          "lat": 25.8082722,
+          "lng": 89.0091503
+        }
+      ]
+    },
+    {
+      "name": "Kushtia",
+      "lat": 23.8907,
+      "lng": 89.1189,
+      "districts": [
+        {
+          "name": "Kushtia",
+          "lat": 23.9459524,
+          "lng": 88.7017929
+        }
+      ]
+    },
+    {
+      "name": "Lakshmipur",
+      "lat": 22.9449,
+      "lng": 90.8282,
+      "districts": [
+        {
+          "name": "Lakshmipur",
+          "lat": 22.91667,
+          "lng": 90.83333
+        }
+      ]
+    },
+    {
+      "name": "Lalmonirhat",
+      "lat": 25.9178,
+      "lng": 89.4452,
+      "districts": [
+        {
+          "name": "Lalmonirhat",
+          "lat": 26.1244239,
+          "lng": 88.910609
+        }
+      ]
+    },
+    {
+      "name": "Madaripur",
+      "lat": 23.17,
+      "lng": 90.1877,
+      "districts": [
+        {
+          "name": "Madaripur",
+          "lat": 23.2345549,
+          "lng": 89.8108903
+        }
+      ]
+    },
+    {
+      "name": "Magura",
+      "lat": 23.4871,
+      "lng": 89.4198,
+      "districts": [
+        {
+          "name": "Magura",
+          "lat": 23.4655774,
+          "lng": 89.115473
+        }
+      ]
+    },
+    {
+      "name": "Manikganj",
+      "lat": 23.8614,
+      "lng": 90.0003,
+      "districts": [
+        {
+          "name": "Manikganj",
+          "lat": 23.8317408,
+          "lng": 89.6409789
+        }
+      ]
+    },
+    {
+      "name": "Meherpur",
+      "lat": 23.7621,
+      "lng": 88.6318,
+      "districts": [
+        {
+          "name": "Meherpur",
+          "lat": 23.7897218,
+          "lng": 88.3931949
+        }
+      ]
+    },
+    {
+      "name": "Moulvibazar",
+      "lat": 24.3094,
+      "lng": 91.7315,
+      "districts": [
+        {
+          "name": "Moulvibazar",
+          "lat": 24.4861771,
+          "lng": 91.2874241
+        }
+      ]
+    },
+    {
+      "name": "Munshiganj",
+      "lat": 23.5518,
+      "lng": 90.4122,
+      "districts": [
+        {
+          "name": "Munshiganj",
+          "lat": 23.5261523,
+          "lng": 90.1159091
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh",
+      "lat": 24.7536,
+      "lng": 90.4072,
+      "districts": [
+        {
+          "name": "Mymensingh",
+          "lat": 24.7230985,
+          "lng": 89.7841173
+        }
+      ]
+    },
+    {
+      "name": "Mymensingh ",
+      "lat": 24.7482129,
+      "lng": 90.4099158,
+      "districts": []
+    },
+    {
+      "name": "Naogaon",
+      "lat": 24.8042,
+      "lng": 88.9254,
+      "districts": [
+        {
+          "name": "Naogaon",
+          "lat": 24.8742508,
+          "lng": 88.4375191
+        }
+      ]
+    },
+    {
+      "name": "Narail",
+      "lat": 23.1163,
+      "lng": 89.4998,
+      "districts": [
+        {
+          "name": "Narail",
+          "lat": 23.131757,
+          "lng": 89.2625844
+        }
+      ]
+    },
+    {
+      "name": "Narayanganj",
+      "lat": 23.6338,
+      "lng": 90.5,
+      "districts": [
+        {
+          "name": "Narayanganj",
+          "lat": 23.7488013,
+          "lng": 90.256385
+        }
+      ]
+    },
+    {
+      "name": "Narsingdi",
+      "lat": 23.9232,
+      "lng": 90.7168,
+      "districts": [
+        {
+          "name": "Narsingdi",
+          "lat": 24.00966,
+          "lng": 90.4448042
+        }
+      ]
+    },
+    {
+      "name": "Natore",
+      "lat": 24.4205,
+      "lng": 89.0006,
+      "districts": [
+        {
+          "name": "Natore",
+          "lat": 24.3802107,
+          "lng": 88.7630252
+        }
+      ]
+    },
+    {
+      "name": "Netrakona",
+      "lat": 24.8809,
+      "lng": 90.7277,
+      "districts": [
+        {
+          "name": "Netrokona",
+          "lat": 24.8720481,
+          "lng": 90.5229381
+        }
+      ]
+    },
+    {
+      "name": "Nilphamari",
+      "lat": 25.9318,
+      "lng": 88.856,
+      "districts": [
+        {
+          "name": "Nilphamari",
+          "lat": 26.0226425,
+          "lng": 88.6341271
+        }
+      ]
+    },
+    {
+      "name": "Noakhali",
+      "lat": 22.8691,
+      "lng": 91.0979,
+      "districts": [
+        {
+          "name": "Noakhali",
+          "lat": 22.75,
+          "lng": 91.16667
+        }
+      ]
+    },
+    {
+      "name": "Pabna",
+      "lat": 24.0064,
+      "lng": 89.2336,
+      "districts": [
+        {
+          "name": "Pabna",
+          "lat": 24.0812672,
+          "lng": 89.0372442
+        }
+      ]
+    },
+    {
+      "name": "Panchagarh",
+      "lat": 26.3388,
+      "lng": 88.5539,
+      "districts": [
+        {
+          "name": "Panchagarh",
+          "lat": 26.3209446,
+          "lng": 88.5471139
+        }
+      ]
+    },
+    {
+      "name": "Patuakhali",
+      "lat": 22.3591,
+      "lng": 90.3289,
+      "districts": [
+        {
+          "name": "Patuakhali",
+          "lat": 22.1870917,
+          "lng": 89.7164706
+        }
+      ]
+    },
+    {
+      "name": "Pirojpur",
+      "lat": 22.5791,
+      "lng": 89.9759,
+      "districts": [
+        {
+          "name": "Pirojpur",
+          "lat": 22.5093791,
+          "lng": 89.3643422
+        }
+      ]
+    },
+    {
+      "name": "Rajbari",
+      "lat": 23.7574,
+      "lng": 89.6447,
+      "districts": [
+        {
+          "name": "Rajbari",
+          "lat": 23.73843,
+          "lng": 89.25547
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi",
+      "lat": 24.3744,
+      "lng": 88.6044,
+      "districts": [
+        {
+          "name": "Rajshahi",
+          "lat": 24.4207336,
+          "lng": 88.2960214
+        }
+      ]
+    },
+    {
+      "name": "Rajshahi ",
+      "lat": 24.6285432,
+      "lng": 89.0376862,
+      "districts": []
+    },
+    {
+      "name": "Rangamati",
+      "lat": 22.6532,
+      "lng": 92.1753,
+      "districts": [
+        {
+          "name": "Rangamati",
+          "lat": 22.63333,
+          "lng": 92.2
+        }
+      ]
+    },
+    {
+      "name": "Rangpur ",
+      "lat": 25.6376135,
+      "lng": 89.0826381,
+      "districts": []
+    },
+    {
+      "name": "Rangpur",
+      "lat": 25.7466,
+      "lng": 89.2508,
+      "districts": [
+        {
+          "name": "Rangpur",
+          "lat": 25.6239024,
+          "lng": 88.9009498
+        }
+      ]
+    },
+    {
+      "name": "Satkhira",
+      "lat": 22.7159,
+      "lng": 89.0706,
+      "districts": [
+        {
+          "name": "Satkhira",
+          "lat": 22.2989859,
+          "lng": 88.4754087
+        }
+      ]
+    },
+    {
+      "name": "Shariatpur",
+      "lat": 23.2423,
+      "lng": 90.4348,
+      "districts": [
+        {
+          "name": "Shariatpur",
+          "lat": 23.2312434,
+          "lng": 90.0829347
+        }
+      ]
+    },
+    {
+      "name": "Sherpur",
+      "lat": 25.0197,
+      "lng": 90.0151,
+      "districts": [
+        {
+          "name": "Sherpur",
+          "lat": 25.0926038,
+          "lng": 89.7635207
+        }
+      ]
+    },
+    {
+      "name": "Sirajganj",
+      "lat": 24.4533,
+      "lng": 89.7006,
+      "districts": [
+        {
+          "name": "Sirajganj",
+          "lat": 24.3987624,
+          "lng": 88.8764181
+        }
+      ]
+    },
+    {
+      "name": "Sunamganj",
+      "lat": 25.0658,
+      "lng": 91.395,
+      "districts": [
+        {
+          "name": "Sunamganj",
+          "lat": 24.8890554,
+          "lng": 91.0024827
+        }
+      ]
+    },
+    {
+      "name": "Sylhet ",
+      "lat": 24.7358854,
+      "lng": 91.6852476,
+      "districts": []
+    },
+    {
+      "name": "Sylhet",
+      "lat": 24.8994,
+      "lng": 91.8698,
+      "districts": [
+        {
+          "name": "Sylhet",
+          "lat": 24.8918911,
+          "lng": 91.7355495
+        }
+      ]
+    },
+    {
+      "name": "Tangail",
+      "lat": 24.2498,
+      "lng": 89.9168,
+      "districts": [
+        {
+          "name": "Tangail",
+          "lat": 24.376307,
+          "lng": 89.3580461
+        }
+      ]
+    },
+    {
+      "name": "Thakurgaon",
+      "lat": 26.0322,
+      "lng": 88.461,
+      "districts": [
+        {
+          "name": "Thakurgaon",
+          "lat": 25.9364842,
+          "lng": 88.0336664
+        }
+      ]
+    }
+  ]
+}

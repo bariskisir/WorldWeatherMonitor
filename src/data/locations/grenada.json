@@ -1,0 +1,92 @@
+{
+  "name": "Grenada",
+  "lat": 12.11666666,
+  "lng": -61.66666666,
+  "cities": [
+    {
+      "name": "Carriacou",
+      "lat": 12.4829985,
+      "lng": -61.4448436,
+      "districts": [
+        {
+          "name": "Hillsborough",
+          "lat": 12.48292,
+          "lng": -61.45597
+        }
+      ]
+    },
+    {
+      "name": "Saint Andrew",
+      "lat": 12.1111935,
+      "lng": -61.6865971,
+      "districts": [
+        {
+          "name": "Grenville",
+          "lat": 12.12278,
+          "lng": -61.62498
+        }
+      ]
+    },
+    {
+      "name": "Saint David",
+      "lat": 12.0428069,
+      "lng": -61.6778988,
+      "districts": [
+        {
+          "name": "Saint David’s",
+          "lat": 12.04903,
+          "lng": -61.66875
+        }
+      ]
+    },
+    {
+      "name": "Saint George",
+      "lat": 12.0535331,
+      "lng": -61.751805,
+      "districts": [
+        {
+          "name": "Saint George's",
+          "lat": 12.05288,
+          "lng": -61.75226,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "lat": 12.1444029,
+      "lng": -61.7121841,
+      "districts": [
+        {
+          "name": "Gouyave",
+          "lat": 12.16462,
+          "lng": -61.72965
+        }
+      ]
+    },
+    {
+      "name": "Saint Mark",
+      "lat": 12.1886437,
+      "lng": -61.6954355,
+      "districts": [
+        {
+          "name": "Victoria",
+          "lat": 12.19021,
+          "lng": -61.70677
+        }
+      ]
+    },
+    {
+      "name": "Saint Patrick",
+      "lat": 12.2102986,
+      "lng": -61.6350539,
+      "districts": [
+        {
+          "name": "Sauteurs",
+          "lat": 12.21833,
+          "lng": -61.63917
+        }
+      ]
+    }
+  ]
+}

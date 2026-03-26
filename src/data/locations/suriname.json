@@ -1,0 +1,142 @@
+{
+  "name": "Suriname",
+  "lat": 4,
+  "lng": -56,
+  "cities": [
+    {
+      "name": "Brokopondo",
+      "lat": 4.6851643,
+      "lng": -55.061093,
+      "districts": [
+        {
+          "name": "Brokopondo",
+          "lat": 5.05594,
+          "lng": -54.98043
+        },
+        {
+          "name": "Brownsweg",
+          "lat": 5.00435,
+          "lng": -55.15333
+        }
+      ]
+    },
+    {
+      "name": "Commewijne",
+      "lat": 5.8401198,
+      "lng": -54.9244431,
+      "districts": [
+        {
+          "name": "Mariënburg",
+          "lat": 5.87722,
+          "lng": -55.04322
+        },
+        {
+          "name": "Nieuw Amsterdam",
+          "lat": 5.88573,
+          "lng": -55.08871
+        }
+      ]
+    },
+    {
+      "name": "Coronie",
+      "lat": 5.7468563,
+      "lng": -56.2455162,
+      "districts": [
+        {
+          "name": "Totness",
+          "lat": 5.87618,
+          "lng": -56.32572
+        }
+      ]
+    },
+    {
+      "name": "Marowijne",
+      "lat": 5.7083272,
+      "lng": -54.35369,
+      "districts": [
+        {
+          "name": "Albina",
+          "lat": 5.49788,
+          "lng": -54.05522
+        },
+        {
+          "name": "Moengo",
+          "lat": 5.61411,
+          "lng": -54.40121
+        }
+      ]
+    },
+    {
+      "name": "Nickerie",
+      "lat": 5.7183925,
+      "lng": -56.8775105,
+      "districts": [
+        {
+          "name": "Nieuw Nickerie",
+          "lat": 5.92606,
+          "lng": -56.97297
+        },
+        {
+          "name": "Wageningen",
+          "lat": 5.7601,
+          "lng": -56.66523
+        }
+      ]
+    },
+    {
+      "name": "Para",
+      "lat": 5.3430413,
+      "lng": -55.581341,
+      "districts": [
+        {
+          "name": "Onverwacht",
+          "lat": 5.58983,
+          "lng": -55.19462
+        }
+      ]
+    },
+    {
+      "name": "Paramaribo",
+      "lat": 5.8247628,
+      "lng": -55.1703941,
+      "districts": [
+        {
+          "name": "Paramaribo",
+          "lat": 5.86638,
+          "lng": -55.16682,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Saramacca",
+      "lat": 5.7870805,
+      "lng": -55.6064574,
+      "districts": [
+        {
+          "name": "Groningen",
+          "lat": 5.8,
+          "lng": -55.46667
+        }
+      ]
+    },
+    {
+      "name": "Sipaliwini",
+      "lat": 3.6815086,
+      "lng": -55.961246,
+      "districts": []
+    },
+    {
+      "name": "Wanica",
+      "lat": 5.75,
+      "lng": -55.25,
+      "districts": [
+        {
+          "name": "Lelydorp",
+          "lat": 5.7,
+          "lng": -55.23333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "name": "Democratic Republic of the Congo",
+  "lat": 0,
+  "lng": 25,
+  "cities": [
+    {
+      "name": "Bas-Uélé",
+      "lat": 3.6644488,
+      "lng": 25.2137871,
+      "districts": [
+        {
+          "name": "Aketi",
+          "lat": 2.73877,
+          "lng": 23.78326
+        },
+        {
+          "name": "Bondo",
+          "lat": 3.81461,
+          "lng": 23.68665
+        },
+        {
+          "name": "Buta",
+          "lat": 2.78582,
+          "lng": 24.72997
+        }
+      ]
+    },
+    {
+      "name": "Équateur",
+      "lat": 0.6060154,
+      "lng": 18.7800729,
+      "districts": [
+        {
+          "name": "Gemena",
+          "lat": 3.25651,
+          "lng": 19.77234
+        },
+        {
+          "name": "Lisala",
+          "lat": 2.15127,
+          "lng": 21.51672
+        },
+        {
+          "name": "Mbandaka",
+          "lat": 0.04865,
+          "lng": 18.26034
+        },
+        {
+          "name": "Lukolela",
+          "lat": -1.06046,
+          "lng": 17.1821
+        }
+      ]
+    },
+    {
+      "name": "Haut-Katanga",
+      "lat": -10.519718,
+      "lng": 27.8432804,
+      "districts": [
+        {
+          "name": "Likasi",
+          "lat": -10.98303,
+          "lng": 26.7384
+        },
+        {
+          "name": "Lubumbashi",
+          "lat": -11.66089,
+          "lng": 27.47938
+        }
+      ]
+    },
+    {
+      "name": "Haut-Lomami",
+      "lat": -8.1495036,
+      "lng": 25.5557963,
+      "districts": [
+        {
+          "name": "Bukama",
+          "lat": -9.20443,
+          "lng": 25.85475
+        },
+        {
+          "name": "Kamina",
+          "lat": -8.73508,
+          "lng": 24.99798
+        }
+      ]
+    },
+    {
+      "name": "Haut-Uélé",
+      "lat": 3.3398499,
+      "lng": 28.789274,
+      "districts": [
+        {
+          "name": "Isiro",
+          "lat": 2.77391,
+          "lng": 27.61603
+        },
+        {
+          "name": "Wamba",
+          "lat": 2.14838,
+          "lng": 27.99466
+        },
+        {
+          "name": "Watsa",
+          "lat": 3.03716,
+          "lng": 29.53551
+        }
+      ]
+    },
+    {
+      "name": "Ituri",
+      "lat": 1.8330623,
+      "lng": 29.4980774,
+      "districts": [
+        {
+          "name": "Bunia",
+          "lat": 1.55941,
+          "lng": 30.25224
+        }
+      ]
+    },
+    {
+      "name": "Kasaï",
+      "lat": -4.8740862,
+      "lng": 21.1234899,
+      "districts": [
+        {
+          "name": "Ilebo",
+          "lat": -4.33111,
+          "lng": 20.58638
+        },
+        {
+          "name": "Tshikapa",
+          "lat": -6.41621,
+          "lng": 20.79995
+        },
+        {
+          "name": "Luebo",
+          "lat": -5.35218,
+          "lng": 21.42192
+        },
+        {
+          "name": "Mweka",
+          "lat": -4.85187,
+          "lng": 21.5595
+        }
+      ]
+    },
+    {
+      "name": "Kasaï Central",
+      "lat": -5.9046896,
+      "lng": 21.4334417,
+      "districts": []
+    },
+    {
+      "name": "Kasaï Oriental",
+      "lat": -6.1258942,
+      "lng": 23.5998111,
+      "districts": [
+        {
+          "name": "Gandajika",
+          "lat": -6.74504,
+          "lng": 23.95328
+        },
+        {
+          "name": "Kabinda",
+          "lat": -6.13791,
+          "lng": 24.48179
+        },
+        {
+          "name": "Mbuji-Mayi",
+          "lat": -6.13603,
+          "lng": 23.58979
+        }
+      ]
+    },
+    {
+      "name": "Kinshasa",
+      "lat": -4.32171,
+      "lng": 15.3122511,
+      "districts": [
+        {
+          "name": "Kinshasa",
+          "lat": -4.32758,
+          "lng": 15.31357,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Kongo Central",
+      "lat": -5.1778483,
+      "lng": 14.3909935,
+      "districts": [
+        {
+          "name": "Boma",
+          "lat": -5.85098,
+          "lng": 13.05364
+        },
+        {
+          "name": "Matadi",
+          "lat": -5.83861,
+          "lng": 13.46306
+        },
+        {
+          "name": "Mbanza-Ngungu",
+          "lat": -5.25837,
+          "lng": 14.85838
+        },
+        {
+          "name": "Moanda",
+          "lat": -5.92753,
+          "lng": 12.37148
+        },
+        {
+          "name": "Kasangulu",
+          "lat": -4.5833,
+          "lng": 15.16554
+        },
+        {
+          "name": "Tshela",
+          "lat": -4.99707,
+          "lng": 12.9484
+        }
+      ]
+    },
+    {
+      "name": "Kwango",
+      "lat": -6.1822381,
+      "lng": 17.7711691,
+      "districts": [
+        {
+          "name": "Kasongo-Lunda",
+          "lat": -6.47833,
+          "lng": 16.81735
+        }
+      ]
+    },
+    {
+      "name": "Kwilu",
+      "lat": -4.8108497,
+      "lng": 18.805534,
+      "districts": [
+        {
+          "name": "Bandundu",
+          "lat": -3.31687,
+          "lng": 17.38063
+        },
+        {
+          "name": "Kikwit",
+          "lat": -5.04098,
+          "lng": 18.81619
+        },
+        {
+          "name": "Bulungu",
+          "lat": -4.54437,
+          "lng": 18.60364
+        },
+        {
+          "name": "Mangai",
+          "lat": -4.02328,
+          "lng": 19.53385
+        }
+      ]
+    },
+    {
+      "name": "Lomami",
+      "lat": -6.128664,
+      "lng": 24.4577962,
+      "districts": [
+        {
+          "name": "Mwene-Ditu",
+          "lat": -7.00906,
+          "lng": 23.45278
+        },
+        {
+          "name": "Lubao",
+          "lat": -5.38771,
+          "lng": 25.74885
+        }
+      ]
+    },
+    {
+      "name": "Lualaba",
+      "lat": -10.7027809,
+      "lng": 25.4657979,
+      "districts": [
+        {
+          "name": "Kolwezi",
+          "lat": -10.716667,
+          "lng": 25.466667
+        },
+        {
+          "name": "Kasaji",
+          "lat": -10.38342,
+          "lng": 23.44987
+        }
+      ]
+    },
+    {
+      "name": "Mai-Ndombe",
+      "lat": -2.5406945,
+      "lng": 18.6065732,
+      "districts": [
+        {
+          "name": "Bolobo",
+          "lat": -2.158,
+          "lng": 16.23249
+        },
+        {
+          "name": "Inongo",
+          "lat": -1.9275,
+          "lng": 18.2881
+        },
+        {
+          "name": "Mushie",
+          "lat": -3.01728,
+          "lng": 16.92238
+        },
+        {
+          "name": "Nioki",
+          "lat": -2.72037,
+          "lng": 17.69001
+        }
+      ]
+    },
+    {
+      "name": "Maniema",
+      "lat": -2.9612778,
+      "lng": 25.9634848,
+      "districts": [
+        {
+          "name": "Kindu",
+          "lat": -2.94373,
+          "lng": 25.92237
+        },
+        {
+          "name": "Kampene",
+          "lat": -3.59678,
+          "lng": 26.66715
+        },
+        {
+          "name": "Kasongo",
+          "lat": -4.42741,
+          "lng": 26.66656
+        }
+      ]
+    },
+    {
+      "name": "Mongala",
+      "lat": 2.15406,
+      "lng": 21.4861221,
+      "districts": [
+        {
+          "name": "Bumba",
+          "lat": 2.18771,
+          "lng": 22.46827
+        }
+      ]
+    },
+    {
+      "name": "Nord-Kivu",
+      "lat": -0.5645647,
+      "lng": 28.7061945,
+      "districts": [
+        {
+          "name": "Beni",
+          "lat": 0.49113,
+          "lng": 29.47306
+        },
+        {
+          "name": "Butembo",
+          "lat": 0.14164,
+          "lng": 29.29117
+        },
+        {
+          "name": "Goma",
+          "lat": -1.67409,
+          "lng": 29.22845
+        },
+        {
+          "name": "Sake",
+          "lat": -1.57386,
+          "lng": 29.04339
+        }
+      ]
+    },
+    {
+      "name": "Nord-Ubangi",
+      "lat": 4.0175656,
+      "lng": 21.3779242,
+      "districts": [
+        {
+          "name": "Bosobolo",
+          "lat": 4.1898,
+          "lng": 19.8833
+        },
+        {
+          "name": "Businga",
+          "lat": 3.33863,
+          "lng": 20.88577
+        },
+        {
+          "name": "Gbadolite",
+          "lat": 4.279,
+          "lng": 21.00284
+        }
+      ]
+    },
+    {
+      "name": "Sankuru",
+      "lat": -3.5074885,
+      "lng": 23.5845039,
+      "districts": [
+        {
+          "name": "Lodja",
+          "lat": -3.52105,
+          "lng": 23.6005
+        },
+        {
+          "name": "Lusambo",
+          "lat": -4.97503,
+          "lng": 23.44391
+        }
+      ]
+    },
+    {
+      "name": "Sud-Kivu",
+      "lat": -3.2968958,
+      "lng": 28.1674008,
+      "districts": [
+        {
+          "name": "Bukavu",
+          "lat": -2.49077,
+          "lng": 28.84281
+        },
+        {
+          "name": "Uvira",
+          "lat": -3.39534,
+          "lng": 29.13779
+        },
+        {
+          "name": "Kabare",
+          "lat": -2.49682,
+          "lng": 28.79081
+        }
+      ]
+    },
+    {
+      "name": "Sud-Ubangi",
+      "lat": 3.3283335,
+      "lng": 19.4627581,
+      "districts": [
+        {
+          "name": "Bongandanga",
+          "lat": 1.50695,
+          "lng": 21.0726
+        },
+        {
+          "name": "Libenge",
+          "lat": 3.65332,
+          "lng": 18.63566
+        }
+      ]
+    },
+    {
+      "name": "Tanganyika",
+      "lat": -6.7105797,
+      "lng": 27.9879861,
+      "districts": [
+        {
+          "name": "Kalemie",
+          "lat": -5.94749,
+          "lng": 29.19471
+        },
+        {
+          "name": "Kabalo",
+          "lat": -6.05255,
+          "lng": 26.9143
+        },
+        {
+          "name": "Kongolo",
+          "lat": -5.38532,
+          "lng": 27.00029
+        }
+      ]
+    },
+    {
+      "name": "Tshopo",
+      "lat": 0.4991493,
+      "lng": 25.1651226,
+      "districts": [
+        {
+          "name": "Kisangani",
+          "lat": 0.51528,
+          "lng": 25.19099
+        },
+        {
+          "name": "Basoko",
+          "lat": 1.23909,
+          "lng": 23.61598
+        },
+        {
+          "name": "Yangambi",
+          "lat": 0.76755,
+          "lng": 24.43973
+        }
+      ]
+    },
+    {
+      "name": "Tshuapa",
+      "lat": -0.5875933,
+      "lng": 22.1544364,
+      "districts": [
+        {
+          "name": "Boende",
+          "lat": -0.28163,
+          "lng": 20.88053
+        }
+      ]
+    }
+  ]
+}

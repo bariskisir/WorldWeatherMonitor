@@ -1,0 +1,275 @@
+{
+  "name": "Mozambique",
+  "lat": -18.25,
+  "lng": 35,
+  "cities": [
+    {
+      "name": "Cabo Delgado",
+      "lat": -12.4254942,
+      "lng": 39.4168743,
+      "districts": [
+        {
+          "name": "Pemba",
+          "lat": -12.97395,
+          "lng": 40.51775
+        },
+        {
+          "name": "Chiure",
+          "lat": -13.46665,
+          "lng": 39.70317
+        },
+        {
+          "name": "Mocímboa",
+          "lat": -11.31667,
+          "lng": 40.35
+        },
+        {
+          "name": "Montepuez",
+          "lat": -13.12556,
+          "lng": 38.99972
+        }
+      ]
+    },
+    {
+      "name": "Gaza",
+      "lat": -23.328398,
+      "lng": 32.8066057,
+      "districts": [
+        {
+          "name": "Xai-Xai",
+          "lat": -25.05194,
+          "lng": 33.64417
+        },
+        {
+          "name": "Chibuto",
+          "lat": -24.68667,
+          "lng": 33.53056
+        },
+        {
+          "name": "Chokwé",
+          "lat": -24.53333,
+          "lng": 32.98333
+        },
+        {
+          "name": "Macia",
+          "lat": -25.02694,
+          "lng": 33.09889
+        }
+      ]
+    },
+    {
+      "name": "Inhambane",
+      "lat": -22.779116,
+      "lng": 34.5661741,
+      "districts": [
+        {
+          "name": "Maxixe",
+          "lat": -23.85972,
+          "lng": 35.34722
+        },
+        {
+          "name": "Inhambane",
+          "lat": -23.865,
+          "lng": 35.38333
+        }
+      ]
+    },
+    {
+      "name": "Manica",
+      "lat": -19.0400995,
+      "lng": 33.4318137,
+      "districts": [
+        {
+          "name": "Chimoio",
+          "lat": -19.11639,
+          "lng": 33.48333
+        }
+      ]
+    },
+    {
+      "name": "Maputo",
+      "lat": -25.5445167,
+      "lng": 32.4578753,
+      "districts": [
+        {
+          "name": "Boane",
+          "lat": -26.029,
+          "lng": 32.389
+        },
+        {
+          "name": "Manhica",
+          "lat": -25.34035,
+          "lng": 32.84234
+        },
+        {
+          "name": "Matola",
+          "lat": -25.96222,
+          "lng": 32.45889
+        },
+        {
+          "name": "Ressano Garcia",
+          "lat": -25.44278,
+          "lng": 31.99528
+        },
+        {
+          "name": "Concelho de Matola",
+          "lat": -25.83472,
+          "lng": 32.49516
+        },
+        {
+          "name": "Magude",
+          "lat": -25.02389,
+          "lng": 32.6515
+        },
+        {
+          "name": "Marracuene",
+          "lat": -25.73938,
+          "lng": 32.67436
+        },
+        {
+          "name": "Matutiune",
+          "lat": -26.43418,
+          "lng": 32.5882
+        },
+        {
+          "name": "Moamba",
+          "lat": -25.60934,
+          "lng": 32.24321
+        },
+        {
+          "name": "Namaacha",
+          "lat": -26.109,
+          "lng": 32.18
+        }
+      ]
+    },
+    {
+      "name": "Maputo",
+      "lat": -25.5445167,
+      "lng": 32.4578753,
+      "districts": [
+        {
+          "name": "Maputo",
+          "lat": -25.96553,
+          "lng": 32.58322,
+          "iscapital": true
+        },
+        {
+          "name": "KaTembe",
+          "lat": -26.02985,
+          "lng": 32.53204
+        }
+      ]
+    },
+    {
+      "name": "Nampula",
+      "lat": -14.966969,
+      "lng": 39.2707752,
+      "districts": [
+        {
+          "name": "Nacala",
+          "lat": -14.56257,
+          "lng": 40.68538
+        },
+        {
+          "name": "Nampula",
+          "lat": -15.11646,
+          "lng": 39.2666
+        },
+        {
+          "name": "António Enes",
+          "lat": -16.2325,
+          "lng": 39.90861
+        },
+        {
+          "name": "Ilha de Moçambique",
+          "lat": -15.03417,
+          "lng": 40.73583
+        },
+        {
+          "name": "Mutuáli",
+          "lat": -14.87056,
+          "lng": 37.00444
+        }
+      ]
+    },
+    {
+      "name": "Niassa",
+      "lat": -13.0638577,
+      "lng": 36.4669964,
+      "districts": [
+        {
+          "name": "Lichinga",
+          "lat": -13.31278,
+          "lng": 35.24056
+        },
+        {
+          "name": "Mandimba",
+          "lat": -14.3525,
+          "lng": 35.65056
+        },
+        {
+          "name": "Cuamba",
+          "lat": -14.80306,
+          "lng": 36.53722
+        }
+      ]
+    },
+    {
+      "name": "Sofala",
+      "lat": -19.0771666,
+      "lng": 34.7164804,
+      "districts": [
+        {
+          "name": "Beira",
+          "lat": -19.84361,
+          "lng": 34.83889
+        },
+        {
+          "name": "Nhamatanda",
+          "lat": -19.349,
+          "lng": 34.268
+        },
+        {
+          "name": "Dondo",
+          "lat": -19.60944,
+          "lng": 34.74306
+        }
+      ]
+    },
+    {
+      "name": "Tete",
+      "lat": -15.5205193,
+      "lng": 32.7682742,
+      "districts": [
+        {
+          "name": "Tete",
+          "lat": -16.15639,
+          "lng": 33.58667
+        }
+      ]
+    },
+    {
+      "name": "Zambezia",
+      "lat": -16.6460178,
+      "lng": 36.991932,
+      "districts": [
+        {
+          "name": "Alto Molócuè",
+          "lat": -15.64932,
+          "lng": 37.66384
+        },
+        {
+          "name": "Quelimane",
+          "lat": -17.87861,
+          "lng": 36.88833
+        },
+        {
+          "name": "Chinde",
+          "lat": -18.58111,
+          "lng": 36.45861
+        }
+      ]
+    }
+  ]
+}

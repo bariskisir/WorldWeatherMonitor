@@ -1,0 +1,182 @@
+{
+  "name": "Samoa",
+  "lat": -13.58333333,
+  "lng": -172.33333333,
+  "cities": [
+    {
+      "name": "A'ana",
+      "lat": -13.8371757,
+      "lng": -171.9950869,
+      "districts": [
+        {
+          "name": "Fasito‘outa",
+          "lat": -13.81163,
+          "lng": -171.94063
+        },
+        {
+          "name": "Leulumoega",
+          "lat": -13.82297,
+          "lng": -171.96127
+        },
+        {
+          "name": "Nofoali‘i",
+          "lat": -13.8217,
+          "lng": -171.95873
+        },
+        {
+          "name": "Satapuala",
+          "lat": -13.83535,
+          "lng": -171.97963
+        }
+      ]
+    },
+    {
+      "name": "Aiga-i-le-Tai",
+      "lat": -13.862031,
+      "lng": -172.0328371,
+      "districts": [
+        {
+          "name": "Mulifanua",
+          "lat": -13.83183,
+          "lng": -172.03602
+        }
+      ]
+    },
+    {
+      "name": "Atua",
+      "lat": -13.954878,
+      "lng": -171.6512455,
+      "districts": [
+        {
+          "name": "Falefa",
+          "lat": -13.88695,
+          "lng": -171.58805
+        },
+        {
+          "name": "Lotofagā",
+          "lat": -13.97643,
+          "lng": -171.85781
+        },
+        {
+          "name": "Lufilufi",
+          "lat": -13.87449,
+          "lng": -171.59857
+        },
+        {
+          "name": "Solosolo",
+          "lat": -13.87504,
+          "lng": -171.64181
+        }
+      ]
+    },
+    {
+      "name": "Fa'asaleleaga",
+      "lat": -13.6307638,
+      "lng": -172.2365981,
+      "districts": []
+    },
+    {
+      "name": "Gaga'emauga",
+      "lat": -13.5428666,
+      "lng": -172.366887,
+      "districts": []
+    },
+    {
+      "name": "Gaga'ifomauga",
+      "lat": -13.5468007,
+      "lng": -172.4969331,
+      "districts": [
+        {
+          "name": "Matavai",
+          "lat": -14.03208,
+          "lng": -171.64768
+        },
+        {
+          "name": "Safotu",
+          "lat": -13.45132,
+          "lng": -172.40177
+        }
+      ]
+    },
+    {
+      "name": "Palauli",
+      "lat": -13.7063577,
+      "lng": -172.4839701,
+      "districts": [
+        {
+          "name": "Gataivai",
+          "lat": -13.7736,
+          "lng": -172.38802
+        },
+        {
+          "name": "Vailoa",
+          "lat": -13.75551,
+          "lng": -172.30698
+        }
+      ]
+    },
+    {
+      "name": "Satupa'itea",
+      "lat": -13.7414328,
+      "lng": -172.3406683,
+      "districts": []
+    },
+    {
+      "name": "Tuamasaga",
+      "lat": -13.9218804,
+      "lng": -171.8007196,
+      "districts": [
+        {
+          "name": "Apia",
+          "lat": -13.83333,
+          "lng": -171.76666,
+          "iscapital": true
+        },
+        {
+          "name": "Afega",
+          "lat": -13.79726,
+          "lng": -171.85308
+        },
+        {
+          "name": "Malie",
+          "lat": -13.80044,
+          "lng": -171.8469
+        },
+        {
+          "name": "Vailima",
+          "lat": -13.86417,
+          "lng": -171.76126
+        },
+        {
+          "name": "Vaiusu",
+          "lat": -13.82678,
+          "lng": -171.79333
+        }
+      ]
+    },
+    {
+      "name": "Va'a-o-Fonoti",
+      "lat": -13.9470903,
+      "lng": -171.5431872,
+      "districts": [
+        {
+          "name": "Samamea",
+          "lat": -13.93375,
+          "lng": -171.53122
+        }
+      ]
+    },
+    {
+      "name": "Vaisigano",
+      "lat": -13.5595656,
+      "lng": -172.6593798,
+      "districts": [
+        {
+          "name": "Asau",
+          "lat": -13.51963,
+          "lng": -172.63784
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1446 @@
+{
+  "name": "Azerbaijan",
+  "lat": 40.5,
+  "lng": 47.5,
+  "cities": [
+    {
+      "name": "Absheron",
+      "lat": 40.3361899,
+      "lng": 49.2093,
+      "districts": [
+        {
+          "name": "Ceyranbatan",
+          "lat": 40.54194,
+          "lng": 49.66073
+        },
+        {
+          "name": "Digah",
+          "lat": 40.49257,
+          "lng": 49.87477
+        },
+        {
+          "name": "Gyuzdek",
+          "lat": 40.37444,
+          "lng": 49.68194
+        },
+        {
+          "name": "Khirdalan",
+          "lat": 40.44808,
+          "lng": 49.75502
+        },
+        {
+          "name": "Qobu",
+          "lat": 40.40472,
+          "lng": 49.71306
+        },
+        {
+          "name": "Saray",
+          "lat": 40.53299,
+          "lng": 49.71681
+        }
+      ]
+    },
+    {
+      "name": "Agdam",
+      "lat": 39.9928215,
+      "lng": 46.9324013,
+      "districts": [
+        {
+          "name": "Ağdam",
+          "lat": 39.99096,
+          "lng": 46.92736
+        }
+      ]
+    },
+    {
+      "name": "Agdash",
+      "lat": 40.1672967,
+      "lng": 46.0857252,
+      "districts": [
+        {
+          "name": "Ağdaş",
+          "lat": 40.64699,
+          "lng": 47.4738
+        }
+      ]
+    },
+    {
+      "name": "Aghjabadi",
+      "lat": 40.050544,
+      "lng": 47.4607462,
+      "districts": [
+        {
+          "name": "Agdzhabedy",
+          "lat": 40.05015,
+          "lng": 47.45937
+        },
+        {
+          "name": "Avşar",
+          "lat": 39.97389,
+          "lng": 47.42389
+        }
+      ]
+    },
+    {
+      "name": "Agstafa",
+      "lat": 41.1980651,
+      "lng": 45.5280953,
+      "districts": [
+        {
+          "name": "Aghstafa",
+          "lat": 41.11889,
+          "lng": 45.45389
+        },
+        {
+          "name": "Saloğlu",
+          "lat": 41.27524,
+          "lng": 45.35293
+        },
+        {
+          "name": "Vurğun",
+          "lat": 41.09524,
+          "lng": 45.47111
+        }
+      ]
+    },
+    {
+      "name": "Agsu",
+      "lat": 40.5583,
+      "lng": 48.352971,
+      "districts": [
+        {
+          "name": "Aghsu",
+          "lat": 40.57028,
+          "lng": 48.40087
+        }
+      ]
+    },
+    {
+      "name": "Astara",
+      "lat": 38.5155977,
+      "lng": 48.8283223,
+      "districts": [
+        {
+          "name": "Astara",
+          "lat": 38.45598,
+          "lng": 48.87498
+        },
+        {
+          "name": "Kizhaba",
+          "lat": 38.53461,
+          "lng": 48.80546
+        }
+      ]
+    },
+    {
+      "name": "Babek",
+      "lat": 39.1507613,
+      "lng": 45.4485368,
+      "districts": []
+    },
+    {
+      "name": "Baku",
+      "lat": 40.3755885,
+      "lng": 49.8328009,
+      "districts": [
+        {
+          "name": "Baku",
+          "lat": 40.37767,
+          "lng": 49.89201,
+          "iscapital": true
+        },
+        {
+          "name": "Amirdzhan",
+          "lat": 40.42639,
+          "lng": 49.98361
+        },
+        {
+          "name": "Badamdar",
+          "lat": 40.34024,
+          "lng": 49.8045
+        },
+        {
+          "name": "Bakıxanov",
+          "lat": 40.41894,
+          "lng": 49.96693
+        },
+        {
+          "name": "Balakhani",
+          "lat": 40.46344,
+          "lng": 49.91893
+        },
+        {
+          "name": "Bilajari",
+          "lat": 40.4444,
+          "lng": 49.80566
+        },
+        {
+          "name": "Bilajer",
+          "lat": 40.56441,
+          "lng": 50.04002
+        },
+        {
+          "name": "Binagadi",
+          "lat": 40.46602,
+          "lng": 49.82783
+        },
+        {
+          "name": "Biny Selo",
+          "lat": 40.45076,
+          "lng": 50.08686
+        },
+        {
+          "name": "Buzovna",
+          "lat": 40.51903,
+          "lng": 50.11438
+        },
+        {
+          "name": "Hövsan",
+          "lat": 40.37444,
+          "lng": 50.08528
+        },
+        {
+          "name": "Khodzhi-Gasan",
+          "lat": 40.41293,
+          "lng": 49.76904
+        },
+        {
+          "name": "Korgöz",
+          "lat": 40.30446,
+          "lng": 49.6236
+        },
+        {
+          "name": "Lökbatan",
+          "lat": 40.3256,
+          "lng": 49.73376
+        },
+        {
+          "name": "Mardakan",
+          "lat": 40.49182,
+          "lng": 50.14292
+        },
+        {
+          "name": "Maştağa",
+          "lat": 40.52983,
+          "lng": 50.00616
+        },
+        {
+          "name": "Nardaran",
+          "lat": 40.55611,
+          "lng": 50.00556
+        },
+        {
+          "name": "Nizami Rayonu",
+          "lat": 40.4097,
+          "lng": 49.91926
+        },
+        {
+          "name": "Pirallahı",
+          "lat": 40.47013,
+          "lng": 50.32476
+        },
+        {
+          "name": "Puta",
+          "lat": 40.29667,
+          "lng": 49.66028
+        },
+        {
+          "name": "Qala",
+          "lat": 40.44256,
+          "lng": 50.16759
+        },
+        {
+          "name": "Qaraçuxur",
+          "lat": 40.39667,
+          "lng": 49.97361
+        },
+        {
+          "name": "Qobustan",
+          "lat": 40.08238,
+          "lng": 49.41205
+        },
+        {
+          "name": "Ramana",
+          "lat": 40.44222,
+          "lng": 49.98056
+        },
+        {
+          "name": "Sabunçu",
+          "lat": 40.4425,
+          "lng": 49.94806
+        },
+        {
+          "name": "Sanqaçal",
+          "lat": 40.16991,
+          "lng": 49.46394
+        },
+        {
+          "name": "Türkan",
+          "lat": 40.3646,
+          "lng": 50.22075
+        },
+        {
+          "name": "Yeni Suraxanı",
+          "lat": 40.43026,
+          "lng": 50.03598
+        },
+        {
+          "name": "Zabrat",
+          "lat": 40.47746,
+          "lng": 49.94174
+        },
+        {
+          "name": "Zyrya",
+          "lat": 40.36613,
+          "lng": 50.29198
+        }
+      ]
+    },
+    {
+      "name": "Balakan",
+      "lat": 41.7319369,
+      "lng": 46.4001881,
+      "districts": [
+        {
+          "name": "Belokany",
+          "lat": 41.72626,
+          "lng": 46.40478
+        },
+        {
+          "name": "Qabaqçöl",
+          "lat": 41.75259,
+          "lng": 46.27052
+        }
+      ]
+    },
+    {
+      "name": "Barda",
+      "lat": 40.3812457,
+      "lng": 47.1246287,
+      "districts": [
+        {
+          "name": "Barda",
+          "lat": 40.37577,
+          "lng": 47.12619
+        },
+        {
+          "name": "Samuxlu",
+          "lat": 40.50833,
+          "lng": 47.16917
+        }
+      ]
+    },
+    {
+      "name": "Beylagan",
+      "lat": 39.7723073,
+      "lng": 47.6154166,
+      "districts": [
+        {
+          "name": "Beylagan",
+          "lat": 39.77556,
+          "lng": 47.61861
+        },
+        {
+          "name": "Birinci Aşıqlı",
+          "lat": 39.81917,
+          "lng": 47.67944
+        },
+        {
+          "name": "Dünyamalılar",
+          "lat": 39.77278,
+          "lng": 47.75889
+        },
+        {
+          "name": "Orjonikidze",
+          "lat": 39.63571,
+          "lng": 47.71199
+        },
+        {
+          "name": "Yuxarı Aran",
+          "lat": 39.73361,
+          "lng": 47.655
+        }
+      ]
+    },
+    {
+      "name": "Bilasuvar",
+      "lat": 39.4598833,
+      "lng": 48.5509813,
+      "districts": [
+        {
+          "name": "Pushkino",
+          "lat": 39.45833,
+          "lng": 48.545
+        }
+      ]
+    },
+    {
+      "name": "Dashkasan",
+      "lat": 40.475196,
+      "lng": 46.0150705,
+      "districts": [
+        {
+          "name": "Verkhniy Dashkesan",
+          "lat": 40.49357,
+          "lng": 46.07175
+        },
+        {
+          "name": "Yukhary-Dashkesan",
+          "lat": 40.52393,
+          "lng": 46.08186
+        }
+      ]
+    },
+    {
+      "name": "Fizuli",
+      "lat": 39.5835675,
+      "lng": 47.3806998,
+      "districts": [
+        {
+          "name": "Fizuli",
+          "lat": 39.60094,
+          "lng": 47.14529
+        },
+        {
+          "name": "Horadiz",
+          "lat": 39.45015,
+          "lng": 47.33496
+        }
+      ]
+    },
+    {
+      "name": "Ganja",
+      "lat": 40.6798083,
+      "lng": 46.3597178,
+      "districts": [
+        {
+          "name": "Ganja",
+          "lat": 40.68278,
+          "lng": 46.36056
+        }
+      ]
+    },
+    {
+      "name": "Gədəbəy",
+      "lat": 40.5699639,
+      "lng": 45.8106883,
+      "districts": [
+        {
+          "name": "Arıqdam",
+          "lat": 40.59313,
+          "lng": 45.799
+        },
+        {
+          "name": "Arıqıran",
+          "lat": 40.53971,
+          "lng": 45.61414
+        },
+        {
+          "name": "Böyük Qaramurad",
+          "lat": 40.57626,
+          "lng": 45.63727
+        },
+        {
+          "name": "Kyadabek",
+          "lat": 40.57055,
+          "lng": 45.81229
+        },
+        {
+          "name": "Novosaratovka",
+          "lat": 40.59811,
+          "lng": 45.60079
+        }
+      ]
+    },
+    {
+      "name": "Gobustan",
+      "lat": 40.5326044,
+      "lng": 48.9941676,
+      "districts": [
+        {
+          "name": "Qobustan",
+          "lat": 40.5336,
+          "lng": 48.92819
+        }
+      ]
+    },
+    {
+      "name": "Goranboy",
+      "lat": 40.6035723,
+      "lng": 46.7073906,
+      "districts": [
+        {
+          "name": "Goranboy",
+          "lat": 40.61028,
+          "lng": 46.78972
+        },
+        {
+          "name": "Qızılhacılı",
+          "lat": 40.57362,
+          "lng": 46.849
+        }
+      ]
+    },
+    {
+      "name": "Goychay",
+      "lat": 40.6494415,
+      "lng": 47.7412208,
+      "districts": [
+        {
+          "name": "Geoktschai",
+          "lat": 40.65055,
+          "lng": 47.74219
+        }
+      ]
+    },
+    {
+      "name": "Goygol",
+      "lat": 40.588004,
+      "lng": 46.321095,
+      "districts": [
+        {
+          "name": "Yelenendorf",
+          "lat": 40.58584,
+          "lng": 46.3189
+        }
+      ]
+    },
+    {
+      "name": "Hajigabul",
+      "lat": 40.0286557,
+      "lng": 48.9350797,
+      "districts": [
+        {
+          "name": "Hacıqabul",
+          "lat": 40.03874,
+          "lng": 48.94286
+        },
+        {
+          "name": "Mughan",
+          "lat": 40.09902,
+          "lng": 48.81886
+        }
+      ]
+    },
+    {
+      "name": "Imishli",
+      "lat": 39.8694686,
+      "lng": 48.0665218,
+      "districts": [
+        {
+          "name": "Imishli",
+          "lat": 39.87095,
+          "lng": 48.05995
+        }
+      ]
+    },
+    {
+      "name": "Ismailli",
+      "lat": 40.788056,
+      "lng": 48.1485653,
+      "districts": [
+        {
+          "name": "Basqal",
+          "lat": 40.7552,
+          "lng": 48.39104
+        },
+        {
+          "name": "İsmayıllı",
+          "lat": 40.78485,
+          "lng": 48.15141
+        }
+      ]
+    },
+    {
+      "name": "Jabrayil",
+      "lat": 39.3188061,
+      "lng": 46.9785547,
+      "districts": [
+        {
+          "name": "Jebrail",
+          "lat": 39.39917,
+          "lng": 47.02835
+        }
+      ]
+    },
+    {
+      "name": "Jalilabad",
+      "lat": 39.2051632,
+      "lng": 48.5100604,
+      "districts": [
+        {
+          "name": "Jalilabad",
+          "lat": 39.20963,
+          "lng": 48.49186
+        },
+        {
+          "name": "Prishibinskoye",
+          "lat": 39.11998,
+          "lng": 48.59383
+        }
+      ]
+    },
+    {
+      "name": "Julfa",
+      "lat": 39.141142,
+      "lng": 45.6949712,
+      "districts": []
+    },
+    {
+      "name": "Kalbajar",
+      "lat": 40.1024329,
+      "lng": 46.0364872,
+      "districts": [
+        {
+          "name": "Kerbakhiar",
+          "lat": 40.10984,
+          "lng": 46.04446
+        },
+        {
+          "name": "Vank",
+          "lat": 40.05275,
+          "lng": 46.54419
+        }
+      ]
+    },
+    {
+      "name": "Kangarli",
+      "lat": 39.3632216,
+      "lng": 45.2098308,
+      "districts": []
+    },
+    {
+      "name": "Khachmaz",
+      "lat": 41.4591168,
+      "lng": 48.8020626,
+      "districts": [
+        {
+          "name": "Xaçmaz",
+          "lat": 41.46426,
+          "lng": 48.80565
+        },
+        {
+          "name": "Xudat",
+          "lat": 41.63052,
+          "lng": 48.68161
+        }
+      ]
+    },
+    {
+      "name": "Khankendi",
+      "lat": 39.8266,
+      "lng": 46.7556,
+      "districts": [
+        {
+          "name": "Khankendi",
+          "lat": 39.8266,
+          "lng": 46.7556
+        }
+      ]
+    },
+    {
+      "name": "Khizi",
+      "lat": 40.9109489,
+      "lng": 49.0729264,
+      "districts": [
+        {
+          "name": "Altıağac",
+          "lat": 40.85785,
+          "lng": 48.9354
+        },
+        {
+          "name": "Khyzy",
+          "lat": 40.90847,
+          "lng": 49.07481
+        },
+        {
+          "name": "Kilyazi",
+          "lat": 40.87392,
+          "lng": 49.34376
+        },
+        {
+          "name": "Şuraabad",
+          "lat": 40.8199,
+          "lng": 49.46774
+        }
+      ]
+    },
+    {
+      "name": "Khojali",
+      "lat": 38.7584727,
+      "lng": 48.8564302,
+      "districts": [
+        {
+          "name": "Askyaran",
+          "lat": 39.9391,
+          "lng": 46.83161
+        },
+        {
+          "name": "Xocalı",
+          "lat": 39.91297,
+          "lng": 46.79028
+        }
+      ]
+    },
+    {
+      "name": "Kurdamir",
+      "lat": 40.3455247,
+      "lng": 48.1488951,
+      "districts": [
+        {
+          "name": "Kyurdarmir",
+          "lat": 40.34257,
+          "lng": 48.15649
+        }
+      ]
+    },
+    {
+      "name": "Lachin",
+      "lat": 39.6383414,
+      "lng": 46.5460853,
+      "districts": [
+        {
+          "name": "Laçın",
+          "lat": 39.59881,
+          "lng": 46.55045
+        }
+      ]
+    },
+    {
+      "name": "Lankaran",
+      "lat": 38.7618973,
+      "lng": 48.8437784,
+      "districts": []
+    },
+    {
+      "name": "Lankaran",
+      "lat": 38.7618973,
+      "lng": 48.8437784,
+      "districts": [
+        {
+          "name": "Lankaran",
+          "lat": 38.75428,
+          "lng": 48.85062
+        },
+        {
+          "name": "Haftoni",
+          "lat": 38.76325,
+          "lng": 48.76223
+        }
+      ]
+    },
+    {
+      "name": "Lerik",
+      "lat": 38.7736192,
+      "lng": 48.4151483,
+      "districts": [
+        {
+          "name": "Lerik",
+          "lat": 38.77388,
+          "lng": 48.41497
+        }
+      ]
+    },
+    {
+      "name": "Martuni",
+      "lat": 39.8184389,
+      "lng": 46.7480867,
+      "districts": [
+        {
+          "name": "Hadrut",
+          "lat": 39.52003,
+          "lng": 47.0319
+        },
+        {
+          "name": "Novyy Karanlug",
+          "lat": 39.79496,
+          "lng": 47.1117
+        },
+        {
+          "name": "Qırmızı Bazar",
+          "lat": 39.67669,
+          "lng": 46.95123
+        }
+      ]
+    },
+    {
+      "name": "Masally",
+      "lat": 39.0322111,
+      "lng": 48.6721093,
+      "districts": [
+        {
+          "name": "Boradigah",
+          "lat": 38.93013,
+          "lng": 48.7092
+        },
+        {
+          "name": "Masally",
+          "lat": 39.03532,
+          "lng": 48.6654
+        }
+      ]
+    },
+    {
+      "name": "Mingachevir",
+      "lat": 40.7702563,
+      "lng": 47.0496015,
+      "districts": [
+        {
+          "name": "Mingelchaur",
+          "lat": 40.76395,
+          "lng": 47.05953
+        }
+      ]
+    },
+    {
+      "name": "Naftalan",
+      "lat": 40.5061,
+      "lng": 46.8244,
+      "districts": [
+        {
+          "name": "Naftalan",
+          "lat": 40.5061,
+          "lng": 46.8244
+        }
+      ]
+    },
+    {
+      "name": "Nakhchivan",
+      "lat": 39.2089,
+      "lng": 45.4122,
+      "districts": [
+        {
+          "name": "Nakhchivan",
+          "lat": 39.20889,
+          "lng": 45.41222
+        }
+      ]
+    },
+    {
+      "name": "Nakhchivan",
+      "lat": 39.217497,
+      "lng": 45.4069671,
+      "districts": [
+        {
+          "name": "Cahri",
+          "lat": 39.34837,
+          "lng": 45.41557
+        },
+        {
+          "name": "Çalxanqala",
+          "lat": 39.44167,
+          "lng": 45.28333
+        },
+        {
+          "name": "Culfa",
+          "lat": 38.95397,
+          "lng": 45.62961
+        },
+        {
+          "name": "Deste",
+          "lat": 38.88375,
+          "lng": 45.90963
+        },
+        {
+          "name": "Heydarabad",
+          "lat": 39.72286,
+          "lng": 44.84846
+        },
+        {
+          "name": "Julfa Rayon",
+          "lat": 39.16667,
+          "lng": 45.66667
+        },
+        {
+          "name": "Oğlanqala",
+          "lat": 39.58694,
+          "lng": 45.04611
+        },
+        {
+          "name": "Ordubad",
+          "lat": 38.90961,
+          "lng": 46.02274
+        },
+        {
+          "name": "Ordubad Rayon",
+          "lat": 39.08333,
+          "lng": 45.91667
+        },
+        {
+          "name": "Qıvraq",
+          "lat": 39.39939,
+          "lng": 45.11513
+        },
+        {
+          "name": "Şahbuz",
+          "lat": 39.40722,
+          "lng": 45.57389
+        },
+        {
+          "name": "Sedarak",
+          "lat": 39.71427,
+          "lng": 44.88455
+        },
+        {
+          "name": "Shahbuz Rayon",
+          "lat": 39.41667,
+          "lng": 45.58333
+        },
+        {
+          "name": "Sharur City",
+          "lat": 39.55298,
+          "lng": 44.97993
+        },
+        {
+          "name": "Sumbatan-diza",
+          "lat": 38.94804,
+          "lng": 45.82572
+        },
+        {
+          "name": "Tazakend",
+          "lat": 39.15459,
+          "lng": 45.44282
+        },
+        {
+          "name": "Yaycı",
+          "lat": 38.94052,
+          "lng": 45.73244
+        }
+      ]
+    },
+    {
+      "name": "Neftchala",
+      "lat": 39.3790532,
+      "lng": 49.248607,
+      "districts": [
+        {
+          "name": "Neftçala",
+          "lat": 39.3768,
+          "lng": 49.247
+        },
+        {
+          "name": "Severo-Vostotchnyi Bank",
+          "lat": 39.41117,
+          "lng": 49.24792
+        },
+        {
+          "name": "Sovetabad",
+          "lat": 39.33667,
+          "lng": 49.21414
+        },
+        {
+          "name": "Xıllı",
+          "lat": 39.43012,
+          "lng": 49.10166
+        }
+      ]
+    },
+    {
+      "name": "Oghuz",
+      "lat": 41.0727924,
+      "lng": 47.4650672,
+      "districts": [
+        {
+          "name": "Oğuz",
+          "lat": 41.07128,
+          "lng": 47.46528
+        }
+      ]
+    },
+    {
+      "name": "Ordubad",
+      "lat": 38.9021622,
+      "lng": 46.0237625,
+      "districts": []
+    },
+    {
+      "name": "Qabala",
+      "lat": 40.9436064,
+      "lng": 47.8213377,
+      "districts": [
+        {
+          "name": "Qutqashen",
+          "lat": 40.98247,
+          "lng": 47.84909
+        }
+      ]
+    },
+    {
+      "name": "Qakh",
+      "lat": 41.4185515,
+      "lng": 46.9192097,
+      "districts": [
+        {
+          "name": "Çinarlı",
+          "lat": 41.46965,
+          "lng": 46.91582
+        },
+        {
+          "name": "Qax",
+          "lat": 41.41826,
+          "lng": 46.92043
+        },
+        {
+          "name": "Qax İngiloy",
+          "lat": 41.42412,
+          "lng": 46.93859
+        },
+        {
+          "name": "Qaxbaş",
+          "lat": 41.43254,
+          "lng": 46.9646
+        }
+      ]
+    },
+    {
+      "name": "Qazakh",
+      "lat": 41.1707366,
+      "lng": 45.2528833,
+      "districts": [
+        {
+          "name": "Qazax",
+          "lat": 41.09246,
+          "lng": 45.36561
+        }
+      ]
+    },
+    {
+      "name": "Quba",
+      "lat": 41.1880893,
+      "lng": 48.3721452,
+      "districts": [
+        {
+          "name": "Hacıhüseynli",
+          "lat": 41.45639,
+          "lng": 48.64889
+        },
+        {
+          "name": "Quba",
+          "lat": 41.36108,
+          "lng": 48.51341
+        }
+      ]
+    },
+    {
+      "name": "Qubadli",
+      "lat": 39.3335958,
+      "lng": 46.63354,
+      "districts": [
+        {
+          "name": "Qubadlı",
+          "lat": 39.34441,
+          "lng": 46.58183
+        }
+      ]
+    },
+    {
+      "name": "Qusar",
+      "lat": 41.4266886,
+      "lng": 48.4345577,
+      "districts": [
+        {
+          "name": "Qusar",
+          "lat": 41.4275,
+          "lng": 48.4302
+        },
+        {
+          "name": "Samur",
+          "lat": 41.63671,
+          "lng": 48.43028
+        }
+      ]
+    },
+    {
+      "name": "Saatly",
+      "lat": 39.9376009,
+      "lng": 48.3689097,
+      "districts": [
+        {
+          "name": "Əhmədbəyli",
+          "lat": 39.88074,
+          "lng": 48.39158
+        },
+        {
+          "name": "Saatlı",
+          "lat": 39.93214,
+          "lng": 48.36892
+        }
+      ]
+    },
+    {
+      "name": "Sabirabad",
+      "lat": 40.008006,
+      "lng": 48.475032,
+      "districts": [
+        {
+          "name": "Sabirabad",
+          "lat": 40.00869,
+          "lng": 48.47701
+        }
+      ]
+    },
+    {
+      "name": "Sadarak",
+      "lat": 39.6727407,
+      "lng": 44.9138739,
+      "districts": []
+    },
+    {
+      "name": "Salyan",
+      "lat": 39.6524101,
+      "lng": 49.1084381,
+      "districts": [
+        {
+          "name": "Qaraçala",
+          "lat": 39.81614,
+          "lng": 48.93792
+        },
+        {
+          "name": "Salyan",
+          "lat": 39.59621,
+          "lng": 48.98479
+        }
+      ]
+    },
+    {
+      "name": "Samukh",
+      "lat": 40.7604631,
+      "lng": 46.4063181,
+      "districts": [
+        {
+          "name": "Qarayeri",
+          "lat": 40.78674,
+          "lng": 46.31365
+        },
+        {
+          "name": "Qırmızı Samux",
+          "lat": 40.93972,
+          "lng": 46.37889
+        },
+        {
+          "name": "Samux",
+          "lat": 40.76485,
+          "lng": 46.40868
+        }
+      ]
+    },
+    {
+      "name": "Shabran",
+      "lat": 41.1776161,
+      "lng": 48.8767058,
+      "districts": [
+        {
+          "name": "Divichibazar",
+          "lat": 41.20117,
+          "lng": 48.98712
+        }
+      ]
+    },
+    {
+      "name": "Shahbuz",
+      "lat": 39.4385817,
+      "lng": 45.6071333,
+      "districts": []
+    },
+    {
+      "name": "Shaki",
+      "lat": 41.2033609,
+      "lng": 47.1802623,
+      "districts": [
+        {
+          "name": "Sheki",
+          "lat": 41.19194,
+          "lng": 47.17056
+        }
+      ]
+    },
+    {
+      "name": "Shaki",
+      "lat": 41.2033609,
+      "lng": 47.1802623,
+      "districts": [
+        {
+          "name": "Baş Göynük",
+          "lat": 41.32582,
+          "lng": 47.11357
+        }
+      ]
+    },
+    {
+      "name": "Shamakhi",
+      "lat": 40.6318731,
+      "lng": 48.6363801,
+      "districts": [
+        {
+          "name": "Shamakhi",
+          "lat": 40.63141,
+          "lng": 48.64137
+        }
+      ]
+    },
+    {
+      "name": "Shamkir",
+      "lat": 40.8357964,
+      "lng": 46.0246224,
+      "districts": [
+        {
+          "name": "Dolyar",
+          "lat": 40.86278,
+          "lng": 46.03493
+        },
+        {
+          "name": "Dzagam",
+          "lat": 40.9033,
+          "lng": 45.88564
+        },
+        {
+          "name": "Qasım İsmayılov",
+          "lat": 40.81243,
+          "lng": 46.25938
+        },
+        {
+          "name": "Shamkhor",
+          "lat": 40.82975,
+          "lng": 46.0178
+        }
+      ]
+    },
+    {
+      "name": "Sharur",
+      "lat": 39.5536332,
+      "lng": 44.984568,
+      "districts": []
+    },
+    {
+      "name": "Shirvan",
+      "lat": 39.9296573,
+      "lng": 48.9342657,
+      "districts": [
+        {
+          "name": "Şirvan",
+          "lat": 39.93778,
+          "lng": 48.929
+        }
+      ]
+    },
+    {
+      "name": "Shusha",
+      "lat": 39.7632567,
+      "lng": 46.7511501,
+      "districts": [
+        {
+          "name": "Shushi",
+          "lat": 39.76006,
+          "lng": 46.74989
+        }
+      ]
+    },
+    {
+      "name": "Siazan",
+      "lat": 41.0783833,
+      "lng": 49.1118477,
+      "districts": [
+        {
+          "name": "Gilgilçay",
+          "lat": 41.13932,
+          "lng": 49.09038
+        },
+        {
+          "name": "Kyzyl-Burun",
+          "lat": 41.07811,
+          "lng": 49.11564
+        }
+      ]
+    },
+    {
+      "name": "Sumqayit",
+      "lat": 40.5961585,
+      "lng": 49.6696668,
+      "districts": [
+        {
+          "name": "Sumqayıt",
+          "lat": 40.58972,
+          "lng": 49.66861
+        },
+        {
+          "name": "Corat",
+          "lat": 40.57176,
+          "lng": 49.70509
+        },
+        {
+          "name": "Hacı Zeynalabdin",
+          "lat": 40.62333,
+          "lng": 49.55861
+        }
+      ]
+    },
+    {
+      "name": "Tartar",
+      "lat": 40.3443875,
+      "lng": 46.9376519,
+      "districts": [
+        {
+          "name": "Martakert",
+          "lat": 40.21127,
+          "lng": 46.82135
+        },
+        {
+          "name": "Terter",
+          "lat": 40.34201,
+          "lng": 46.93161
+        }
+      ]
+    },
+    {
+      "name": "Tovuz",
+      "lat": 40.9954523,
+      "lng": 45.6165907,
+      "districts": [
+        {
+          "name": "Tovuz",
+          "lat": 40.99249,
+          "lng": 45.62838
+        },
+        {
+          "name": "Çatax",
+          "lat": 40.72622,
+          "lng": 45.55919
+        },
+        {
+          "name": "Çobansığnaq",
+          "lat": 40.75244,
+          "lng": 45.70645
+        },
+        {
+          "name": "Dondar Quşçu",
+          "lat": 40.9539,
+          "lng": 45.61942
+        },
+        {
+          "name": "Qaraxanlı",
+          "lat": 41.04358,
+          "lng": 45.65527
+        },
+        {
+          "name": "Yanıqlı",
+          "lat": 40.8432,
+          "lng": 45.6803
+        }
+      ]
+    },
+    {
+      "name": "Ujar",
+      "lat": 40.5185386,
+      "lng": 47.6487809,
+      "districts": [
+        {
+          "name": "Ujar",
+          "lat": 40.51902,
+          "lng": 47.65423
+        }
+      ]
+    },
+    {
+      "name": "Yardymli",
+      "lat": 38.9028993,
+      "lng": 48.2132983,
+      "districts": [
+        {
+          "name": "Yardımlı",
+          "lat": 38.90771,
+          "lng": 48.24052
+        }
+      ]
+    },
+    {
+      "name": "Yevlakh",
+      "lat": 40.6115136,
+      "lng": 47.1466686,
+      "districts": [
+        {
+          "name": "Aran",
+          "lat": 40.62528,
+          "lng": 46.97556
+        },
+        {
+          "name": "Qaramanlı",
+          "lat": 40.48135,
+          "lng": 46.99339
+        }
+      ]
+    },
+    {
+      "name": "Yevlakh",
+      "lat": 40.6115136,
+      "lng": 47.1466686,
+      "districts": [
+        {
+          "name": "Yevlakh",
+          "lat": 40.61832,
+          "lng": 47.15014
+        }
+      ]
+    },
+    {
+      "name": "Zangilan",
+      "lat": 39.0856899,
+      "lng": 46.6524728,
+      "districts": [
+        {
+          "name": "Mincivan",
+          "lat": 39.03023,
+          "lng": 46.72329
+        },
+        {
+          "name": "Zangilan",
+          "lat": 39.08371,
+          "lng": 46.65988
+        }
+      ]
+    },
+    {
+      "name": "Zaqatala",
+      "lat": 41.6180321,
+      "lng": 46.7595126,
+      "districts": [
+        {
+          "name": "Aliabad",
+          "lat": 41.4829,
+          "lng": 46.63483
+        },
+        {
+          "name": "Faldarlı",
+          "lat": 41.46868,
+          "lng": 46.51579
+        },
+        {
+          "name": "Mamrux",
+          "lat": 41.54243,
+          "lng": 46.767
+        },
+        {
+          "name": "Qandax",
+          "lat": 41.47546,
+          "lng": 46.54128
+        },
+        {
+          "name": "Zaqatala",
+          "lat": 41.6316,
+          "lng": 46.64479
+        }
+      ]
+    },
+    {
+      "name": "Zardab",
+      "lat": 40.2148114,
+      "lng": 47.714944,
+      "districts": [
+        {
+          "name": "Zardob",
+          "lat": 40.2184,
+          "lng": 47.71214
+        }
+      ]
+    }
+  ]
+}

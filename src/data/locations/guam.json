@@ -1,0 +1,265 @@
+{
+  "name": "Guam",
+  "lat": 13.46666666,
+  "lng": 144.78333333,
+  "cities": [
+    {
+      "name": "Agana Heights",
+      "lat": 13.4655441,
+      "lng": 144.7465714,
+      "districts": [
+        {
+          "name": "Agana Heights Village",
+          "lat": 13.46559,
+          "lng": 144.74795
+        }
+      ]
+    },
+    {
+      "name": "Asan-Maina",
+      "lat": 13.4776472,
+      "lng": 144.7308588,
+      "districts": [
+        {
+          "name": "Asan-Maina Village",
+          "lat": 13.47215,
+          "lng": 144.71654
+        }
+      ]
+    },
+    {
+      "name": "Barrigada",
+      "lat": 13.4694092,
+      "lng": 144.80106,
+      "districts": [
+        {
+          "name": "Barrigada Village",
+          "lat": 13.46913,
+          "lng": 144.79901
+        }
+      ]
+    },
+    {
+      "name": "Chalan Pago-Ordot",
+      "lat": 13.441372,
+      "lng": 144.7670241,
+      "districts": [
+        {
+          "name": "Chalan Pago-Ordot Village",
+          "lat": 13.44741,
+          "lng": 144.75902
+        }
+      ]
+    },
+    {
+      "name": "Dededo",
+      "lat": 13.519054,
+      "lng": 144.8378388,
+      "districts": [
+        {
+          "name": "Dededo Village",
+          "lat": 13.51777,
+          "lng": 144.8391
+        }
+      ]
+    },
+    {
+      "name": "Hågat",
+      "lat": 13.384761,
+      "lng": 144.6580714,
+      "districts": [
+        {
+          "name": "Agat Village",
+          "lat": 13.383,
+          "lng": 144.66003
+        }
+      ]
+    },
+    {
+      "name": "Hagåtña",
+      "lat": 13.4748148,
+      "lng": 144.7516191,
+      "districts": [
+        {
+          "name": "Hagåtña",
+          "lat": 13.47567,
+          "lng": 144.74886,
+          "iscapital": true
+        },
+        {
+          "name": "Hagåtña Village",
+          "lat": 13.47279,
+          "lng": 144.75802
+        }
+      ]
+    },
+    {
+      "name": "Inarajan (Inalåhan)",
+      "lat": 13.2797664,
+      "lng": 144.7432266,
+      "districts": [
+        {
+          "name": "Inarajan Village",
+          "lat": 13.27363,
+          "lng": 144.74845
+        }
+      ]
+    },
+    {
+      "name": "Mangilao",
+      "lat": 13.4439915,
+      "lng": 144.8050528,
+      "districts": [
+        {
+          "name": "Adacao",
+          "lat": 13.49242,
+          "lng": 144.8447
+        },
+        {
+          "name": "Mangilao Village",
+          "lat": 13.44761,
+          "lng": 144.80109
+        }
+      ]
+    },
+    {
+      "name": "Merizo (Malesso)",
+      "lat": 13.2682975,
+      "lng": 144.6726106,
+      "districts": [
+        {
+          "name": "Merizo Village",
+          "lat": 13.26584,
+          "lng": 144.66908
+        }
+      ]
+    },
+    {
+      "name": "Mongmong-Toto-Maite",
+      "lat": 13.4674318,
+      "lng": 144.7680282,
+      "districts": [
+        {
+          "name": "Mongmong-Toto-Maite Village",
+          "lat": 13.46857,
+          "lng": 144.78214
+        }
+      ]
+    },
+    {
+      "name": "Piti",
+      "lat": 13.4647446,
+      "lng": 144.6876982,
+      "districts": [
+        {
+          "name": "Piti Village",
+          "lat": 13.46256,
+          "lng": 144.69331
+        }
+      ]
+    },
+    {
+      "name": "Santa Rita (Sånta Rita-Sumai)",
+      "lat": 13.3867874,
+      "lng": 144.6664227,
+      "districts": [
+        {
+          "name": "Apra Harbor",
+          "lat": 13.42827,
+          "lng": 144.65252
+        },
+        {
+          "name": "Santa Rita Village",
+          "lat": 13.38608,
+          "lng": 144.67226
+        }
+      ]
+    },
+    {
+      "name": "Sinajana",
+      "lat": 13.4609486,
+      "lng": 144.7461208,
+      "districts": [
+        {
+          "name": "Sinajana Village",
+          "lat": 13.46334,
+          "lng": 144.75406
+        }
+      ]
+    },
+    {
+      "name": "Talofofo (Talo'fo'fo)",
+      "lat": 13.353904,
+      "lng": 144.7532932,
+      "districts": [
+        {
+          "name": "Talofofo Village",
+          "lat": 13.35513,
+          "lng": 144.75835
+        }
+      ]
+    },
+    {
+      "name": "Tamuning",
+      "lat": 13.4944762,
+      "lng": 144.7804582,
+      "districts": [
+        {
+          "name": "Apotgan",
+          "lat": 13.48817,
+          "lng": 144.77644
+        },
+        {
+          "name": "Tamuning",
+          "lat": 13.48754,
+          "lng": 144.78143
+        },
+        {
+          "name": "Tamuning-Tumon-Harmon Village",
+          "lat": 13.48773,
+          "lng": 144.78138
+        }
+      ]
+    },
+    {
+      "name": "Umatac (Humåtak)",
+      "lat": 13.2945777,
+      "lng": 144.6538283,
+      "districts": []
+    },
+    {
+      "name": "Yigo",
+      "lat": 13.5379424,
+      "lng": 144.8984955,
+      "districts": [
+        {
+          "name": "Anao",
+          "lat": 13.5289,
+          "lng": 144.9182
+        },
+        {
+          "name": "Chaguian",
+          "lat": 13.57175,
+          "lng": 144.88058
+        },
+        {
+          "name": "Yigo Village",
+          "lat": 13.53605,
+          "lng": 144.88855
+        }
+      ]
+    },
+    {
+      "name": "Yona",
+      "lat": 13.41376,
+      "lng": 144.774413,
+      "districts": [
+        {
+          "name": "Yona Village",
+          "lat": 13.40974,
+          "lng": 144.77697
+        }
+      ]
+    }
+  ]
+}

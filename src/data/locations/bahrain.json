@@ -1,0 +1,81 @@
+{
+  "name": "Bahrain",
+  "lat": 26,
+  "lng": 50.55,
+  "cities": [
+    {
+      "name": "Capital",
+      "lat": 26.4243233,
+      "lng": 50.4747251,
+      "districts": [
+        {
+          "name": "Manama",
+          "lat": 26.22787,
+          "lng": 50.58565,
+          "iscapital": true
+        },
+        {
+          "name": "Jidd Ḩafş",
+          "lat": 26.21861,
+          "lng": 50.54778
+        },
+        {
+          "name": "Sitrah",
+          "lat": 26.15472,
+          "lng": 50.62056
+        }
+      ]
+    },
+    {
+      "name": "Muharraq",
+      "lat": 26.2465946,
+      "lng": 50.6164127,
+      "districts": [
+        {
+          "name": "Al Muharraq",
+          "lat": 26.25722,
+          "lng": 50.61194
+        },
+        {
+          "name": "Al Ḩadd",
+          "lat": 26.24556,
+          "lng": 50.65417
+        }
+      ]
+    },
+    {
+      "name": "Northern",
+      "lat": 26.2778477,
+      "lng": 50.4181123,
+      "districts": [
+        {
+          "name": "Madīnat Ḩamad",
+          "lat": 26.11528,
+          "lng": 50.50694
+        }
+      ]
+    },
+    {
+      "name": "Southern",
+      "lat": 25.8400069,
+      "lng": 50.5902693,
+      "districts": [
+        {
+          "name": "Ar Rifā‘",
+          "lat": 26.13,
+          "lng": 50.555
+        },
+        {
+          "name": "Dār Kulayb",
+          "lat": 26.06861,
+          "lng": 50.50389
+        },
+        {
+          "name": "Madīnat ‘Īsá",
+          "lat": 26.17361,
+          "lng": 50.54778
+        }
+      ]
+    }
+  ]
+}

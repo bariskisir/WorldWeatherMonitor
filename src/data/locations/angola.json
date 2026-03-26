@@ -1,0 +1,494 @@
+{
+  "name": "Angola",
+  "lat": -12.5,
+  "lng": 18.5,
+  "cities": [
+    {
+      "name": "Bengo",
+      "lat": -8.3196672,
+      "lng": 13.8656195,
+      "districts": [
+        {
+          "name": "Dande",
+          "lat": -8.1133,
+          "lng": 13.7652
+        },
+        {
+          "name": "Ambriz",
+          "lat": -7.8574,
+          "lng": 13.1251
+        },
+        {
+          "name": "Bula Atumba",
+          "lat": -7.3117,
+          "lng": 14.3147
+        },
+        {
+          "name": "Caxito",
+          "lat": -8.57848,
+          "lng": 13.66425
+        },
+        {
+          "name": "Muxima",
+          "lat": -9.5879,
+          "lng": 13.5251
+        },
+        {
+          "name": "Nambuangongo",
+          "lat": -8.5656,
+          "lng": 13.6572
+        },
+        {
+          "name": "Pango Aluquém",
+          "lat": -8.5544,
+          "lng": 13.5815
+        },
+        {
+          "name": "Úcua",
+          "lat": -8.6724,
+          "lng": 13.6829
+        }
+      ]
+    },
+    {
+      "name": "Benguela",
+      "lat": -12.9104657,
+      "lng": 14.0356608,
+      "districts": [
+        {
+          "name": "Baía Farta",
+          "lat": -12.5766,
+          "lng": 13.4776
+        },
+        {
+          "name": "Balombo",
+          "lat": -12.9046,
+          "lng": 13.5959
+        },
+        {
+          "name": "Benguela",
+          "lat": -12.57626,
+          "lng": 13.40547
+        },
+        {
+          "name": "Cubal",
+          "lat": -12.5885,
+          "lng": 14.4267
+        },
+        {
+          "name": "Ganda",
+          "lat": -12.6825,
+          "lng": 14.4233
+        },
+        {
+          "name": "Lobito",
+          "lat": -12.3644,
+          "lng": 13.53601
+        },
+        {
+          "name": "Sumbe",
+          "lat": -11.2061,
+          "lng": 13.8448
+        },
+        {
+          "name": "Bocoio",
+          "lat": -12.5303,
+          "lng": 13.4042
+        },
+        {
+          "name": "Caimbambo",
+          "lat": -12.6133,
+          "lng": 14.4194
+        },
+        {
+          "name": "Catumbela",
+          "lat": -12.43002,
+          "lng": 13.54677
+        },
+        {
+          "name": "Chongoroi",
+          "lat": -12.7888,
+          "lng": 13.7975
+        }
+      ]
+    },
+    {
+      "name": "Bié",
+      "lat": -12.2630485,
+      "lng": 17.4967812,
+      "districts": [
+        {
+          "name": "Cuito",
+          "lat": -12.38333,
+          "lng": 16.93333
+        },
+        {
+          "name": "Camacupa",
+          "lat": -12.01667,
+          "lng": 17.48333
+        },
+        {
+          "name": "Catabola",
+          "lat": -12.15,
+          "lng": 17.28333
+        },
+        {
+          "name": "Chissamba",
+          "lat": -12.16667,
+          "lng": 17.33333
+        }
+      ]
+    },
+    {
+      "name": "Cabinda",
+      "lat": -5.056395,
+      "lng": 12.3211749,
+      "districts": [
+        {
+          "name": "Cabinda",
+          "lat": -5.55,
+          "lng": 12.2
+        }
+      ]
+    },
+    {
+      "name": "Cuando Cubango",
+      "lat": -16.0457694,
+      "lng": 19.5621532,
+      "districts": [
+        {
+          "name": "Menongue",
+          "lat": -14.6585,
+          "lng": 17.69099
+        }
+      ]
+    },
+    {
+      "name": "Cuanza",
+      "lat": -10.7707527,
+      "lng": 15.0975712,
+      "districts": [
+        {
+          "name": "Sumbe",
+          "lat": -11.20605,
+          "lng": 13.84371
+        },
+        {
+          "name": "Quibala",
+          "lat": -10.73366,
+          "lng": 14.97995
+        },
+        {
+          "name": "Uacu Cungo",
+          "lat": -11.35669,
+          "lng": 15.11719
+        }
+      ]
+    },
+    {
+      "name": "Cuanza Norte",
+      "lat": -9.0296752,
+      "lng": 15.0926324,
+      "districts": [
+        {
+          "name": "N’dalatando",
+          "lat": -9.29782,
+          "lng": 14.91162
+        },
+        {
+          "name": "Camabatela",
+          "lat": -8.18812,
+          "lng": 15.37495
+        }
+      ]
+    },
+    {
+      "name": "Cunene",
+      "lat": -16.5568536,
+      "lng": 15.7867319,
+      "districts": [
+        {
+          "name": "Ondjiva",
+          "lat": -17.06667,
+          "lng": 15.73333
+        }
+      ]
+    },
+    {
+      "name": "Huambo",
+      "lat": -12.6076318,
+      "lng": 15.7411039,
+      "districts": [
+        {
+          "name": "Caála",
+          "lat": -12.8525,
+          "lng": 15.56056
+        },
+        {
+          "name": "Huambo",
+          "lat": -12.77611,
+          "lng": 15.73917
+        },
+        {
+          "name": "Chela",
+          "lat": -12.30261,
+          "lng": 15.43358
+        },
+        {
+          "name": "Longonjo",
+          "lat": -12.90667,
+          "lng": 15.25333
+        }
+      ]
+    },
+    {
+      "name": "Huíla",
+      "lat": -14.6957808,
+      "lng": 15.0976293,
+      "districts": [
+        {
+          "name": "Caluquembe",
+          "lat": -13.92093,
+          "lng": 14.53476
+        },
+        {
+          "name": "Chibia",
+          "lat": -15.23657,
+          "lng": 13.88468
+        },
+        {
+          "name": "Chicomba",
+          "lat": -14.30788,
+          "lng": 14.98672
+        },
+        {
+          "name": "Jamba",
+          "lat": -14.76294,
+          "lng": 15.83493
+        },
+        {
+          "name": "Lubango",
+          "lat": -14.91717,
+          "lng": 13.4925
+        },
+        {
+          "name": "Matala",
+          "lat": -15.23967,
+          "lng": 15.17246
+        },
+        {
+          "name": "Quilengues",
+          "lat": -13.99213,
+          "lng": 13.76705
+        },
+        {
+          "name": "Quipungo",
+          "lat": -15.12203,
+          "lng": 14.55953
+        },
+        {
+          "name": "Caconda",
+          "lat": -13.73333,
+          "lng": 15.06667
+        },
+        {
+          "name": "Chipindo",
+          "lat": -13.8683,
+          "lng": 15.73277
+        },
+        {
+          "name": "Cuvango",
+          "lat": -14.27693,
+          "lng": 16.31475
+        },
+        {
+          "name": "Gambos",
+          "lat": -15.80926,
+          "lng": 14.07661
+        },
+        {
+          "name": "Humpata",
+          "lat": -15.0725,
+          "lng": 13.36771
+        }
+      ]
+    },
+    {
+      "name": "Luanda",
+      "lat": -8.8315747,
+      "lng": 13.24797,
+      "districts": [
+        {
+          "name": "Cacuaco",
+          "lat": -8.8296,
+          "lng": 13.2973
+        },
+        {
+          "name": "Luanda",
+          "lat": -8.83682,
+          "lng": 13.23432,
+          "iscapital": true
+        },
+        {
+          "name": "Belas",
+          "lat": -9.06875,
+          "lng": 13.16072
+        },
+        {
+          "name": "Cazenga",
+          "lat": -8.8286,
+          "lng": 13.2665
+        },
+        {
+          "name": "Icolo e Bengo",
+          "lat": -9.24191,
+          "lng": 13.73549
+        },
+        {
+          "name": "Talatona",
+          "lat": -8.8957,
+          "lng": 13.1943
+        },
+        {
+          "name": "Viana",
+          "lat": -8.9021,
+          "lng": 13.2861
+        }
+      ]
+    },
+    {
+      "name": "Lunda Norte",
+      "lat": -8.5088253,
+      "lng": 19.7538618,
+      "districts": [
+        {
+          "name": "Lucapa",
+          "lat": -8.68337,
+          "lng": 20.27045
+        }
+      ]
+    },
+    {
+      "name": "Lunda Sul",
+      "lat": -10.1473779,
+      "lng": 20.9907756,
+      "districts": [
+        {
+          "name": "Saurimo",
+          "lat": -9.66078,
+          "lng": 20.39155
+        },
+        {
+          "name": "Cazaji",
+          "lat": -11.06715,
+          "lng": 20.70148
+        }
+      ]
+    },
+    {
+      "name": "Malanje",
+      "lat": -9.535332,
+      "lng": 16.9364293,
+      "districts": [
+        {
+          "name": "Malanje",
+          "lat": -9.54015,
+          "lng": 16.34096
+        }
+      ]
+    },
+    {
+      "name": "Moxico",
+      "lat": -12.7287195,
+      "lng": 21.2737637,
+      "districts": [
+        {
+          "name": "Luena",
+          "lat": -11.78333,
+          "lng": 19.91667
+        },
+        {
+          "name": "Léua",
+          "lat": -11.65,
+          "lng": 20.45
+        },
+        {
+          "name": "Luau",
+          "lat": -10.70727,
+          "lng": 22.22466
+        },
+        {
+          "name": "Lumeje",
+          "lat": -11.55,
+          "lng": 20.78333
+        }
+      ]
+    },
+    {
+      "name": "Namibe",
+      "lat": -15.2,
+      "lng": 12.15,
+      "districts": [
+        {
+          "name": "Bibala",
+          "lat": -14.9333,
+          "lng": 13.6833
+        },
+        {
+          "name": "Camucuio",
+          "lat": -15.45,
+          "lng": 12.8833
+        },
+        {
+          "name": "Namibe",
+          "lat": -15.1967,
+          "lng": 12.1522
+        },
+        {
+          "name": "Tombua",
+          "lat": -15.7833,
+          "lng": 11.8667
+        },
+        {
+          "name": "Virei",
+          "lat": -14.4667,
+          "lng": 13.2667
+        }
+      ]
+    },
+    {
+      "name": "Uíge",
+      "lat": -6.9516802,
+      "lng": 15.4799164,
+      "districts": [
+        {
+          "name": "Uíge",
+          "lat": -7.60874,
+          "lng": 15.06131
+        }
+      ]
+    },
+    {
+      "name": "Zaire",
+      "lat": -6.6925131,
+      "lng": 13.5293029,
+      "districts": [
+        {
+          "name": "Mbanza Congo",
+          "lat": -6.26703,
+          "lng": 14.2401
+        },
+        {
+          "name": "Soio",
+          "lat": -6.1349,
+          "lng": 12.36894
+        },
+        {
+          "name": "N'zeto",
+          "lat": -7.23116,
+          "lng": 12.8666
+        }
+      ]
+    }
+  ]
+}

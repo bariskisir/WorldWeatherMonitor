@@ -1,0 +1,433 @@
+{
+  "name": "Zambia",
+  "lat": -15,
+  "lng": 30,
+  "cities": [
+    {
+      "name": "Central",
+      "lat": -14.183507,
+      "lng": 29.0375543,
+      "districts": [
+        {
+          "name": "Kabwe",
+          "lat": -14.4469,
+          "lng": 28.44644
+        },
+        {
+          "name": "Chibombo",
+          "lat": -14.65685,
+          "lng": 28.07057
+        },
+        {
+          "name": "Chibombo District",
+          "lat": -14.65808,
+          "lng": 28.07376
+        },
+        {
+          "name": "Kapiri Mposhi",
+          "lat": -13.97147,
+          "lng": 28.66985
+        },
+        {
+          "name": "Mkushi",
+          "lat": -13.62015,
+          "lng": 29.3939
+        },
+        {
+          "name": "Mumbwa",
+          "lat": -14.98293,
+          "lng": 27.0619
+        },
+        {
+          "name": "Serenje",
+          "lat": -13.23251,
+          "lng": 30.23522
+        }
+      ]
+    },
+    {
+      "name": "Copperbelt",
+      "lat": -13.0214171,
+      "lng": 27.8876177,
+      "districts": [
+        {
+          "name": "Chililabombwe",
+          "lat": -12.36475,
+          "lng": 27.82286
+        },
+        {
+          "name": "Chingola",
+          "lat": -12.52897,
+          "lng": 27.88382
+        },
+        {
+          "name": "Chingola District",
+          "lat": -12.48478,
+          "lng": 27.66313
+        },
+        {
+          "name": "Kalulushi",
+          "lat": -12.84151,
+          "lng": 28.09479
+        },
+        {
+          "name": "Kitwe",
+          "lat": -12.80243,
+          "lng": 28.21323
+        },
+        {
+          "name": "Luanshya",
+          "lat": -13.13667,
+          "lng": 28.41661
+        },
+        {
+          "name": "Mufulira",
+          "lat": -12.54982,
+          "lng": 28.24071
+        },
+        {
+          "name": "Ndola",
+          "lat": -12.95867,
+          "lng": 28.63659
+        },
+        {
+          "name": "Chambishi",
+          "lat": -12.63247,
+          "lng": 28.05367
+        },
+        {
+          "name": "Kataba",
+          "lat": -11.88333,
+          "lng": 29.78333
+        },
+        {
+          "name": "Mpongwe",
+          "lat": -13.50914,
+          "lng": 28.15504
+        }
+      ]
+    },
+    {
+      "name": "Eastern",
+      "lat": -13.6514737,
+      "lng": 31.9958539,
+      "districts": [
+        {
+          "name": "Chipata",
+          "lat": -13.63333,
+          "lng": 32.65
+        },
+        {
+          "name": "Chadiza",
+          "lat": -14.06779,
+          "lng": 32.43917
+        },
+        {
+          "name": "Lundazi",
+          "lat": -12.29292,
+          "lng": 33.1782
+        },
+        {
+          "name": "Nyimba",
+          "lat": -14.55656,
+          "lng": 30.8149
+        },
+        {
+          "name": "Petauke",
+          "lat": -14.24117,
+          "lng": 31.31975
+        }
+      ]
+    },
+    {
+      "name": "Luapula",
+      "lat": -10.4680244,
+      "lng": 29.1275609,
+      "districts": [
+        {
+          "name": "Mansa",
+          "lat": -11.19976,
+          "lng": 28.89431
+        },
+        {
+          "name": "Kawambwa",
+          "lat": -9.7915,
+          "lng": 29.07913
+        },
+        {
+          "name": "Mwense",
+          "lat": -10.38447,
+          "lng": 28.698
+        },
+        {
+          "name": "Nchelenge",
+          "lat": -9.34506,
+          "lng": 28.73396
+        },
+        {
+          "name": "Samfya",
+          "lat": -11.36491,
+          "lng": 29.55652
+        }
+      ]
+    },
+    {
+      "name": "Lusaka",
+      "lat": -15.357609,
+      "lng": 29.1653092,
+      "districts": [
+        {
+          "name": "Kafue",
+          "lat": -15.76911,
+          "lng": 28.18136
+        },
+        {
+          "name": "Lusaka",
+          "lat": -15.40669,
+          "lng": 28.28713,
+          "iscapital": true
+        },
+        {
+          "name": "Chongwe",
+          "lat": -15.32916,
+          "lng": 28.68204
+        },
+        {
+          "name": "Luangwa",
+          "lat": -15.61667,
+          "lng": 30.41667
+        }
+      ]
+    },
+    {
+      "name": "Muchinga",
+      "lat": -11.1005259,
+      "lng": 31.639964,
+      "districts": [
+        {
+          "name": "Chama",
+          "lat": -11.21303,
+          "lng": 33.1521
+        },
+        {
+          "name": "Chinsali",
+          "lat": -10.54142,
+          "lng": 32.08162
+        },
+        {
+          "name": "Isoka",
+          "lat": -10.16062,
+          "lng": 32.63353
+        },
+        {
+          "name": "Mpika",
+          "lat": -11.83431,
+          "lng": 31.45287
+        },
+        {
+          "name": "Nakonde",
+          "lat": -9.34213,
+          "lng": 32.745
+        }
+      ]
+    },
+    {
+      "name": "Northern",
+      "lat": -9.4514165,
+      "lng": 30.8881001,
+      "districts": [
+        {
+          "name": "Kasama",
+          "lat": -10.21289,
+          "lng": 31.18084
+        },
+        {
+          "name": "Kaputa",
+          "lat": -8.46887,
+          "lng": 29.66193
+        },
+        {
+          "name": "Luwingu",
+          "lat": -10.2621,
+          "lng": 29.92712
+        },
+        {
+          "name": "Mbala",
+          "lat": -8.84024,
+          "lng": 31.36587
+        },
+        {
+          "name": "Mporokoso",
+          "lat": -9.37273,
+          "lng": 30.12501
+        },
+        {
+          "name": "Mpulungu",
+          "lat": -8.76234,
+          "lng": 31.11405
+        },
+        {
+          "name": "Mungwi",
+          "lat": -10.1732,
+          "lng": 31.36942
+        }
+      ]
+    },
+    {
+      "name": "Northwestern",
+      "lat": -13.0050258,
+      "lng": 24.9042208,
+      "districts": [
+        {
+          "name": "Solwezi",
+          "lat": -12.1688,
+          "lng": 26.38938
+        },
+        {
+          "name": "Kabompo",
+          "lat": -13.59268,
+          "lng": 24.20081
+        },
+        {
+          "name": "Kalengwa",
+          "lat": -13.46586,
+          "lng": 25.00271
+        },
+        {
+          "name": "Kansanshi",
+          "lat": -12.09514,
+          "lng": 26.42727
+        },
+        {
+          "name": "Kasempa",
+          "lat": -13.45836,
+          "lng": 25.8338
+        },
+        {
+          "name": "Mufumbwe",
+          "lat": -13.68333,
+          "lng": 24.8
+        },
+        {
+          "name": "Mwinilunga",
+          "lat": -11.73584,
+          "lng": 24.42926
+        },
+        {
+          "name": "Zambezi",
+          "lat": -13.54323,
+          "lng": 23.10467
+        }
+      ]
+    },
+    {
+      "name": "Southern",
+      "lat": -16.5381715,
+      "lng": 26.7374997,
+      "districts": [
+        {
+          "name": "Livingstone",
+          "lat": -17.84194,
+          "lng": 25.85425
+        },
+        {
+          "name": "Mazabuka",
+          "lat": -15.85601,
+          "lng": 27.748
+        },
+        {
+          "name": "Choma",
+          "lat": -16.80889,
+          "lng": 26.9875
+        },
+        {
+          "name": "Gwembe",
+          "lat": -16.49755,
+          "lng": 27.60691
+        },
+        {
+          "name": "Itezhi-Tezhi",
+          "lat": -15.74092,
+          "lng": 26.04146
+        },
+        {
+          "name": "Maamba",
+          "lat": -17.36667,
+          "lng": 27.15
+        },
+        {
+          "name": "Monze",
+          "lat": -16.28333,
+          "lng": 27.48333
+        },
+        {
+          "name": "Nakambala",
+          "lat": -15.83244,
+          "lng": 27.77994
+        },
+        {
+          "name": "Namwala",
+          "lat": -15.75042,
+          "lng": 26.43839
+        },
+        {
+          "name": "Siavonga",
+          "lat": -16.53818,
+          "lng": 28.70876
+        },
+        {
+          "name": "Siavonga District",
+          "lat": -16.26742,
+          "lng": 28.55036
+        },
+        {
+          "name": "Sinazongwe",
+          "lat": -17.2614,
+          "lng": 27.46179
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "lat": 6.9016086,
+      "lng": 80.0087746,
+      "districts": [
+        {
+          "name": "Mongu",
+          "lat": -15.24835,
+          "lng": 23.12741
+        },
+        {
+          "name": "Kalabo",
+          "lat": -14.99307,
+          "lng": 22.67926
+        },
+        {
+          "name": "Kaoma",
+          "lat": -14.78333,
+          "lng": 24.8
+        },
+        {
+          "name": "Limulunga",
+          "lat": -15.09691,
+          "lng": 23.13757
+        },
+        {
+          "name": "Lukulu",
+          "lat": -14.37067,
+          "lng": 23.24196
+        },
+        {
+          "name": "Senanga",
+          "lat": -16.11667,
+          "lng": 23.26667
+        },
+        {
+          "name": "Sesheke",
+          "lat": -17.47593,
+          "lng": 24.29684
+        }
+      ]
+    }
+  ]
+}

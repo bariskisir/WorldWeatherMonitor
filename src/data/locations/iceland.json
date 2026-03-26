@@ -1,0 +1,857 @@
+{
+  "name": "Iceland",
+  "lat": 65,
+  "lng": -18,
+  "cities": [
+    {
+      "name": "Akranes",
+      "lat": 64.32,
+      "lng": -22.08,
+      "districts": [
+        {
+          "name": "Akranes",
+          "lat": 64.32179,
+          "lng": -22.0749
+        }
+      ]
+    },
+    {
+      "name": "Akureyri",
+      "lat": 65.68,
+      "lng": -18.1,
+      "districts": [
+        {
+          "name": "Akureyri",
+          "lat": 65.68353,
+          "lng": -18.0878
+        }
+      ]
+    },
+    {
+      "name": "Árborg",
+      "lat": 63.9,
+      "lng": -20.88,
+      "districts": [
+        {
+          "name": "Selfoss",
+          "lat": 63.93311,
+          "lng": -20.99712
+        }
+      ]
+    },
+    {
+      "name": "Árneshreppur",
+      "lat": 66.08,
+      "lng": -21.5,
+      "districts": []
+    },
+    {
+      "name": "Ásahreppur",
+      "lat": 63.95,
+      "lng": -21.5,
+      "districts": [
+        {
+          "name": "Ásahreppur",
+          "lat": 63.87589,
+          "lng": -20.59484
+        }
+      ]
+    },
+    {
+      "name": "Bláskógabyggð",
+      "lat": 64.23,
+      "lng": -20.27,
+      "districts": [
+        {
+          "name": "Bláskógabyggð",
+          "lat": 64.41667,
+          "lng": -20.33333
+        }
+      ]
+    },
+    {
+      "name": "Bolungarvík",
+      "lat": 66.15,
+      "lng": -23.26,
+      "districts": []
+    },
+    {
+      "name": "Borgarbyggð",
+      "lat": 64.75,
+      "lng": -21.67,
+      "districts": [
+        {
+          "name": "Akrahreppur",
+          "lat": 65.35505,
+          "lng": -18.79572
+        },
+        {
+          "name": "Borgarbyggð",
+          "lat": 64.71446,
+          "lng": -21.23788
+        },
+        {
+          "name": "Borgarfjarðarhreppur",
+          "lat": 65.43401,
+          "lng": -13.82933
+        },
+        {
+          "name": "Borgarnes",
+          "lat": 64.53834,
+          "lng": -21.92064
+        }
+      ]
+    },
+    {
+      "name": "Capital",
+      "lat": 64.1727137,
+      "lng": -21.5667575,
+      "districts": []
+    },
+    {
+      "name": "Dalabyggð",
+      "lat": 65.25,
+      "lng": -21.83,
+      "districts": [
+        {
+          "name": "Dalabyggð",
+          "lat": 65.10121,
+          "lng": -21.72871
+        }
+      ]
+    },
+    {
+      "name": "Dalvíkurbyggð",
+      "lat": 65.97,
+      "lng": -18.53,
+      "districts": [
+        {
+          "name": "Dalvík",
+          "lat": 65.97018,
+          "lng": -18.52861
+        },
+        {
+          "name": "Dalvíkurbyggð",
+          "lat": 65.87318,
+          "lng": -18.60844
+        }
+      ]
+    },
+    {
+      "name": "Eastern",
+      "lat": 65.1940668,
+      "lng": -15.0924209,
+      "districts": []
+    },
+    {
+      "name": "Eyja- og Miklaholtshreppur",
+      "lat": 64.72,
+      "lng": -22.65,
+      "districts": [
+        {
+          "name": "Eyja- og Miklaholtshreppur",
+          "lat": 64.85846,
+          "lng": -22.54557
+        }
+      ]
+    },
+    {
+      "name": "Eyjafjarðarsveit",
+      "lat": 65.63,
+      "lng": -18.25,
+      "districts": [
+        {
+          "name": "Eyjafjarðarsveit",
+          "lat": 65.33333,
+          "lng": -18.16667
+        }
+      ]
+    },
+    {
+      "name": "Fjallabyggð",
+      "lat": 66.05,
+      "lng": -18.9,
+      "districts": [
+        {
+          "name": "Fjallabyggð",
+          "lat": 66.05962,
+          "lng": -18.7822
+        },
+        {
+          "name": "Siglufjörður",
+          "lat": 66.15198,
+          "lng": -18.90815
+        }
+      ]
+    },
+    {
+      "name": "Fjarðabyggð",
+      "lat": 64.93,
+      "lng": -14.3,
+      "districts": [
+        {
+          "name": "Breiðdalshreppur",
+          "lat": 64.83333,
+          "lng": -14.25
+        },
+        {
+          "name": "Egilsstaðir",
+          "lat": 65.26687,
+          "lng": -14.39485
+        },
+        {
+          "name": "Eskifjörður",
+          "lat": 65.07306,
+          "lng": -14.01525
+        },
+        {
+          "name": "Fjarðabyggð",
+          "lat": 65.08333,
+          "lng": -14
+        },
+        {
+          "name": "Neskaupstaður",
+          "lat": 65.14819,
+          "lng": -13.68368
+        },
+        {
+          "name": "Reyðarfjörður",
+          "lat": 65.03164,
+          "lng": -14.21832
+        }
+      ]
+    },
+    {
+      "name": "Fljótsdalshreppur",
+      "lat": 65.25,
+      "lng": -14.83,
+      "districts": [
+        {
+          "name": "Fljótsdalshreppur",
+          "lat": 64.85275,
+          "lng": -15.2568
+        }
+      ]
+    },
+    {
+      "name": "Flóahreppur",
+      "lat": 63.93,
+      "lng": -20.68,
+      "districts": [
+        {
+          "name": "Flóahreppur",
+          "lat": 63.89569,
+          "lng": -20.80159
+        }
+      ]
+    },
+    {
+      "name": "Garðabær",
+      "lat": 64.09,
+      "lng": -21.93,
+      "districts": [
+        {
+          "name": "Álftanes",
+          "lat": 64.1,
+          "lng": -22.01667
+        },
+        {
+          "name": "Garðabær",
+          "lat": 64.08865,
+          "lng": -21.92298
+        }
+      ]
+    },
+    {
+      "name": "Grímsnes- og Grafningshreppur",
+      "lat": 64.07,
+      "lng": -20.88,
+      "districts": [
+        {
+          "name": "Grímsnes- og Grafningshreppur",
+          "lat": 64.08533,
+          "lng": -20.9671
+        }
+      ]
+    },
+    {
+      "name": "Grindavík",
+      "lat": 63.84,
+      "lng": -22.43,
+      "districts": [
+        {
+          "name": "Grindavík",
+          "lat": 63.83849,
+          "lng": -22.43931
+        }
+      ]
+    },
+    {
+      "name": "Grundarfjörður",
+      "lat": 64.93,
+      "lng": -23.25,
+      "districts": []
+    },
+    {
+      "name": "Grýtubakkahreppur",
+      "lat": 65.72,
+      "lng": -17.57,
+      "districts": [
+        {
+          "name": "Grýtubakkahreppur",
+          "lat": 65.98333,
+          "lng": -18.11667
+        }
+      ]
+    },
+    {
+      "name": "Hafnarfjörður",
+      "lat": 64.07,
+      "lng": -21.95,
+      "districts": [
+        {
+          "name": "Hafnarfjörður",
+          "lat": 64.0671,
+          "lng": -21.93774
+        }
+      ]
+    },
+    {
+      "name": "Hörðarsveit",
+      "lat": 64.6,
+      "lng": -21.15,
+      "districts": [
+        {
+          "name": "Hörgársveit",
+          "lat": 65.64828,
+          "lng": -18.49599
+        }
+      ]
+    },
+    {
+      "name": "Hornafjörður",
+      "lat": 64.25,
+      "lng": -15.2,
+      "districts": [
+        {
+          "name": "Höfn",
+          "lat": 64.25388,
+          "lng": -15.21212
+        }
+      ]
+    },
+    {
+      "name": "Hrunamannahreppur",
+      "lat": 64.07,
+      "lng": -20.35,
+      "districts": [
+        {
+          "name": "Hrunamannahreppur",
+          "lat": 64.40944,
+          "lng": -19.72237
+        }
+      ]
+    },
+    {
+      "name": "Húnabyggð",
+      "lat": 65.75,
+      "lng": -20.83,
+      "districts": []
+    },
+    {
+      "name": "Húnaþing vestra",
+      "lat": 65.6,
+      "lng": -21.25,
+      "districts": [
+        {
+          "name": "Húnaþing Vestra",
+          "lat": 65.25,
+          "lng": -20.91667
+        }
+      ]
+    },
+    {
+      "name": "Hvalfjarðarsveit",
+      "lat": 64.4,
+      "lng": -21.45,
+      "districts": [
+        {
+          "name": "Hvalfjarðarsveit",
+          "lat": 64.44265,
+          "lng": -21.61086
+        }
+      ]
+    },
+    {
+      "name": "Hveragerði",
+      "lat": 64,
+      "lng": -21.18,
+      "districts": [
+        {
+          "name": "Hveragerði",
+          "lat": 64.00039,
+          "lng": -21.18602
+        }
+      ]
+    },
+    {
+      "name": "Ísafjörður",
+      "lat": 66.07,
+      "lng": -23.13,
+      "districts": [
+        {
+          "name": "Ísafjarðarbær",
+          "lat": 66.07586,
+          "lng": -23.12794
+        },
+        {
+          "name": "Ísafjörður",
+          "lat": 66.07475,
+          "lng": -23.13498
+        }
+      ]
+    },
+    {
+      "name": "Kaldrananeshreppur",
+      "lat": 65.97,
+      "lng": -23.48,
+      "districts": []
+    },
+    {
+      "name": "Kjósarhreppur",
+      "lat": 64.23,
+      "lng": -21.47,
+      "districts": [
+        {
+          "name": "Kjósarhreppur",
+          "lat": 64.30644,
+          "lng": -21.49919
+        }
+      ]
+    },
+    {
+      "name": "Kópavogur",
+      "lat": 64.11,
+      "lng": -21.91,
+      "districts": [
+        {
+          "name": "Kópavogur",
+          "lat": 64.11234,
+          "lng": -21.91298
+        }
+      ]
+    },
+    {
+      "name": "Langanesbyggð",
+      "lat": 66.3,
+      "lng": -14.95,
+      "districts": [
+        {
+          "name": "Langanesbyggð",
+          "lat": 66.05186,
+          "lng": -15.18969
+        }
+      ]
+    },
+    {
+      "name": "Mosfellsbær",
+      "lat": 64.17,
+      "lng": -21.4,
+      "districts": [
+        {
+          "name": "Mosfellsbaer",
+          "lat": 64.15,
+          "lng": -21.65
+        }
+      ]
+    },
+    {
+      "name": "Múlaþing",
+      "lat": 65.25,
+      "lng": -14.55,
+      "districts": [
+        {
+          "name": "Fljótsdalshérað",
+          "lat": 65.2502,
+          "lng": -15.37211
+        }
+      ]
+    },
+    {
+      "name": "Mýrdalshreppur",
+      "lat": 63.47,
+      "lng": -18.87,
+      "districts": [
+        {
+          "name": "Mýrdalshreppur",
+          "lat": 63.5,
+          "lng": -19
+        }
+      ]
+    },
+    {
+      "name": "Norðurþing",
+      "lat": 66.05,
+      "lng": -17.35,
+      "districts": [
+        {
+          "name": "Húsavík",
+          "lat": 66.04148,
+          "lng": -17.33834
+        }
+      ]
+    },
+    {
+      "name": "Northeastern",
+      "lat": 65.4735997,
+      "lng": -17.4433339,
+      "districts": []
+    },
+    {
+      "name": "Northwestern",
+      "lat": 65.4622189,
+      "lng": -19.8471016,
+      "districts": []
+    },
+    {
+      "name": "Ölfus",
+      "lat": 63.93,
+      "lng": -21.07,
+      "districts": [
+        {
+          "name": "Þorlákshöfn",
+          "lat": 63.85591,
+          "lng": -21.38337
+        }
+      ]
+    },
+    {
+      "name": "Rangárþing eystra",
+      "lat": 63.88,
+      "lng": -20.05,
+      "districts": []
+    },
+    {
+      "name": "Rangárþing ytra",
+      "lat": 63.82,
+      "lng": -20.42,
+      "districts": []
+    },
+    {
+      "name": "Reykhólahreppur",
+      "lat": 65.45,
+      "lng": -22.18,
+      "districts": [
+        {
+          "name": "Reykhólahreppur",
+          "lat": 65.6099,
+          "lng": -22.33324
+        }
+      ]
+    },
+    {
+      "name": "Reykjanesbær",
+      "lat": 63.98,
+      "lng": -22.55,
+      "districts": [
+        {
+          "name": "Garður",
+          "lat": 64.06558,
+          "lng": -22.64656
+        },
+        {
+          "name": "Keflavík",
+          "lat": 64.00492,
+          "lng": -22.56242
+        },
+        {
+          "name": "Reykjanesbær",
+          "lat": 63.99813,
+          "lng": -22.56111
+        },
+        {
+          "name": "Sandgerði",
+          "lat": 64.03762,
+          "lng": -22.70799
+        }
+      ]
+    },
+    {
+      "name": "Reykjavík",
+      "lat": 64.13,
+      "lng": -21.9,
+      "districts": [
+        {
+          "name": "Reykjavík",
+          "lat": 64.13548,
+          "lng": -21.89541,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Seltjarnarnes",
+      "lat": 64.16,
+      "lng": -22.01,
+      "districts": [
+        {
+          "name": "Seltjarnarnes",
+          "lat": 64.15309,
+          "lng": -21.99499
+        }
+      ]
+    },
+    {
+      "name": "Skaftárhreppur",
+      "lat": 63.87,
+      "lng": -18.07,
+      "districts": [
+        {
+          "name": "Skaftárhreppur",
+          "lat": 63.95948,
+          "lng": -18.14491
+        }
+      ]
+    },
+    {
+      "name": "Skagabyggð",
+      "lat": 65.85,
+      "lng": -20.5,
+      "districts": [
+        {
+          "name": "Skagabyggð",
+          "lat": 65.95,
+          "lng": -20.25
+        }
+      ]
+    },
+    {
+      "name": "Skagafjörður",
+      "lat": 65.73,
+      "lng": -19.5,
+      "districts": [
+        {
+          "name": "Sauðárkrókur",
+          "lat": 65.74611,
+          "lng": -19.63944
+        },
+        {
+          "name": "Sveitarfélagið Skagafjörður",
+          "lat": 65.50018,
+          "lng": -19.44566
+        }
+      ]
+    },
+    {
+      "name": "Skagaströnd",
+      "lat": 65.83,
+      "lng": -20.3,
+      "districts": []
+    },
+    {
+      "name": "Skeiða- og Gnúpverjahreppur",
+      "lat": 64.03,
+      "lng": -20.5,
+      "districts": [
+        {
+          "name": "Skeiða- og Gnúpverjahreppur",
+          "lat": 64.34738,
+          "lng": -19.37757
+        }
+      ]
+    },
+    {
+      "name": "Skorradalshreppur",
+      "lat": 64.7,
+      "lng": -21.35,
+      "districts": [
+        {
+          "name": "Skorradalshreppur",
+          "lat": 64.51667,
+          "lng": -21.5
+        }
+      ]
+    },
+    {
+      "name": "Snæfellsbær",
+      "lat": 64.88,
+      "lng": -23.73,
+      "districts": [
+        {
+          "name": "Ólafsvík",
+          "lat": 64.89429,
+          "lng": -23.70918
+        },
+        {
+          "name": "Snæfellsbær",
+          "lat": 64.86667,
+          "lng": -23.5
+        }
+      ]
+    },
+    {
+      "name": "Southern",
+      "lat": 63.9415014,
+      "lng": -22.2018627,
+      "districts": []
+    },
+    {
+      "name": "Southern Peninsula",
+      "lat": 63.9415014,
+      "lng": -22.2018627,
+      "districts": []
+    },
+    {
+      "name": "Strandabyggð",
+      "lat": 65.58,
+      "lng": -21.63,
+      "districts": [
+        {
+          "name": "Strandabyggð",
+          "lat": 65.77455,
+          "lng": -21.95725
+        }
+      ]
+    },
+    {
+      "name": "Stykkishólmur",
+      "lat": 65.08,
+      "lng": -22.73,
+      "districts": [
+        {
+          "name": "Helgafellssveit",
+          "lat": 64.99069,
+          "lng": -22.78948
+        },
+        {
+          "name": "Stykkishólmur",
+          "lat": 65.07537,
+          "lng": -22.72977
+        }
+      ]
+    },
+    {
+      "name": "Súðavík",
+      "lat": 66.05,
+      "lng": -23.13,
+      "districts": []
+    },
+    {
+      "name": "Suðurnesjabær",
+      "lat": 63.87,
+      "lng": -22.08,
+      "districts": []
+    },
+    {
+      "name": "Svalbardsstrandarhreppur",
+      "lat": 65.27,
+      "lng": -21.17,
+      "districts": [
+        {
+          "name": "Svalbarðsstrandarhreppur",
+          "lat": 65.74138,
+          "lng": -18.03513
+        }
+      ]
+    },
+    {
+      "name": "Tálknafjarðarhreppur",
+      "lat": 65.63,
+      "lng": -23.78,
+      "districts": [
+        {
+          "name": "Tálknafjarðarhreppur",
+          "lat": 65.61667,
+          "lng": -23.88333
+        }
+      ]
+    },
+    {
+      "name": "Tjörneshreppur",
+      "lat": 66.2,
+      "lng": -17.05,
+      "districts": [
+        {
+          "name": "Tjörneshreppur",
+          "lat": 66.11667,
+          "lng": -17.2
+        }
+      ]
+    },
+    {
+      "name": "Vestmannaeyjar",
+      "lat": 63.44,
+      "lng": -20.27,
+      "districts": [
+        {
+          "name": "Vestmannaeyjabær",
+          "lat": 63.43877,
+          "lng": -20.269
+        },
+        {
+          "name": "Vestmannaeyjar",
+          "lat": 63.44273,
+          "lng": -20.27339
+        }
+      ]
+    },
+    {
+      "name": "Vesturbyggð",
+      "lat": 65.52,
+      "lng": -24.02,
+      "districts": []
+    },
+    {
+      "name": "Vogar",
+      "lat": 63.98,
+      "lng": -22.38,
+      "districts": [
+        {
+          "name": "Vogar",
+          "lat": 63.9816,
+          "lng": -22.38473
+        }
+      ]
+    },
+    {
+      "name": "Vopnafjarðarhreppur",
+      "lat": 65.75,
+      "lng": -14.83,
+      "districts": []
+    },
+    {
+      "name": "Western",
+      "lat": 52.6241496,
+      "lng": -1.153756,
+      "districts": []
+    },
+    {
+      "name": "Westfjords",
+      "lat": 65.9082049,
+      "lng": -21.8078883,
+      "districts": []
+    },
+    {
+      "name": "Þingeyjarsveit",
+      "lat": 65.87,
+      "lng": -17.08,
+      "districts": [
+        {
+          "name": "Laugar",
+          "lat": 65.72159,
+          "lng": -17.37352
+        },
+        {
+          "name": "Skútustaðahreppur",
+          "lat": 65.17177,
+          "lng": -16.7789
+        },
+        {
+          "name": "Þingeyjarsveit",
+          "lat": 65.37229,
+          "lng": -17.59927
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "name": "Costa Rica",
+  "lat": 10,
+  "lng": -84,
+  "cities": [
+    {
+      "name": "Alajuela",
+      "lat": 10.4523316,
+      "lng": -84.4663284,
+      "districts": [
+        {
+          "name": "Alajuela",
+          "lat": 10.01625,
+          "lng": -84.21163
+        },
+        {
+          "name": "Atenas",
+          "lat": 9.98333,
+          "lng": -84.38333
+        },
+        {
+          "name": "Bijagua",
+          "lat": 10.73279,
+          "lng": -85.05676
+        },
+        {
+          "name": "Carrillos",
+          "lat": 10.02918,
+          "lng": -84.27403
+        },
+        {
+          "name": "Desamparados",
+          "lat": 9.94727,
+          "lng": -84.50626
+        },
+        {
+          "name": "Esquipulas",
+          "lat": 10.05676,
+          "lng": -84.42337
+        },
+        {
+          "name": "Grecia",
+          "lat": 10.06892,
+          "lng": -84.31458
+        },
+        {
+          "name": "Guatuso",
+          "lat": 10.66667,
+          "lng": -84.83333
+        },
+        {
+          "name": "La Fortuna",
+          "lat": 10.47089,
+          "lng": -84.64535
+        },
+        {
+          "name": "Los Chiles",
+          "lat": 10.86667,
+          "lng": -84.66667
+        },
+        {
+          "name": "Naranjo",
+          "lat": 10.11667,
+          "lng": -84.4
+        },
+        {
+          "name": "Orotina",
+          "lat": 9.9,
+          "lng": -84.56667
+        },
+        {
+          "name": "Palmares",
+          "lat": 10.03333,
+          "lng": -84.43333
+        },
+        {
+          "name": "Pital",
+          "lat": 10.45056,
+          "lng": -84.27406
+        },
+        {
+          "name": "Poás",
+          "lat": 10.08333,
+          "lng": -84.23333
+        },
+        {
+          "name": "Pocosol",
+          "lat": 10.36667,
+          "lng": -84.61667
+        },
+        {
+          "name": "Quesada",
+          "lat": 10.32381,
+          "lng": -84.42714
+        },
+        {
+          "name": "Río Segundo",
+          "lat": 10.24138,
+          "lng": -84.27933
+        },
+        {
+          "name": "Sabanilla",
+          "lat": 10.07404,
+          "lng": -84.21551
+        },
+        {
+          "name": "San Carlos",
+          "lat": 10.58333,
+          "lng": -84.41667
+        },
+        {
+          "name": "San José",
+          "lat": 10.95173,
+          "lng": -85.1361
+        },
+        {
+          "name": "San Juan",
+          "lat": 10.10248,
+          "lng": -84.31694
+        },
+        {
+          "name": "San Mateo",
+          "lat": 9.95,
+          "lng": -84.51667
+        },
+        {
+          "name": "San Rafael",
+          "lat": 10.06403,
+          "lng": -84.47281
+        },
+        {
+          "name": "San Ramón",
+          "lat": 10.08718,
+          "lng": -84.47044
+        },
+        {
+          "name": "Santiago",
+          "lat": 10.02275,
+          "lng": -84.4442
+        },
+        {
+          "name": "Upala",
+          "lat": 10.85,
+          "lng": -85.16667
+        },
+        {
+          "name": "Valverde Vega",
+          "lat": 10.18721,
+          "lng": -84.3029
+        },
+        {
+          "name": "Zarcero",
+          "lat": 10.2,
+          "lng": -84.4
+        }
+      ]
+    },
+    {
+      "name": "Cartago",
+      "lat": 9.8622311,
+      "lng": -83.9214187,
+      "districts": [
+        {
+          "name": "Alvarado",
+          "lat": 9.93333,
+          "lng": -83.8
+        },
+        {
+          "name": "Cartago",
+          "lat": 9.86444,
+          "lng": -83.91944
+        },
+        {
+          "name": "Concepción",
+          "lat": 9.93333,
+          "lng": -84
+        },
+        {
+          "name": "Cot",
+          "lat": 9.89449,
+          "lng": -83.87302
+        },
+        {
+          "name": "El Guarco",
+          "lat": 9.75,
+          "lng": -83.91667
+        },
+        {
+          "name": "Jiménez",
+          "lat": 9.75,
+          "lng": -83.68333
+        },
+        {
+          "name": "La Suiza",
+          "lat": 9.85065,
+          "lng": -83.6169
+        },
+        {
+          "name": "La Unión",
+          "lat": 9.91667,
+          "lng": -83.98333
+        },
+        {
+          "name": "Oreamuno",
+          "lat": 10,
+          "lng": -83.83333
+        },
+        {
+          "name": "Orosí",
+          "lat": 9.79617,
+          "lng": -83.85383
+        },
+        {
+          "name": "Pacayas",
+          "lat": 9.80709,
+          "lng": -84.04764
+        },
+        {
+          "name": "Paraíso",
+          "lat": 9.75,
+          "lng": -83.8
+        },
+        {
+          "name": "Pejibaye",
+          "lat": 9.81135,
+          "lng": -83.70336
+        },
+        {
+          "name": "San Diego",
+          "lat": 9.89898,
+          "lng": -84.00287
+        },
+        {
+          "name": "Tobosi",
+          "lat": 9.83837,
+          "lng": -83.98391
+        },
+        {
+          "name": "Tres Ríos",
+          "lat": 9.90644,
+          "lng": -83.9876
+        },
+        {
+          "name": "Tucurrique",
+          "lat": 9.85336,
+          "lng": -83.72273
+        },
+        {
+          "name": "Turrialba",
+          "lat": 9.8,
+          "lng": -83.53333
+        }
+      ]
+    },
+    {
+      "name": "Guanacaste",
+      "lat": 10.3788441,
+      "lng": -85.4338287,
+      "districts": [
+        {
+          "name": "Abangares",
+          "lat": 10.21667,
+          "lng": -85
+        },
+        {
+          "name": "Bagaces",
+          "lat": 10.5,
+          "lng": -85.25
+        },
+        {
+          "name": "Belén",
+          "lat": 10.40789,
+          "lng": -85.58836
+        },
+        {
+          "name": "Cañas",
+          "lat": 10.48005,
+          "lng": -85.11349
+        },
+        {
+          "name": "Carrillo",
+          "lat": 10.41667,
+          "lng": -85.58333
+        },
+        {
+          "name": "Fortuna",
+          "lat": 10.67384,
+          "lng": -85.19984
+        },
+        {
+          "name": "Hojancha",
+          "lat": 9.96667,
+          "lng": -85.41667
+        },
+        {
+          "name": "Juntas",
+          "lat": 10.28089,
+          "lng": -84.95951
+        },
+        {
+          "name": "La Cruz",
+          "lat": 11,
+          "lng": -85.58333
+        },
+        {
+          "name": "Liberia",
+          "lat": 10.63504,
+          "lng": -85.43772
+        },
+        {
+          "name": "Nandayure",
+          "lat": 9.91667,
+          "lng": -85.28333
+        },
+        {
+          "name": "Nicoya",
+          "lat": 10.08333,
+          "lng": -85.5
+        },
+        {
+          "name": "Sámara",
+          "lat": 9.88147,
+          "lng": -85.52809
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 10.25,
+          "lng": -85.66667
+        },
+        {
+          "name": "Sardinal",
+          "lat": 10.51674,
+          "lng": -85.64748
+        },
+        {
+          "name": "Tilarán",
+          "lat": 10.45878,
+          "lng": -84.97513
+        }
+      ]
+    },
+    {
+      "name": "Heredia",
+      "lat": 10.3767813,
+      "lng": -84.0139721,
+      "districts": [
+        {
+          "name": "Ángeles",
+          "lat": 9.99591,
+          "lng": -84.05126
+        },
+        {
+          "name": "Barva",
+          "lat": 10.08333,
+          "lng": -84.1
+        },
+        {
+          "name": "Belén",
+          "lat": 9.98333,
+          "lng": -84.16667
+        },
+        {
+          "name": "Flores",
+          "lat": 10,
+          "lng": -84.15
+        },
+        {
+          "name": "Heredia",
+          "lat": 10.00236,
+          "lng": -84.11651
+        },
+        {
+          "name": "La Asunción",
+          "lat": 9.97961,
+          "lng": -84.17281
+        },
+        {
+          "name": "Llorente",
+          "lat": 9.99844,
+          "lng": -84.15448
+        },
+        {
+          "name": "Mercedes",
+          "lat": 10.00695,
+          "lng": -84.13396
+        },
+        {
+          "name": "San Antonio",
+          "lat": 9.98333,
+          "lng": -84.18333
+        },
+        {
+          "name": "San Francisco",
+          "lat": 9.99299,
+          "lng": -84.12934
+        },
+        {
+          "name": "San Isidro",
+          "lat": 10.03333,
+          "lng": -84.03333
+        },
+        {
+          "name": "San Josecito",
+          "lat": 10.01667,
+          "lng": -84.1
+        },
+        {
+          "name": "San Pablo",
+          "lat": 10,
+          "lng": -84.08333
+        },
+        {
+          "name": "San Rafael",
+          "lat": 10.05,
+          "lng": -84.06667
+        },
+        {
+          "name": "Santa Bárbara",
+          "lat": 10.08333,
+          "lng": -84.15
+        },
+        {
+          "name": "Santo Domingo",
+          "lat": 10.06389,
+          "lng": -84.15499
+        },
+        {
+          "name": "Sarapiquí",
+          "lat": 10.5,
+          "lng": -84
+        }
+      ]
+    },
+    {
+      "name": "Limón",
+      "lat": 9.9896398,
+      "lng": -83.0332417,
+      "districts": [
+        {
+          "name": "Batán",
+          "lat": 10.08354,
+          "lng": -83.33413
+        },
+        {
+          "name": "Guácimo",
+          "lat": 10.2,
+          "lng": -83.66667
+        },
+        {
+          "name": "Guápiles",
+          "lat": 10.21682,
+          "lng": -83.78483
+        },
+        {
+          "name": "Limón",
+          "lat": 9.99074,
+          "lng": -83.03596
+        },
+        {
+          "name": "Matina",
+          "lat": 10,
+          "lng": -83.25
+        },
+        {
+          "name": "Pococí",
+          "lat": 10.5,
+          "lng": -83.63333
+        },
+        {
+          "name": "Pocora",
+          "lat": 10.17185,
+          "lng": -83.60439
+        },
+        {
+          "name": "Roxana",
+          "lat": 10.26712,
+          "lng": -83.7511
+        },
+        {
+          "name": "Siquirres",
+          "lat": 10.11667,
+          "lng": -83.5
+        },
+        {
+          "name": "Sixaola",
+          "lat": 9.52766,
+          "lng": -82.62185
+        },
+        {
+          "name": "Talamanca",
+          "lat": 9.5,
+          "lng": -83.08333
+        }
+      ]
+    },
+    {
+      "name": "Puntarenas",
+      "lat": 9.0953279,
+      "lng": -84.2003038,
+      "districts": [
+        {
+          "name": "Buenos Aires",
+          "lat": 9.11667,
+          "lng": -83.25
+        },
+        {
+          "name": "Canoas",
+          "lat": 8.53305,
+          "lng": -82.83844
+        },
+        {
+          "name": "Chacarita",
+          "lat": 9.98424,
+          "lng": -84.77892
+        },
+        {
+          "name": "Ciudad Cortés",
+          "lat": 8.95988,
+          "lng": -83.52381
+        },
+        {
+          "name": "Corredor",
+          "lat": 8.64002,
+          "lng": -82.946
+        },
+        {
+          "name": "Corredores",
+          "lat": 8.58333,
+          "lng": -82.91667
+        },
+        {
+          "name": "Coto Brus",
+          "lat": 8.88333,
+          "lng": -82.96667
+        },
+        {
+          "name": "Esparza",
+          "lat": 10,
+          "lng": -84.66667
+        },
+        {
+          "name": "Garabito",
+          "lat": 9.61903,
+          "lng": -84.62013
+        },
+        {
+          "name": "Golfito",
+          "lat": 8.6,
+          "lng": -83.12
+        },
+        {
+          "name": "Jacó",
+          "lat": 9.61497,
+          "lng": -84.62975
+        },
+        {
+          "name": "Miramar",
+          "lat": 10.0925,
+          "lng": -84.72978
+        },
+        {
+          "name": "Montes de Oro",
+          "lat": 10.1,
+          "lng": -84.75
+        },
+        {
+          "name": "Osa",
+          "lat": 8.83333,
+          "lng": -83.5
+        },
+        {
+          "name": "Paquera",
+          "lat": 9.82005,
+          "lng": -84.93513
+        },
+        {
+          "name": "Parrita",
+          "lat": 9.55,
+          "lng": -84.33333
+        },
+        {
+          "name": "Puntarenas",
+          "lat": 9.97625,
+          "lng": -84.83836
+        },
+        {
+          "name": "Quepos",
+          "lat": 9.43187,
+          "lng": -84.16141
+        },
+        {
+          "name": "San Vito",
+          "lat": 8.82079,
+          "lng": -82.97092
+        }
+      ]
+    },
+    {
+      "name": "San José",
+      "lat": 9.9325427,
+      "lng": -84.0795782,
+      "districts": [
+        {
+          "name": "San José",
+          "lat": 9.93333,
+          "lng": -84.08333,
+          "iscapital": true
+        },
+        {
+          "name": "Acosta",
+          "lat": 9.8,
+          "lng": -84.2
+        },
+        {
+          "name": "Alajuelita",
+          "lat": 9.9,
+          "lng": -84.1
+        },
+        {
+          "name": "Aserrí",
+          "lat": 9.86667,
+          "lng": -84.1
+        },
+        {
+          "name": "Calle Blancos",
+          "lat": 9.95,
+          "lng": -84.06667
+        },
+        {
+          "name": "Colima",
+          "lat": 9.95091,
+          "lng": -84.08503
+        },
+        {
+          "name": "Colón",
+          "lat": 9.91491,
+          "lng": -84.2417
+        },
+        {
+          "name": "Curridabat",
+          "lat": 9.91667,
+          "lng": -84.03333
+        },
+        {
+          "name": "Daniel Flores",
+          "lat": 9.33554,
+          "lng": -83.6694
+        },
+        {
+          "name": "Desamparados",
+          "lat": 9.9,
+          "lng": -84.06667
+        },
+        {
+          "name": "Dota",
+          "lat": 9.65,
+          "lng": -83.95
+        },
+        {
+          "name": "Escazú",
+          "lat": 9.93333,
+          "lng": -84.13333
+        },
+        {
+          "name": "Goicoechea",
+          "lat": 9.94848,
+          "lng": -84.06365
+        },
+        {
+          "name": "Granadilla",
+          "lat": 9.93491,
+          "lng": -84.01688
+        },
+        {
+          "name": "Guadalupe",
+          "lat": 9.94805,
+          "lng": -84.05665
+        },
+        {
+          "name": "Ipís",
+          "lat": 9.96745,
+          "lng": -84.01326
+        },
+        {
+          "name": "León Cortés",
+          "lat": 9.683,
+          "lng": -84.04781
+        },
+        {
+          "name": "Mercedes",
+          "lat": 9.2627,
+          "lng": -83.58202
+        },
+        {
+          "name": "Montes de Oca",
+          "lat": 9.9396,
+          "lng": -84.03013
+        },
+        {
+          "name": "Mora",
+          "lat": 9.91667,
+          "lng": -84.25
+        },
+        {
+          "name": "Moravia",
+          "lat": 10.04,
+          "lng": -84
+        },
+        {
+          "name": "Palmichal",
+          "lat": 9.83778,
+          "lng": -84.20478
+        },
+        {
+          "name": "Patarrá",
+          "lat": 9.88071,
+          "lng": -84.03501
+        },
+        {
+          "name": "Pérez Zeledón",
+          "lat": 9.35473,
+          "lng": -83.63484
+        },
+        {
+          "name": "Puriscal",
+          "lat": 9.75,
+          "lng": -84.41667
+        },
+        {
+          "name": "Purral",
+          "lat": 9.95808,
+          "lng": -84.0305
+        },
+        {
+          "name": "Sabanilla",
+          "lat": 9.94522,
+          "lng": -84.03927
+        },
+        {
+          "name": "Salitral",
+          "lat": 9.91163,
+          "lng": -84.17835
+        },
+        {
+          "name": "Salitrillos",
+          "lat": 9.85259,
+          "lng": -84.09062
+        },
+        {
+          "name": "San Felipe",
+          "lat": 9.90488,
+          "lng": -84.10551
+        },
+        {
+          "name": "San Ignacio",
+          "lat": 9.79853,
+          "lng": -84.16173
+        },
+        {
+          "name": "San Isidro",
+          "lat": 9.3674,
+          "lng": -83.69713
+        },
+        {
+          "name": "San Juan",
+          "lat": 9.95974,
+          "lng": -84.08165
+        },
+        {
+          "name": "San Juan de Dios",
+          "lat": 9.8773,
+          "lng": -84.0847
+        },
+        {
+          "name": "San Marcos",
+          "lat": 9.6601,
+          "lng": -84.02026
+        },
+        {
+          "name": "San Miguel",
+          "lat": 9.87121,
+          "lng": -84.06084
+        },
+        {
+          "name": "San Pedro",
+          "lat": 9.92829,
+          "lng": -84.05074
+        },
+        {
+          "name": "San Rafael",
+          "lat": 9.92787,
+          "lng": -84.13722
+        },
+        {
+          "name": "San Rafael Abajo",
+          "lat": 9.831,
+          "lng": -84.29008
+        },
+        {
+          "name": "San Rafael Arriba",
+          "lat": 9.87556,
+          "lng": -84.07661
+        },
+        {
+          "name": "San Vicente",
+          "lat": 9.96016,
+          "lng": -84.04762
+        },
+        {
+          "name": "San Vicente de Moravia",
+          "lat": 9.96164,
+          "lng": -84.0488
+        },
+        {
+          "name": "Santa Ana",
+          "lat": 9.9326,
+          "lng": -84.18255
+        },
+        {
+          "name": "Santiago",
+          "lat": 9.84636,
+          "lng": -84.31428
+        },
+        {
+          "name": "Tarrazú",
+          "lat": 9.65965,
+          "lng": -84.02138
+        },
+        {
+          "name": "Tejar",
+          "lat": 9.74622,
+          "lng": -84.23368
+        },
+        {
+          "name": "Tibás",
+          "lat": 9.96667,
+          "lng": -84.08333
+        },
+        {
+          "name": "Turrubares",
+          "lat": 9.75,
+          "lng": -84.5
+        },
+        {
+          "name": "Vázquez de Coronado",
+          "lat": 10.06,
+          "lng": -84
+        }
+      ]
+    }
+  ]
+}

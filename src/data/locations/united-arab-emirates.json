@@ -1,0 +1,207 @@
+{
+  "name": "United Arab Emirates",
+  "lat": 24,
+  "lng": 54,
+  "cities": [
+    {
+      "name": "Abu Dhabi",
+      "lat": 24.453884,
+      "lng": 54.3773438,
+      "districts": [
+        {
+          "name": "Abu Dhabi",
+          "lat": 24.41361,
+          "lng": 54.43295,
+          "iscapital": true
+        },
+        {
+          "name": "Al Ain City",
+          "lat": 24.19167,
+          "lng": 55.76056
+        },
+        {
+          "name": "Al Dhafra",
+          "lat": 23.65745,
+          "lng": 53.72225
+        },
+        {
+          "name": "Bani Yas City",
+          "lat": 24.30978,
+          "lng": 54.62944
+        },
+        {
+          "name": "Ghayathi",
+          "lat": 23.9045342,
+          "lng": 52.5871026
+        },
+        {
+          "name": "Khalifa City",
+          "lat": 24.42588,
+          "lng": 54.605
+        },
+        {
+          "name": "Liwa Oasis",
+          "lat": 22.8697255,
+          "lng": 53.2408608
+        },
+        {
+          "name": "Mussafah",
+          "lat": 24.35893,
+          "lng": 54.48267
+        },
+        {
+          "name": "Muzayri‘",
+          "lat": 23.14355,
+          "lng": 53.7881
+        },
+        {
+          "name": "Ruwais",
+          "lat": 24.11028,
+          "lng": 52.73056
+        },
+        {
+          "name": "Zayed City",
+          "lat": 23.65416,
+          "lng": 53.70522
+        }
+      ]
+    },
+    {
+      "name": "Ajman",
+      "lat": 25.3936557,
+      "lng": 55.4451432,
+      "districts": [
+        {
+          "name": "Ajman",
+          "lat": 25.40328,
+          "lng": 55.52341
+        },
+        {
+          "name": "Manama",
+          "lat": 25.32568,
+          "lng": 56.00259
+        },
+        {
+          "name": "Masfut",
+          "lat": 24.83982,
+          "lng": 56.05158
+        }
+      ]
+    },
+    {
+      "name": "Dubai",
+      "lat": 25.2647227,
+      "lng": 55.2924146,
+      "districts": [
+        {
+          "name": "Dubai",
+          "lat": 25.0657,
+          "lng": 55.17128
+        }
+      ]
+    },
+    {
+      "name": "Fujairah",
+      "lat": 25.1244604,
+      "lng": 56.3355085,
+      "districts": [
+        {
+          "name": "Fujairah",
+          "lat": 25.11641,
+          "lng": 56.34141
+        },
+        {
+          "name": "Dibba Al Fujairah",
+          "lat": 25.5858,
+          "lng": 56.24792
+        },
+        {
+          "name": "Dibba Al-Fujairah",
+          "lat": 25.59246,
+          "lng": 56.26176
+        },
+        {
+          "name": "Dibba Al-Hisn",
+          "lat": 25.61955,
+          "lng": 56.27291
+        }
+      ]
+    },
+    {
+      "name": "Ras Al Khaimah",
+      "lat": 25.7386349,
+      "lng": 55.9249224,
+      "districts": [
+        {
+          "name": "Ras Al Khaimah",
+          "lat": 25.46116,
+          "lng": 56.04058
+        }
+      ]
+    },
+    {
+      "name": "Sharjah",
+      "lat": 25.3461498,
+      "lng": 55.4210633,
+      "districts": [
+        {
+          "name": "Sharjah",
+          "lat": 25.33737,
+          "lng": 55.41206
+        },
+        {
+          "name": "Al Batayih",
+          "lat": 25.22317,
+          "lng": 55.74272
+        },
+        {
+          "name": "Al Dhaid",
+          "lat": 25.28812,
+          "lng": 55.88157
+        },
+        {
+          "name": "Al Hamriyah",
+          "lat": 25.46121,
+          "lng": 55.54813
+        },
+        {
+          "name": "Al Madam",
+          "lat": 24.95536,
+          "lng": 55.7682
+        },
+        {
+          "name": "Kalba",
+          "lat": 24.99816,
+          "lng": 56.27207
+        },
+        {
+          "name": "Khor Fakkan",
+          "lat": 25.33966,
+          "lng": 56.3028
+        },
+        {
+          "name": "Milehah",
+          "lat": 25.10097,
+          "lng": 55.91282
+        },
+        {
+          "name": "Murbaḩ",
+          "lat": 25.27623,
+          "lng": 56.36256
+        }
+      ]
+    },
+    {
+      "name": "Umm Al Quwain",
+      "lat": 25.6112488,
+      "lng": 55.6174631,
+      "districts": [
+        {
+          "name": "Umm AL Quwain",
+          "lat": 25.49326,
+          "lng": 55.7352
+        }
+      ]
+    }
+  ]
+}

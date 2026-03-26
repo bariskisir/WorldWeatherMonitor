@@ -1,0 +1,1076 @@
+{
+  "name": "Uruguay",
+  "lat": -33,
+  "lng": -56,
+  "cities": [
+    {
+      "name": "Artigas",
+      "lat": -30.6170756,
+      "lng": -56.9373451,
+      "districts": [
+        {
+          "name": "Artigas",
+          "lat": -30.4,
+          "lng": -56.46667
+        },
+        {
+          "name": "Baltasar Brum",
+          "lat": -30.71905,
+          "lng": -57.32596
+        },
+        {
+          "name": "Bella Unión",
+          "lat": -30.25966,
+          "lng": -57.59919
+        },
+        {
+          "name": "Las Piedras",
+          "lat": -30.26204,
+          "lng": -57.58174
+        },
+        {
+          "name": "Tomás Gomensoro",
+          "lat": -30.4287,
+          "lng": -57.43609
+        }
+      ]
+    },
+    {
+      "name": "Canelones",
+      "lat": -34.6222482,
+      "lng": -55.9903797,
+      "districts": [
+        {
+          "name": "Aguas Corrientes",
+          "lat": -34.52194,
+          "lng": -56.39361
+        },
+        {
+          "name": "Atlántida",
+          "lat": -34.7719,
+          "lng": -55.7584
+        },
+        {
+          "name": "Barra de Carrasco",
+          "lat": -34.87722,
+          "lng": -56.02972
+        },
+        {
+          "name": "Barros Blancos",
+          "lat": -34.7524,
+          "lng": -56.00259
+        },
+        {
+          "name": "Canelones",
+          "lat": -34.52278,
+          "lng": -56.27778
+        },
+        {
+          "name": "Colonia Nicolich",
+          "lat": -34.81516,
+          "lng": -56.02435
+        },
+        {
+          "name": "Empalme Olmos",
+          "lat": -34.69753,
+          "lng": -55.89268
+        },
+        {
+          "name": "Joaquín Suárez",
+          "lat": -34.73501,
+          "lng": -56.0347
+        },
+        {
+          "name": "Juanicó",
+          "lat": -34.59454,
+          "lng": -56.25334
+        },
+        {
+          "name": "La Floresta",
+          "lat": -34.75572,
+          "lng": -55.68141
+        },
+        {
+          "name": "La Paz",
+          "lat": -34.76031,
+          "lng": -56.2259
+        },
+        {
+          "name": "Las Piedras",
+          "lat": -34.7302,
+          "lng": -56.21915
+        },
+        {
+          "name": "Las Toscas",
+          "lat": -34.73333,
+          "lng": -55.71667
+        },
+        {
+          "name": "Los Cerrillos",
+          "lat": -34.605,
+          "lng": -56.35639
+        },
+        {
+          "name": "Migues",
+          "lat": -34.48759,
+          "lng": -55.62793
+        },
+        {
+          "name": "Montes",
+          "lat": -34.49339,
+          "lng": -55.56219
+        },
+        {
+          "name": "Pando",
+          "lat": -34.71716,
+          "lng": -55.9584
+        },
+        {
+          "name": "Paso de Carrasco",
+          "lat": -34.86028,
+          "lng": -56.05222
+        },
+        {
+          "name": "Progreso",
+          "lat": -34.66737,
+          "lng": -56.21758
+        },
+        {
+          "name": "San Antonio",
+          "lat": -34.4513,
+          "lng": -56.08036
+        },
+        {
+          "name": "San Bautista",
+          "lat": -34.44016,
+          "lng": -55.95861
+        },
+        {
+          "name": "San Jacinto",
+          "lat": -34.54465,
+          "lng": -55.87151
+        },
+        {
+          "name": "San Ramón",
+          "lat": -34.29155,
+          "lng": -55.95571
+        },
+        {
+          "name": "Santa Lucía",
+          "lat": -34.45333,
+          "lng": -56.39056
+        },
+        {
+          "name": "Santa Rosa",
+          "lat": -34.49819,
+          "lng": -56.03795
+        },
+        {
+          "name": "Sauce",
+          "lat": -34.65191,
+          "lng": -56.06431
+        },
+        {
+          "name": "Soca",
+          "lat": -34.68432,
+          "lng": -55.702
+        },
+        {
+          "name": "Tala",
+          "lat": -34.34349,
+          "lng": -55.76375
+        },
+        {
+          "name": "Toledo",
+          "lat": -34.73807,
+          "lng": -56.09469
+        }
+      ]
+    },
+    {
+      "name": "Cerro Largo",
+      "lat": -32.333333,
+      "lng": -54.333333,
+      "districts": [
+        {
+          "name": "Aceguá",
+          "lat": -31.87178,
+          "lng": -54.16351
+        },
+        {
+          "name": "Isidoro Noblía",
+          "lat": -31.96218,
+          "lng": -54.12309
+        },
+        {
+          "name": "Melo",
+          "lat": -32.37028,
+          "lng": -54.1675
+        },
+        {
+          "name": "Río Branco",
+          "lat": -32.59802,
+          "lng": -53.38583
+        },
+        {
+          "name": "Tupambaé",
+          "lat": -32.83333,
+          "lng": -54.76667
+        }
+      ]
+    },
+    {
+      "name": "Colonia",
+      "lat": -34.1664516,
+      "lng": -57.4993268,
+      "districts": [
+        {
+          "name": "Carmelo",
+          "lat": -34.00023,
+          "lng": -58.28402
+        },
+        {
+          "name": "Colonia del Sacramento",
+          "lat": -34.46262,
+          "lng": -57.83976
+        },
+        {
+          "name": "Florencio Sánchez",
+          "lat": -33.87785,
+          "lng": -57.37166
+        },
+        {
+          "name": "Juan L. Lacaze",
+          "lat": -34.41888,
+          "lng": -57.45285
+        },
+        {
+          "name": "Nueva Helvecia",
+          "lat": -34.3,
+          "lng": -57.23333
+        },
+        {
+          "name": "Nueva Palmira",
+          "lat": -33.87031,
+          "lng": -58.41176
+        },
+        {
+          "name": "Ombúes de Lavalle",
+          "lat": -33.93783,
+          "lng": -57.80959
+        },
+        {
+          "name": "Rosario",
+          "lat": -34.31667,
+          "lng": -57.35
+        },
+        {
+          "name": "Tarariras",
+          "lat": -34.26555,
+          "lng": -57.61866
+        }
+      ]
+    },
+    {
+      "name": "Durazno",
+      "lat": -33.0833329,
+      "lng": -56.0833331,
+      "districts": [
+        {
+          "name": "Blanquillo",
+          "lat": -32.76667,
+          "lng": -55.63333
+        },
+        {
+          "name": "Carlos Reyles",
+          "lat": -33.05658,
+          "lng": -56.47652
+        },
+        {
+          "name": "Durazno",
+          "lat": -33.38056,
+          "lng": -56.52361
+        },
+        {
+          "name": "La Paloma",
+          "lat": -32.72689,
+          "lng": -55.5827
+        },
+        {
+          "name": "Santa Bernardina",
+          "lat": -33.3536,
+          "lng": -56.52498
+        },
+        {
+          "name": "Sarandí del Yi",
+          "lat": -33.35,
+          "lng": -55.63333
+        },
+        {
+          "name": "Villa del Carmen",
+          "lat": -33.23943,
+          "lng": -56.00936
+        }
+      ]
+    },
+    {
+      "name": "Flores",
+      "lat": -33.6518845,
+      "lng": -56.8393553,
+      "districts": [
+        {
+          "name": "Trinidad",
+          "lat": -33.5165,
+          "lng": -56.89957
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "lat": -33.833333,
+      "lng": -55.916667,
+      "districts": [
+        {
+          "name": "25 de Agosto",
+          "lat": -34.41167,
+          "lng": -56.40222
+        },
+        {
+          "name": "25 de Mayo",
+          "lat": -34.18917,
+          "lng": -56.33944
+        },
+        {
+          "name": "Alejandro Gallinal",
+          "lat": -33.86252,
+          "lng": -55.54264
+        },
+        {
+          "name": "Cardal",
+          "lat": -34.29056,
+          "lng": -56.38889
+        },
+        {
+          "name": "Casupá",
+          "lat": -34.09994,
+          "lng": -55.64811
+        },
+        {
+          "name": "Florida",
+          "lat": -34.09556,
+          "lng": -56.21417
+        },
+        {
+          "name": "Sarandí Grande",
+          "lat": -33.73333,
+          "lng": -56.33333
+        }
+      ]
+    },
+    {
+      "name": "Lavalleja",
+      "lat": -33.9971964,
+      "lng": -54.9992242,
+      "districts": [
+        {
+          "name": "José Batlle y Ordóñez",
+          "lat": -33.46667,
+          "lng": -55.11667
+        },
+        {
+          "name": "José Pedro Varela",
+          "lat": -33.45451,
+          "lng": -54.53586
+        },
+        {
+          "name": "Mariscala",
+          "lat": -34.04085,
+          "lng": -54.77732
+        },
+        {
+          "name": "Minas",
+          "lat": -34.37589,
+          "lng": -55.23771
+        },
+        {
+          "name": "Solís de Mataojo",
+          "lat": -34.59951,
+          "lng": -55.46808
+        }
+      ]
+    },
+    {
+      "name": "Maldonado",
+      "lat": -34.666667,
+      "lng": -54.916667,
+      "districts": [
+        {
+          "name": "Aiguá",
+          "lat": -34.20498,
+          "lng": -54.75665
+        },
+        {
+          "name": "Maldonado",
+          "lat": -34.9,
+          "lng": -54.95
+        },
+        {
+          "name": "Pan de Azúcar",
+          "lat": -34.7787,
+          "lng": -55.23582
+        },
+        {
+          "name": "Piriápolis",
+          "lat": -34.86287,
+          "lng": -55.27471
+        },
+        {
+          "name": "Punta del Este",
+          "lat": -34.94747,
+          "lng": -54.93382
+        },
+        {
+          "name": "San Carlos",
+          "lat": -34.79123,
+          "lng": -54.91824
+        }
+      ]
+    },
+    {
+      "name": "Montevideo",
+      "lat": -34.8652724,
+      "lng": -56.1819512,
+      "districts": [
+        {
+          "name": "Centro",
+          "lat": -34.90361111,
+          "lng": -56.18833333
+        },
+        {
+          "name": "Montevideo",
+          "lat": -34.90328,
+          "lng": -56.18816,
+          "iscapital": true
+        },
+        {
+          "name": "Reducto",
+          "lat": -34.87831944,
+          "lng": -56.18957778
+        },
+        {
+          "name": "Aires Puros",
+          "lat": -34.852,
+          "lng": -56.183
+        },
+        {
+          "name": "Arroyo Seco",
+          "lat": -34.804,
+          "lng": -56.277
+        },
+        {
+          "name": "Atahualpa",
+          "lat": -34.809,
+          "lng": -56.23
+        },
+        {
+          "name": "Bañados de Carrasco",
+          "lat": -34.821,
+          "lng": -56.067
+        },
+        {
+          "name": "Barra de Carrasco",
+          "lat": -34.884,
+          "lng": -56.047
+        },
+        {
+          "name": "Barrio Sur",
+          "lat": -34.908,
+          "lng": -56.194
+        },
+        {
+          "name": "Bella Italia",
+          "lat": -34.856,
+          "lng": -56.155
+        },
+        {
+          "name": "Bella Vista",
+          "lat": -34.87527778,
+          "lng": -56.18666667
+        },
+        {
+          "name": "Belvedere",
+          "lat": -34.85155556,
+          "lng": -56.21611111
+        },
+        {
+          "name": "Buceo",
+          "lat": -34.9,
+          "lng": -56.13305556
+        },
+        {
+          "name": "Capurro",
+          "lat": -34.905,
+          "lng": -56.217
+        },
+        {
+          "name": "Carrasco",
+          "lat": -34.88333333,
+          "lng": -56.06666667
+        },
+        {
+          "name": "Carrasco Norte",
+          "lat": -34.868,
+          "lng": -56.043
+        },
+        {
+          "name": "Casabó",
+          "lat": -34.86388889,
+          "lng": -56.34111111
+        },
+        {
+          "name": "Casavalle",
+          "lat": -34.843,
+          "lng": -56.203
+        },
+        {
+          "name": "Cerrito",
+          "lat": -34.815,
+          "lng": -56.225
+        },
+        {
+          "name": "Cerro",
+          "lat": -34.88444444,
+          "lng": -56.25138889
+        },
+        {
+          "name": "Ciudad Vieja",
+          "lat": -34.908,
+          "lng": -56.204
+        },
+        {
+          "name": "Colón",
+          "lat": -34.865,
+          "lng": -56.18
+        },
+        {
+          "name": "Conciliación",
+          "lat": -34.82361111,
+          "lng": -56.23194444
+        },
+        {
+          "name": "Cordón",
+          "lat": -34.9,
+          "lng": -56.17858333
+        },
+        {
+          "name": "Flor de Maroñas",
+          "lat": -34.85055556,
+          "lng": -56.12472222
+        },
+        {
+          "name": "Goes",
+          "lat": -34.875,
+          "lng": -56.192
+        },
+        {
+          "name": "Ituzaingó",
+          "lat": -34.8475,
+          "lng": -56.14361111
+        },
+        {
+          "name": "Jacinto Vera",
+          "lat": -34.883,
+          "lng": -56.166
+        },
+        {
+          "name": "Jardines del Hipódromo",
+          "lat": -34.881,
+          "lng": -56.153
+        },
+        {
+          "name": "La Blanqueada",
+          "lat": -34.897,
+          "lng": -56.185
+        },
+        {
+          "name": "La Comercial",
+          "lat": -34.894,
+          "lng": -56.197
+        },
+        {
+          "name": "La Figurita",
+          "lat": -34.886,
+          "lng": -56.203
+        },
+        {
+          "name": "La Teja",
+          "lat": -34.862,
+          "lng": -56.236
+        },
+        {
+          "name": "La Unión",
+          "lat": -34.87861111,
+          "lng": -56.13583333
+        },
+        {
+          "name": "Larrañaga",
+          "lat": -34.861,
+          "lng": -56.163
+        },
+        {
+          "name": "Las Acacias",
+          "lat": -34.855,
+          "lng": -56.17
+        },
+        {
+          "name": "Lezica",
+          "lat": -34.846,
+          "lng": -56.223
+        },
+        {
+          "name": "Malvín",
+          "lat": -34.89352778,
+          "lng": -56.09994444
+        },
+        {
+          "name": "Malvín Norte",
+          "lat": -34.878,
+          "lng": -56.083
+        },
+        {
+          "name": "Manga",
+          "lat": -34.80722222,
+          "lng": -56.13805556
+        },
+        {
+          "name": "Marconi",
+          "lat": -34.862,
+          "lng": -56.147
+        },
+        {
+          "name": "Maroñas",
+          "lat": -34.86338889,
+          "lng": -56.12963889
+        },
+        {
+          "name": "Melilla",
+          "lat": -34.837,
+          "lng": -56.259
+        },
+        {
+          "name": "Mercado Modelo",
+          "lat": -34.856,
+          "lng": -56.202
+        },
+        {
+          "name": "Nuevo París",
+          "lat": -34.83333333,
+          "lng": -56.25
+        },
+        {
+          "name": "Pajas Blancas",
+          "lat": -34.80167,
+          "lng": -56.33417
+        },
+        {
+          "name": "Palermo",
+          "lat": -34.903,
+          "lng": -56.182
+        },
+        {
+          "name": "Parque Batlle",
+          "lat": -34.9,
+          "lng": -56.18
+        },
+        {
+          "name": "Parque Rodó",
+          "lat": -34.908,
+          "lng": -56.171
+        },
+        {
+          "name": "Paso de la Arena",
+          "lat": -34.861,
+          "lng": -56.239
+        },
+        {
+          "name": "Paso Molino",
+          "lat": -34.85,
+          "lng": -56.21666667
+        },
+        {
+          "name": "Peñarol",
+          "lat": -34.82519444,
+          "lng": -56.19916667
+        },
+        {
+          "name": "Perez Castellanos",
+          "lat": -34.843,
+          "lng": -56.213
+        },
+        {
+          "name": "Piedras Blancas",
+          "lat": -34.82361111,
+          "lng": -56.14027778
+        },
+        {
+          "name": "Pocitos",
+          "lat": -34.90833333,
+          "lng": -56.15
+        },
+        {
+          "name": "Prado",
+          "lat": -34.856,
+          "lng": -56.204
+        },
+        {
+          "name": "Punta Carretas",
+          "lat": -34.92188889,
+          "lng": -56.15944444
+        },
+        {
+          "name": "Punta de Rieles",
+          "lat": -34.847,
+          "lng": -56.252
+        },
+        {
+          "name": "Punta Espinillo",
+          "lat": -34.835,
+          "lng": -56.286
+        },
+        {
+          "name": "Punta Gorda",
+          "lat": -34.88647222,
+          "lng": -56.08983333
+        },
+        {
+          "name": "Santiago Vázquez",
+          "lat": -34.79028,
+          "lng": -56.35
+        },
+        {
+          "name": "Sayago",
+          "lat": -34.83583333,
+          "lng": -56.2125
+        },
+        {
+          "name": "Tres Cruces",
+          "lat": -34.89583333,
+          "lng": -56.16805556
+        },
+        {
+          "name": "Tres Ombues",
+          "lat": -34.766,
+          "lng": -56.33
+        },
+        {
+          "name": "Villa Española",
+          "lat": -34.86388889,
+          "lng": -56.14472222
+        },
+        {
+          "name": "Villa García",
+          "lat": -34.78111,
+          "lng": -56.05333
+        },
+        {
+          "name": "Villa Muñoz",
+          "lat": -34.88781389,
+          "lng": -56.17701389
+        }
+      ]
+    },
+    {
+      "name": "Paysandú",
+      "lat": -32,
+      "lng": -57.25,
+      "districts": [
+        {
+          "name": "Estación Porvenir",
+          "lat": -32.37085,
+          "lng": -57.85371
+        },
+        {
+          "name": "Guichón",
+          "lat": -32.35846,
+          "lng": -57.19778
+        },
+        {
+          "name": "Paysandú",
+          "lat": -32.3171,
+          "lng": -58.08072
+        },
+        {
+          "name": "Piedras Coloradas",
+          "lat": -32.37183,
+          "lng": -57.60901
+        },
+        {
+          "name": "Quebracho",
+          "lat": -31.93526,
+          "lng": -57.9014
+        },
+        {
+          "name": "San Félix",
+          "lat": -32.34631,
+          "lng": -58.10094
+        }
+      ]
+    },
+    {
+      "name": "Río Negro",
+      "lat": -32.7257419,
+      "lng": -57.387578,
+      "districts": [
+        {
+          "name": "Fray Bentos",
+          "lat": -33.11651,
+          "lng": -58.31067
+        },
+        {
+          "name": "Nuevo Berlín",
+          "lat": -32.97974,
+          "lng": -58.05858
+        },
+        {
+          "name": "San Javier",
+          "lat": -32.66523,
+          "lng": -58.1332
+        },
+        {
+          "name": "Young",
+          "lat": -32.69844,
+          "lng": -57.62693
+        }
+      ]
+    },
+    {
+      "name": "Rivera",
+      "lat": -31.5,
+      "lng": -55.25,
+      "districts": [
+        {
+          "name": "Minas de Corrales",
+          "lat": -31.57375,
+          "lng": -55.47075
+        },
+        {
+          "name": "Rivera",
+          "lat": -30.90534,
+          "lng": -55.55076
+        },
+        {
+          "name": "Tranqueras",
+          "lat": -31.2,
+          "lng": -55.75
+        },
+        {
+          "name": "Vichadero",
+          "lat": -31.77794,
+          "lng": -54.69183
+        }
+      ]
+    },
+    {
+      "name": "Rocha",
+      "lat": -34,
+      "lng": -54,
+      "districts": [
+        {
+          "name": "Castillos",
+          "lat": -34.19871,
+          "lng": -53.85919
+        },
+        {
+          "name": "Cebollatí",
+          "lat": -33.26703,
+          "lng": -53.79425
+        },
+        {
+          "name": "Chui",
+          "lat": -33.69792,
+          "lng": -53.45926
+        },
+        {
+          "name": "Dieciocho de Julio",
+          "lat": -33.68216,
+          "lng": -53.55325
+        },
+        {
+          "name": "La Paloma",
+          "lat": -34.66268,
+          "lng": -54.16452
+        },
+        {
+          "name": "Lascano",
+          "lat": -33.67235,
+          "lng": -54.2065
+        },
+        {
+          "name": "Rocha",
+          "lat": -34.48333,
+          "lng": -54.33333
+        },
+        {
+          "name": "Velázquez",
+          "lat": -34.03631,
+          "lng": -54.28054
+        }
+      ]
+    },
+    {
+      "name": "Salto",
+      "lat": -31.388028,
+      "lng": -57.9612455,
+      "districts": [
+        {
+          "name": "Salto",
+          "lat": -31.38333,
+          "lng": -57.96667
+        },
+        {
+          "name": "Belén",
+          "lat": -30.78716,
+          "lng": -57.77577
+        },
+        {
+          "name": "Villa Constitución",
+          "lat": -31.06913,
+          "lng": -57.84946
+        }
+      ]
+    },
+    {
+      "name": "San José",
+      "lat": -34.3396521,
+      "lng": -56.7143155,
+      "districts": [
+        {
+          "name": "Delta del Tigre",
+          "lat": -34.76488,
+          "lng": -56.3645
+        },
+        {
+          "name": "Ecilda Paullier",
+          "lat": -34.35778,
+          "lng": -57.04883
+        },
+        {
+          "name": "Libertad",
+          "lat": -34.63459,
+          "lng": -56.61739
+        },
+        {
+          "name": "Puntas de Valdéz",
+          "lat": -34.5855,
+          "lng": -56.70097
+        },
+        {
+          "name": "Rafael Perazza",
+          "lat": -34.52335,
+          "lng": -56.7971
+        },
+        {
+          "name": "Rodríguez",
+          "lat": -34.381,
+          "lng": -56.53797
+        },
+        {
+          "name": "San José de Mayo",
+          "lat": -34.3375,
+          "lng": -56.71361
+        }
+      ]
+    },
+    {
+      "name": "Soriano",
+      "lat": -33.4921266,
+      "lng": -57.7893105,
+      "districts": [
+        {
+          "name": "Cardona",
+          "lat": -33.87049,
+          "lng": -57.36954
+        },
+        {
+          "name": "Dolores",
+          "lat": -33.53009,
+          "lng": -58.21701
+        },
+        {
+          "name": "José Enrique Rodó",
+          "lat": -33.69618,
+          "lng": -57.53153
+        },
+        {
+          "name": "Mercedes",
+          "lat": -33.2524,
+          "lng": -58.03047
+        },
+        {
+          "name": "Palmitas",
+          "lat": -33.50719,
+          "lng": -57.80079
+        },
+        {
+          "name": "Santa Catalina",
+          "lat": -33.791,
+          "lng": -57.48824
+        },
+        {
+          "name": "Villa Soriano",
+          "lat": -33.39811,
+          "lng": -58.32177
+        }
+      ]
+    },
+    {
+      "name": "Tacuarembó",
+      "lat": -31.7110183,
+      "lng": -55.9788762,
+      "districts": [
+        {
+          "name": "Curtina",
+          "lat": -32.15,
+          "lng": -56.11667
+        },
+        {
+          "name": "Paso de los Toros",
+          "lat": -32.81667,
+          "lng": -56.51667
+        },
+        {
+          "name": "Tacuarembó",
+          "lat": -31.71694,
+          "lng": -55.98111
+        }
+      ]
+    },
+    {
+      "name": "Treinta y Tres",
+      "lat": -33,
+      "lng": -54.25,
+      "districts": [
+        {
+          "name": "Santa Clara de Olimar",
+          "lat": -32.92254,
+          "lng": -54.94447
+        },
+        {
+          "name": "Treinta y Tres",
+          "lat": -33.23333,
+          "lng": -54.38333
+        },
+        {
+          "name": "Vergara",
+          "lat": -32.94419,
+          "lng": -53.9381
+        },
+        {
+          "name": "Villa Sara",
+          "lat": -33.2534,
+          "lng": -54.41947
+        }
+      ]
+    }
+  ]
+}

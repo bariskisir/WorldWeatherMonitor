@@ -1,0 +1,502 @@
+{
+  "name": "Malawi",
+  "lat": -13.5,
+  "lng": 34,
+  "cities": [
+    {
+      "name": "Balaka",
+      "lat": -15.0347969,
+      "lng": 35.0605888,
+      "districts": []
+    },
+    {
+      "name": "Blantyre",
+      "lat": -15.6843502,
+      "lng": 34.9227838,
+      "districts": []
+    },
+    {
+      "name": "Central",
+      "lat": -13.7442725,
+      "lng": 33.7056942,
+      "districts": [
+        {
+          "name": "Dedza District",
+          "lat": -14.26273,
+          "lng": 34.18559
+        },
+        {
+          "name": "Dowa District",
+          "lat": -13.60098,
+          "lng": 33.82378
+        },
+        {
+          "name": "Kasungu District",
+          "lat": -13,
+          "lng": 33.41667
+        },
+        {
+          "name": "Lilongwe",
+          "lat": -13.96692,
+          "lng": 33.78725,
+          "iscapital": true
+        },
+        {
+          "name": "Lilongwe District",
+          "lat": -14.01962,
+          "lng": 33.68407
+        },
+        {
+          "name": "Mchinji District",
+          "lat": -13.7623,
+          "lng": 33.07998
+        },
+        {
+          "name": "Nkhotakota District",
+          "lat": -12.80417,
+          "lng": 34.08298
+        },
+        {
+          "name": "Ntcheu District",
+          "lat": -14.75,
+          "lng": 34.75
+        },
+        {
+          "name": "Ntchisi District",
+          "lat": -13.29574,
+          "lng": 33.90798
+        },
+        {
+          "name": "Salima District",
+          "lat": -13.71959,
+          "lng": 34.40184
+        },
+        {
+          "name": "Chipoka",
+          "lat": -13.99329,
+          "lng": 34.51566
+        },
+        {
+          "name": "Dedza",
+          "lat": -14.3779,
+          "lng": 34.33322
+        },
+        {
+          "name": "Dowa",
+          "lat": -13.65399,
+          "lng": 33.93754
+        },
+        {
+          "name": "Kasungu",
+          "lat": -13.03333,
+          "lng": 33.48333
+        },
+        {
+          "name": "Mchinji",
+          "lat": -13.79841,
+          "lng": 32.88019
+        },
+        {
+          "name": "Mponela",
+          "lat": -13.53194,
+          "lng": 33.74008
+        },
+        {
+          "name": "Nkhotakota",
+          "lat": -12.92744,
+          "lng": 34.29614
+        },
+        {
+          "name": "Ntcheu",
+          "lat": -14.82027,
+          "lng": 34.63586
+        },
+        {
+          "name": "Ntchisi",
+          "lat": -13.52775,
+          "lng": 33.9149
+        },
+        {
+          "name": "Salima",
+          "lat": -13.7804,
+          "lng": 34.4587
+        }
+      ]
+    },
+    {
+      "name": "Chikwawa",
+      "lat": -16.215382,
+      "lng": 34.7228393,
+      "districts": []
+    },
+    {
+      "name": "Chiradzulu",
+      "lat": -15.75472,
+      "lng": 35.2055362,
+      "districts": []
+    },
+    {
+      "name": "Chitipa",
+      "lat": -9.7037655,
+      "lng": 33.2700253,
+      "districts": []
+    },
+    {
+      "name": "Dedza",
+      "lat": -14.2374479,
+      "lng": 34.3196514,
+      "districts": []
+    },
+    {
+      "name": "Dowa",
+      "lat": -13.5387578,
+      "lng": 33.778108,
+      "districts": []
+    },
+    {
+      "name": "Karonga",
+      "lat": -10.0847469,
+      "lng": 33.8661918,
+      "districts": []
+    },
+    {
+      "name": "Kasungu",
+      "lat": -12.9921789,
+      "lng": 33.4724535,
+      "districts": []
+    },
+    {
+      "name": "Likoma",
+      "lat": -12.0584005,
+      "lng": 34.7354031,
+      "districts": []
+    },
+    {
+      "name": "Lilongwe",
+      "lat": -14.0414105,
+      "lng": 33.7353708,
+      "districts": []
+    },
+    {
+      "name": "Machinga",
+      "lat": -14.9094681,
+      "lng": 35.601696,
+      "districts": []
+    },
+    {
+      "name": "Mangochi",
+      "lat": -14.141111,
+      "lng": 35.3267495,
+      "districts": []
+    },
+    {
+      "name": "Mchinji",
+      "lat": -13.7828897,
+      "lng": 33.0204739,
+      "districts": []
+    },
+    {
+      "name": "Mulanje",
+      "lat": -15.91088,
+      "lng": 35.541255,
+      "districts": []
+    },
+    {
+      "name": "Mwanza",
+      "lat": -15.6136031,
+      "lng": 34.5146595,
+      "districts": []
+    },
+    {
+      "name": "Mzimba",
+      "lat": -11.8458102,
+      "lng": 33.5578319,
+      "districts": []
+    },
+    {
+      "name": "Neno",
+      "lat": -15.5137183,
+      "lng": 34.6832205,
+      "districts": []
+    },
+    {
+      "name": "Nkhata Bay",
+      "lat": -11.606995,
+      "lng": 34.2983907,
+      "districts": []
+    },
+    {
+      "name": "Nkhotakota",
+      "lat": -12.8321965,
+      "lng": 34.0329177,
+      "districts": []
+    },
+    {
+      "name": "Northern",
+      "lat": -11.0491652,
+      "lng": 33.7730261,
+      "districts": [
+        {
+          "name": "Chitipa District",
+          "lat": -9.92727,
+          "lng": 33.42541
+        },
+        {
+          "name": "Karonga District",
+          "lat": -10.11153,
+          "lng": 33.88151
+        },
+        {
+          "name": "Mzimba District",
+          "lat": -11.85428,
+          "lng": 33.60778
+        },
+        {
+          "name": "Mzuzu",
+          "lat": -11.46556,
+          "lng": 34.02071
+        },
+        {
+          "name": "Nkhata Bay District",
+          "lat": -11.65304,
+          "lng": 34.05322
+        },
+        {
+          "name": "Rumphi District",
+          "lat": -10.80292,
+          "lng": 33.80524
+        },
+        {
+          "name": "Chitipa",
+          "lat": -9.70237,
+          "lng": 33.26969
+        },
+        {
+          "name": "Karonga",
+          "lat": -9.93333,
+          "lng": 33.93333
+        },
+        {
+          "name": "Likoma",
+          "lat": -12.06065,
+          "lng": 34.73608
+        },
+        {
+          "name": "Livingstonia",
+          "lat": -10.60602,
+          "lng": 34.10628
+        },
+        {
+          "name": "Mzimba",
+          "lat": -11.9,
+          "lng": 33.6
+        },
+        {
+          "name": "Nkhata Bay",
+          "lat": -11.60659,
+          "lng": 34.29073
+        },
+        {
+          "name": "Rumphi",
+          "lat": -11.01863,
+          "lng": 33.85746
+        }
+      ]
+    },
+    {
+      "name": "Nsanje",
+      "lat": -16.7199917,
+      "lng": 35.1011088,
+      "districts": []
+    },
+    {
+      "name": "Ntcheu",
+      "lat": -14.8227293,
+      "lng": 34.7687178,
+      "districts": []
+    },
+    {
+      "name": "Ntchisi",
+      "lat": -13.276988,
+      "lng": 33.8546272,
+      "districts": []
+    },
+    {
+      "name": "Phalombe",
+      "lat": -15.6922071,
+      "lng": 35.6650523,
+      "districts": []
+    },
+    {
+      "name": "Rumphi",
+      "lat": -10.7909326,
+      "lng": 33.8507118,
+      "districts": []
+    },
+    {
+      "name": "Salima",
+      "lat": -13.7628984,
+      "lng": 34.45237,
+      "districts": []
+    },
+    {
+      "name": "Southern",
+      "lat": -15.3062901,
+      "lng": 35.3283174,
+      "districts": [
+        {
+          "name": "Balaka District",
+          "lat": -15.04839,
+          "lng": 35.0591
+        },
+        {
+          "name": "Blantyre",
+          "lat": -15.78499,
+          "lng": 35.00854
+        },
+        {
+          "name": "Blantyre District",
+          "lat": -15.64732,
+          "lng": 34.93956
+        },
+        {
+          "name": "Chikwawa District",
+          "lat": -16.16667,
+          "lng": 34.75
+        },
+        {
+          "name": "Chiradzulu District",
+          "lat": -15.75268,
+          "lng": 35.21576
+        },
+        {
+          "name": "Machinga District",
+          "lat": -14.94583,
+          "lng": 35.57367
+        },
+        {
+          "name": "Mangochi District",
+          "lat": -14.39296,
+          "lng": 35.34658
+        },
+        {
+          "name": "Mulanje District",
+          "lat": -15.9344,
+          "lng": 35.4999
+        },
+        {
+          "name": "Mwanza District",
+          "lat": -15.63337,
+          "lng": 34.51682
+        },
+        {
+          "name": "Neno",
+          "lat": -15.45051,
+          "lng": 34.70034
+        },
+        {
+          "name": "Nsanje District",
+          "lat": -16.75,
+          "lng": 35.16667
+        },
+        {
+          "name": "Phalombe District",
+          "lat": -15.66667,
+          "lng": 35.66667
+        },
+        {
+          "name": "Thyolo District",
+          "lat": -16.10583,
+          "lng": 35.1506
+        },
+        {
+          "name": "Zomba",
+          "lat": -15.38596,
+          "lng": 35.3188
+        },
+        {
+          "name": "Zomba District",
+          "lat": -15.43007,
+          "lng": 35.41829
+        },
+        {
+          "name": "Balaka",
+          "lat": -14.97928,
+          "lng": 34.95575
+        },
+        {
+          "name": "Chikwawa",
+          "lat": -16.03352,
+          "lng": 34.80091
+        },
+        {
+          "name": "Chiradzulu",
+          "lat": -15.67461,
+          "lng": 35.14071
+        },
+        {
+          "name": "Liwonde",
+          "lat": -15.06665,
+          "lng": 35.22543
+        },
+        {
+          "name": "Luchenza",
+          "lat": -16.00693,
+          "lng": 35.30947
+        },
+        {
+          "name": "Machinga",
+          "lat": -15.16849,
+          "lng": 35.30002
+        },
+        {
+          "name": "Mangochi",
+          "lat": -14.47815,
+          "lng": 35.26448
+        },
+        {
+          "name": "Monkey Bay",
+          "lat": -14.08239,
+          "lng": 34.91652
+        },
+        {
+          "name": "Mulanje",
+          "lat": -16.03163,
+          "lng": 35.5
+        },
+        {
+          "name": "Mwanza",
+          "lat": -15.60262,
+          "lng": 34.52479
+        },
+        {
+          "name": "Nsanje",
+          "lat": -16.91995,
+          "lng": 35.26199
+        },
+        {
+          "name": "Phalombe",
+          "lat": -15.80635,
+          "lng": 35.65067
+        },
+        {
+          "name": "Thyolo",
+          "lat": -16.06775,
+          "lng": 35.14046
+        }
+      ]
+    },
+    {
+      "name": "Thyolo",
+      "lat": -16.1287747,
+      "lng": 35.1449132,
+      "districts": []
+    },
+    {
+      "name": "Zomba",
+      "lat": -15.3863208,
+      "lng": 35.3268273,
+      "districts": []
+    }
+  ]
+}

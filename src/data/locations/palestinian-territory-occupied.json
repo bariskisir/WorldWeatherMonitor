@@ -1,0 +1,780 @@
+{
+  "name": "Palestinian Territory Occupied",
+  "lat": 31.9,
+  "lng": 35.2,
+  "cities": [
+    {
+      "name": "Bethlehem",
+      "lat": 31.7053996,
+      "lng": 35.1936877,
+      "districts": [
+        {
+          "name": "Al-Dawha",
+          "lat": 31.6977399,
+          "lng": 35.1459545
+        },
+        {
+          "name": "al-Khader",
+          "lat": 31.6948454,
+          "lng": 35.1501453
+        },
+        {
+          "name": "al-Ubeidiya",
+          "lat": 31.7238643,
+          "lng": 35.2712213
+        },
+        {
+          "name": "Battir",
+          "lat": 31.7282154,
+          "lng": 35.1174323
+        },
+        {
+          "name": "Beit Fajjar",
+          "lat": 31.6216699,
+          "lng": 35.1343033
+        },
+        {
+          "name": "Beit Jala",
+          "lat": 31.7160334,
+          "lng": 35.1665493
+        },
+        {
+          "name": "Beit Sahour",
+          "lat": 31.6978704,
+          "lng": 35.2079303
+        },
+        {
+          "name": "Bethlehem",
+          "lat": 31.7054165,
+          "lng": 35.1818428
+        },
+        {
+          "name": "Husan",
+          "lat": 31.7084604,
+          "lng": 35.1128253
+        },
+        {
+          "name": "Nahalin",
+          "lat": 31.6856424,
+          "lng": 35.0997623
+        },
+        {
+          "name": "Tuqu'",
+          "lat": 31.6391274,
+          "lng": 35.1918903
+        },
+        {
+          "name": "Za'atara",
+          "lat": 31.6744784,
+          "lng": 35.2344913
+        }
+      ]
+    },
+    {
+      "name": "Deir El Balah",
+      "lat": 31.4202897,
+      "lng": 34.286164,
+      "districts": [
+        {
+          "name": "az-Zawayda",
+          "lat": 31.4297975,
+          "lng": 34.3501423
+        },
+        {
+          "name": "Deir al-Balah",
+          "lat": 31.4171735,
+          "lng": 34.3303313
+        }
+      ]
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.4872397,
+      "lng": 34.149989,
+      "districts": [
+        {
+          "name": "Al-Zahra",
+          "lat": 31.4724675,
+          "lng": 34.3778293
+        },
+        {
+          "name": "Gaza City",
+          "lat": 31.5017295,
+          "lng": 34.4462448
+        }
+      ]
+    },
+    {
+      "name": "Hebron",
+      "lat": 31.5326001,
+      "lng": 35.0639475,
+      "districts": [
+        {
+          "name": "ad-Dhahiriya",
+          "lat": 31.4096725,
+          "lng": 34.9549083
+        },
+        {
+          "name": "as-Samu",
+          "lat": 31.3986445,
+          "lng": 35.0446883
+        },
+        {
+          "name": "Bani Na'im",
+          "lat": 31.5149005,
+          "lng": 35.1447403
+        },
+        {
+          "name": "Beit 'Awwa",
+          "lat": 31.5067524,
+          "lng": 34.9295613
+        },
+        {
+          "name": "Beit Ula",
+          "lat": 31.5984564,
+          "lng": 35.0057753
+        },
+        {
+          "name": "Beit Ummar",
+          "lat": 31.6228464,
+          "lng": 35.0815993
+        },
+        {
+          "name": "Deir Sammit",
+          "lat": 31.5199634,
+          "lng": 34.9520713
+        },
+        {
+          "name": "Dura",
+          "lat": 31.5051274,
+          "lng": 35.0069273
+        },
+        {
+          "name": "Halhul",
+          "lat": 31.5799242,
+          "lng": 35.0793045
+        },
+        {
+          "name": "Hebron",
+          "lat": 31.5326035,
+          "lng": 35.0792263
+        },
+        {
+          "name": "Idhna",
+          "lat": 31.5572864,
+          "lng": 34.9586433
+        },
+        {
+          "name": "Kharas",
+          "lat": 31.6122524,
+          "lng": 35.0236513
+        },
+        {
+          "name": "Nuba",
+          "lat": 31.6138208,
+          "lng": 35.005792
+        },
+        {
+          "name": "Sa'ir",
+          "lat": 31.5824895,
+          "lng": 35.1231763
+        },
+        {
+          "name": "Surif",
+          "lat": 31.6495864,
+          "lng": 35.0441123
+        },
+        {
+          "name": "Taffuh",
+          "lat": 31.5384825,
+          "lng": 35.0303733
+        },
+        {
+          "name": "Tarqumiya",
+          "lat": 31.5773644,
+          "lng": 34.9935743
+        },
+        {
+          "name": "Yatta",
+          "lat": 31.4441845,
+          "lng": 35.0695053
+        }
+      ]
+    },
+    {
+      "name": "Jenin",
+      "lat": 32.4263761,
+      "lng": 35.0856887,
+      "districts": [
+        {
+          "name": "Ajjah",
+          "lat": 32.3600171,
+          "lng": 35.1773943
+        },
+        {
+          "name": "al-Yamun",
+          "lat": 32.4867111,
+          "lng": 35.2129923
+        },
+        {
+          "name": "Arrabah",
+          "lat": 32.4033101,
+          "lng": 35.1853143
+        },
+        {
+          "name": "Burqin",
+          "lat": 32.456169,
+          "lng": 35.2410883
+        },
+        {
+          "name": "Deir Abu Da'if",
+          "lat": 32.4560951,
+          "lng": 35.3443223
+        },
+        {
+          "name": "Jaba",
+          "lat": 32.3250611,
+          "lng": 35.1995643
+        },
+        {
+          "name": "Jenin",
+          "lat": 32.457284,
+          "lng": 35.2816144
+        },
+        {
+          "name": "Kafr Dan",
+          "lat": 32.4780111,
+          "lng": 35.2331873
+        },
+        {
+          "name": "Kafr Rai",
+          "lat": 32.3734521,
+          "lng": 35.1349363
+        },
+        {
+          "name": "Meithalun",
+          "lat": 32.3492441,
+          "lng": 35.2508843
+        },
+        {
+          "name": "Qabatiya",
+          "lat": 32.4096171,
+          "lng": 35.2594933
+        },
+        {
+          "name": "Silat ad-Dhahr",
+          "lat": 32.3175321,
+          "lng": 35.1666323
+        },
+        {
+          "name": "Silat al-Harithiya",
+          "lat": 32.509797,
+          "lng": 35.2068473
+        },
+        {
+          "name": "Ya'bad",
+          "lat": 32.446868,
+          "lng": 35.1466743
+        },
+        {
+          "name": "Zababdeh",
+          "lat": 32.3852361,
+          "lng": 35.3028793
+        }
+      ]
+    },
+    {
+      "name": "Jericho ",
+      "lat": 31.9676425,
+      "lng": 35.1354279,
+      "districts": [
+        {
+          "name": "al-Auja",
+          "lat": 31.9480993,
+          "lng": 35.4505643
+        },
+        {
+          "name": "al-Jiftlik",
+          "lat": 32.1414323,
+          "lng": 35.4466025
+        },
+        {
+          "name": "Jericho",
+          "lat": 31.859507,
+          "lng": 35.4439082
+        }
+      ]
+    },
+    {
+      "name": "Jerusalem (Quds)",
+      "lat": 31.8020328,
+      "lng": 34.9599664,
+      "districts": [
+        {
+          "name": "East Jerusalem",
+          "lat": 31.7965043,
+          "lng": 35.0105434,
+          "iscapital": true
+        },
+        {
+          "name": "Abu Dis",
+          "lat": 31.7636163,
+          "lng": 35.2371223
+        },
+        {
+          "name": "Ar-Ram",
+          "lat": 31.8492863,
+          "lng": 35.2128893
+        },
+        {
+          "name": "Beit 'Anan",
+          "lat": 31.8510993,
+          "lng": 35.0911193
+        },
+        {
+          "name": "Biddu",
+          "lat": 31.8344582,
+          "lng": 35.0744173
+        },
+        {
+          "name": "Bir Nabala",
+          "lat": 31.8512163,
+          "lng": 35.1802353
+        },
+        {
+          "name": "Hizma",
+          "lat": 31.8364954,
+          "lng": 35.2426313
+        },
+        {
+          "name": "Kafr Aqab",
+          "lat": 31.8747227,
+          "lng": 35.21724
+        },
+        {
+          "name": "Qalandiya",
+          "lat": 31.8616313,
+          "lng": 35.1873143
+        },
+        {
+          "name": "Qatanna",
+          "lat": 31.8269573,
+          "lng": 35.0896003
+        }
+      ]
+    },
+    {
+      "name": "Khan Yunis",
+      "lat": 31.3298766,
+      "lng": 34.2254833,
+      "districts": [
+        {
+          "name": "Bani Suheila",
+          "lat": 31.3421385,
+          "lng": 34.3046543
+        },
+        {
+          "name": "Abasan al-Kabira",
+          "lat": 31.3231605,
+          "lng": 34.3234253
+        },
+        {
+          "name": "Abasan al-Saghira",
+          "lat": 31.3397435,
+          "lng": 34.3260333
+        },
+        {
+          "name": "Al-Qarara",
+          "lat": 31.3713465,
+          "lng": 34.3146603
+        },
+        {
+          "name": "Khan Yunis",
+          "lat": 31.3462351,
+          "lng": 34.2833989
+        },
+        {
+          "name": "Khuzaʽa",
+          "lat": 31.3070566,
+          "lng": 34.3394473
+        }
+      ]
+    },
+    {
+      "name": "Nablus",
+      "lat": 32.2243755,
+      "lng": 35.2064793,
+      "districts": [
+        {
+          "name": "Aqraba",
+          "lat": 32.1276202,
+          "lng": 35.3221353
+        },
+        {
+          "name": "Asira ash-Shamaliya",
+          "lat": 32.2518691,
+          "lng": 35.2475713
+        },
+        {
+          "name": "Beit Furik",
+          "lat": 32.1754902,
+          "lng": 35.3158843
+        },
+        {
+          "name": "Beita",
+          "lat": 32.1413742,
+          "lng": 35.2657993
+        },
+        {
+          "name": "Huwara",
+          "lat": 32.1513472,
+          "lng": 35.2361993
+        },
+        {
+          "name": "Jammain",
+          "lat": 32.1321142,
+          "lng": 35.1827423
+        },
+        {
+          "name": "Nablus",
+          "lat": 32.2243755,
+          "lng": 35.2064793
+        },
+        {
+          "name": "Qabalan",
+          "lat": 32.1018542,
+          "lng": 35.2671293
+        },
+        {
+          "name": "Sebastia",
+          "lat": 32.2782751,
+          "lng": 35.1780333
+        }
+      ]
+    },
+    {
+      "name": "North Gaza",
+      "lat": 31.547506,
+      "lng": 34.4281409,
+      "districts": [
+        {
+          "name": "Beit Hanoun",
+          "lat": 31.5385174,
+          "lng": 34.5161703
+        },
+        {
+          "name": "Beit Lahia",
+          "lat": 31.5513234,
+          "lng": 34.4886223
+        },
+        {
+          "name": "Izbat Beit Hanoun",
+          "lat": 31.5472895,
+          "lng": 34.5019722
+        },
+        {
+          "name": "Jabalia",
+          "lat": 31.5294305,
+          "lng": 34.4591413
+        }
+      ]
+    },
+    {
+      "name": "Qalqilya",
+      "lat": 32.1810323,
+      "lng": 34.9936999,
+      "districts": [
+        {
+          "name": "Azzun",
+          "lat": 32.1771352,
+          "lng": 35.0353573
+        },
+        {
+          "name": "Hableh",
+          "lat": 32.1638782,
+          "lng": 34.9576803
+        },
+        {
+          "name": "Kafr Thulth",
+          "lat": 32.1528332,
+          "lng": 35.0246903
+        },
+        {
+          "name": "Qalqilya",
+          "lat": 32.1960491,
+          "lng": 34.9609133
+        }
+      ]
+    },
+    {
+      "name": "Rafah",
+      "lat": 31.2968899,
+      "lng": 34.1116685,
+      "districts": [
+        {
+          "name": "Al Qarya as Suwaydiya",
+          "lat": 31.3231655,
+          "lng": 34.2015753
+        },
+        {
+          "name": "Al-Bayuk",
+          "lat": 31.2634786,
+          "lng": 34.2609813
+        },
+        {
+          "name": "Al-Mawasi",
+          "lat": 31.3484496,
+          "lng": 34.2355363
+        },
+        {
+          "name": "Rafah",
+          "lat": 31.2968145,
+          "lng": 34.2228823
+        },
+        {
+          "name": "Shokat as-Sufi",
+          "lat": 31.2509125,
+          "lng": 34.2451672
+        }
+      ]
+    },
+    {
+      "name": "Ramallah",
+      "lat": 31.9430145,
+      "lng": 34.8645651,
+      "districts": [
+        {
+          "name": "Al-Bireh",
+          "lat": 31.9125973,
+          "lng": 35.2011173
+        },
+        {
+          "name": "al-Mazra'a ash-Sharqiya",
+          "lat": 32.0032722,
+          "lng": 35.2555323
+        },
+        {
+          "name": "Bani Zeid al-Sharqiya",
+          "lat": 32.0407432,
+          "lng": 35.1532783
+        },
+        {
+          "name": "Beit Liqya",
+          "lat": 31.8699713,
+          "lng": 35.0446023
+        },
+        {
+          "name": "Beitunia",
+          "lat": 31.8893153,
+          "lng": 35.1492133
+        },
+        {
+          "name": "Bir Zeit",
+          "lat": 31.9753483,
+          "lng": 35.1754423
+        },
+        {
+          "name": "Deir Dibwan",
+          "lat": 31.9112393,
+          "lng": 35.2483883
+        },
+        {
+          "name": "Deir Jarir",
+          "lat": 31.9656463,
+          "lng": 35.2731763
+        },
+        {
+          "name": "Kharbatha al-Misbah",
+          "lat": 31.8853003,
+          "lng": 35.0514733
+        },
+        {
+          "name": "Ni'lin",
+          "lat": 31.9468773,
+          "lng": 35.0008613
+        },
+        {
+          "name": "Ramallah",
+          "lat": 31.9074171,
+          "lng": 35.164682
+        },
+        {
+          "name": "Rawabi",
+          "lat": 32.0102157,
+          "lng": 35.1712941
+        },
+        {
+          "name": "Silwad",
+          "lat": 31.9794242,
+          "lng": 35.2412653
+        },
+        {
+          "name": "Sinjil",
+          "lat": 32.0336413,
+          "lng": 35.2433353
+        },
+        {
+          "name": "Turmus Ayya",
+          "lat": 32.0327602,
+          "lng": 35.2677753
+        }
+      ]
+    },
+    {
+      "name": "Salfit",
+      "lat": 32.1112272,
+      "lng": 34.9578769,
+      "districts": [
+        {
+          "name": "az-Zawiya",
+          "lat": 32.0947052,
+          "lng": 35.0186763
+        },
+        {
+          "name": "Biddya",
+          "lat": 32.1134002,
+          "lng": 35.0568653
+        },
+        {
+          "name": "Bruqin",
+          "lat": 32.0726472,
+          "lng": 35.0778063
+        },
+        {
+          "name": "Deir Ballut",
+          "lat": 32.0650672,
+          "lng": 35.0049493
+        },
+        {
+          "name": "Deir Istiya",
+          "lat": 32.1307962,
+          "lng": 35.1195363
+        },
+        {
+          "name": "Farkha",
+          "lat": 32.0687772,
+          "lng": 35.1302763
+        },
+        {
+          "name": "Haris",
+          "lat": 32.1134492,
+          "lng": 35.1231163
+        },
+        {
+          "name": "Iskaka",
+          "lat": 32.1029552,
+          "lng": 35.2039493
+        },
+        {
+          "name": "Kafr ad-Dik",
+          "lat": 32.0686354,
+          "lng": 35.0605081
+        },
+        {
+          "name": "Kifl Hares",
+          "lat": 32.1169242,
+          "lng": 35.1363643
+        },
+        {
+          "name": "Marda",
+          "lat": 32.1142512,
+          "lng": 35.1752513
+        },
+        {
+          "name": "Mas-ha",
+          "lat": 32.1072982,
+          "lng": 35.0303743
+        },
+        {
+          "name": "Qarawat Bani Hassan",
+          "lat": 32.1285392,
+          "lng": 35.0787783
+        },
+        {
+          "name": "Qira",
+          "lat": 32.1221342,
+          "lng": 35.1506323
+        },
+        {
+          "name": "Rafat",
+          "lat": 32.0787202,
+          "lng": 35.0246873
+        },
+        {
+          "name": "Sarta",
+          "lat": 32.1033692,
+          "lng": 35.0712383
+        },
+        {
+          "name": "Yasuf",
+          "lat": 32.1094052,
+          "lng": 35.2191153
+        }
+      ]
+    },
+    {
+      "name": "Tubas",
+      "lat": 32.2938043,
+      "lng": 34.851098,
+      "districts": [
+        {
+          "name": "Al 'Aqaba",
+          "lat": 32.3525706,
+          "lng": 35.3267476
+        },
+        {
+          "name": "Tammun",
+          "lat": 32.2831551,
+          "lng": 35.3651893
+        },
+        {
+          "name": "Tubas",
+          "lat": 32.3211201,
+          "lng": 35.3493533
+        }
+      ]
+    },
+    {
+      "name": "Tulkarm",
+      "lat": 32.3276672,
+      "lng": 34.9231108,
+      "districts": [
+        {
+          "name": "Anabta",
+          "lat": 32.3072871,
+          "lng": 35.0988783
+        },
+        {
+          "name": "Attil",
+          "lat": 32.3701031,
+          "lng": 35.0519383
+        },
+        {
+          "name": "Bal'a",
+          "lat": 32.3325561,
+          "lng": 35.0893533
+        },
+        {
+          "name": "Baqa ash-Sharqiyya",
+          "lat": 32.4111751,
+          "lng": 35.0505933
+        },
+        {
+          "name": "Beit Lid",
+          "lat": 32.2615821,
+          "lng": 35.1096803
+        },
+        {
+          "name": "Qaffin",
+          "lat": 32.433412,
+          "lng": 35.0637003
+        },
+        {
+          "name": "Tulkarm",
+          "lat": 32.3079648,
+          "lng": 35.0080289
+        }
+      ]
+    }
+  ]
+}

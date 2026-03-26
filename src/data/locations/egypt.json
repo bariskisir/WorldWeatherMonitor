@@ -1,0 +1,982 @@
+{
+  "name": "Egypt",
+  "lat": 27,
+  "lng": 30,
+  "cities": [
+    {
+      "name": "Alexandria",
+      "lat": 30.9432983,
+      "lng": 29.765645,
+      "districts": [
+        {
+          "name": "Alexandria",
+          "lat": 31.20176,
+          "lng": 29.91582
+        },
+        {
+          "name": "Abu Qir",
+          "lat": 31.31666667,
+          "lng": 30.06666667
+        },
+        {
+          "name": "Agami",
+          "lat": 31.0959,
+          "lng": 29.7604
+        },
+        {
+          "name": "Ar-Raml",
+          "lat": 31.24821,
+          "lng": 29.97368
+        },
+        {
+          "name": "Borg El Arab",
+          "lat": 30.91666667,
+          "lng": 29.53333333
+        },
+        {
+          "name": "Montaza",
+          "lat": 31.2827,
+          "lng": 30.0219
+        },
+        {
+          "name": "New Borg El Arab",
+          "lat": 30.88525,
+          "lng": 29.57721
+        },
+        {
+          "name": "Sidi Bishr",
+          "lat": 31.2521,
+          "lng": 29.9945
+        }
+      ]
+    },
+    {
+      "name": "Aswan",
+      "lat": 23.6675287,
+      "lng": 32.6916477,
+      "districts": [
+        {
+          "name": "Aswan",
+          "lat": 24.09082,
+          "lng": 32.89942
+        },
+        {
+          "name": "Abu Simbel",
+          "lat": 22.3457,
+          "lng": 31.61624
+        },
+        {
+          "name": "Idfū",
+          "lat": 24.97916,
+          "lng": 32.87722
+        },
+        {
+          "name": "Kawm Umbū",
+          "lat": 24.47669,
+          "lng": 32.94626
+        }
+      ]
+    },
+    {
+      "name": "Asyut",
+      "lat": 27.2065132,
+      "lng": 31.5500282,
+      "districts": [
+        {
+          "name": "Abnūb",
+          "lat": 27.2696,
+          "lng": 31.15105
+        },
+        {
+          "name": "Abū Tīj",
+          "lat": 27.04411,
+          "lng": 31.31897
+        },
+        {
+          "name": "Asyūţ",
+          "lat": 27.18096,
+          "lng": 31.18368
+        },
+        {
+          "name": "Dayrūţ",
+          "lat": 27.55602,
+          "lng": 30.80764
+        },
+        {
+          "name": "Manfalūţ",
+          "lat": 27.3104,
+          "lng": 30.97004
+        },
+        {
+          "name": "Al Badārī",
+          "lat": 26.99257,
+          "lng": 31.41554
+        },
+        {
+          "name": "Al Qūşīyah",
+          "lat": 27.4402,
+          "lng": 30.81841
+        }
+      ]
+    },
+    {
+      "name": "Beheira",
+      "lat": 30.7915206,
+      "lng": 30.3465488,
+      "districts": [
+        {
+          "name": "Damanhūr",
+          "lat": 31.03408,
+          "lng": 30.46823
+        },
+        {
+          "name": "Idkū",
+          "lat": 31.3073,
+          "lng": 30.2981
+        },
+        {
+          "name": "Kafr ad Dawwār",
+          "lat": 31.13379,
+          "lng": 30.12969
+        },
+        {
+          "name": "Rosetta",
+          "lat": 31.39951,
+          "lng": 30.41718
+        },
+        {
+          "name": "Abū al Maţāmīr",
+          "lat": 30.91018,
+          "lng": 30.17438
+        },
+        {
+          "name": "Ad Dilinjāt",
+          "lat": 30.82796,
+          "lng": 30.53552
+        },
+        {
+          "name": "Ḩawsh ‘Īsá",
+          "lat": 30.9128,
+          "lng": 30.29019
+        },
+        {
+          "name": "Kawm Ḩamādah",
+          "lat": 30.76128,
+          "lng": 30.69972
+        }
+      ]
+    },
+    {
+      "name": "Beni Suef",
+      "lat": 29.0729812,
+      "lng": 31.0982562,
+      "districts": [
+        {
+          "name": "Al Fashn",
+          "lat": 28.82431,
+          "lng": 30.89948
+        },
+        {
+          "name": "Banī Suwayf",
+          "lat": 29.07441,
+          "lng": 31.09785
+        },
+        {
+          "name": "Būsh",
+          "lat": 29.14816,
+          "lng": 31.12733
+        },
+        {
+          "name": "Sumusţā as Sulţānī",
+          "lat": 28.91667,
+          "lng": 30.85
+        }
+      ]
+    },
+    {
+      "name": "Cairo",
+      "lat": 30.0332516,
+      "lng": 31.5621651,
+      "districts": [
+        {
+          "name": "Cairo",
+          "lat": 30.06263,
+          "lng": 31.24967,
+          "iscapital": true
+        },
+        {
+          "name": "El Mataria",
+          "lat": 30.1295,
+          "lng": 31.2889
+        },
+        {
+          "name": "Hadayek El Kobba",
+          "lat": 30.0967,
+          "lng": 31.3103
+        },
+        {
+          "name": "Heliopolis",
+          "lat": 30.13333333,
+          "lng": 31.3
+        },
+        {
+          "name": "Helwan",
+          "lat": 29.84194444,
+          "lng": 31.33416667
+        },
+        {
+          "name": "Musturud",
+          "lat": 30.13881944,
+          "lng": 31.29241111
+        },
+        {
+          "name": "Tura",
+          "lat": 29.939279,
+          "lng": 31.290007
+        },
+        {
+          "name": "Badr",
+          "lat": 30.136,
+          "lng": 31.715
+        },
+        {
+          "name": "Bulaq",
+          "lat": 30.053,
+          "lng": 31.23
+        },
+        {
+          "name": "Fustat",
+          "lat": 30,
+          "lng": 31.23333333
+        },
+        {
+          "name": "Maadi",
+          "lat": 29.9667,
+          "lng": 31.25
+        },
+        {
+          "name": "New Administrative Capital of Egypt",
+          "lat": 30.0275,
+          "lng": 31.765
+        },
+        {
+          "name": "Shubra",
+          "lat": 30.0725,
+          "lng": 31.2408
+        }
+      ]
+    },
+    {
+      "name": "Dakahlia",
+      "lat": 31.1380046,
+      "lng": 31.8882499,
+      "districts": [
+        {
+          "name": "Al Manşūrah",
+          "lat": 31.03637,
+          "lng": 31.38069
+        },
+        {
+          "name": "Al Manzalah",
+          "lat": 31.15823,
+          "lng": 31.936
+        },
+        {
+          "name": "Al Maţarīyah",
+          "lat": 31.18287,
+          "lng": 32.03108
+        },
+        {
+          "name": "Bilqās",
+          "lat": 31.21452,
+          "lng": 31.35798
+        },
+        {
+          "name": "Dikirnis",
+          "lat": 31.08898,
+          "lng": 31.59478
+        },
+        {
+          "name": "Ţalkhā",
+          "lat": 31.0539,
+          "lng": 31.37787
+        },
+        {
+          "name": "‘Izbat al Burj",
+          "lat": 31.5084,
+          "lng": 31.84106
+        },
+        {
+          "name": "Ajā",
+          "lat": 30.94162,
+          "lng": 31.29039
+        },
+        {
+          "name": "Al Jammālīyah",
+          "lat": 31.18065,
+          "lng": 31.86497
+        },
+        {
+          "name": "Minyat an Naşr",
+          "lat": 31.12624,
+          "lng": 31.64313
+        },
+        {
+          "name": "Shirbīn",
+          "lat": 31.19688,
+          "lng": 31.5243
+        }
+      ]
+    },
+    {
+      "name": "Damietta",
+      "lat": 31.4113331,
+      "lng": 31.7557072,
+      "districts": [
+        {
+          "name": "Damietta",
+          "lat": 31.41648,
+          "lng": 31.81332
+        },
+        {
+          "name": "Az Zarqā",
+          "lat": 31.20864,
+          "lng": 31.63528
+        },
+        {
+          "name": "Fāraskūr",
+          "lat": 31.32977,
+          "lng": 31.71507
+        }
+      ]
+    },
+    {
+      "name": "Faiyum",
+      "lat": 29.3084021,
+      "lng": 30.8428497,
+      "districts": [
+        {
+          "name": "Al Fayyūm",
+          "lat": 29.30995,
+          "lng": 30.8418
+        },
+        {
+          "name": "Al Wāsiţah",
+          "lat": 29.33778,
+          "lng": 31.20556
+        },
+        {
+          "name": "Ibshawāy",
+          "lat": 29.35896,
+          "lng": 30.68061
+        },
+        {
+          "name": "Iţsā",
+          "lat": 29.2376,
+          "lng": 30.78944
+        },
+        {
+          "name": "Ţāmiyah",
+          "lat": 29.47639,
+          "lng": 30.96119
+        }
+      ]
+    },
+    {
+      "name": "Gharbia",
+      "lat": 30.8391947,
+      "lng": 31.0016072,
+      "districts": [
+        {
+          "name": "Al Maḩallah al Kubrá",
+          "lat": 30.97063,
+          "lng": 31.1669
+        },
+        {
+          "name": "Tanda",
+          "lat": 30.78847,
+          "lng": 31.00192
+        },
+        {
+          "name": "Basyūn",
+          "lat": 30.93976,
+          "lng": 30.81338
+        },
+        {
+          "name": "Kafr az Zayyāt",
+          "lat": 30.8248,
+          "lng": 30.81805
+        },
+        {
+          "name": "Quţūr",
+          "lat": 30.97225,
+          "lng": 30.95614
+        },
+        {
+          "name": "Samannūd",
+          "lat": 30.9616,
+          "lng": 31.24069
+        },
+        {
+          "name": "Zefta",
+          "lat": 30.7142,
+          "lng": 31.24425
+        }
+      ]
+    },
+    {
+      "name": "Giza",
+      "lat": 29.0540357,
+      "lng": 29.4190807,
+      "districts": [
+        {
+          "name": "Al Ḩawāmidīyah",
+          "lat": 29.9,
+          "lng": 31.25
+        },
+        {
+          "name": "Giza",
+          "lat": 30.00808,
+          "lng": 31.21093
+        },
+        {
+          "name": "Al ‘Ayyāţ",
+          "lat": 29.61972,
+          "lng": 31.2575
+        },
+        {
+          "name": "Al Bawīţī",
+          "lat": 28.34919,
+          "lng": 28.86591
+        },
+        {
+          "name": "Aş Şaff",
+          "lat": 29.56472,
+          "lng": 31.28111
+        },
+        {
+          "name": "Awsīm",
+          "lat": 30.12303,
+          "lng": 31.13571
+        },
+        {
+          "name": "Madīnat Sittah Uktūbar",
+          "lat": 29.81667,
+          "lng": 31.05
+        }
+      ]
+    },
+    {
+      "name": "Ismailia",
+      "lat": 30.6043775,
+      "lng": 32.2770825,
+      "districts": [
+        {
+          "name": "Ismailia",
+          "lat": 30.60427,
+          "lng": 32.27225
+        }
+      ]
+    },
+    {
+      "name": "Kafr El-Sheikh",
+      "lat": 31.3814765,
+      "lng": 30.8513566,
+      "districts": [
+        {
+          "name": "Disūq",
+          "lat": 31.13259,
+          "lng": 30.64784
+        },
+        {
+          "name": "Kafr ash Shaykh",
+          "lat": 31.11174,
+          "lng": 30.93991
+        },
+        {
+          "name": "Al Ḩāmūl",
+          "lat": 31.31146,
+          "lng": 31.14766
+        },
+        {
+          "name": "Fuwwah",
+          "lat": 31.20365,
+          "lng": 30.54908
+        },
+        {
+          "name": "Markaz Disūq",
+          "lat": 31.1459,
+          "lng": 30.71609
+        },
+        {
+          "name": "Munshāt ‘Alī Āghā",
+          "lat": 31.15791,
+          "lng": 30.70177
+        },
+        {
+          "name": "Sīdī Sālim",
+          "lat": 31.27133,
+          "lng": 30.78617
+        }
+      ]
+    },
+    {
+      "name": "Luxor",
+      "lat": 25.702096,
+      "lng": 32.647186,
+      "districts": [
+        {
+          "name": "Luxor",
+          "lat": 25.69893,
+          "lng": 32.6421
+        },
+        {
+          "name": "Markaz al Uqşur",
+          "lat": 25.62986,
+          "lng": 32.59017
+        }
+      ]
+    },
+    {
+      "name": "Matrouh",
+      "lat": 29.7876385,
+      "lng": 27.427041,
+      "districts": [
+        {
+          "name": "Mersa Matruh",
+          "lat": 31.3529,
+          "lng": 27.23725
+        },
+        {
+          "name": "Al ‘Alamayn",
+          "lat": 30.83007,
+          "lng": 28.95502
+        },
+        {
+          "name": "Siwa Oasis",
+          "lat": 29.2032,
+          "lng": 25.51965
+        }
+      ]
+    },
+    {
+      "name": "Minya",
+      "lat": 28.0893325,
+      "lng": 30.7570623,
+      "districts": [
+        {
+          "name": "Mallawī",
+          "lat": 27.7314,
+          "lng": 30.84165
+        },
+        {
+          "name": "Samālūţ",
+          "lat": 28.31214,
+          "lng": 30.71007
+        },
+        {
+          "name": "Abū Qurqāş",
+          "lat": 27.9312,
+          "lng": 30.83841
+        },
+        {
+          "name": "Al Minyā",
+          "lat": 28.10988,
+          "lng": 30.7503
+        },
+        {
+          "name": "Banī Mazār",
+          "lat": 28.5036,
+          "lng": 30.8004
+        },
+        {
+          "name": "Dayr Mawās",
+          "lat": 27.64176,
+          "lng": 30.84662
+        },
+        {
+          "name": "Maţāy",
+          "lat": 28.41899,
+          "lng": 30.77924
+        }
+      ]
+    },
+    {
+      "name": "Monufia",
+      "lat": 30.4370098,
+      "lng": 30.7466852,
+      "districts": [
+        {
+          "name": "Ashmūn",
+          "lat": 30.29735,
+          "lng": 30.97641
+        },
+        {
+          "name": "Munūf",
+          "lat": 30.46597,
+          "lng": 30.93199
+        },
+        {
+          "name": "Shibīn al Kawm",
+          "lat": 30.55258,
+          "lng": 31.00904
+        },
+        {
+          "name": "Al Bājūr",
+          "lat": 30.43046,
+          "lng": 31.03679
+        },
+        {
+          "name": "Ash Shuhadā’",
+          "lat": 30.59683,
+          "lng": 30.89931
+        },
+        {
+          "name": "Quwaysinā",
+          "lat": 30.56482,
+          "lng": 31.15777
+        },
+        {
+          "name": "Talā",
+          "lat": 30.6798,
+          "lng": 30.94364
+        }
+      ]
+    },
+    {
+      "name": "New Valley",
+      "lat": 24.8766665,
+      "lng": 28.7757345,
+      "districts": [
+        {
+          "name": "Al Khārijah",
+          "lat": 25.45141,
+          "lng": 30.54635
+        },
+        {
+          "name": "Qaşr al Farāfirah",
+          "lat": 27.0568,
+          "lng": 27.96979
+        }
+      ]
+    },
+    {
+      "name": "North Sinai",
+      "lat": 30.5042803,
+      "lng": 33.591006,
+      "districts": [
+        {
+          "name": "Arish",
+          "lat": 31.13159,
+          "lng": 33.79844
+        }
+      ]
+    },
+    {
+      "name": "Port Said",
+      "lat": 31.1821275,
+      "lng": 32.372582,
+      "districts": [
+        {
+          "name": "Port Said",
+          "lat": 31.25654,
+          "lng": 32.28411
+        }
+      ]
+    },
+    {
+      "name": "Qalyubia",
+      "lat": 30.3292368,
+      "lng": 31.2168466,
+      "districts": [
+        {
+          "name": "Banhā",
+          "lat": 30.45977,
+          "lng": 31.1842
+        },
+        {
+          "name": "Qalyūb",
+          "lat": 30.17922,
+          "lng": 31.2056
+        },
+        {
+          "name": "Al Khānkah",
+          "lat": 30.21035,
+          "lng": 31.36812
+        },
+        {
+          "name": "Al Qanāţir al Khayrīyah",
+          "lat": 30.19327,
+          "lng": 31.13703
+        },
+        {
+          "name": "Shibīn al Qanāṭir",
+          "lat": 30.31269,
+          "lng": 31.32018
+        },
+        {
+          "name": "Toukh",
+          "lat": 30.35487,
+          "lng": 31.20105
+        }
+      ]
+    },
+    {
+      "name": "Qena",
+      "lat": 26.1593097,
+      "lng": 32.7162855,
+      "districts": [
+        {
+          "name": "Isnā",
+          "lat": 25.29336,
+          "lng": 32.55402
+        },
+        {
+          "name": "Qinā",
+          "lat": 26.16418,
+          "lng": 32.72671
+        },
+        {
+          "name": "Dishnā",
+          "lat": 26.12467,
+          "lng": 32.47598
+        },
+        {
+          "name": "Farshūţ",
+          "lat": 26.05494,
+          "lng": 32.16329
+        },
+        {
+          "name": "Kousa",
+          "lat": 25.91407,
+          "lng": 32.76362
+        },
+        {
+          "name": "Naja' Ḥammādī",
+          "lat": 26.04949,
+          "lng": 32.24142
+        }
+      ]
+    },
+    {
+      "name": "Red Sea",
+      "lat": 25.5867279,
+      "lng": 34.1694641,
+      "districts": [
+        {
+          "name": "Hurghada",
+          "lat": 27.25738,
+          "lng": 33.81291
+        },
+        {
+          "name": "Al Quşayr",
+          "lat": 26.10426,
+          "lng": 34.27793
+        },
+        {
+          "name": "El Gouna",
+          "lat": 27.39417,
+          "lng": 33.67825
+        },
+        {
+          "name": "Makadi Bay",
+          "lat": 26.99123,
+          "lng": 33.89952
+        },
+        {
+          "name": "Marsa Alam",
+          "lat": 25.06305,
+          "lng": 34.89005
+        },
+        {
+          "name": "Ras Gharib",
+          "lat": 28.35831,
+          "lng": 33.07829
+        },
+        {
+          "name": "Safaga",
+          "lat": 26.74906,
+          "lng": 33.93891
+        }
+      ]
+    },
+    {
+      "name": "Sharqia",
+      "lat": 30.6332775,
+      "lng": 31.7893739,
+      "districts": [
+        {
+          "name": "10th of Ramadan",
+          "lat": 30.2993939,
+          "lng": 31.6141789
+        },
+        {
+          "name": "Al Qurein",
+          "lat": 26.2930066,
+          "lng": 31.8495035
+        },
+        {
+          "name": "Awlad Saqr",
+          "lat": 30.9309623,
+          "lng": 31.6913238
+        },
+        {
+          "name": "Bilbeis",
+          "lat": 30.4167692,
+          "lng": 31.5543048
+        },
+        {
+          "name": "Diyarb Negm",
+          "lat": 30.7480082,
+          "lng": 31.3889308
+        },
+        {
+          "name": "El Husseiniya",
+          "lat": 31.1393396,
+          "lng": 32.1494967
+        },
+        {
+          "name": "Faqous",
+          "lat": 30.7229174,
+          "lng": 31.7613658
+        },
+        {
+          "name": "Hihya",
+          "lat": 30.6551621,
+          "lng": 31.5067157
+        },
+        {
+          "name": "Kafr Saqr",
+          "lat": 30.7795514,
+          "lng": 31.6177412
+        },
+        {
+          "name": "Markaz Abū Ḩammād",
+          "lat": 30.5360443,
+          "lng": 31.6597023
+        },
+        {
+          "name": "Mashtoul El Souk",
+          "lat": 30.3557011,
+          "lng": 31.3627853
+        },
+        {
+          "name": "Minya El Qamh",
+          "lat": 30.5003745,
+          "lng": 31.2376685
+        },
+        {
+          "name": "New Salhia",
+          "lat": 30.6286879,
+          "lng": 31.9209906
+        },
+        {
+          "name": "Zagazig",
+          "lat": 30.5845623,
+          "lng": 31.3474779
+        }
+      ]
+    },
+    {
+      "name": "Sohag",
+      "lat": 26.7624628,
+      "lng": 32.0909936,
+      "districts": [
+        {
+          "name": "Akhmīm",
+          "lat": 26.56217,
+          "lng": 31.74503
+        },
+        {
+          "name": "Jirjā",
+          "lat": 26.33826,
+          "lng": 31.89161
+        },
+        {
+          "name": "Sohag",
+          "lat": 26.55695,
+          "lng": 31.69478
+        },
+        {
+          "name": "Ţahţā",
+          "lat": 26.7693,
+          "lng": 31.50214
+        },
+        {
+          "name": "Al Balyanā",
+          "lat": 26.23568,
+          "lng": 32.00347
+        },
+        {
+          "name": "Al Manshāh",
+          "lat": 26.47686,
+          "lng": 31.8035
+        },
+        {
+          "name": "Juhaynah",
+          "lat": 26.67319,
+          "lng": 31.4976
+        },
+        {
+          "name": "Markaz Jirjā",
+          "lat": 26.30683,
+          "lng": 31.84574
+        },
+        {
+          "name": "Markaz Sūhāj",
+          "lat": 26.53948,
+          "lng": 31.67524
+        }
+      ]
+    },
+    {
+      "name": "South Sinai",
+      "lat": 28.6449564,
+      "lng": 33.8711313,
+      "districts": [
+        {
+          "name": "Dahab",
+          "lat": 28.48208,
+          "lng": 34.49505
+        },
+        {
+          "name": "El-Tor",
+          "lat": 28.24168,
+          "lng": 33.6222
+        },
+        {
+          "name": "Nuwaybi‘a",
+          "lat": 29.04681,
+          "lng": 34.6634
+        },
+        {
+          "name": "Saint Catherine",
+          "lat": 28.56191,
+          "lng": 33.94934
+        },
+        {
+          "name": "Sharm el-Sheikh",
+          "lat": 27.91582,
+          "lng": 34.32995
+        }
+      ]
+    },
+    {
+      "name": "Suez",
+      "lat": 29.4165427,
+      "lng": 32.1490967,
+      "districts": [
+        {
+          "name": "Suez",
+          "lat": 29.97371,
+          "lng": 32.52627
+        },
+        {
+          "name": "Ain Sukhna",
+          "lat": 29.60018,
+          "lng": 32.31671
+        }
+      ]
+    }
+  ]
+}

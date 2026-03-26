@@ -1,0 +1,432 @@
+{
+  "name": "Libya",
+  "lat": 25,
+  "lng": 17,
+  "cities": [
+    {
+      "name": "Al Butnan",
+      "lat": 30,
+      "lng": 24,
+      "districts": [
+        {
+          "name": "Tobruk",
+          "lat": 32.07611111,
+          "lng": 23.96138889
+        },
+        {
+          "name": "Bardia",
+          "lat": 31.76,
+          "lng": 25.075
+        },
+        {
+          "name": "Jaghbub",
+          "lat": 29.7425,
+          "lng": 24.51694444
+        }
+      ]
+    },
+    {
+      "name": "Al Wahat",
+      "lat": 29.1573123,
+      "lng": 21.7496392,
+      "districts": [
+        {
+          "name": "Ajdabiya",
+          "lat": 30.75545,
+          "lng": 20.22625
+        },
+        {
+          "name": "Al Burayqah",
+          "lat": 30.40624,
+          "lng": 19.57386
+        },
+        {
+          "name": "Awjilah",
+          "lat": 29.10806,
+          "lng": 21.28694
+        },
+        {
+          "name": "Az Zuwaytīnah",
+          "lat": 30.9522,
+          "lng": 20.12022
+        },
+        {
+          "name": "Gialo",
+          "lat": 29.03333,
+          "lng": 21.55
+        },
+        {
+          "name": "Marādah",
+          "lat": 29.22054,
+          "lng": 19.20454
+        }
+      ]
+    },
+    {
+      "name": "Benghazi",
+      "lat": 32.1194242,
+      "lng": 20.0867909,
+      "districts": [
+        {
+          "name": "Benghazi",
+          "lat": 32.11486,
+          "lng": 20.06859
+        },
+        {
+          "name": "Qaryat Sulūq",
+          "lat": 31.66818,
+          "lng": 20.25205
+        }
+      ]
+    },
+    {
+      "name": "Derna",
+      "lat": 32.755613,
+      "lng": 22.6377432,
+      "districts": [
+        {
+          "name": "Darnah",
+          "lat": 32.76704,
+          "lng": 22.63669
+        },
+        {
+          "name": "Al Qubbah",
+          "lat": 32.75684,
+          "lng": 22.24106
+        }
+      ]
+    },
+    {
+      "name": "Ghat",
+      "lat": 24.9640371,
+      "lng": 10.1759285,
+      "districts": [
+        {
+          "name": "Ghat",
+          "lat": 24.96334,
+          "lng": 10.18003
+        }
+      ]
+    },
+    {
+      "name": "Jabal al Akhdar",
+      "lat": 32.4874119,
+      "lng": 21.7089729,
+      "districts": [
+        {
+          "name": "Al Bayḑā’",
+          "lat": 32.76272,
+          "lng": 21.75506
+        }
+      ]
+    },
+    {
+      "name": "Jabal al Gharbi",
+      "lat": 30.704649,
+      "lng": 13.2233859,
+      "districts": [
+        {
+          "name": "Gharyan",
+          "lat": 32.17222,
+          "lng": 13.02028
+        },
+        {
+          "name": "Giado",
+          "lat": 31.95506,
+          "lng": 12.02901
+        },
+        {
+          "name": "Mizdah",
+          "lat": 31.44934,
+          "lng": 12.9853
+        },
+        {
+          "name": "Yafran",
+          "lat": 32.06329,
+          "lng": 12.52859
+        },
+        {
+          "name": "Zintan",
+          "lat": 31.93155,
+          "lng": 12.25291
+        }
+      ]
+    },
+    {
+      "name": "Jafara",
+      "lat": 32.5587916,
+      "lng": 13.0707024,
+      "districts": [
+        {
+          "name": "Al ‘Azīzīyah",
+          "lat": 32.53194,
+          "lng": 13.0175
+        }
+      ]
+    },
+    {
+      "name": "Jufra",
+      "lat": 28.0055724,
+      "lng": 16.7430292,
+      "districts": [
+        {
+          "name": "Hūn",
+          "lat": 29.12684,
+          "lng": 15.94772
+        },
+        {
+          "name": "Waddān",
+          "lat": 29.1614,
+          "lng": 16.13904
+        }
+      ]
+    },
+    {
+      "name": "Kufra",
+      "lat": 23.3323776,
+      "lng": 22.0840331,
+      "districts": [
+        {
+          "name": "Al Jawf",
+          "lat": 24.1989,
+          "lng": 23.29093
+        },
+        {
+          "name": "At Tāj",
+          "lat": 24.20487,
+          "lng": 23.2857
+        }
+      ]
+    },
+    {
+      "name": "Marj",
+      "lat": 31.9108728,
+      "lng": 21.1477877,
+      "districts": [
+        {
+          "name": "Al Abyār",
+          "lat": 32.19,
+          "lng": 20.59653
+        },
+        {
+          "name": "Al Marj",
+          "lat": 32.49257,
+          "lng": 20.82909
+        },
+        {
+          "name": "Tūkrah",
+          "lat": 32.53414,
+          "lng": 20.57911
+        }
+      ]
+    },
+    {
+      "name": "Misrata",
+      "lat": 32.3745923,
+      "lng": 15.0905803,
+      "districts": [
+        {
+          "name": "Mişrātah",
+          "lat": 32.37535,
+          "lng": 15.09254
+        },
+        {
+          "name": "Zliten",
+          "lat": 32.46739,
+          "lng": 14.56874
+        },
+        {
+          "name": "Bani Walid",
+          "lat": 31.74554,
+          "lng": 13.98354
+        }
+      ]
+    },
+    {
+      "name": "Murqub",
+      "lat": 32.4071058,
+      "lng": 13.8621903,
+      "districts": [
+        {
+          "name": "Al Khums",
+          "lat": 32.64861,
+          "lng": 14.26191
+        },
+        {
+          "name": "Masallātah",
+          "lat": 32.61667,
+          "lng": 14
+        },
+        {
+          "name": "Tarhuna",
+          "lat": 32.43501,
+          "lng": 13.6332
+        }
+      ]
+    },
+    {
+      "name": "Murzuq",
+      "lat": 25.9182262,
+      "lng": 13.9260001,
+      "districts": [
+        {
+          "name": "Al Qaţrūn",
+          "lat": 24.95139,
+          "lng": 14.64861
+        },
+        {
+          "name": "Murzuq",
+          "lat": 25.91552,
+          "lng": 13.91839
+        }
+      ]
+    },
+    {
+      "name": "Nalut",
+      "lat": 31.8637865,
+      "lng": 10.9827903,
+      "districts": [
+        {
+          "name": "Ghadāmis",
+          "lat": 30.13366,
+          "lng": 9.50072
+        },
+        {
+          "name": "Nālūt",
+          "lat": 31.86848,
+          "lng": 10.9812
+        }
+      ]
+    },
+    {
+      "name": "Nuqat al Khams",
+      "lat": 32.7177153,
+      "lng": 11.9896415,
+      "districts": [
+        {
+          "name": "Al Ajaylat",
+          "lat": 32.75718,
+          "lng": 12.37633
+        },
+        {
+          "name": "Zalţan",
+          "lat": 32.94699,
+          "lng": 11.86668
+        },
+        {
+          "name": "Zuwārah",
+          "lat": 32.9312,
+          "lng": 12.08199
+        }
+      ]
+    },
+    {
+      "name": "Sabha",
+      "lat": 27.0365406,
+      "lng": 14.4290236,
+      "districts": [
+        {
+          "name": "Al Jadīd",
+          "lat": 27.05,
+          "lng": 14.4
+        },
+        {
+          "name": "Sabhā",
+          "lat": 27.03766,
+          "lng": 14.42832
+        }
+      ]
+    },
+    {
+      "name": "Sirte",
+      "lat": 31.2059625,
+      "lng": 16.5836206,
+      "districts": [
+        {
+          "name": "Sirte",
+          "lat": 31.20892,
+          "lng": 16.58866
+        },
+        {
+          "name": "Qasr Abu Hadi",
+          "lat": 31.05926,
+          "lng": 16.65905
+        }
+      ]
+    },
+    {
+      "name": "Tripoli",
+      "lat": 32.7733899,
+      "lng": 13.3318732,
+      "districts": [
+        {
+          "name": "Tagiura",
+          "lat": 32.88167,
+          "lng": 13.35056
+        },
+        {
+          "name": "Tripoli",
+          "lat": 32.88743,
+          "lng": 13.18733,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Wadi al Hayaa",
+      "lat": 26.4233369,
+      "lng": 12.7183638,
+      "districts": [
+        {
+          "name": "Ubari",
+          "lat": 26.59034,
+          "lng": 12.77511
+        }
+      ]
+    },
+    {
+      "name": "Wadi al Shatii",
+      "lat": 27.6023172,
+      "lng": 12.8637627,
+      "districts": [
+        {
+          "name": "Brak",
+          "lat": 27.54956,
+          "lng": 14.27139
+        },
+        {
+          "name": "Idrī",
+          "lat": 27.44707,
+          "lng": 13.05173
+        }
+      ]
+    },
+    {
+      "name": "Zawiya",
+      "lat": 32.7630282,
+      "lng": 12.7364962,
+      "districts": [
+        {
+          "name": "Az Zāwīyah",
+          "lat": 32.7571,
+          "lng": 12.72764
+        },
+        {
+          "name": "Zawiya",
+          "lat": 32.75222,
+          "lng": 12.72778
+        },
+        {
+          "name": "Şabrātah",
+          "lat": 32.79335,
+          "lng": 12.48845
+        },
+        {
+          "name": "Şurmān",
+          "lat": 32.75668,
+          "lng": 12.57159
+        }
+      ]
+    }
+  ]
+}

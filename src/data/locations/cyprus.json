@@ -1,0 +1,525 @@
+{
+  "name": "Cyprus",
+  "lat": 35,
+  "lng": 33,
+  "cities": [
+    {
+      "name": "Famagusta (Mağusa)",
+      "lat": 35.1352137,
+      "lng": 33.9239831,
+      "districts": [
+        {
+          "name": "Acherítou",
+          "lat": 35.10022,
+          "lng": 33.86155
+        },
+        {
+          "name": "Áchna",
+          "lat": 35.05515,
+          "lng": 33.78388
+        },
+        {
+          "name": "Ammochostos",
+          "lat": 35.11755,
+          "lng": 33.94335
+        },
+        {
+          "name": "Avgórou",
+          "lat": 35.03615,
+          "lng": 33.83918
+        },
+        {
+          "name": "Ayia Napa",
+          "lat": 34.98213,
+          "lng": 34.00183
+        },
+        {
+          "name": "Derýneia",
+          "lat": 35.06484,
+          "lng": 33.96083
+        },
+        {
+          "name": "Famagusta",
+          "lat": 35.12054,
+          "lng": 33.93894
+        },
+        {
+          "name": "Frénaros",
+          "lat": 35.04121,
+          "lng": 33.92242
+        },
+        {
+          "name": "Lefkónoiko",
+          "lat": 35.2598,
+          "lng": 33.73189
+        },
+        {
+          "name": "Leonárisso",
+          "lat": 35.46892,
+          "lng": 34.13886
+        },
+        {
+          "name": "Liopétri",
+          "lat": 35.00885,
+          "lng": 33.89256
+        },
+        {
+          "name": "Paralímni",
+          "lat": 35.03945,
+          "lng": 33.98181
+        },
+        {
+          "name": "Protaras",
+          "lat": 35.0125,
+          "lng": 34.05833
+        },
+        {
+          "name": "Rizokárpaso",
+          "lat": 35.59719,
+          "lng": 34.37916
+        },
+        {
+          "name": "Tríkomo",
+          "lat": 35.28628,
+          "lng": 33.89167
+        }
+      ]
+    },
+    {
+      "name": "Kyrenia (Keryneia)",
+      "lat": 35.2951481,
+      "lng": 33.2769155,
+      "districts": [
+        {
+          "name": "Kyrenia",
+          "lat": 35.33634,
+          "lng": 33.31729
+        },
+        {
+          "name": "Kyrenia Municipality",
+          "lat": 35.33672,
+          "lng": 33.31504
+        },
+        {
+          "name": "Lápithos",
+          "lat": 35.33823,
+          "lng": 33.17368
+        }
+      ]
+    },
+    {
+      "name": "Larnaca (Larnaka)",
+      "lat": 34.8697484,
+      "lng": 33.6092097,
+      "districts": [
+        {
+          "name": "Aradíppou",
+          "lat": 34.95151,
+          "lng": 33.59199
+        },
+        {
+          "name": "Athíenou",
+          "lat": 35.0618,
+          "lng": 33.54156
+        },
+        {
+          "name": "Dhromolaxia",
+          "lat": 34.87551,
+          "lng": 33.58684
+        },
+        {
+          "name": "Kíti",
+          "lat": 34.84696,
+          "lng": 33.57344
+        },
+        {
+          "name": "Kofínou",
+          "lat": 34.82449,
+          "lng": 33.3913
+        },
+        {
+          "name": "Kolossi",
+          "lat": 34.66865,
+          "lng": 32.93375
+        },
+        {
+          "name": "Kórnos",
+          "lat": 34.92396,
+          "lng": 33.39764
+        },
+        {
+          "name": "Larnaca",
+          "lat": 34.92291,
+          "lng": 33.6233
+        },
+        {
+          "name": "Livádia",
+          "lat": 34.95118,
+          "lng": 33.62658
+        },
+        {
+          "name": "Meneou",
+          "lat": 34.86114,
+          "lng": 33.59516
+        },
+        {
+          "name": "Mosfilotí",
+          "lat": 34.95256,
+          "lng": 33.42511
+        },
+        {
+          "name": "Pérgamos",
+          "lat": 35.04167,
+          "lng": 33.70833
+        },
+        {
+          "name": "Perivólia",
+          "lat": 34.83355,
+          "lng": 33.58196
+        },
+        {
+          "name": "Psevdás",
+          "lat": 34.94653,
+          "lng": 33.46277
+        },
+        {
+          "name": "Pýla",
+          "lat": 35.01237,
+          "lng": 33.69188
+        },
+        {
+          "name": "Tersefánou",
+          "lat": 34.85411,
+          "lng": 33.54746
+        },
+        {
+          "name": "Troúlloi",
+          "lat": 35.03203,
+          "lng": 33.61501
+        },
+        {
+          "name": "Voróklini",
+          "lat": 34.986,
+          "lng": 33.65387
+        },
+        {
+          "name": "Xylofágou",
+          "lat": 34.97743,
+          "lng": 33.84894
+        },
+        {
+          "name": "Xylotymbou",
+          "lat": 35.0172,
+          "lng": 33.74245
+        }
+      ]
+    },
+    {
+      "name": "Limassol (Leymasun)",
+      "lat": 34.6911485,
+      "lng": 33.0078384,
+      "districts": [
+        {
+          "name": "Limassol",
+          "lat": 34.68406,
+          "lng": 33.03794
+        },
+        {
+          "name": "Ágios Tomás",
+          "lat": 34.71158,
+          "lng": 32.73129
+        },
+        {
+          "name": "Ágios Týchon",
+          "lat": 34.72606,
+          "lng": 33.13872
+        },
+        {
+          "name": "Erími",
+          "lat": 34.67766,
+          "lng": 32.91815
+        },
+        {
+          "name": "Germasógeia",
+          "lat": 34.72207,
+          "lng": 33.08254
+        },
+        {
+          "name": "Kyperoúnta",
+          "lat": 34.93815,
+          "lng": 32.97551
+        },
+        {
+          "name": "Lemesós",
+          "lat": 34.69218,
+          "lng": 33.02854
+        },
+        {
+          "name": "Mouttagiáka",
+          "lat": 34.72022,
+          "lng": 33.10066
+        },
+        {
+          "name": "Páchna",
+          "lat": 34.77874,
+          "lng": 32.79355
+        },
+        {
+          "name": "Páno Polemídia",
+          "lat": 34.70559,
+          "lng": 32.99269
+        },
+        {
+          "name": "Parekklisha",
+          "lat": 34.74583,
+          "lng": 33.15833
+        },
+        {
+          "name": "Peléndri",
+          "lat": 34.89597,
+          "lng": 32.96817
+        },
+        {
+          "name": "Pissoúri",
+          "lat": 34.66942,
+          "lng": 32.70132
+        },
+        {
+          "name": "Pyrgos",
+          "lat": 34.74167,
+          "lng": 33.18333
+        },
+        {
+          "name": "Sotíra",
+          "lat": 34.71189,
+          "lng": 32.8634
+        },
+        {
+          "name": "Soúni-Zanakiá",
+          "lat": 34.7357,
+          "lng": 32.88437
+        },
+        {
+          "name": "Ýpsonas",
+          "lat": 34.68797,
+          "lng": 32.96191
+        }
+      ]
+    },
+    {
+      "name": "Nicosia (Lefkoşa)",
+      "lat": 35.1565464,
+      "lng": 33.3705626,
+      "districts": [
+        {
+          "name": "Nicosia",
+          "lat": 35.17531,
+          "lng": 33.3642,
+          "iscapital": true
+        },
+        {
+          "name": "Akáki",
+          "lat": 35.13341,
+          "lng": 33.12873
+        },
+        {
+          "name": "Alámpra",
+          "lat": 34.98898,
+          "lng": 33.39887
+        },
+        {
+          "name": "Aredioú",
+          "lat": 35.04844,
+          "lng": 33.1961
+        },
+        {
+          "name": "Astromerítis",
+          "lat": 35.14096,
+          "lng": 33.03793
+        },
+        {
+          "name": "Dáli",
+          "lat": 35.02294,
+          "lng": 33.42195
+        },
+        {
+          "name": "Ergátes",
+          "lat": 35.05365,
+          "lng": 33.24292
+        },
+        {
+          "name": "Géri",
+          "lat": 35.1056,
+          "lng": 33.41977
+        },
+        {
+          "name": "Kakopetriá",
+          "lat": 34.98768,
+          "lng": 32.90468
+        },
+        {
+          "name": "Káto Defterá",
+          "lat": 35.08489,
+          "lng": 33.27558
+        },
+        {
+          "name": "Káto Pýrgos",
+          "lat": 35.17897,
+          "lng": 32.686
+        },
+        {
+          "name": "Klírou",
+          "lat": 35.02004,
+          "lng": 33.17806
+        },
+        {
+          "name": "Kokkinotrimithiá",
+          "lat": 35.15303,
+          "lng": 33.19966
+        },
+        {
+          "name": "Léfka",
+          "lat": 35.11199,
+          "lng": 32.84997
+        },
+        {
+          "name": "Lýmpia",
+          "lat": 34.99889,
+          "lng": 33.46175
+        },
+        {
+          "name": "Lythrodóntas",
+          "lat": 34.95105,
+          "lng": 33.29777
+        },
+        {
+          "name": "Mámmari",
+          "lat": 35.17604,
+          "lng": 33.20435
+        },
+        {
+          "name": "Méniko",
+          "lat": 35.10945,
+          "lng": 33.14474
+        },
+        {
+          "name": "Mórfou",
+          "lat": 35.19869,
+          "lng": 32.99338
+        },
+        {
+          "name": "Nicosia Municipality",
+          "lat": 35.16944,
+          "lng": 33.36081
+        },
+        {
+          "name": "Páno Defterá",
+          "lat": 35.07778,
+          "lng": 33.26584
+        },
+        {
+          "name": "Péra",
+          "lat": 35.0335,
+          "lng": 33.25413
+        },
+        {
+          "name": "Peristeróna",
+          "lat": 35.12928,
+          "lng": 33.07858
+        },
+        {
+          "name": "Psimolofou",
+          "lat": 35.0625,
+          "lng": 33.2625
+        },
+        {
+          "name": "Tséri",
+          "lat": 35.07307,
+          "lng": 33.32344
+        }
+      ]
+    },
+    {
+      "name": "Paphos (Pafos)",
+      "lat": 34.7812978,
+      "lng": 32.4214097,
+      "districts": [
+        {
+          "name": "Argáka",
+          "lat": 35.06646,
+          "lng": 32.49446
+        },
+        {
+          "name": "Chlórakas",
+          "lat": 34.79768,
+          "lng": 32.41207
+        },
+        {
+          "name": "Emba",
+          "lat": 34.807,
+          "lng": 32.42406
+        },
+        {
+          "name": "Geroskipou",
+          "lat": 34.75498,
+          "lng": 32.45155
+        },
+        {
+          "name": "Geroskípou (quarter)",
+          "lat": 34.7619,
+          "lng": 32.45135
+        },
+        {
+          "name": "Geroskípou Municipality",
+          "lat": 34.75142,
+          "lng": 32.45449
+        },
+        {
+          "name": "Kissonerga",
+          "lat": 34.82279,
+          "lng": 32.40131
+        },
+        {
+          "name": "Koloni",
+          "lat": 34.75228,
+          "lng": 32.46487
+        },
+        {
+          "name": "Konia",
+          "lat": 34.78516,
+          "lng": 32.459
+        },
+        {
+          "name": "Mesógi",
+          "lat": 34.81577,
+          "lng": 32.45542
+        },
+        {
+          "name": "Paphos",
+          "lat": 34.77679,
+          "lng": 32.42451
+        },
+        {
+          "name": "Pégeia",
+          "lat": 34.88341,
+          "lng": 32.38166
+        },
+        {
+          "name": "Pólis",
+          "lat": 35.03534,
+          "lng": 32.42575
+        },
+        {
+          "name": "Tála",
+          "lat": 34.83745,
+          "lng": 32.43272
+        },
+        {
+          "name": "Tsáda",
+          "lat": 34.83801,
+          "lng": 32.47547
+        }
+      ]
+    }
+  ]
+}

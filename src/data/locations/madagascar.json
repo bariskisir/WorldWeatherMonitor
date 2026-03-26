@@ -1,0 +1,89 @@
+{
+  "name": "Madagascar",
+  "lat": -20,
+  "lng": 47,
+  "cities": [
+    {
+      "name": "Antananarivo",
+      "lat": -18.9100122,
+      "lng": 47.5255809,
+      "districts": []
+    },
+    {
+      "name": "Antsiranana",
+      "lat": -13.7229722,
+      "lng": 49.1801836,
+      "districts": [
+        {
+          "name": "Toamasina",
+          "lat": -18.1492,
+          "lng": 49.40234
+        },
+        {
+          "name": "Toamasina I",
+          "lat": -18.13863,
+          "lng": 49.39203
+        },
+        {
+          "name": "Toamasina II",
+          "lat": -17.94053,
+          "lng": 49.14608
+        },
+        {
+          "name": "Ampasimanolotra",
+          "lat": -18.81667,
+          "lng": 49.06667
+        },
+        {
+          "name": "Andovoranto",
+          "lat": -18.95443,
+          "lng": 49.1094
+        },
+        {
+          "name": "Mahanoro",
+          "lat": -19.9,
+          "lng": 48.8
+        },
+        {
+          "name": "Mahavelona",
+          "lat": -17.68475,
+          "lng": 49.50869
+        },
+        {
+          "name": "Marolambo",
+          "lat": -20.05,
+          "lng": 48.11667
+        },
+        {
+          "name": "Vohibinany",
+          "lat": -17.35,
+          "lng": 49.03333
+        }
+      ]
+    },
+    {
+      "name": "Fianarantsoa",
+      "lat": -21.91742,
+      "lng": 46.8709851,
+      "districts": []
+    },
+    {
+      "name": "Mahajanga",
+      "lat": -16.5944104,
+      "lng": 46.1719796,
+      "districts": []
+    },
+    {
+      "name": "Toamasina",
+      "lat": -18.1553985,
+      "lng": 49.4098352,
+      "districts": []
+    },
+    {
+      "name": "Toliara",
+      "lat": -23.354173,
+      "lng": 43.66966,
+      "districts": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "name": "Guinea-Bissau",
+  "lat": 12,
+  "lng": -15,
+  "cities": [
+    {
+      "name": "Bafatá",
+      "lat": 12.1735243,
+      "lng": -14.652952,
+      "districts": [
+        {
+          "name": "Bafatá",
+          "lat": 12.16583,
+          "lng": -14.66167
+        },
+        {
+          "name": "Contuboel Sector",
+          "lat": 12.555,
+          "lng": -14.641
+        }
+      ]
+    },
+    {
+      "name": "Biombo",
+      "lat": 11.8816758,
+      "lng": -15.7784496,
+      "districts": [
+        {
+          "name": "Quinhámel",
+          "lat": 11.88694,
+          "lng": -15.85556
+        }
+      ]
+    },
+    {
+      "name": "Bissau",
+      "lat": 11.85,
+      "lng": -15.56666667,
+      "districts": [
+        {
+          "name": "Bissau",
+          "lat": 11.85,
+          "lng": -15.56666667,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Bolama",
+      "lat": 11.2795064,
+      "lng": -16.0294425,
+      "districts": [
+        {
+          "name": "Bolama",
+          "lat": 11.57694,
+          "lng": -15.47611
+        },
+        {
+          "name": "Bubaque",
+          "lat": 11.28333,
+          "lng": -15.83333
+        }
+      ]
+    },
+    {
+      "name": "Cacheu",
+      "lat": 12.1954331,
+      "lng": -16.0991895,
+      "districts": [
+        {
+          "name": "Cacheu",
+          "lat": 12.27444,
+          "lng": -16.16528
+        },
+        {
+          "name": "Canchungo",
+          "lat": 12.06722,
+          "lng": -16.03333
+        }
+      ]
+    },
+    {
+      "name": "Gabú",
+      "lat": 12.1170351,
+      "lng": -14.1762506,
+      "districts": [
+        {
+          "name": "Gabú",
+          "lat": 12.28,
+          "lng": -14.22222
+        }
+      ]
+    },
+    {
+      "name": "Leste",
+      "lat": 12.17,
+      "lng": -14.37,
+      "districts": []
+    },
+    {
+      "name": "Norte",
+      "lat": 7.8721811,
+      "lng": 123.8857747,
+      "districts": []
+    },
+    {
+      "name": "Oio",
+      "lat": 12.2876092,
+      "lng": -15.3387658,
+      "districts": [
+        {
+          "name": "Bissorã",
+          "lat": 12.22306,
+          "lng": -15.4475
+        },
+        {
+          "name": "Farim",
+          "lat": 12.48389,
+          "lng": -15.22167
+        },
+        {
+          "name": "Mansôa",
+          "lat": 12.07333,
+          "lng": -15.31889
+        }
+      ]
+    },
+    {
+      "name": "Quinara",
+      "lat": 11.6340114,
+      "lng": -15.0952685,
+      "districts": [
+        {
+          "name": "Buba",
+          "lat": 11.58889,
+          "lng": -14.99583
+        }
+      ]
+    },
+    {
+      "name": "Sul",
+      "lat": 11.4088213,
+      "lng": -16.0042494,
+      "districts": []
+    },
+    {
+      "name": "Tombali",
+      "lat": 11.2981082,
+      "lng": -15.1170104,
+      "districts": [
+        {
+          "name": "Catió",
+          "lat": 11.2825,
+          "lng": -15.25472
+        },
+        {
+          "name": "Quebo",
+          "lat": 11.33333,
+          "lng": -14.93333
+        }
+      ]
+    }
+  ]
+}

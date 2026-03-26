@@ -1,0 +1,206 @@
+{
+  "name": "Equatorial Guinea",
+  "lat": 2,
+  "lng": 10,
+  "cities": [
+    {
+      "name": "Annobón",
+      "lat": -1.4268782,
+      "lng": 5.6352801,
+      "districts": [
+        {
+          "name": "San Antonio de Palé",
+          "lat": -1.4068,
+          "lng": 5.63178
+        }
+      ]
+    },
+    {
+      "name": "Bioko Norte",
+      "lat": 3.6484594,
+      "lng": 8.7851155,
+      "districts": [
+        {
+          "name": "Malabo",
+          "lat": 3.75578,
+          "lng": 8.78166,
+          "iscapital": true
+        },
+        {
+          "name": "Rebola",
+          "lat": 3.71667,
+          "lng": 8.83333
+        },
+        {
+          "name": "Santiago de Baney",
+          "lat": 3.6992,
+          "lng": 8.9084
+        }
+      ]
+    },
+    {
+      "name": "Bioko Sur",
+      "lat": 3.4245254,
+      "lng": 8.6646092,
+      "districts": [
+        {
+          "name": "Luba",
+          "lat": 3.45683,
+          "lng": 8.55465
+        }
+      ]
+    },
+    {
+      "name": "Centro Sur",
+      "lat": 1.3969966,
+      "lng": 10.4538528,
+      "districts": [
+        {
+          "name": "Acurenam",
+          "lat": 1.03225,
+          "lng": 10.64882
+        },
+        {
+          "name": "Bicurga",
+          "lat": 1.58113,
+          "lng": 10.46716
+        },
+        {
+          "name": "Evinayong",
+          "lat": 1.43677,
+          "lng": 10.55124
+        }
+      ]
+    },
+    {
+      "name": "Djibloho",
+      "lat": 1.6,
+      "lng": 10.8,
+      "districts": [
+        {
+          "name": "Ciudad de la Paz",
+          "lat": 1.58888889,
+          "lng": 10.8225
+        },
+        {
+          "name": "Mengomeyén",
+          "lat": 1.68,
+          "lng": 10.9
+        }
+      ]
+    },
+    {
+      "name": "Insular",
+      "lat": 3.4986523,
+      "lng": 8.7136062,
+      "districts": []
+    },
+    {
+      "name": "Kié-Ntem",
+      "lat": 2.0579266,
+      "lng": 10.9855916,
+      "districts": [
+        {
+          "name": "Ebebiyin",
+          "lat": 2.15106,
+          "lng": 11.33528
+        },
+        {
+          "name": "Mikomeseng",
+          "lat": 2.13609,
+          "lng": 10.61322
+        },
+        {
+          "name": "Ncue",
+          "lat": 2.01643,
+          "lng": 10.47066
+        },
+        {
+          "name": "Nsang",
+          "lat": 2.02475,
+          "lng": 10.94599
+        }
+      ]
+    },
+    {
+      "name": "Litoral",
+      "lat": 1.6026374,
+      "lng": 9.841569,
+      "districts": [
+        {
+          "name": "Bata",
+          "lat": 1.86391,
+          "lng": 9.76582
+        },
+        {
+          "name": "Bitica",
+          "lat": 1.4261,
+          "lng": 9.62316
+        },
+        {
+          "name": "Cogo",
+          "lat": 1.08425,
+          "lng": 9.693
+        },
+        {
+          "name": "Machinda",
+          "lat": 1.88262,
+          "lng": 9.95133
+        },
+        {
+          "name": "Mbini",
+          "lat": 1.58267,
+          "lng": 9.61478
+        },
+        {
+          "name": "Río Campo",
+          "lat": 2.33812,
+          "lng": 9.82212
+        }
+      ]
+    },
+    {
+      "name": "Río Muni",
+      "lat": 1.0570951,
+      "lng": 9.6532917,
+      "districts": []
+    },
+    {
+      "name": "Wele-Nzas",
+      "lat": 1.4648719,
+      "lng": 11.131676,
+      "districts": [
+        {
+          "name": "Aconibe",
+          "lat": 1.29683,
+          "lng": 10.93691
+        },
+        {
+          "name": "Añisoc",
+          "lat": 1.8658,
+          "lng": 10.76892
+        },
+        {
+          "name": "Ayene",
+          "lat": 1.85592,
+          "lng": 10.68994
+        },
+        {
+          "name": "Mengomeyén",
+          "lat": 1.69439,
+          "lng": 11.03422
+        },
+        {
+          "name": "Mongomo",
+          "lat": 1.62742,
+          "lng": 11.31346
+        },
+        {
+          "name": "Nsok",
+          "lat": 1.12985,
+          "lng": 11.26603
+        }
+      ]
+    }
+  ]
+}

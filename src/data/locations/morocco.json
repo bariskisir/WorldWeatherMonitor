@@ -1,0 +1,1652 @@
+{
+  "name": "Morocco",
+  "lat": 32,
+  "lng": -5,
+  "cities": [
+    {
+      "name": "Agadir-Ida-Ou-Tanane",
+      "lat": 30.4209492,
+      "lng": -9.6044298,
+      "districts": []
+    },
+    {
+      "name": "Al Haouz",
+      "lat": 31.2806715,
+      "lng": -7.9251771,
+      "districts": []
+    },
+    {
+      "name": "Al Hoceïma",
+      "lat": 35.2445589,
+      "lng": -3.9317468,
+      "districts": []
+    },
+    {
+      "name": "Aousserd (EH)",
+      "lat": 22.5521538,
+      "lng": -14.3297353,
+      "districts": []
+    },
+    {
+      "name": "Assa-Zag (EH-partial)",
+      "lat": 28.1402395,
+      "lng": -9.7232673,
+      "districts": [
+        {
+          "name": "Agadir",
+          "lat": 30.42018,
+          "lng": -9.59815
+        },
+        {
+          "name": "Inezgane",
+          "lat": 30.35535,
+          "lng": -9.53639
+        },
+        {
+          "name": "Inezgane-Ait Melloul",
+          "lat": 30.1,
+          "lng": -9.03333
+        },
+        {
+          "name": "Oulad Teïma",
+          "lat": 30.39467,
+          "lng": -9.20897
+        },
+        {
+          "name": "Tiznit",
+          "lat": 29.58333,
+          "lng": -9.5
+        },
+        {
+          "name": "Agadir Melloul",
+          "lat": 30.22492,
+          "lng": -7.79601
+        },
+        {
+          "name": "Agadir-Ida-ou-Tnan",
+          "lat": 30.58333,
+          "lng": -9.5
+        },
+        {
+          "name": "Aoulouz",
+          "lat": 30.67307,
+          "lng": -8.18087
+        },
+        {
+          "name": "Aourir",
+          "lat": 30.49238,
+          "lng": -9.6355
+        },
+        {
+          "name": "Arazane",
+          "lat": 30.50346,
+          "lng": -8.60637
+        },
+        {
+          "name": "Argana",
+          "lat": 30.7825,
+          "lng": -9.11968
+        },
+        {
+          "name": "Bigoudine",
+          "lat": 30.72376,
+          "lng": -9.21097
+        },
+        {
+          "name": "Chtouka-Ait-Baha",
+          "lat": 30.02948,
+          "lng": -9.30909
+        },
+        {
+          "name": "Ouijjane",
+          "lat": 29.62777,
+          "lng": -9.53959
+        },
+        {
+          "name": "Reggada",
+          "lat": 29.58016,
+          "lng": -9.70086
+        },
+        {
+          "name": "Sidi Ifni",
+          "lat": 29.37975,
+          "lng": -10.17299
+        },
+        {
+          "name": "Tadrart",
+          "lat": 30.77477,
+          "lng": -9.45951
+        },
+        {
+          "name": "Tafraout",
+          "lat": 29.72449,
+          "lng": -8.9747
+        },
+        {
+          "name": "Taghazout",
+          "lat": 30.54259,
+          "lng": -9.71115
+        },
+        {
+          "name": "Taliouine",
+          "lat": 30.52917,
+          "lng": -7.91262
+        },
+        {
+          "name": "Tamri",
+          "lat": 30.69602,
+          "lng": -9.82972
+        },
+        {
+          "name": "Tanalt",
+          "lat": 29.77548,
+          "lng": -9.16796
+        },
+        {
+          "name": "Taroudannt",
+          "lat": 30.5,
+          "lng": -8.41667
+        },
+        {
+          "name": "Taroudant",
+          "lat": 30.47028,
+          "lng": -8.87695
+        },
+        {
+          "name": "Tarsouat",
+          "lat": 29.58153,
+          "lng": -9.02664
+        },
+        {
+          "name": "Tata",
+          "lat": 29.66667,
+          "lng": -7.83333
+        }
+      ]
+    },
+    {
+      "name": "Azilal",
+      "lat": 31.959295,
+      "lng": -6.570991,
+      "districts": []
+    },
+    {
+      "name": "Béni Mellal",
+      "lat": 32.334193,
+      "lng": -6.353335,
+      "districts": []
+    },
+    {
+      "name": "Béni Mellal-Khénifra",
+      "lat": 32.6407498,
+      "lng": -6.207105,
+      "districts": []
+    },
+    {
+      "name": "Benslimane",
+      "lat": 33.6189698,
+      "lng": -7.1305536,
+      "districts": []
+    },
+    {
+      "name": "Berkane",
+      "lat": 34.9266755,
+      "lng": -2.3294087,
+      "districts": []
+    },
+    {
+      "name": "Berrechid",
+      "lat": 33.2586035,
+      "lng": -7.6150469,
+      "districts": []
+    },
+    {
+      "name": "Boujdour (EH)",
+      "lat": 26.1252493,
+      "lng": -14.4847347,
+      "districts": []
+    },
+    {
+      "name": "Boulemane",
+      "lat": 33.3625159,
+      "lng": -4.7303397,
+      "districts": []
+    },
+    {
+      "name": "Casablanca",
+      "lat": 33.5945144,
+      "lng": -7.6200284,
+      "districts": []
+    },
+    {
+      "name": "Casablanca-Settat",
+      "lat": 33.2627128,
+      "lng": -7.9639028,
+      "districts": [
+        {
+          "name": "Berrechid",
+          "lat": 33.26553,
+          "lng": -7.58754
+        },
+        {
+          "name": "Bouskoura",
+          "lat": 33.44976,
+          "lng": -7.65239
+        },
+        {
+          "name": "Casablanca",
+          "lat": 33.5884,
+          "lng": -7.55785
+        },
+        {
+          "name": "El Jadid",
+          "lat": 33.25682,
+          "lng": -8.50882
+        },
+        {
+          "name": "Mediouna",
+          "lat": 33.52012,
+          "lng": -7.5035
+        },
+        {
+          "name": "Mohammedia",
+          "lat": 33.68607,
+          "lng": -7.38298
+        },
+        {
+          "name": "Nouaceur",
+          "lat": 33.45839,
+          "lng": -7.64726
+        },
+        {
+          "name": "Settat",
+          "lat": 33.00103,
+          "lng": -7.61662
+        },
+        {
+          "name": "Settat Province",
+          "lat": 33.08333,
+          "lng": -7.41667
+        },
+        {
+          "name": "Azemmour",
+          "lat": 33.28952,
+          "lng": -8.3425
+        },
+        {
+          "name": "Benslimane",
+          "lat": 33.5,
+          "lng": -7.16667
+        },
+        {
+          "name": "Berrechid Province",
+          "lat": 33.26582,
+          "lng": -7.58142
+        },
+        {
+          "name": "Boulaouane",
+          "lat": 32.85995,
+          "lng": -8.05555
+        },
+        {
+          "name": "Bouznika",
+          "lat": 33.78942,
+          "lng": -7.15968
+        },
+        {
+          "name": "El-Jadida",
+          "lat": 32.9,
+          "lng": -8.5
+        },
+        {
+          "name": "Oualidia",
+          "lat": 32.73372,
+          "lng": -9.03059
+        },
+        {
+          "name": "Oulad Frej",
+          "lat": 32.95956,
+          "lng": -8.2274
+        },
+        {
+          "name": "Sidi Bennour",
+          "lat": 32.64896,
+          "lng": -8.42686
+        },
+        {
+          "name": "Sidi Smai’il",
+          "lat": 32.82461,
+          "lng": -8.51122
+        },
+        {
+          "name": "Tit Mellil",
+          "lat": 33.55808,
+          "lng": -7.48647
+        },
+        {
+          "name": "Zawyat an Nwaçer",
+          "lat": 33.37981,
+          "lng": -7.61932
+        }
+      ]
+    },
+    {
+      "name": "Chefchaouen",
+      "lat": 35.1687748,
+      "lng": -5.2683454,
+      "districts": []
+    },
+    {
+      "name": "Chichaoua",
+      "lat": 31.5383581,
+      "lng": -8.7646388,
+      "districts": []
+    },
+    {
+      "name": "Chtouka-Ait Baha",
+      "lat": 30.0080601,
+      "lng": -9.3334413,
+      "districts": []
+    },
+    {
+      "name": "Dakhla-Oued Ed-Dahab (EH)",
+      "lat": 22.6043973,
+      "lng": -19.8348241,
+      "districts": []
+    },
+    {
+      "name": "Drâa-Tafilalet",
+      "lat": 31.1835432,
+      "lng": -5.1395435,
+      "districts": [
+        {
+          "name": "Agdz",
+          "lat": 30.69356,
+          "lng": -6.44628
+        },
+        {
+          "name": "Alnif",
+          "lat": 31.11411,
+          "lng": -5.17154
+        },
+        {
+          "name": "Aoufous",
+          "lat": 31.68,
+          "lng": -4.17
+        },
+        {
+          "name": "Arfoud",
+          "lat": 31.4353,
+          "lng": -4.23258
+        },
+        {
+          "name": "Errachidia",
+          "lat": 31.75,
+          "lng": -4.5
+        },
+        {
+          "name": "Imilchil",
+          "lat": 32.15309,
+          "lng": -5.62453
+        },
+        {
+          "name": "Jebel Tiskaouine",
+          "lat": 31.02722,
+          "lng": -5.11643
+        },
+        {
+          "name": "Jorf",
+          "lat": 31.49442,
+          "lng": -4.40598
+        },
+        {
+          "name": "Kelaat Mgouna",
+          "lat": 31.24573,
+          "lng": -6.1326
+        },
+        {
+          "name": "Mhamid",
+          "lat": 29.82,
+          "lng": -5.72
+        },
+        {
+          "name": "Midelt",
+          "lat": 32.68055,
+          "lng": -4.73691
+        },
+        {
+          "name": "Ouarzazat",
+          "lat": 30.91894,
+          "lng": -6.89341
+        },
+        {
+          "name": "Ouarzazate",
+          "lat": 30.9413,
+          "lng": -6.90285
+        },
+        {
+          "name": "Reçani",
+          "lat": 31.28318,
+          "lng": -4.26565
+        },
+        {
+          "name": "Taznakht",
+          "lat": 30.57836,
+          "lng": -7.20341
+        },
+        {
+          "name": "Telouet",
+          "lat": 31.28925,
+          "lng": -7.23789
+        },
+        {
+          "name": "Tinghir",
+          "lat": 31.51472,
+          "lng": -5.53278
+        },
+        {
+          "name": "Tinghir Province",
+          "lat": 31.51965,
+          "lng": -5.52999
+        },
+        {
+          "name": "Zagora",
+          "lat": 30.34839,
+          "lng": -5.83649
+        }
+      ]
+    },
+    {
+      "name": "Driouch",
+      "lat": 34.976032,
+      "lng": -3.3964493,
+      "districts": []
+    },
+    {
+      "name": "El Hajeb",
+      "lat": 33.685735,
+      "lng": -5.3677844,
+      "districts": []
+    },
+    {
+      "name": "El Jadida",
+      "lat": 33.2316326,
+      "lng": -8.5007116,
+      "districts": []
+    },
+    {
+      "name": "El Kelâa des Sraghna",
+      "lat": 32.0538921,
+      "lng": -7.4068642,
+      "districts": []
+    },
+    {
+      "name": "Errachidia",
+      "lat": 31.929089,
+      "lng": -4.4340807,
+      "districts": []
+    },
+    {
+      "name": "Es-Semara (EH-partial)",
+      "lat": 26.741856,
+      "lng": -11.6783671,
+      "districts": []
+    },
+    {
+      "name": "Essaouira",
+      "lat": 31.5084926,
+      "lng": -9.7595041,
+      "districts": []
+    },
+    {
+      "name": "Fahs-Anjra",
+      "lat": 35.7518235,
+      "lng": -5.5864652,
+      "districts": []
+    },
+    {
+      "name": "Fès",
+      "lat": 34.0261951,
+      "lng": -5.0231849,
+      "districts": []
+    },
+    {
+      "name": "Fès-Meknès",
+      "lat": 33.8333136,
+      "lng": -4.8556382,
+      "districts": [
+        {
+          "name": "Fès al Bali",
+          "lat": 34.0701,
+          "lng": -4.95473
+        },
+        {
+          "name": "Meknes",
+          "lat": 33.97761,
+          "lng": -5.52496
+        },
+        {
+          "name": "Taza",
+          "lat": 34.25,
+          "lng": -3.75
+        },
+        {
+          "name": "Aïn Leuh",
+          "lat": 33.28984,
+          "lng": -5.33863
+        },
+        {
+          "name": "Aknoul",
+          "lat": 34.65371,
+          "lng": -3.86754
+        },
+        {
+          "name": "Almis Marmoucha",
+          "lat": 33.32,
+          "lng": -4.18
+        },
+        {
+          "name": "Azrou",
+          "lat": 33.43443,
+          "lng": -5.22126
+        },
+        {
+          "name": "Bhalil",
+          "lat": 33.85194,
+          "lng": -4.87228
+        },
+        {
+          "name": "Bouarouss",
+          "lat": 34.36,
+          "lng": -4.81
+        },
+        {
+          "name": "Boulemane",
+          "lat": 33.16667,
+          "lng": -4
+        },
+        {
+          "name": "El Hajeb",
+          "lat": 33.68786,
+          "lng": -5.371
+        },
+        {
+          "name": "Fes",
+          "lat": 34.04,
+          "lng": -4.87
+        },
+        {
+          "name": "Galaz",
+          "lat": 34.54424,
+          "lng": -4.80355
+        },
+        {
+          "name": "Ghouazi",
+          "lat": 34.47737,
+          "lng": -5.30235
+        },
+        {
+          "name": "Guercif",
+          "lat": 34.22568,
+          "lng": -3.35361
+        },
+        {
+          "name": "Ifrane",
+          "lat": 33.33333,
+          "lng": -5.25
+        },
+        {
+          "name": "Missour",
+          "lat": 33.04893,
+          "lng": -3.98947
+        },
+        {
+          "name": "Moulay Bouchta",
+          "lat": 34.48922,
+          "lng": -5.13023
+        },
+        {
+          "name": "Moulay-Yacoub",
+          "lat": 34.14558,
+          "lng": -5.10259
+        },
+        {
+          "name": "Oued Amlil",
+          "lat": 34.2,
+          "lng": -4.28
+        },
+        {
+          "name": "Oulad Tayeb",
+          "lat": 33.94633,
+          "lng": -4.99509
+        },
+        {
+          "name": "Ourtzagh",
+          "lat": 34.53477,
+          "lng": -4.96878
+        },
+        {
+          "name": "Sefrou",
+          "lat": 33.79979,
+          "lng": -4.68
+        },
+        {
+          "name": "Tahla",
+          "lat": 34.04965,
+          "lng": -4.42162
+        },
+        {
+          "name": "Talzemt",
+          "lat": 33.59,
+          "lng": -4.19
+        },
+        {
+          "name": "Taounate",
+          "lat": 34.5,
+          "lng": -4.83333
+        },
+        {
+          "name": "Tmourghout",
+          "lat": 33.9065,
+          "lng": -4.02696
+        }
+      ]
+    },
+    {
+      "name": "Figuig",
+      "lat": 32.1092613,
+      "lng": -1.229806,
+      "districts": []
+    },
+    {
+      "name": "Fquih Ben Salah",
+      "lat": 32.4212148,
+      "lng": -6.7470785,
+      "districts": []
+    },
+    {
+      "name": "Guelmim",
+      "lat": 28.9883659,
+      "lng": -10.0527498,
+      "districts": []
+    },
+    {
+      "name": "Guelmim-Oued Noun (EH-partial)",
+      "lat": 28.4844281,
+      "lng": -10.0807298,
+      "districts": [
+        {
+          "name": "Guelmim",
+          "lat": 28.75,
+          "lng": -10
+        },
+        {
+          "name": "Assa-Zag",
+          "lat": 28.16667,
+          "lng": -9.41667
+        },
+        {
+          "name": "Sidi Ifni",
+          "lat": 29.37719,
+          "lng": -10.17111
+        },
+        {
+          "name": "Tan-Tan",
+          "lat": 28.08333,
+          "lng": -11.08333
+        }
+      ]
+    },
+    {
+      "name": "Guercif",
+      "lat": 34.225576,
+      "lng": -3.352345,
+      "districts": []
+    },
+    {
+      "name": "Ifrane",
+      "lat": 33.5228062,
+      "lng": -5.1109552,
+      "districts": []
+    },
+    {
+      "name": "Inezgane-Ait Melloul",
+      "lat": 30.3469172,
+      "lng": -9.4408492,
+      "districts": []
+    },
+    {
+      "name": "Jerada",
+      "lat": 34.310531,
+      "lng": -2.159979,
+      "districts": []
+    },
+    {
+      "name": "Kénitra",
+      "lat": 34.26457,
+      "lng": -6.570169,
+      "districts": [
+        {
+          "name": "Kenitra",
+          "lat": 34.26101,
+          "lng": -6.5802
+        },
+        {
+          "name": "Kenitra Province",
+          "lat": 34.58333,
+          "lng": -6.33333
+        },
+        {
+          "name": "Khemisset",
+          "lat": 33.66667,
+          "lng": -6.25
+        },
+        {
+          "name": "Rabat",
+          "lat": 34.01325,
+          "lng": -6.83255,
+          "iscapital": true
+        },
+        {
+          "name": "Sale",
+          "lat": 34.0531,
+          "lng": -6.79846
+        },
+        {
+          "name": "Temara",
+          "lat": 33.92866,
+          "lng": -6.90656
+        },
+        {
+          "name": "Tiflet",
+          "lat": 33.89469,
+          "lng": -6.30649
+        },
+        {
+          "name": "Arbaoua",
+          "lat": 34.90239,
+          "lng": -5.94871
+        },
+        {
+          "name": "Had Kourt",
+          "lat": 34.61588,
+          "lng": -5.7404
+        },
+        {
+          "name": "Mechraa Bel Ksiri",
+          "lat": 34.57373,
+          "lng": -5.95585
+        },
+        {
+          "name": "Oulmes",
+          "lat": 33.42585,
+          "lng": -6.00137
+        },
+        {
+          "name": "Sidi Bousber",
+          "lat": 34.56283,
+          "lng": -5.36208
+        },
+        {
+          "name": "Sidi Qacem",
+          "lat": 34.22149,
+          "lng": -5.70775
+        },
+        {
+          "name": "Sidi Redouane",
+          "lat": 34.68692,
+          "lng": -5.44538
+        },
+        {
+          "name": "Sidi Slimane",
+          "lat": 34.26479,
+          "lng": -5.92598
+        },
+        {
+          "name": "Sidi Yahia El Gharb",
+          "lat": 34.30494,
+          "lng": -6.30404
+        },
+        {
+          "name": "Sidi-Kacem",
+          "lat": 34.58333,
+          "lng": -5.75
+        },
+        {
+          "name": "Skhirate",
+          "lat": 33.8527,
+          "lng": -7.03171
+        },
+        {
+          "name": "Skhirate-Temara",
+          "lat": 33.77,
+          "lng": -6.87
+        },
+        {
+          "name": "Souq Larb’a al Gharb",
+          "lat": 34.68664,
+          "lng": -6.00272
+        },
+        {
+          "name": "Teroual",
+          "lat": 34.67452,
+          "lng": -5.27331
+        }
+      ]
+    },
+    {
+      "name": "Khémisset",
+      "lat": 33.830287,
+      "lng": -6.072605,
+      "districts": []
+    },
+    {
+      "name": "Khénifra",
+      "lat": 32.9340471,
+      "lng": -5.661571,
+      "districts": [
+        {
+          "name": "Al Fqih Ben Çalah",
+          "lat": 32.50213,
+          "lng": -6.68771
+        },
+        {
+          "name": "Azilal Province",
+          "lat": 31.91667,
+          "lng": -6.5
+        },
+        {
+          "name": "Beni Mellal",
+          "lat": 32.33725,
+          "lng": -6.34983
+        },
+        {
+          "name": "Khenifra",
+          "lat": 32.93333,
+          "lng": -5.66667
+        },
+        {
+          "name": "Khouribga",
+          "lat": 32.88108,
+          "lng": -6.9063
+        },
+        {
+          "name": "Khouribga Province",
+          "lat": 32.93333,
+          "lng": -6.6
+        },
+        {
+          "name": "Aguelmous",
+          "lat": 33.16139,
+          "lng": -5.84626
+        },
+        {
+          "name": "Azilal",
+          "lat": 31.96156,
+          "lng": -6.57109
+        },
+        {
+          "name": "Boujniba",
+          "lat": 32.90046,
+          "lng": -6.77464
+        },
+        {
+          "name": "Bzou",
+          "lat": 32.09171,
+          "lng": -7.04786
+        },
+        {
+          "name": "Dar Ould Zidouh",
+          "lat": 32.31247,
+          "lng": -6.90494
+        },
+        {
+          "name": "Demnate",
+          "lat": 31.73443,
+          "lng": -7.00505
+        },
+        {
+          "name": "El Ksiba",
+          "lat": 32.57286,
+          "lng": -6.01947
+        },
+        {
+          "name": "Fquih Ben Salah",
+          "lat": 32.50108,
+          "lng": -6.68415
+        },
+        {
+          "name": "Ifrane",
+          "lat": 31.70217,
+          "lng": -6.3494
+        },
+        {
+          "name": "Isseksi",
+          "lat": 32.22981,
+          "lng": -6.27661
+        },
+        {
+          "name": "Itzer",
+          "lat": 32.8783,
+          "lng": -5.0515
+        },
+        {
+          "name": "Kasba Tadla",
+          "lat": 32.5977,
+          "lng": -6.26844
+        },
+        {
+          "name": "Kerrouchen",
+          "lat": 32.79639,
+          "lng": -5.3188
+        },
+        {
+          "name": "Midelt",
+          "lat": 32.6852,
+          "lng": -4.74512
+        },
+        {
+          "name": "Ouaoula",
+          "lat": 31.87,
+          "lng": -6.75
+        },
+        {
+          "name": "Oued Zem",
+          "lat": 32.8627,
+          "lng": -6.57359
+        },
+        {
+          "name": "Sidi Jaber",
+          "lat": 32.38952,
+          "lng": -6.42095
+        },
+        {
+          "name": "Timoulilt",
+          "lat": 32.20368,
+          "lng": -6.4666
+        },
+        {
+          "name": "Zawyat ech Cheïkh",
+          "lat": 32.64445,
+          "lng": -5.91826
+        }
+      ]
+    },
+    {
+      "name": "Khouribga",
+      "lat": 32.8856482,
+      "lng": -6.908798,
+      "districts": []
+    },
+    {
+      "name": "L'Oriental",
+      "lat": 34.6808997,
+      "lng": -1.9407196,
+      "districts": [
+        {
+          "name": "Jerada",
+          "lat": 34.23662,
+          "lng": -2.04284
+        },
+        {
+          "name": "Nador",
+          "lat": 35,
+          "lng": -3
+        },
+        {
+          "name": "Oujda-Angad",
+          "lat": 34.236,
+          "lng": -2.294
+        },
+        {
+          "name": "Taourirt",
+          "lat": 34.40731,
+          "lng": -2.89732
+        },
+        {
+          "name": "Ahfir",
+          "lat": 34.95368,
+          "lng": -2.10027
+        },
+        {
+          "name": "Aïn Beni Mathar",
+          "lat": 34.0097,
+          "lng": -2.03238
+        },
+        {
+          "name": "Al Aaroui",
+          "lat": 35.0109,
+          "lng": -3.00938
+        },
+        {
+          "name": "Berkane",
+          "lat": 34.61,
+          "lng": -2.57
+        },
+        {
+          "name": "Bouarfa",
+          "lat": 32.53379,
+          "lng": -1.96209
+        },
+        {
+          "name": "Debdou",
+          "lat": 33.98228,
+          "lng": -3.04263
+        },
+        {
+          "name": "Driouch",
+          "lat": 34.9767,
+          "lng": -3.38842
+        },
+        {
+          "name": "El Aïoun",
+          "lat": 34.58319,
+          "lng": -2.50612
+        },
+        {
+          "name": "Figuig",
+          "lat": 32.83333,
+          "lng": -2.25
+        },
+        {
+          "name": "Guercif",
+          "lat": 34.25041,
+          "lng": -3.32542
+        },
+        {
+          "name": "Madagh",
+          "lat": 35.01032,
+          "lng": -2.33701
+        },
+        {
+          "name": "Midar",
+          "lat": 34.94025,
+          "lng": -3.53311
+        },
+        {
+          "name": "Saidia",
+          "lat": 35.08195,
+          "lng": -2.22897
+        },
+        {
+          "name": "Selouane",
+          "lat": 35.07313,
+          "lng": -2.9423
+        },
+        {
+          "name": "Tiztoutine",
+          "lat": 34.97159,
+          "lng": -3.15273
+        },
+        {
+          "name": "Zaïo",
+          "lat": 34.94282,
+          "lng": -2.7329
+        }
+      ]
+    },
+    {
+      "name": "Laâyoune (EH)",
+      "lat": 27.1500384,
+      "lng": -13.1990758,
+      "districts": []
+    },
+    {
+      "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+      "lat": 27.8683194,
+      "lng": -11.9804613,
+      "districts": [
+        {
+          "name": "Akhfennir",
+          "lat": 28.09455,
+          "lng": -12.05157
+        },
+        {
+          "name": "Boujdour",
+          "lat": 25.66172,
+          "lng": -13.68419
+        },
+        {
+          "name": "Es-Semara",
+          "lat": 27.75,
+          "lng": -11
+        },
+        {
+          "name": "Gueltat Zemmour",
+          "lat": 25.14276,
+          "lng": -12.37168
+        },
+        {
+          "name": "Laayoune",
+          "lat": 27.83333,
+          "lng": -12.33333
+        },
+        {
+          "name": "Smara",
+          "lat": 26.73841,
+          "lng": -11.67194
+        },
+        {
+          "name": "Tarfaya",
+          "lat": 27.93901,
+          "lng": -12.92082
+        }
+      ]
+    },
+    {
+      "name": "Larache",
+      "lat": 35.1952327,
+      "lng": -6.152913,
+      "districts": []
+    },
+    {
+      "name": "M’diq-Fnideq",
+      "lat": 35.7614806,
+      "lng": -5.399416,
+      "districts": []
+    },
+    {
+      "name": "Marrakech",
+      "lat": 31.6265121,
+      "lng": -8.0030195,
+      "districts": []
+    },
+    {
+      "name": "Marrakesh-Safi",
+      "lat": 31.6258257,
+      "lng": -7.9891608,
+      "districts": []
+    },
+    {
+      "name": "Médiouna",
+      "lat": 33.4540939,
+      "lng": -7.516602,
+      "districts": []
+    },
+    {
+      "name": "Meknès",
+      "lat": 33.8984131,
+      "lng": -5.5321582,
+      "districts": []
+    },
+    {
+      "name": "Midelt",
+      "lat": 32.680347,
+      "lng": -4.739897,
+      "districts": []
+    },
+    {
+      "name": "Mohammadia",
+      "lat": 33.6958383,
+      "lng": -7.3893292,
+      "districts": []
+    },
+    {
+      "name": "Moulay Yacoub",
+      "lat": 34.0874479,
+      "lng": -5.1784019,
+      "districts": []
+    },
+    {
+      "name": "Nador",
+      "lat": 35.1739922,
+      "lng": -2.9281198,
+      "districts": []
+    },
+    {
+      "name": "Nouaceur",
+      "lat": 33.3670393,
+      "lng": -7.5732537,
+      "districts": []
+    },
+    {
+      "name": "Ouarzazate",
+      "lat": 30.920193,
+      "lng": -6.910923,
+      "districts": []
+    },
+    {
+      "name": "Oued Ed-Dahab (EH)",
+      "lat": 22.7337892,
+      "lng": -14.2861116,
+      "districts": [
+        {
+          "name": "Aousserd",
+          "lat": 21.91977,
+          "lng": -15.02068
+        },
+        {
+          "name": "Imlili",
+          "lat": 22.6558,
+          "lng": -15.60719
+        },
+        {
+          "name": "Oued-Ed-Dahab",
+          "lat": 23.64201,
+          "lng": -14.44934
+        }
+      ]
+    },
+    {
+      "name": "Ouezzane",
+      "lat": 34.8071502,
+      "lng": -5.5760934,
+      "districts": []
+    },
+    {
+      "name": "Oujda-Angad",
+      "lat": 34.667468,
+      "lng": -2.0365837,
+      "districts": []
+    },
+    {
+      "name": "Rabat",
+      "lat": 34.0218454,
+      "lng": -6.8408929,
+      "districts": []
+    },
+    {
+      "name": "Rabat-Salé-Kénitra",
+      "lat": 33.9204332,
+      "lng": -6.3676093,
+      "districts": []
+    },
+    {
+      "name": "Rehamna",
+      "lat": 32.4637436,
+      "lng": -7.9087822,
+      "districts": []
+    },
+    {
+      "name": "Safi",
+      "lat": 32.2650776,
+      "lng": -9.230554,
+      "districts": [
+        {
+          "name": "Marrakesh",
+          "lat": 31.63416,
+          "lng": -7.99994
+        },
+        {
+          "name": "Safi",
+          "lat": 32.16667,
+          "lng": -8.83333
+        },
+        {
+          "name": "Abadou",
+          "lat": 31.57917,
+          "lng": -7.31308
+        },
+        {
+          "name": "Adassil",
+          "lat": 31.10783,
+          "lng": -8.49083
+        },
+        {
+          "name": "Al-Haouz",
+          "lat": 31.34083,
+          "lng": -7.91076
+        },
+        {
+          "name": "Bouabout",
+          "lat": 31.26554,
+          "lng": -9.17865
+        },
+        {
+          "name": "Chichaoua",
+          "lat": 31.26365,
+          "lng": -8.84411
+        },
+        {
+          "name": "Essaouira",
+          "lat": 31.50675,
+          "lng": -9.75655
+        },
+        {
+          "name": "Kelaa-Des-Sraghna",
+          "lat": 32.16667,
+          "lng": -7.75
+        },
+        {
+          "name": "Marrakech",
+          "lat": 31.63623,
+          "lng": -8.01041
+        },
+        {
+          "name": "Oukaïmedene",
+          "lat": 31.20603,
+          "lng": -7.86089
+        },
+        {
+          "name": "Rehamna",
+          "lat": 32.24581,
+          "lng": -7.93144
+        },
+        {
+          "name": "Setti Fatma",
+          "lat": 31.22508,
+          "lng": -7.67751
+        },
+        {
+          "name": "Sidi Rahhal",
+          "lat": 31.65031,
+          "lng": -7.47288
+        },
+        {
+          "name": "Smimou",
+          "lat": 31.21014,
+          "lng": -9.70863
+        },
+        {
+          "name": "Tamanar",
+          "lat": 31.00087,
+          "lng": -9.67802
+        },
+        {
+          "name": "Taouloukoult",
+          "lat": 31.22218,
+          "lng": -9.07943
+        },
+        {
+          "name": "Tidili Mesfioua",
+          "lat": 31.46586,
+          "lng": -7.61199
+        },
+        {
+          "name": "Timezgadiouine",
+          "lat": 30.88366,
+          "lng": -9.04548
+        },
+        {
+          "name": "Youssoufia",
+          "lat": 32.24634,
+          "lng": -8.52941
+        },
+        {
+          "name": "Zerkten",
+          "lat": 31.4447,
+          "lng": -7.39224
+        }
+      ]
+    },
+    {
+      "name": "Salé",
+      "lat": 34.044889,
+      "lng": -6.814017,
+      "districts": []
+    },
+    {
+      "name": "Sefrou",
+      "lat": 33.8305244,
+      "lng": -4.8353154,
+      "districts": []
+    },
+    {
+      "name": "Settat",
+      "lat": 33.002397,
+      "lng": -7.619867,
+      "districts": []
+    },
+    {
+      "name": "Sidi Bennour",
+      "lat": 32.6507792,
+      "lng": -8.4242087,
+      "districts": []
+    },
+    {
+      "name": "Sidi Ifni",
+      "lat": 29.3791253,
+      "lng": -10.1715632,
+      "districts": []
+    },
+    {
+      "name": "Sidi Kacem",
+      "lat": 34.2260172,
+      "lng": -5.7129164,
+      "districts": []
+    },
+    {
+      "name": "Sidi Slimane",
+      "lat": 34.259878,
+      "lng": -5.927253,
+      "districts": []
+    },
+    {
+      "name": "Skhirate-Témara",
+      "lat": 33.7563375,
+      "lng": -6.8799428,
+      "districts": []
+    },
+    {
+      "name": "Souss-Massa",
+      "lat": 30.187722,
+      "lng": -8.6322498,
+      "districts": []
+    },
+    {
+      "name": "Tan-Tan (EH-partial)",
+      "lat": 28.03012,
+      "lng": -11.1617356,
+      "districts": []
+    },
+    {
+      "name": "Tanger-Assilah",
+      "lat": 35.7625681,
+      "lng": -5.8295062,
+      "districts": []
+    },
+    {
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "lat": 35.202941,
+      "lng": -5.5510167,
+      "districts": [
+        {
+          "name": "Al Hoceïma",
+          "lat": 35.25165,
+          "lng": -3.93723
+        },
+        {
+          "name": "Chefchaouen",
+          "lat": 35,
+          "lng": -5.08333
+        },
+        {
+          "name": "Ksar El Kebir",
+          "lat": 35.00044,
+          "lng": -5.90378
+        },
+        {
+          "name": "Larache",
+          "lat": 35.16667,
+          "lng": -5.83333
+        },
+        {
+          "name": "Tangier",
+          "lat": 35.76727,
+          "lng": -5.79975
+        },
+        {
+          "name": "Tetouan",
+          "lat": 35.58333,
+          "lng": -5.5
+        },
+        {
+          "name": "Al-Hoceima",
+          "lat": 35,
+          "lng": -4.25
+        },
+        {
+          "name": "Asilah",
+          "lat": 35.46522,
+          "lng": -6.03415
+        },
+        {
+          "name": "Bni Bouayach",
+          "lat": 35.10506,
+          "lng": -3.84028
+        },
+        {
+          "name": "Brikcha",
+          "lat": 34.96732,
+          "lng": -5.57295
+        },
+        {
+          "name": "Cap Negro II",
+          "lat": 35.6597,
+          "lng": -5.28525
+        },
+        {
+          "name": "Chefchaouene",
+          "lat": 35.16878,
+          "lng": -5.2636
+        },
+        {
+          "name": "Derdara",
+          "lat": 35.11041,
+          "lng": -5.29015
+        },
+        {
+          "name": "Fahs-Anjra",
+          "lat": 35.74,
+          "lng": -5.68
+        },
+        {
+          "name": "Fnidek",
+          "lat": 35.84906,
+          "lng": -5.35747
+        },
+        {
+          "name": "Imzouren",
+          "lat": 35.14637,
+          "lng": -3.85063
+        },
+        {
+          "name": "M'Diq-Fnideq",
+          "lat": 35.85743,
+          "lng": -5.35858
+        },
+        {
+          "name": "Martil",
+          "lat": 35.61662,
+          "lng": -5.27522
+        },
+        {
+          "name": "Oued Laou",
+          "lat": 35.4484,
+          "lng": -5.09627
+        },
+        {
+          "name": "Ouezzane",
+          "lat": 34.79584,
+          "lng": -5.57849
+        },
+        {
+          "name": "Ouezzane Province",
+          "lat": 34.79759,
+          "lng": -5.58603
+        },
+        {
+          "name": "Senada",
+          "lat": 35.07452,
+          "lng": -4.21583
+        },
+        {
+          "name": "Tamorot",
+          "lat": 34.93632,
+          "lng": -4.7794
+        },
+        {
+          "name": "Tanger-Assilah",
+          "lat": 35.59,
+          "lng": -5.9
+        },
+        {
+          "name": "Targuist",
+          "lat": 34.93769,
+          "lng": -4.31856
+        },
+        {
+          "name": "Tirhanimîne",
+          "lat": 35.23619,
+          "lng": -3.95453
+        },
+        {
+          "name": "Zinat",
+          "lat": 35.43,
+          "lng": -5.4
+        },
+        {
+          "name": "Zoumi",
+          "lat": 34.80321,
+          "lng": -5.34458
+        }
+      ]
+    },
+    {
+      "name": "Taounate",
+      "lat": 34.536917,
+      "lng": -4.6398693,
+      "districts": []
+    },
+    {
+      "name": "Taourirt",
+      "lat": 34.413438,
+      "lng": -2.893825,
+      "districts": []
+    },
+    {
+      "name": "Tarfaya (EH-partial)",
+      "lat": 27.9377701,
+      "lng": -12.9294063,
+      "districts": []
+    },
+    {
+      "name": "Taroudannt",
+      "lat": 30.4727126,
+      "lng": -8.8748765,
+      "districts": []
+    },
+    {
+      "name": "Tata",
+      "lat": 29.750877,
+      "lng": -7.9756343,
+      "districts": []
+    },
+    {
+      "name": "Taza",
+      "lat": 34.230155,
+      "lng": -4.010104,
+      "districts": []
+    },
+    {
+      "name": "Tétouan",
+      "lat": 35.570175,
+      "lng": -5.3742776,
+      "districts": []
+    },
+    {
+      "name": "Tinghir",
+      "lat": 31.3173124,
+      "lng": -5.7494232,
+      "districts": []
+    },
+    {
+      "name": "Tiznit",
+      "lat": 29.693392,
+      "lng": -9.732157,
+      "districts": []
+    },
+    {
+      "name": "Youssoufia",
+      "lat": 32.245801,
+      "lng": -8.532439,
+      "districts": []
+    },
+    {
+      "name": "Zagora",
+      "lat": 30.3279053,
+      "lng": -5.8369957,
+      "districts": []
+    }
+  ]
+}

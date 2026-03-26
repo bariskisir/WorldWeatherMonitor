@@ -1,0 +1,433 @@
+{
+  "name": "Bhutan",
+  "lat": 27.5,
+  "lng": 90.5,
+  "cities": [
+    {
+      "name": "Bumthang ",
+      "lat": 27.7079132,
+      "lng": 90.7697435,
+      "districts": [
+        {
+          "name": "Jakar",
+          "lat": 27.54918,
+          "lng": 90.7525
+        },
+        {
+          "name": "Tang Valley",
+          "lat": 27.5025242,
+          "lng": 90.7449544
+        }
+      ]
+    },
+    {
+      "name": "Chukha ",
+      "lat": 27.0575803,
+      "lng": 89.5638178,
+      "districts": [
+        {
+          "name": "Chapchha",
+          "lat": 27.2,
+          "lng": 89.55
+        },
+        {
+          "name": "Daphu",
+          "lat": 26.9667,
+          "lng": 89.3833
+        },
+        {
+          "name": "Khitokha",
+          "lat": 26.9,
+          "lng": 89.6167
+        },
+        {
+          "name": "Lobnig",
+          "lat": 27.15,
+          "lng": 89.55
+        },
+        {
+          "name": "Pachu",
+          "lat": 26.9,
+          "lng": 89.35
+        },
+        {
+          "name": "Phuntsholing",
+          "lat": 26.85164,
+          "lng": 89.38837
+        }
+      ]
+    },
+    {
+      "name": "Dagana ",
+      "lat": 27.0746653,
+      "lng": 89.8786685,
+      "districts": [
+        {
+          "name": "Daga",
+          "lat": 27.07529,
+          "lng": 89.87688
+        },
+        {
+          "name": "Sibsu",
+          "lat": 27,
+          "lng": 88.9
+        },
+        {
+          "name": "Thumgaon",
+          "lat": 26.9833,
+          "lng": 89.9667
+        }
+      ]
+    },
+    {
+      "name": "Gasa ",
+      "lat": 27.9190875,
+      "lng": 89.7875318,
+      "districts": [
+        {
+          "name": "Gasa",
+          "lat": 27.90372,
+          "lng": 89.72689
+        }
+      ]
+    },
+    {
+      "name": "Haa ",
+      "lat": 27.3596658,
+      "lng": 89.2357556,
+      "districts": [
+        {
+          "name": "Ha",
+          "lat": 27.38747,
+          "lng": 89.28074
+        },
+        {
+          "name": "Naktsang",
+          "lat": 27.3833,
+          "lng": 89.2667
+        },
+        {
+          "name": "Sangkari",
+          "lat": 27.3,
+          "lng": 89.3167
+        }
+      ]
+    },
+    {
+      "name": "Lhuntse ",
+      "lat": 27.7287448,
+      "lng": 91.1363624,
+      "districts": [
+        {
+          "name": "Lhuentse",
+          "lat": 27.66787,
+          "lng": 91.18393
+        }
+      ]
+    },
+    {
+      "name": "Mongar ",
+      "lat": 27.2763005,
+      "lng": 91.237536,
+      "districts": [
+        {
+          "name": "Kengkhar",
+          "lat": 27.1,
+          "lng": 91.25
+        },
+        {
+          "name": "Mongar",
+          "lat": 27.27471,
+          "lng": 91.23963
+        },
+        {
+          "name": "Thebong",
+          "lat": 27.2667,
+          "lng": 91.2667
+        }
+      ]
+    },
+    {
+      "name": "Paro ",
+      "lat": 27.4285949,
+      "lng": 89.4166516,
+      "districts": [
+        {
+          "name": "Paro",
+          "lat": 27.4305,
+          "lng": 89.41334
+        },
+        {
+          "name": "Suchha",
+          "lat": 27.2333,
+          "lng": 89.45
+        },
+        {
+          "name": "Tshalunang",
+          "lat": 27.4333,
+          "lng": 89.65
+        }
+      ]
+    },
+    {
+      "name": "Pemagatshel ",
+      "lat": 27.0030415,
+      "lng": 91.3677054,
+      "districts": [
+        {
+          "name": "Nganglam",
+          "lat": 26.841811,
+          "lng": 91.2424849
+        },
+        {
+          "name": "Pemagatshel",
+          "lat": 27.03795,
+          "lng": 91.40305
+        }
+      ]
+    },
+    {
+      "name": "Punakha ",
+      "lat": 27.5842857,
+      "lng": 89.8593094,
+      "districts": [
+        {
+          "name": "Pajo",
+          "lat": 27.53333,
+          "lng": 89.88333
+        },
+        {
+          "name": "Punākha",
+          "lat": 27.59137,
+          "lng": 89.87743
+        }
+      ]
+    },
+    {
+      "name": "Samdrup Jongkhar ",
+      "lat": 26.8035682,
+      "lng": 91.5039207,
+      "districts": [
+        {
+          "name": "Samdrup Jongkhar",
+          "lat": 26.80069,
+          "lng": 91.50519
+        }
+      ]
+    },
+    {
+      "name": "Samtse ",
+      "lat": 27.0352532,
+      "lng": 89.0147344,
+      "districts": [
+        {
+          "name": "Denchukha",
+          "lat": 27.0167,
+          "lng": 89.25
+        },
+        {
+          "name": "Dorokha",
+          "lat": 27.0167,
+          "lng": 89.2167
+        },
+        {
+          "name": "Samtse",
+          "lat": 26.89903,
+          "lng": 89.09951
+        },
+        {
+          "name": "Tendu",
+          "lat": 27.1333,
+          "lng": 88.8833
+        }
+      ]
+    },
+    {
+      "name": "Sarpang ",
+      "lat": 26.9863897,
+      "lng": 90.3800673,
+      "districts": [
+        {
+          "name": "Bhurgaon",
+          "lat": 26.9,
+          "lng": 90.4333
+        },
+        {
+          "name": "Galechugaon",
+          "lat": 27,
+          "lng": 90.5333
+        },
+        {
+          "name": "Geylegphug",
+          "lat": 26.8706,
+          "lng": 90.4856
+        },
+        {
+          "name": "Sarpang",
+          "lat": 26.86395,
+          "lng": 90.26745
+        }
+      ]
+    },
+    {
+      "name": "Thimphu ",
+      "lat": 27.4712216,
+      "lng": 89.6339041,
+      "districts": [
+        {
+          "name": "Thimphu",
+          "lat": 27.46609,
+          "lng": 89.64191,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Trashi Yangtse\t",
+      "lat": 27.717585,
+      "lng": 91.1981102,
+      "districts": [
+        {
+          "name": "Shali",
+          "lat": 27.4833,
+          "lng": 91.5667
+        },
+        {
+          "name": "Trashi Yangtse",
+          "lat": 27.5833,
+          "lng": 91.4667
+        },
+        {
+          "name": "Yalang",
+          "lat": 27.4333,
+          "lng": 91.6333
+        }
+      ]
+    },
+    {
+      "name": "Trashigang ",
+      "lat": 27.2843778,
+      "lng": 91.5742509,
+      "districts": [
+        {
+          "name": "Balfai",
+          "lat": 27.2167032,
+          "lng": 91.4794003
+        },
+        {
+          "name": "Ghunkarah",
+          "lat": 27.4,
+          "lng": 91.5667
+        },
+        {
+          "name": "Ngalangkang",
+          "lat": 27.4528233,
+          "lng": 91.5647771
+        },
+        {
+          "name": "Rungzyung",
+          "lat": 27.35,
+          "lng": 91.6667
+        },
+        {
+          "name": "Sassi",
+          "lat": 27.1333,
+          "lng": 91.4333
+        },
+        {
+          "name": "Thrimshing",
+          "lat": 27.1333,
+          "lng": 91.6167
+        },
+        {
+          "name": "Trashigang",
+          "lat": 27.3331,
+          "lng": 91.55424
+        },
+        {
+          "name": "Wamrong",
+          "lat": 27.1378453,
+          "lng": 91.5604447
+        }
+      ]
+    },
+    {
+      "name": "Trongsa ",
+      "lat": 27.5002269,
+      "lng": 90.5080634,
+      "districts": [
+        {
+          "name": "Trongsa",
+          "lat": 27.4994,
+          "lng": 90.5047
+        }
+      ]
+    },
+    {
+      "name": "Tsirang ",
+      "lat": 27.0072232,
+      "lng": 90.1326289,
+      "districts": [
+        {
+          "name": "Beteni",
+          "lat": 27.0333,
+          "lng": 90.2333
+        },
+        {
+          "name": "Dagapela",
+          "lat": 26.9333,
+          "lng": 89.95
+        },
+        {
+          "name": "Damphu",
+          "lat": 27.0167,
+          "lng": 90.1
+        },
+        {
+          "name": "Tsirang",
+          "lat": 27.0219,
+          "lng": 90.12291
+        }
+      ]
+    },
+    {
+      "name": "Wangdue Phodrang ",
+      "lat": 27.544634,
+      "lng": 89.955581,
+      "districts": [
+        {
+          "name": "Manikyangsa",
+          "lat": 27.5333,
+          "lng": 90.1
+        },
+        {
+          "name": "Ritang",
+          "lat": 27.55,
+          "lng": 90.1667
+        },
+        {
+          "name": "Wangdue Phodrang",
+          "lat": 27.4833,
+          "lng": 89.9
+        }
+      ]
+    },
+    {
+      "name": "Zhemgang ",
+      "lat": 27.0821148,
+      "lng": 90.8408984,
+      "districts": [
+        {
+          "name": "Panbang",
+          "lat": 26.86667,
+          "lng": 90.98333
+        },
+        {
+          "name": "Zhemgang",
+          "lat": 27.21689,
+          "lng": 90.65793
+        }
+      ]
+    }
+  ]
+}

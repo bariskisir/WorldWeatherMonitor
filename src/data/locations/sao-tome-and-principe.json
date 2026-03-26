@@ -1,0 +1,92 @@
+{
+  "name": "Sao Tome and Principe",
+  "lat": 1,
+  "lng": 7,
+  "cities": [
+    {
+      "name": "Água Grande",
+      "lat": 0.3301924,
+      "lng": 6.733343,
+      "districts": [
+        {
+          "name": "São Tomé",
+          "lat": 0.33654,
+          "lng": 6.72732,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Cantagalo",
+      "lat": 0.21667,
+      "lng": 6.7,
+      "districts": [
+        {
+          "name": "Santana",
+          "lat": 0.25389,
+          "lng": 6.73444
+        }
+      ]
+    },
+    {
+      "name": "Caué",
+      "lat": 0.13415,
+      "lng": 6.63825,
+      "districts": [
+        {
+          "name": "São João dos Angolares",
+          "lat": 0.1372,
+          "lng": 6.64972
+        }
+      ]
+    },
+    {
+      "name": "Lemba",
+      "lat": 0.22,
+      "lng": 6.58,
+      "districts": [
+        {
+          "name": "Neves",
+          "lat": 0.36667,
+          "lng": 6.55
+        }
+      ]
+    },
+    {
+      "name": "Lobata",
+      "lat": 0.41,
+      "lng": 6.61,
+      "districts": [
+        {
+          "name": "Guadalupe",
+          "lat": 0.38333,
+          "lng": 6.61667
+        }
+      ]
+    },
+    {
+      "name": "Mé-Zóchi",
+      "lat": 0.3,
+      "lng": 6.6,
+      "districts": [
+        {
+          "name": "Trindade",
+          "lat": 0.29667,
+          "lng": 6.68139
+        }
+      ]
+    },
+    {
+      "name": "Príncipe",
+      "lat": 1.6139381,
+      "lng": 7.4056928,
+      "districts": [
+        {
+          "name": "Santo António",
+          "lat": 1.63943,
+          "lng": 7.41951
+        }
+      ]
+    }
+  ]
+}

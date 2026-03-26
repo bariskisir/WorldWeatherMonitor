@@ -1,0 +1,2859 @@
+{
+  "name": "Honduras",
+  "lat": 15,
+  "lng": -86.5,
+  "cities": [
+    {
+      "name": "Atlántida",
+      "lat": 15.8172492,
+      "lng": -87.1146935,
+      "districts": [
+        {
+          "name": "La Ceiba",
+          "lat": 15.75971,
+          "lng": -86.78221
+        },
+        {
+          "name": "Arizona",
+          "lat": 15.63333,
+          "lng": -87.31667
+        },
+        {
+          "name": "Atenas de San Cristóbal",
+          "lat": 15.68333,
+          "lng": -87.31667
+        },
+        {
+          "name": "Corozal",
+          "lat": 15.8,
+          "lng": -86.71667
+        },
+        {
+          "name": "El Pino",
+          "lat": 15.7,
+          "lng": -86.93333
+        },
+        {
+          "name": "El Porvenir",
+          "lat": 15.75,
+          "lng": -86.93333
+        },
+        {
+          "name": "El Triunfo de la Cruz",
+          "lat": 15.76667,
+          "lng": -87.43333
+        },
+        {
+          "name": "Esparta",
+          "lat": 15.66291,
+          "lng": -87.25622
+        },
+        {
+          "name": "Jutiapa",
+          "lat": 15.69586,
+          "lng": -86.50414
+        },
+        {
+          "name": "La Masica",
+          "lat": 15.59865,
+          "lng": -87.135
+        },
+        {
+          "name": "La Unión",
+          "lat": 15.71667,
+          "lng": -87
+        },
+        {
+          "name": "Mezapa",
+          "lat": 15.58333,
+          "lng": -87.65
+        },
+        {
+          "name": "Nueva Armenia",
+          "lat": 15.79556,
+          "lng": -86.49845
+        },
+        {
+          "name": "Sambo Creek",
+          "lat": 15.81667,
+          "lng": -86.68333
+        },
+        {
+          "name": "San Antonio",
+          "lat": 15.6,
+          "lng": -87.15
+        },
+        {
+          "name": "San Francisco",
+          "lat": 15.65246,
+          "lng": -87.01736
+        },
+        {
+          "name": "San Juan Pueblo",
+          "lat": 15.58333,
+          "lng": -87.23333
+        },
+        {
+          "name": "Santa Ana",
+          "lat": 15.65,
+          "lng": -87.06667
+        },
+        {
+          "name": "Tela",
+          "lat": 15.77425,
+          "lng": -87.46731
+        },
+        {
+          "name": "Tornabé",
+          "lat": 15.75,
+          "lng": -87.55
+        }
+      ]
+    },
+    {
+      "name": "Bay Islands",
+      "lat": 16.3217674,
+      "lng": -86.1786833,
+      "districts": [
+        {
+          "name": "Coxen Hole",
+          "lat": 16.31759,
+          "lng": -86.53793
+        },
+        {
+          "name": "French Harbor",
+          "lat": 16.35,
+          "lng": -86.43333
+        },
+        {
+          "name": "Guanaja",
+          "lat": 16.44795,
+          "lng": -85.89431
+        },
+        {
+          "name": "José Santos Guardiola",
+          "lat": 16.41765,
+          "lng": -86.30631
+        },
+        {
+          "name": "Roatán",
+          "lat": 16.34098,
+          "lng": -86.53763
+        },
+        {
+          "name": "Sandy Bay",
+          "lat": 16.32923,
+          "lng": -86.56446
+        },
+        {
+          "name": "Savannah Bight",
+          "lat": 16.45,
+          "lng": -85.85
+        },
+        {
+          "name": "Utila",
+          "lat": 16.10026,
+          "lng": -86.9307
+        }
+      ]
+    },
+    {
+      "name": "Choluteca",
+      "lat": 13.3014081,
+      "lng": -87.1842323,
+      "districts": [
+        {
+          "name": "Choluteca",
+          "lat": 13.28261,
+          "lng": -87.20119
+        },
+        {
+          "name": "Apacilagua",
+          "lat": 13.45821,
+          "lng": -87.01122
+        },
+        {
+          "name": "Ciudad Choluteca",
+          "lat": 13.30028,
+          "lng": -87.19083
+        },
+        {
+          "name": "Concepción de María",
+          "lat": 13.22363,
+          "lng": -86.96244
+        },
+        {
+          "name": "Corpus",
+          "lat": 13.28889,
+          "lng": -87.03472
+        },
+        {
+          "name": "Duyure",
+          "lat": 13.63333,
+          "lng": -86.81667
+        },
+        {
+          "name": "El Corpus",
+          "lat": 13.30464,
+          "lng": -87.0097
+        },
+        {
+          "name": "El Obraje",
+          "lat": 13.15417,
+          "lng": -87.13083
+        },
+        {
+          "name": "El Puente",
+          "lat": 13.28333,
+          "lng": -87.11667
+        },
+        {
+          "name": "El Triunfo",
+          "lat": 13.08024,
+          "lng": -87.0178
+        },
+        {
+          "name": "Los Llanitos",
+          "lat": 13.28694,
+          "lng": -87.33444
+        },
+        {
+          "name": "Marcovia",
+          "lat": 13.28806,
+          "lng": -87.30972
+        },
+        {
+          "name": "Monjarás",
+          "lat": 13.20056,
+          "lng": -87.37417
+        },
+        {
+          "name": "Morolica",
+          "lat": 13.568,
+          "lng": -86.88821
+        },
+        {
+          "name": "Namasigüe",
+          "lat": 13.20472,
+          "lng": -87.13889
+        },
+        {
+          "name": "Orocuina",
+          "lat": 13.48167,
+          "lng": -87.105
+        },
+        {
+          "name": "Pespire",
+          "lat": 13.59222,
+          "lng": -87.36167
+        },
+        {
+          "name": "San Antonio de Flores",
+          "lat": 13.64152,
+          "lng": -87.34075
+        },
+        {
+          "name": "San Isidro",
+          "lat": 13.64454,
+          "lng": -87.26093
+        },
+        {
+          "name": "San Jerónimo",
+          "lat": 13.17667,
+          "lng": -87.13639
+        },
+        {
+          "name": "San José",
+          "lat": 13.71415,
+          "lng": -87.42256
+        },
+        {
+          "name": "San José de Las Conchas",
+          "lat": 13.32528,
+          "lng": -87.39556
+        },
+        {
+          "name": "San Marcos de Colón",
+          "lat": 13.41512,
+          "lng": -86.82095
+        },
+        {
+          "name": "Santa Ana de Yusguare",
+          "lat": 13.30056,
+          "lng": -87.11389
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 13.25806,
+          "lng": -87.34833
+        }
+      ]
+    },
+    {
+      "name": "Colón",
+      "lat": 15.7149552,
+      "lng": -85.7023584,
+      "districts": [
+        {
+          "name": "Balfate",
+          "lat": 15.75709,
+          "lng": -86.29048
+        },
+        {
+          "name": "Bonito Oriental",
+          "lat": 15.74641,
+          "lng": -85.7361
+        },
+        {
+          "name": "Corocito",
+          "lat": 15.75,
+          "lng": -85.78333
+        },
+        {
+          "name": "Cusuna",
+          "lat": 15.85,
+          "lng": -85.23333
+        },
+        {
+          "name": "Elíxir",
+          "lat": 15.48333,
+          "lng": -86.3
+        },
+        {
+          "name": "Francia",
+          "lat": 15.85,
+          "lng": -85.58333
+        },
+        {
+          "name": "Iriona",
+          "lat": 15.59079,
+          "lng": -85.20549
+        },
+        {
+          "name": "Jericó",
+          "lat": 15.95,
+          "lng": -85.96667
+        },
+        {
+          "name": "La Brea",
+          "lat": 15.8,
+          "lng": -85.96667
+        },
+        {
+          "name": "La Esperanza",
+          "lat": 15.63333,
+          "lng": -85.76667
+        },
+        {
+          "name": "Limón",
+          "lat": 15.79664,
+          "lng": -85.50805
+        },
+        {
+          "name": "Municipio de Sabá",
+          "lat": 15.48654,
+          "lng": -86.16322
+        },
+        {
+          "name": "Prieta",
+          "lat": 15.5806,
+          "lng": -86.13664
+        },
+        {
+          "name": "Puerto Castilla",
+          "lat": 16.01667,
+          "lng": -85.96667
+        },
+        {
+          "name": "Punta Piedra",
+          "lat": 15.9,
+          "lng": -85.28333
+        },
+        {
+          "name": "Quebrada de Arena",
+          "lat": 15.76667,
+          "lng": -85.91667
+        },
+        {
+          "name": "Río Esteban",
+          "lat": 15.83333,
+          "lng": -86.3
+        },
+        {
+          "name": "Sabá",
+          "lat": 15.46667,
+          "lng": -86.25
+        },
+        {
+          "name": "Salamá",
+          "lat": 15.75,
+          "lng": -85.96667
+        },
+        {
+          "name": "Santa Fe",
+          "lat": 15.85424,
+          "lng": -86.11083
+        },
+        {
+          "name": "Santa Rosa de Aguán",
+          "lat": 15.95,
+          "lng": -85.71667
+        },
+        {
+          "name": "Sonaguera",
+          "lat": 15.64,
+          "lng": -86.26
+        },
+        {
+          "name": "Taujica",
+          "lat": 15.7,
+          "lng": -85.91667
+        },
+        {
+          "name": "Tocoa",
+          "lat": 15.68333,
+          "lng": -86
+        },
+        {
+          "name": "Trujillo",
+          "lat": 15.91667,
+          "lng": -85.95417
+        },
+        {
+          "name": "Zamora",
+          "lat": 15.63333,
+          "lng": -86.06667
+        }
+      ]
+    },
+    {
+      "name": "Comayagua",
+      "lat": 14.5525837,
+      "lng": -87.6903154,
+      "districts": [
+        {
+          "name": "Comayagua",
+          "lat": 14.48412,
+          "lng": -87.6006
+        },
+        {
+          "name": "Aguas del Padre",
+          "lat": 14.56667,
+          "lng": -87.88333
+        },
+        {
+          "name": "Ajuterique",
+          "lat": 14.38333,
+          "lng": -87.7
+        },
+        {
+          "name": "Cerro Blanco",
+          "lat": 14.66667,
+          "lng": -87.78333
+        },
+        {
+          "name": "Concepción de Guasistagua",
+          "lat": 14.6,
+          "lng": -87.65
+        },
+        {
+          "name": "El Agua Dulcita",
+          "lat": 14.7,
+          "lng": -87.75
+        },
+        {
+          "name": "El Porvenir",
+          "lat": 14.58333,
+          "lng": -87.88333
+        },
+        {
+          "name": "El Rancho",
+          "lat": 14.68333,
+          "lng": -87.5
+        },
+        {
+          "name": "El Rincón",
+          "lat": 14.58333,
+          "lng": -87.93333
+        },
+        {
+          "name": "El Rosario",
+          "lat": 14.575,
+          "lng": -87.74306
+        },
+        {
+          "name": "El Sauce",
+          "lat": 14.5285,
+          "lng": -87.66571
+        },
+        {
+          "name": "El Socorro",
+          "lat": 14.63333,
+          "lng": -87.91667
+        },
+        {
+          "name": "Esquías",
+          "lat": 14.73333,
+          "lng": -87.36667
+        },
+        {
+          "name": "Flores",
+          "lat": 14.28333,
+          "lng": -87.56667
+        },
+        {
+          "name": "Humuya",
+          "lat": 14.25,
+          "lng": -87.66667
+        },
+        {
+          "name": "Jamalteca",
+          "lat": 14.7,
+          "lng": -87.58333
+        },
+        {
+          "name": "La Libertad",
+          "lat": 14.88,
+          "lng": -87.55
+        },
+        {
+          "name": "La Trinidad",
+          "lat": 14.7,
+          "lng": -87.66286
+        },
+        {
+          "name": "Lamaní",
+          "lat": 14.2,
+          "lng": -87.61667
+        },
+        {
+          "name": "Las Lajas",
+          "lat": 14.9,
+          "lng": -87.58333
+        },
+        {
+          "name": "Lejamaní",
+          "lat": 14.36667,
+          "lng": -87.7
+        },
+        {
+          "name": "Meámbar",
+          "lat": 14.82047,
+          "lng": -87.78424
+        },
+        {
+          "name": "Minas de Oro",
+          "lat": 14.8,
+          "lng": -87.35
+        },
+        {
+          "name": "Ojos de Agua",
+          "lat": 14.79498,
+          "lng": -87.6501
+        },
+        {
+          "name": "Potrerillos",
+          "lat": 14.55,
+          "lng": -87.86667
+        },
+        {
+          "name": "Río Bonito",
+          "lat": 14.76667,
+          "lng": -87.88333
+        },
+        {
+          "name": "San Antonio de la Cuesta",
+          "lat": 14.63333,
+          "lng": -87.6
+        },
+        {
+          "name": "San Jerónimo",
+          "lat": 14.64043,
+          "lng": -87.56768
+        },
+        {
+          "name": "San José de Comayagua",
+          "lat": 14.73333,
+          "lng": -88.03333
+        },
+        {
+          "name": "San José del Potrero",
+          "lat": 14.86203,
+          "lng": -87.29049
+        },
+        {
+          "name": "San Luis",
+          "lat": 14.75,
+          "lng": -87.41667
+        },
+        {
+          "name": "San Sebastián",
+          "lat": 14.23687,
+          "lng": -87.63215
+        },
+        {
+          "name": "Siguatepeque",
+          "lat": 14.6,
+          "lng": -87.83333
+        },
+        {
+          "name": "Taulabé",
+          "lat": 14.67145,
+          "lng": -87.98693
+        },
+        {
+          "name": "Valle de Ángeles",
+          "lat": 14.5,
+          "lng": -87.63333
+        },
+        {
+          "name": "Villa de San Antonio",
+          "lat": 14.31667,
+          "lng": -87.61667
+        }
+      ]
+    },
+    {
+      "name": "Copán",
+      "lat": 14.8958685,
+      "lng": -88.9255812,
+      "districts": [
+        {
+          "name": "Agua Caliente",
+          "lat": 14.88333,
+          "lng": -88.81667
+        },
+        {
+          "name": "Buenos Aires",
+          "lat": 15.03333,
+          "lng": -88.96667
+        },
+        {
+          "name": "Cabañas",
+          "lat": 14.76,
+          "lng": -89.06
+        },
+        {
+          "name": "Chalmeca",
+          "lat": 15.1,
+          "lng": -88.68333
+        },
+        {
+          "name": "Concepción",
+          "lat": 14.88077,
+          "lng": -88.87919
+        },
+        {
+          "name": "Concepción de la Barranca",
+          "lat": 15.16667,
+          "lng": -88.71667
+        },
+        {
+          "name": "Copán",
+          "lat": 14.83333,
+          "lng": -89.15
+        },
+        {
+          "name": "Copán Ruinas",
+          "lat": 14.92,
+          "lng": -89.15
+        },
+        {
+          "name": "Corquín",
+          "lat": 14.56667,
+          "lng": -88.86667
+        },
+        {
+          "name": "Cucuyagua",
+          "lat": 14.65,
+          "lng": -88.86667
+        },
+        {
+          "name": "Dolores",
+          "lat": 14.86667,
+          "lng": -88.83333
+        },
+        {
+          "name": "Dulce Nombre",
+          "lat": 14.85552,
+          "lng": -88.83856
+        },
+        {
+          "name": "El Corpus",
+          "lat": 14.7,
+          "lng": -88.91667
+        },
+        {
+          "name": "El Ocotón",
+          "lat": 15.03333,
+          "lng": -88.88333
+        },
+        {
+          "name": "El Paraíso",
+          "lat": 15.04217,
+          "lng": -88.98045
+        },
+        {
+          "name": "Florida",
+          "lat": 15.03333,
+          "lng": -88.83333
+        },
+        {
+          "name": "La Entrada",
+          "lat": 15.05,
+          "lng": -88.73333
+        },
+        {
+          "name": "La Jigua",
+          "lat": 15.1,
+          "lng": -88.76
+        },
+        {
+          "name": "La Playona",
+          "lat": 15.11667,
+          "lng": -88.98333
+        },
+        {
+          "name": "La Unión",
+          "lat": 14.6935,
+          "lng": -88.94734
+        },
+        {
+          "name": "La Zumbadora",
+          "lat": 15.01667,
+          "lng": -88.9
+        },
+        {
+          "name": "Los Tangos",
+          "lat": 15.15,
+          "lng": -88.68333
+        },
+        {
+          "name": "Nueva Arcadia",
+          "lat": 15.08,
+          "lng": -88.69
+        },
+        {
+          "name": "Ojos de Agua",
+          "lat": 14.7,
+          "lng": -88.81667
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "lat": 15,
+          "lng": -88.75
+        },
+        {
+          "name": "Quezailica",
+          "lat": 14.88333,
+          "lng": -88.73333
+        },
+        {
+          "name": "San Agustín",
+          "lat": 14.81973,
+          "lng": -88.93027
+        },
+        {
+          "name": "San Antonio",
+          "lat": 15.04,
+          "lng": -88.88
+        },
+        {
+          "name": "San Jerónimo",
+          "lat": 14.96207,
+          "lng": -88.9027
+        },
+        {
+          "name": "San Joaquín",
+          "lat": 15.05,
+          "lng": -88.9
+        },
+        {
+          "name": "San José",
+          "lat": 14.91184,
+          "lng": -88.71667
+        },
+        {
+          "name": "San José de Copán",
+          "lat": 14.9,
+          "lng": -88.71667
+        },
+        {
+          "name": "San Juan de Opoa",
+          "lat": 14.78333,
+          "lng": -88.7
+        },
+        {
+          "name": "San Juan de Planes",
+          "lat": 14.93333,
+          "lng": -88.78333
+        },
+        {
+          "name": "San Nicolás",
+          "lat": 14.98,
+          "lng": -88.73
+        },
+        {
+          "name": "San Pedro de Copán",
+          "lat": 14.61667,
+          "lng": -88.8
+        },
+        {
+          "name": "Santa Rita",
+          "lat": 14.88,
+          "lng": -89.01
+        },
+        {
+          "name": "Santa Rita Copan",
+          "lat": 14.86748,
+          "lng": -89.1
+        },
+        {
+          "name": "Santa Rosa de Copán",
+          "lat": 14.76667,
+          "lng": -88.77917
+        },
+        {
+          "name": "Trinidad de Copán",
+          "lat": 14.95,
+          "lng": -88.75
+        },
+        {
+          "name": "Veracruz",
+          "lat": 14.88343,
+          "lng": -88.7857
+        }
+      ]
+    },
+    {
+      "name": "Cortés",
+      "lat": 15.4784073,
+      "lng": -88.0343858,
+      "districts": [
+        {
+          "name": "Choloma",
+          "lat": 15.64,
+          "lng": -87.92
+        },
+        {
+          "name": "Puerto Cortés",
+          "lat": 15.79,
+          "lng": -87.849
+        },
+        {
+          "name": "San Pedro Sula",
+          "lat": 15.50417,
+          "lng": -88.025
+        },
+        {
+          "name": "Villanueva",
+          "lat": 15.31667,
+          "lng": -88
+        },
+        {
+          "name": "Agua Azul",
+          "lat": 14.91667,
+          "lng": -87.96667
+        },
+        {
+          "name": "Agua Azul Rancho",
+          "lat": 14.9,
+          "lng": -87.95
+        },
+        {
+          "name": "Armenta",
+          "lat": 15.5,
+          "lng": -88.05
+        },
+        {
+          "name": "Baja Mar",
+          "lat": 15.88851,
+          "lng": -87.85547
+        },
+        {
+          "name": "Baracoa",
+          "lat": 15.76667,
+          "lng": -87.85
+        },
+        {
+          "name": "Bejuco",
+          "lat": 15.13333,
+          "lng": -87.93333
+        },
+        {
+          "name": "Cañaveral",
+          "lat": 14.98333,
+          "lng": -88.01667
+        },
+        {
+          "name": "Casa Quemada",
+          "lat": 15.11667,
+          "lng": -88.08333
+        },
+        {
+          "name": "Chivana",
+          "lat": 15.75,
+          "lng": -87.98333
+        },
+        {
+          "name": "Chotepe",
+          "lat": 15.41667,
+          "lng": -87.98333
+        },
+        {
+          "name": "Cofradía",
+          "lat": 15.4,
+          "lng": -88.15
+        },
+        {
+          "name": "Cuyamel",
+          "lat": 15.66667,
+          "lng": -88.2
+        },
+        {
+          "name": "El Llano",
+          "lat": 15.15,
+          "lng": -87.88333
+        },
+        {
+          "name": "El Marañón",
+          "lat": 15.4,
+          "lng": -88.05
+        },
+        {
+          "name": "El Milagro",
+          "lat": 15.4,
+          "lng": -87.96667
+        },
+        {
+          "name": "El Olivar",
+          "lat": 15.08333,
+          "lng": -87.88333
+        },
+        {
+          "name": "El Perico",
+          "lat": 15.08333,
+          "lng": -88.1
+        },
+        {
+          "name": "El Plan",
+          "lat": 15.28333,
+          "lng": -87.96667
+        },
+        {
+          "name": "El Porvenir",
+          "lat": 15.83333,
+          "lng": -87.93333
+        },
+        {
+          "name": "El Rancho",
+          "lat": 15.55441,
+          "lng": -88.0234321
+        },
+        {
+          "name": "El Tigre",
+          "lat": 14.93333,
+          "lng": -87.98333
+        },
+        {
+          "name": "El Zapotal del Norte",
+          "lat": 15.51667,
+          "lng": -88.05
+        },
+        {
+          "name": "La Guama",
+          "lat": 14.88333,
+          "lng": -87.93333
+        },
+        {
+          "name": "La Huesa",
+          "lat": 15.58333,
+          "lng": -87.88333
+        },
+        {
+          "name": "La Jutosa",
+          "lat": 15.63333,
+          "lng": -88
+        },
+        {
+          "name": "La Lima",
+          "lat": 15.43333,
+          "lng": -87.91667
+        },
+        {
+          "name": "La Sabana",
+          "lat": 15.36667,
+          "lng": -87.93333
+        },
+        {
+          "name": "Los Caminos",
+          "lat": 14.95,
+          "lng": -87.96667
+        },
+        {
+          "name": "Los Naranjos",
+          "lat": 14.9,
+          "lng": -88.05
+        },
+        {
+          "name": "Monterrey",
+          "lat": 15.5891283,
+          "lng": -87.8816161
+        },
+        {
+          "name": "Nuevo Chamelecón",
+          "lat": 15.38333,
+          "lng": -88.01667
+        },
+        {
+          "name": "Omoa",
+          "lat": 15.76667,
+          "lng": -88.03333
+        },
+        {
+          "name": "Oropéndolas",
+          "lat": 15.01667,
+          "lng": -87.93333
+        },
+        {
+          "name": "Peña Blanca",
+          "lat": 15.53333,
+          "lng": -88.05
+        },
+        {
+          "name": "Pimienta",
+          "lat": 15.265,
+          "lng": -87.96667
+        },
+        {
+          "name": "Pimienta Vieja",
+          "lat": 15.23333,
+          "lng": -87.96667
+        },
+        {
+          "name": "Potrerillos",
+          "lat": 15.21,
+          "lng": -87.95
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "lat": 15.28333,
+          "lng": -88.01667
+        },
+        {
+          "name": "Puerto Alto",
+          "lat": 15.7,
+          "lng": -87.86667
+        },
+        {
+          "name": "Puerto Cortez",
+          "lat": 15.82562,
+          "lng": -87.92968
+        },
+        {
+          "name": "Quebrada Seca",
+          "lat": 15.6597933,
+          "lng": -87.9499981
+        },
+        {
+          "name": "Río Blanquito",
+          "lat": 15.73333,
+          "lng": -87.9
+        },
+        {
+          "name": "Río Chiquito",
+          "lat": 15.63333,
+          "lng": -88.25
+        },
+        {
+          "name": "Río Lindo",
+          "lat": 15.03333,
+          "lng": -87.98333
+        },
+        {
+          "name": "San Antonio de Cortés",
+          "lat": 15.11667,
+          "lng": -88.03333
+        },
+        {
+          "name": "San Buenaventura",
+          "lat": 15.01667,
+          "lng": -88
+        },
+        {
+          "name": "San Francisco de Yojoa",
+          "lat": 15.01667,
+          "lng": -87.96667
+        },
+        {
+          "name": "San José del Boquerón",
+          "lat": 15.48333,
+          "lng": -87.86667
+        },
+        {
+          "name": "San Manuel",
+          "lat": 15.37279,
+          "lng": -87.90167
+        },
+        {
+          "name": "Santa Cruz de Yojoa",
+          "lat": 14.98333,
+          "lng": -87.9
+        },
+        {
+          "name": "Santa Elena",
+          "lat": 15.38333,
+          "lng": -88.13333
+        },
+        {
+          "name": "Travesía",
+          "lat": 15.86667,
+          "lng": -87.9
+        }
+      ]
+    },
+    {
+      "name": "El Paraíso",
+      "lat": 13.9619941,
+      "lng": -86.5627921,
+      "districts": [
+        {
+          "name": "Alauca",
+          "lat": 13.8402,
+          "lng": -86.69526
+        },
+        {
+          "name": "Araulí",
+          "lat": 13.95,
+          "lng": -86.55
+        },
+        {
+          "name": "Cuyalí",
+          "lat": 13.88333,
+          "lng": -86.55
+        },
+        {
+          "name": "Danlí",
+          "lat": 14.03333,
+          "lng": -86.58333
+        },
+        {
+          "name": "El Benque",
+          "lat": 14.03333,
+          "lng": -86.46667
+        },
+        {
+          "name": "El Chichicaste",
+          "lat": 14.06667,
+          "lng": -86.3
+        },
+        {
+          "name": "El Obraje",
+          "lat": 14,
+          "lng": -86.43333
+        },
+        {
+          "name": "El Paraíso",
+          "lat": 13.85381,
+          "lng": -86.53094
+        },
+        {
+          "name": "Güinope",
+          "lat": 13.88333,
+          "lng": -86.93333
+        },
+        {
+          "name": "Jacaleapa",
+          "lat": 14.01667,
+          "lng": -86.66667
+        },
+        {
+          "name": "Jutiapa",
+          "lat": 13.98333,
+          "lng": -86.4
+        },
+        {
+          "name": "Las Ánimas",
+          "lat": 14.25,
+          "lng": -86.56667
+        },
+        {
+          "name": "Las Trojes",
+          "lat": 14.06667,
+          "lng": -85.98333
+        },
+        {
+          "name": "Liure",
+          "lat": 13.53583,
+          "lng": -87.09194
+        },
+        {
+          "name": "Morocelí",
+          "lat": 14.11667,
+          "lng": -86.86667
+        },
+        {
+          "name": "Municipio de Texiguat",
+          "lat": 13.66372,
+          "lng": -87.03479
+        },
+        {
+          "name": "Ojo de Agua",
+          "lat": 14.01667,
+          "lng": -86.35
+        },
+        {
+          "name": "Oropolí",
+          "lat": 13.81667,
+          "lng": -86.81667
+        },
+        {
+          "name": "Potrerillos",
+          "lat": 14.04478,
+          "lng": -86.76201
+        },
+        {
+          "name": "Quebrada Larga",
+          "lat": 14.1,
+          "lng": -86.36667
+        },
+        {
+          "name": "San Antonio de Flores",
+          "lat": 13.71089,
+          "lng": -86.84226
+        },
+        {
+          "name": "San Diego",
+          "lat": 14.05,
+          "lng": -86.46667
+        },
+        {
+          "name": "San Lucas",
+          "lat": 13.74586,
+          "lng": -86.95163
+        },
+        {
+          "name": "San Matías",
+          "lat": 13.95966,
+          "lng": -86.64032
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 13.86667,
+          "lng": -86.63333
+        },
+        {
+          "name": "Soledad",
+          "lat": 13.58333,
+          "lng": -87.11667
+        },
+        {
+          "name": "Teupasenti",
+          "lat": 14.21667,
+          "lng": -86.7
+        },
+        {
+          "name": "Texíguat",
+          "lat": 13.64972,
+          "lng": -87.0225
+        },
+        {
+          "name": "Trojes",
+          "lat": 14.05966,
+          "lng": -86.00166
+        },
+        {
+          "name": "Vado Ancho",
+          "lat": 13.64355,
+          "lng": -86.95546
+        },
+        {
+          "name": "Yauyupe",
+          "lat": 13.74867,
+          "lng": -87.0761
+        },
+        {
+          "name": "Yuscarán",
+          "lat": 13.95708,
+          "lng": -86.8317
+        }
+      ]
+    },
+    {
+      "name": "Francisco Morazán",
+      "lat": 14.3430478,
+      "lng": -87.1141957,
+      "districts": [
+        {
+          "name": "Distrito Central",
+          "lat": 14.14975,
+          "lng": -87.24806
+        },
+        {
+          "name": "Tegucigalpa",
+          "lat": 14.0818,
+          "lng": -87.20681,
+          "iscapital": true
+        },
+        {
+          "name": "Agalteca",
+          "lat": 14.45,
+          "lng": -87.26667
+        },
+        {
+          "name": "Alubarén",
+          "lat": 13.78226,
+          "lng": -87.4699
+        },
+        {
+          "name": "Cedros",
+          "lat": 14.50464,
+          "lng": -87.2168
+        },
+        {
+          "name": "Cerro Grande",
+          "lat": 13.81667,
+          "lng": -87.25
+        },
+        {
+          "name": "Cofradía",
+          "lat": 14.21667,
+          "lng": -87.18333
+        },
+        {
+          "name": "Curarén",
+          "lat": 13.83,
+          "lng": -87.57
+        },
+        {
+          "name": "El Chimbo",
+          "lat": 14.13333,
+          "lng": -87.11667
+        },
+        {
+          "name": "El Escanito",
+          "lat": 14.66667,
+          "lng": -87.1
+        },
+        {
+          "name": "El Escaño de Tepale",
+          "lat": 14.75,
+          "lng": -87.06667
+        },
+        {
+          "name": "El Guante",
+          "lat": 14.55,
+          "lng": -87.1
+        },
+        {
+          "name": "El Guantillo",
+          "lat": 14.6,
+          "lng": -87.3
+        },
+        {
+          "name": "El Guapinol",
+          "lat": 13.76667,
+          "lng": -87.46667
+        },
+        {
+          "name": "El Lolo",
+          "lat": 14.11667,
+          "lng": -87.26667
+        },
+        {
+          "name": "El Pedernal",
+          "lat": 14.7,
+          "lng": -87.11667
+        },
+        {
+          "name": "El Porvenir",
+          "lat": 14.72009,
+          "lng": -87.21039
+        },
+        {
+          "name": "El Suyatal",
+          "lat": 14.51667,
+          "lng": -87.21667
+        },
+        {
+          "name": "El Tablón",
+          "lat": 14.03333,
+          "lng": -87.16667
+        },
+        {
+          "name": "El Terrero",
+          "lat": 14.06667,
+          "lng": -87.06667
+        },
+        {
+          "name": "Guaimaca",
+          "lat": 14.53333,
+          "lng": -86.81667
+        },
+        {
+          "name": "La Ermita",
+          "lat": 14.46667,
+          "lng": -87.06667
+        },
+        {
+          "name": "La Libertad",
+          "lat": 13.70662,
+          "lng": -87.50421
+        },
+        {
+          "name": "La Venta",
+          "lat": 13.73113,
+          "lng": -87.32874
+        },
+        {
+          "name": "Lepaterique",
+          "lat": 14.0559,
+          "lng": -87.47908
+        },
+        {
+          "name": "Maraita",
+          "lat": 13.87197,
+          "lng": -87.05633
+        },
+        {
+          "name": "Marale",
+          "lat": 14.94113,
+          "lng": -87.09892
+        },
+        {
+          "name": "Mata de Plátano",
+          "lat": 14.6,
+          "lng": -87.28333
+        },
+        {
+          "name": "Mateo",
+          "lat": 14.08333,
+          "lng": -87.31667
+        },
+        {
+          "name": "Nueva Armenia",
+          "lat": 13.75,
+          "lng": -87.15307
+        },
+        {
+          "name": "Ojojona",
+          "lat": 13.93389,
+          "lng": -87.29583
+        },
+        {
+          "name": "Orica",
+          "lat": 14.80645,
+          "lng": -86.9576
+        },
+        {
+          "name": "Quebradas",
+          "lat": 14.5,
+          "lng": -87.35
+        },
+        {
+          "name": "Reitoca",
+          "lat": 13.82583,
+          "lng": -87.46528
+        },
+        {
+          "name": "Río Abajo",
+          "lat": 14.16667,
+          "lng": -87.21667
+        },
+        {
+          "name": "Sabanagrande",
+          "lat": 13.80778,
+          "lng": -87.25917
+        },
+        {
+          "name": "San Antonio de Oriente",
+          "lat": 14.03859,
+          "lng": -86.98951
+        },
+        {
+          "name": "San Buenaventura",
+          "lat": 13.891,
+          "lng": -87.18554
+        },
+        {
+          "name": "San Ignacio",
+          "lat": 14.73795,
+          "lng": -87.04759
+        },
+        {
+          "name": "San Juan de Flores",
+          "lat": 14.26667,
+          "lng": -87.03333
+        },
+        {
+          "name": "San Miguelito",
+          "lat": 13.74572,
+          "lng": -87.49233
+        },
+        {
+          "name": "Santa Ana",
+          "lat": 13.94,
+          "lng": -87.21
+        },
+        {
+          "name": "Santa Lucía",
+          "lat": 14.12595,
+          "lng": -87.09175
+        },
+        {
+          "name": "Talanga",
+          "lat": 14.41393,
+          "lng": -87.06941
+        },
+        {
+          "name": "Támara",
+          "lat": 14.15,
+          "lng": -87.33333
+        },
+        {
+          "name": "Tatumbla",
+          "lat": 13.98467,
+          "lng": -87.06977
+        },
+        {
+          "name": "Valle de Ángeles",
+          "lat": 14.15,
+          "lng": -87.03333
+        },
+        {
+          "name": "Vallecillo",
+          "lat": 14.51313,
+          "lng": -87.40242
+        },
+        {
+          "name": "Villa de San Francisco",
+          "lat": 14.16667,
+          "lng": -86.96667
+        },
+        {
+          "name": "Villa Nueva",
+          "lat": 14.03333,
+          "lng": -87.13333
+        },
+        {
+          "name": "Yaguacire",
+          "lat": 14.01667,
+          "lng": -87.21667
+        },
+        {
+          "name": "Zambrano",
+          "lat": 14.26667,
+          "lng": -87.4
+        }
+      ]
+    },
+    {
+      "name": "Gracias a Dios",
+      "lat": 15.4333305,
+      "lng": -84.148687,
+      "districts": [
+        {
+          "name": "Ahuas",
+          "lat": 15.46923,
+          "lng": -84.34479
+        },
+        {
+          "name": "Auas",
+          "lat": 15.48333,
+          "lng": -84.33333
+        },
+        {
+          "name": "Auka",
+          "lat": 14.94087,
+          "lng": -83.83229
+        },
+        {
+          "name": "Barra Patuca",
+          "lat": 15.8,
+          "lng": -84.28333
+        },
+        {
+          "name": "Brus Laguna",
+          "lat": 15.75,
+          "lng": -84.48333
+        },
+        {
+          "name": "Iralaya",
+          "lat": 15,
+          "lng": -83.23333
+        },
+        {
+          "name": "Juan Francisco Bulnes",
+          "lat": 15.91676,
+          "lng": -84.9099
+        },
+        {
+          "name": "Paptalaya",
+          "lat": 15.5,
+          "lng": -84.31667
+        },
+        {
+          "name": "Puerto Lempira",
+          "lat": 15.26667,
+          "lng": -83.77222
+        },
+        {
+          "name": "Villeda Morales",
+          "lat": 15.08472,
+          "lng": -83.35361
+        },
+        {
+          "name": "Wampusirpi",
+          "lat": 15.18333,
+          "lng": -84.61667
+        },
+        {
+          "name": "Wawina",
+          "lat": 15.41667,
+          "lng": -84.43333
+        }
+      ]
+    },
+    {
+      "name": "Intibucá",
+      "lat": 14.3121375,
+      "lng": -88.1780847,
+      "districts": [
+        {
+          "name": "Camasca",
+          "lat": 14,
+          "lng": -88.38333
+        },
+        {
+          "name": "Colomoncagua",
+          "lat": 13.97245,
+          "lng": -88.27673
+        },
+        {
+          "name": "Concepción",
+          "lat": 14.04725,
+          "lng": -88.31942
+        },
+        {
+          "name": "Dolores",
+          "lat": 14.26188,
+          "lng": -88.35787
+        },
+        {
+          "name": "Intibucá",
+          "lat": 14.43,
+          "lng": -88.17
+        },
+        {
+          "name": "Jesús de Otoro",
+          "lat": 14.48333,
+          "lng": -87.98333
+        },
+        {
+          "name": "Jiquinlaca",
+          "lat": 14,
+          "lng": -88.35
+        },
+        {
+          "name": "La Esperanza",
+          "lat": 14.31111,
+          "lng": -88.18056
+        },
+        {
+          "name": "Magdalena",
+          "lat": 13.92452,
+          "lng": -88.36675
+        },
+        {
+          "name": "Masaguara",
+          "lat": 14.40428,
+          "lng": -87.98247
+        },
+        {
+          "name": "San Antonio",
+          "lat": 13.95043,
+          "lng": -88.46493
+        },
+        {
+          "name": "San Francisco de Opalaca",
+          "lat": 14.58441,
+          "lng": -88.30253
+        },
+        {
+          "name": "San Isidro",
+          "lat": 14.56763,
+          "lng": -88.11743
+        },
+        {
+          "name": "San Juan",
+          "lat": 14.42127,
+          "lng": -88.41953
+        },
+        {
+          "name": "San Marcos de la Sierra",
+          "lat": 14.13236,
+          "lng": -88.2469
+        },
+        {
+          "name": "San Miguelito",
+          "lat": 14.34875,
+          "lng": -88.33983
+        },
+        {
+          "name": "Santa Lucía",
+          "lat": 13.90812,
+          "lng": -88.41566
+        },
+        {
+          "name": "Yamaranguila",
+          "lat": 14.26826,
+          "lng": -88.24652
+        }
+      ]
+    },
+    {
+      "name": "La Paz",
+      "lat": 14.1284089,
+      "lng": -87.9615276,
+      "districts": [
+        {
+          "name": "Aguanqueterique",
+          "lat": 13.98606,
+          "lng": -87.64622
+        },
+        {
+          "name": "Cabañas",
+          "lat": 13.99419,
+          "lng": -88.02864
+        },
+        {
+          "name": "Cane",
+          "lat": 14.28333,
+          "lng": -87.66667
+        },
+        {
+          "name": "Chinacla",
+          "lat": 14.18289,
+          "lng": -87.95395
+        },
+        {
+          "name": "Guajiquiro",
+          "lat": 14.06982,
+          "lng": -87.77451
+        },
+        {
+          "name": "La Paz",
+          "lat": 14.31944,
+          "lng": -87.67917
+        },
+        {
+          "name": "Lauterique",
+          "lat": 13.86425,
+          "lng": -87.65792
+        },
+        {
+          "name": "Los Planes",
+          "lat": 14.05,
+          "lng": -88.01667
+        },
+        {
+          "name": "Marcala",
+          "lat": 14.14845,
+          "lng": -88.02405
+        },
+        {
+          "name": "Mercedes de Oriente",
+          "lat": 13.90937,
+          "lng": -87.77795
+        },
+        {
+          "name": "Opatoro",
+          "lat": 14.02451,
+          "lng": -87.87982
+        },
+        {
+          "name": "San Antonio del Norte",
+          "lat": 13.88,
+          "lng": -87.72
+        },
+        {
+          "name": "San José",
+          "lat": 14.22642,
+          "lng": -87.96238
+        },
+        {
+          "name": "San Juan",
+          "lat": 13.95428,
+          "lng": -87.72948
+        },
+        {
+          "name": "San Pedro de Tutule",
+          "lat": 14.25,
+          "lng": -87.85
+        },
+        {
+          "name": "Santa Ana",
+          "lat": 14.00011,
+          "lng": -87.94107
+        },
+        {
+          "name": "Santa Elena",
+          "lat": 14.07149,
+          "lng": -88.15445
+        },
+        {
+          "name": "Santa María",
+          "lat": 14.26904,
+          "lng": -87.91164
+        },
+        {
+          "name": "Santiago Puringla",
+          "lat": 14.35,
+          "lng": -87.9
+        },
+        {
+          "name": "Tepanguare",
+          "lat": 14.33333,
+          "lng": -87.75
+        },
+        {
+          "name": "Yarula",
+          "lat": 14.1,
+          "lng": -88.08
+        },
+        {
+          "name": "Yarumela",
+          "lat": 14.33333,
+          "lng": -87.63333
+        }
+      ]
+    },
+    {
+      "name": "Lempira",
+      "lat": 14.4556602,
+      "lng": -88.6188558,
+      "districts": [
+        {
+          "name": "Belén",
+          "lat": 14.50834,
+          "lng": -88.42819
+        },
+        {
+          "name": "Candelaria",
+          "lat": 14.06072,
+          "lng": -88.55913
+        },
+        {
+          "name": "Cololaca",
+          "lat": 14.31189,
+          "lng": -88.8772
+        },
+        {
+          "name": "El Achiotal",
+          "lat": 14.08333,
+          "lng": -88.75
+        },
+        {
+          "name": "Erandique",
+          "lat": 14.23333,
+          "lng": -88.46667
+        },
+        {
+          "name": "Gracias",
+          "lat": 14.59028,
+          "lng": -88.58194
+        },
+        {
+          "name": "Gualcince",
+          "lat": 14.12869,
+          "lng": -88.56812
+        },
+        {
+          "name": "Guarita",
+          "lat": 14.20784,
+          "lng": -88.85161
+        },
+        {
+          "name": "La Campa",
+          "lat": 14.4728,
+          "lng": -88.5609
+        },
+        {
+          "name": "La Iguala",
+          "lat": 14.66441,
+          "lng": -88.4636
+        },
+        {
+          "name": "La Libertad",
+          "lat": 14.8,
+          "lng": -88.58333
+        },
+        {
+          "name": "La Unión",
+          "lat": 14.81667,
+          "lng": -88.4
+        },
+        {
+          "name": "La Virtud",
+          "lat": 14.07156,
+          "lng": -88.68584
+        },
+        {
+          "name": "Las Flores",
+          "lat": 14.6793,
+          "lng": -88.6504
+        },
+        {
+          "name": "Las Tejeras",
+          "lat": 14.8,
+          "lng": -88.6
+        },
+        {
+          "name": "Lepaera",
+          "lat": 14.78333,
+          "lng": -88.58333
+        },
+        {
+          "name": "Mapulaca",
+          "lat": 14.04293,
+          "lng": -88.6244
+        },
+        {
+          "name": "Piraera",
+          "lat": 14.06261,
+          "lng": -88.46319
+        },
+        {
+          "name": "San Andrés",
+          "lat": 14.21968,
+          "lng": -88.54981
+        },
+        {
+          "name": "San Francisco",
+          "lat": 14.12435,
+          "lng": -88.37189
+        },
+        {
+          "name": "San Juan Guarita",
+          "lat": 14.15492,
+          "lng": -88.77477
+        },
+        {
+          "name": "San Manuel Colohete",
+          "lat": 14.44435,
+          "lng": -88.6705
+        },
+        {
+          "name": "San Marcos de Caiquin",
+          "lat": 14.41614,
+          "lng": -88.60126
+        },
+        {
+          "name": "San Rafael",
+          "lat": 14.73333,
+          "lng": -88.41667
+        },
+        {
+          "name": "San Sebastián",
+          "lat": 14.34594,
+          "lng": -88.73487
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 14.34427,
+          "lng": -88.52684
+        },
+        {
+          "name": "Talgua",
+          "lat": 14.6811,
+          "lng": -88.728
+        },
+        {
+          "name": "Tambla",
+          "lat": 14.21276,
+          "lng": -88.76768
+        },
+        {
+          "name": "Taragual",
+          "lat": 14.75,
+          "lng": -88.48333
+        },
+        {
+          "name": "Tomalá",
+          "lat": 14.2433,
+          "lng": -88.7314
+        },
+        {
+          "name": "Valladolid",
+          "lat": 14.1471,
+          "lng": -88.7084
+        },
+        {
+          "name": "Virginia",
+          "lat": 14.00522,
+          "lng": -88.56193
+        }
+      ]
+    },
+    {
+      "name": "Ocotepeque",
+      "lat": 14.4759433,
+      "lng": -89.0365633,
+      "districts": [
+        {
+          "name": "Antigua Ocotepeque",
+          "lat": 14.4,
+          "lng": -89.2
+        },
+        {
+          "name": "Belén Gualcho",
+          "lat": 14.48333,
+          "lng": -88.8
+        },
+        {
+          "name": "Concepción",
+          "lat": 14.52383,
+          "lng": -89.19371
+        },
+        {
+          "name": "Dolores Merendón",
+          "lat": 14.55095,
+          "lng": -89.12493
+        },
+        {
+          "name": "El Tránsito",
+          "lat": 14.38333,
+          "lng": -88.91667
+        },
+        {
+          "name": "Fraternidad",
+          "lat": 14.58087,
+          "lng": -89.0774
+        },
+        {
+          "name": "La Encarnación",
+          "lat": 14.66667,
+          "lng": -89.04742
+        },
+        {
+          "name": "La Labor",
+          "lat": 14.48333,
+          "lng": -89
+        },
+        {
+          "name": "Lucerna",
+          "lat": 14.55,
+          "lng": -88.93333
+        },
+        {
+          "name": "Mercedes",
+          "lat": 14.31667,
+          "lng": -88.98333
+        },
+        {
+          "name": "Nueva Ocotepeque",
+          "lat": 14.43333,
+          "lng": -89.18333
+        },
+        {
+          "name": "San Fernando",
+          "lat": 14.68793,
+          "lng": -89.10153
+        },
+        {
+          "name": "San Francisco de Cones",
+          "lat": 14.51667,
+          "lng": -88.9
+        },
+        {
+          "name": "San Francisco del Valle",
+          "lat": 14.43333,
+          "lng": -88.95
+        },
+        {
+          "name": "San Jorge",
+          "lat": 14.63697,
+          "lng": -89.1186
+        },
+        {
+          "name": "San Marcos",
+          "lat": 14.38,
+          "lng": -88.92
+        },
+        {
+          "name": "Santa Fe",
+          "lat": 14.50038,
+          "lng": -89.2732
+        },
+        {
+          "name": "Santa Lucía",
+          "lat": 14.41667,
+          "lng": -89.2
+        },
+        {
+          "name": "Sensenti",
+          "lat": 14.48333,
+          "lng": -88.93333
+        },
+        {
+          "name": "Sinuapa",
+          "lat": 14.45,
+          "lng": -89.18333
+        },
+        {
+          "name": "Yaruchel",
+          "lat": 14.53333,
+          "lng": -88.81667
+        }
+      ]
+    },
+    {
+      "name": "Olancho",
+      "lat": 14.8211028,
+      "lng": -85.9549881,
+      "districts": [
+        {
+          "name": "Catacamas",
+          "lat": 14.60384,
+          "lng": -85.54261
+        },
+        {
+          "name": "Arimís",
+          "lat": 14.78333,
+          "lng": -86
+        },
+        {
+          "name": "Campamento",
+          "lat": 14.55,
+          "lng": -86.65
+        },
+        {
+          "name": "Concordia",
+          "lat": 14.61667,
+          "lng": -86.65
+        },
+        {
+          "name": "Dulce Nombre de Culmí",
+          "lat": 15.1,
+          "lng": -85.53333
+        },
+        {
+          "name": "El Guayabito",
+          "lat": 14.83333,
+          "lng": -86.03333
+        },
+        {
+          "name": "El Rosario",
+          "lat": 14.8872,
+          "lng": -86.68764
+        },
+        {
+          "name": "El Rusio",
+          "lat": 14.46667,
+          "lng": -86.36667
+        },
+        {
+          "name": "Esquipulas del Norte",
+          "lat": 15.27763,
+          "lng": -86.5576
+        },
+        {
+          "name": "Gualaco",
+          "lat": 15.02521,
+          "lng": -86.07076
+        },
+        {
+          "name": "Guarizama",
+          "lat": 14.91667,
+          "lng": -86.33333
+        },
+        {
+          "name": "Guata",
+          "lat": 15.15133,
+          "lng": -86.37624
+        },
+        {
+          "name": "Guayape",
+          "lat": 14.71667,
+          "lng": -86.83333
+        },
+        {
+          "name": "Jano",
+          "lat": 15.07902,
+          "lng": -86.51521
+        },
+        {
+          "name": "Juticalpa",
+          "lat": 14.66667,
+          "lng": -86.21944
+        },
+        {
+          "name": "Jutiquile",
+          "lat": 14.71667,
+          "lng": -86.08333
+        },
+        {
+          "name": "La Concepción",
+          "lat": 14.7,
+          "lng": -86.23333
+        },
+        {
+          "name": "La Estancia",
+          "lat": 15.05,
+          "lng": -86.35
+        },
+        {
+          "name": "La Guata",
+          "lat": 15.08333,
+          "lng": -86.38333
+        },
+        {
+          "name": "La Unión",
+          "lat": 15.09759,
+          "lng": -86.6891
+        },
+        {
+          "name": "Laguna Seca",
+          "lat": 14.7,
+          "lng": -86.1
+        },
+        {
+          "name": "Mangulile",
+          "lat": 15.06667,
+          "lng": -86.8
+        },
+        {
+          "name": "Manto",
+          "lat": 14.91667,
+          "lng": -86.38333
+        },
+        {
+          "name": "Municipio de San Francisco de La Paz",
+          "lat": 14.84183,
+          "lng": -86.11819
+        },
+        {
+          "name": "Patuca",
+          "lat": 14.36,
+          "lng": -85.97
+        },
+        {
+          "name": "Punuare",
+          "lat": 14.73333,
+          "lng": -85.96667
+        },
+        {
+          "name": "Salamá",
+          "lat": 14.81052,
+          "lng": -86.61996
+        },
+        {
+          "name": "San Esteban",
+          "lat": 15.29467,
+          "lng": -85.69487
+        },
+        {
+          "name": "San Francisco de Becerra",
+          "lat": 14.63333,
+          "lng": -86.1
+        },
+        {
+          "name": "San Francisco de la Paz",
+          "lat": 14.9,
+          "lng": -86.2
+        },
+        {
+          "name": "San José de Río Tinto",
+          "lat": 14.93333,
+          "lng": -85.7
+        },
+        {
+          "name": "San Nicolás",
+          "lat": 14.55,
+          "lng": -86.25
+        },
+        {
+          "name": "Santa María del Real",
+          "lat": 14.76667,
+          "lng": -85.95
+        },
+        {
+          "name": "Silca",
+          "lat": 14.76205,
+          "lng": -86.51521
+        },
+        {
+          "name": "Yocón",
+          "lat": 14.95,
+          "lng": -86.82
+        },
+        {
+          "name": "Zopilotepe",
+          "lat": 14.6,
+          "lng": -86.26667
+        }
+      ]
+    },
+    {
+      "name": "Santa Bárbara",
+      "lat": 15.0960558,
+      "lng": -88.3673692,
+      "districts": [
+        {
+          "name": "Agualote",
+          "lat": 15.33528,
+          "lng": -88.55306
+        },
+        {
+          "name": "Arada",
+          "lat": 14.85,
+          "lng": -88.3
+        },
+        {
+          "name": "Atima",
+          "lat": 14.93333,
+          "lng": -88.48333
+        },
+        {
+          "name": "Azacualpa",
+          "lat": 14.71667,
+          "lng": -88.1
+        },
+        {
+          "name": "Berlín",
+          "lat": 14.83333,
+          "lng": -88.5
+        },
+        {
+          "name": "Callejones",
+          "lat": 15.16667,
+          "lng": -88.65
+        },
+        {
+          "name": "Camalote",
+          "lat": 15.33333,
+          "lng": -88.33333
+        },
+        {
+          "name": "Casa Quemada",
+          "lat": 15.26667,
+          "lng": -88.55
+        },
+        {
+          "name": "Ceguaca",
+          "lat": 14.8,
+          "lng": -88.2
+        },
+        {
+          "name": "Chinda",
+          "lat": 15.11667,
+          "lng": -88.2
+        },
+        {
+          "name": "Concepción del Norte",
+          "lat": 15.20227,
+          "lng": -88.13728
+        },
+        {
+          "name": "Concepción del Sur",
+          "lat": 14.81263,
+          "lng": -88.15316
+        },
+        {
+          "name": "Correderos",
+          "lat": 15.41667,
+          "lng": -88.45
+        },
+        {
+          "name": "El Ciruelo",
+          "lat": 15.3,
+          "lng": -88.5
+        },
+        {
+          "name": "El Corozal",
+          "lat": 15.06667,
+          "lng": -88.61667
+        },
+        {
+          "name": "El Mochito",
+          "lat": 14.86667,
+          "lng": -88.08333
+        },
+        {
+          "name": "El Níspero",
+          "lat": 14.75957,
+          "lng": -88.34438
+        },
+        {
+          "name": "Guacamaya",
+          "lat": 15.01667,
+          "lng": -88.15
+        },
+        {
+          "name": "Gualala",
+          "lat": 14.98,
+          "lng": -88.17
+        },
+        {
+          "name": "Gualjoco",
+          "lat": 14.95,
+          "lng": -88.23333
+        },
+        {
+          "name": "Ilama",
+          "lat": 15.06667,
+          "lng": -88.21667
+        },
+        {
+          "name": "Joconal",
+          "lat": 15.35444,
+          "lng": -88.63556
+        },
+        {
+          "name": "La Flecha",
+          "lat": 15.28333,
+          "lng": -88.48333
+        },
+        {
+          "name": "Laguna Verde",
+          "lat": 15.2,
+          "lng": -88.16667
+        },
+        {
+          "name": "Las Vegas",
+          "lat": 14.86636,
+          "lng": -88.07233
+        },
+        {
+          "name": "Las Vegas Santa Barbara",
+          "lat": 14.87649,
+          "lng": -88.07473
+        },
+        {
+          "name": "Loma Alta",
+          "lat": 15.39667,
+          "lng": -88.55972
+        },
+        {
+          "name": "Macuelizo",
+          "lat": 15.26,
+          "lng": -88.66
+        },
+        {
+          "name": "Naco",
+          "lat": 15.38333,
+          "lng": -88.18333
+        },
+        {
+          "name": "Naranjito",
+          "lat": 14.95,
+          "lng": -88.68333
+        },
+        {
+          "name": "Nueva Frontera",
+          "lat": 15.21,
+          "lng": -88.56
+        },
+        {
+          "name": "Nueva Jalapa",
+          "lat": 14.91667,
+          "lng": -88.33333
+        },
+        {
+          "name": "Nuevo Celilac",
+          "lat": 14.97554,
+          "lng": -88.36726
+        },
+        {
+          "name": "Petoa",
+          "lat": 15.26667,
+          "lng": -88.28333
+        },
+        {
+          "name": "Pinalejo",
+          "lat": 15.38333,
+          "lng": -88.4
+        },
+        {
+          "name": "Protección",
+          "lat": 15.03333,
+          "lng": -88.65
+        },
+        {
+          "name": "Quimistán",
+          "lat": 15.35,
+          "lng": -88.4
+        },
+        {
+          "name": "San Francisco de Ojuera",
+          "lat": 14.67,
+          "lng": -88.21
+        },
+        {
+          "name": "San José de Colinas",
+          "lat": 15.03333,
+          "lng": -88.3
+        },
+        {
+          "name": "San José de Tarros",
+          "lat": 15.3,
+          "lng": -88.7
+        },
+        {
+          "name": "San Luis",
+          "lat": 15.08333,
+          "lng": -88.38333
+        },
+        {
+          "name": "San Luis de Planes",
+          "lat": 14.98333,
+          "lng": -88.13333
+        },
+        {
+          "name": "San Marcos",
+          "lat": 15.3,
+          "lng": -88.41667
+        },
+        {
+          "name": "San Nicolás",
+          "lat": 14.91913,
+          "lng": -88.3791
+        },
+        {
+          "name": "San Pedro Zacapa",
+          "lat": 14.75,
+          "lng": -88.11667
+        },
+        {
+          "name": "San Vicente Centenario",
+          "lat": 14.88333,
+          "lng": -88.28333
+        },
+        {
+          "name": "Santa Bárbara",
+          "lat": 14.91944,
+          "lng": -88.23611
+        },
+        {
+          "name": "Santa Rita",
+          "lat": 14.76015,
+          "lng": -88.26782
+        },
+        {
+          "name": "Sula",
+          "lat": 15.25,
+          "lng": -88.56667
+        },
+        {
+          "name": "Tras Cerros",
+          "lat": 15.3,
+          "lng": -88.66667
+        },
+        {
+          "name": "Trinidad",
+          "lat": 15.13333,
+          "lng": -88.23333
+        }
+      ]
+    },
+    {
+      "name": "Valle",
+      "lat": 13.5110996,
+      "lng": -87.5472925,
+      "districts": [
+        {
+          "name": "Agua Fría",
+          "lat": 13.46889,
+          "lng": -87.55111
+        },
+        {
+          "name": "Alianza",
+          "lat": 13.44815,
+          "lng": -87.68643
+        },
+        {
+          "name": "Amapala",
+          "lat": 13.29222,
+          "lng": -87.65389
+        },
+        {
+          "name": "Aramecina",
+          "lat": 13.74222,
+          "lng": -87.71028
+        },
+        {
+          "name": "Caridad",
+          "lat": 13.81562,
+          "lng": -87.68121
+        },
+        {
+          "name": "El Cubolero",
+          "lat": 13.46667,
+          "lng": -87.66667
+        },
+        {
+          "name": "El Tular",
+          "lat": 13.46639,
+          "lng": -87.51528
+        },
+        {
+          "name": "Goascorán",
+          "lat": 13.58333,
+          "lng": -87.61667
+        },
+        {
+          "name": "Jícaro Galán",
+          "lat": 13.53167,
+          "lng": -87.43889
+        },
+        {
+          "name": "La Alianza",
+          "lat": 13.51222,
+          "lng": -87.72444
+        },
+        {
+          "name": "La Criba",
+          "lat": 13.45361,
+          "lng": -87.41333
+        },
+        {
+          "name": "Langue",
+          "lat": 13.62083,
+          "lng": -87.6525
+        },
+        {
+          "name": "Nacaome",
+          "lat": 13.52209,
+          "lng": -87.52477
+        },
+        {
+          "name": "San Francisco de Coray",
+          "lat": 13.66139,
+          "lng": -87.53278
+        },
+        {
+          "name": "San Lorenzo",
+          "lat": 13.45149,
+          "lng": -87.40743
+        }
+      ]
+    },
+    {
+      "name": "Yoro",
+      "lat": 15.2994474,
+      "lng": -87.2916981,
+      "districts": [
+        {
+          "name": "El Progreso",
+          "lat": 15.42762,
+          "lng": -87.77396
+        },
+        {
+          "name": "Agua Blanca Sur",
+          "lat": 15.25,
+          "lng": -87.88333
+        },
+        {
+          "name": "Arenal",
+          "lat": 15.35,
+          "lng": -86.83333
+        },
+        {
+          "name": "Armenia",
+          "lat": 15.46667,
+          "lng": -86.36667
+        },
+        {
+          "name": "Ayapa",
+          "lat": 15.11174,
+          "lng": -87.17557
+        },
+        {
+          "name": "Bálsamo Oriental",
+          "lat": 15.48333,
+          "lng": -86.33333
+        },
+        {
+          "name": "Carbajales",
+          "lat": 15.51667,
+          "lng": -86.35
+        },
+        {
+          "name": "Coyoles Central",
+          "lat": 15.4,
+          "lng": -86.66667
+        },
+        {
+          "name": "El Bálsamo",
+          "lat": 15.06667,
+          "lng": -87.46667
+        },
+        {
+          "name": "El Juncal",
+          "lat": 15.45,
+          "lng": -86.43333
+        },
+        {
+          "name": "El Negrito",
+          "lat": 15.31667,
+          "lng": -87.7
+        },
+        {
+          "name": "El Ocote",
+          "lat": 15.41667,
+          "lng": -86.56667
+        },
+        {
+          "name": "Guaimitas",
+          "lat": 15.5,
+          "lng": -87.71667
+        },
+        {
+          "name": "Jocón",
+          "lat": 15.28333,
+          "lng": -86.96667
+        },
+        {
+          "name": "La Estancia",
+          "lat": 15.28333,
+          "lng": -87.55
+        },
+        {
+          "name": "La Guacamaya",
+          "lat": 15.25,
+          "lng": -87.8
+        },
+        {
+          "name": "La Mina",
+          "lat": 15.31667,
+          "lng": -87.83333
+        },
+        {
+          "name": "La Rosa",
+          "lat": 15.35,
+          "lng": -87.06667
+        },
+        {
+          "name": "La Sarrosa",
+          "lat": 15.23333,
+          "lng": -87.83333
+        },
+        {
+          "name": "La Trinidad",
+          "lat": 15.1,
+          "lng": -87.2
+        },
+        {
+          "name": "Las Vegas",
+          "lat": 15.01667,
+          "lng": -87.45
+        },
+        {
+          "name": "Lomitas",
+          "lat": 15.1,
+          "lng": -87.21667
+        },
+        {
+          "name": "Mojimán",
+          "lat": 15.26667,
+          "lng": -87.6
+        },
+        {
+          "name": "Morazán",
+          "lat": 15.31667,
+          "lng": -87.6
+        },
+        {
+          "name": "Nombre de Jesús",
+          "lat": 15.35,
+          "lng": -86.68333
+        },
+        {
+          "name": "Nueva Esperanza",
+          "lat": 15.2625391,
+          "lng": -87.5957212
+        },
+        {
+          "name": "Ocote Paulino",
+          "lat": 15.41667,
+          "lng": -87.6
+        },
+        {
+          "name": "Olanchito",
+          "lat": 15.48131,
+          "lng": -86.57415
+        },
+        {
+          "name": "Paujiles",
+          "lat": 15.1,
+          "lng": -87.35
+        },
+        {
+          "name": "Punta Ocote",
+          "lat": 15.2,
+          "lng": -87.28333
+        },
+        {
+          "name": "San Antonio",
+          "lat": 15.33333,
+          "lng": -87.15
+        },
+        {
+          "name": "San José",
+          "lat": 15.31667,
+          "lng": -87.16667
+        },
+        {
+          "name": "Santa Rita",
+          "lat": 15.18,
+          "lng": -87.81
+        },
+        {
+          "name": "Subirana",
+          "lat": 15.2,
+          "lng": -87.45
+        },
+        {
+          "name": "Sulaco",
+          "lat": 14.91667,
+          "lng": -87.26667
+        },
+        {
+          "name": "Teguajinal",
+          "lat": 15.36667,
+          "lng": -86.6
+        },
+        {
+          "name": "Tepusteca",
+          "lat": 15.41667,
+          "lng": -86.31667
+        },
+        {
+          "name": "Toyós",
+          "lat": 15.55,
+          "lng": -87.65
+        },
+        {
+          "name": "Trojas",
+          "lat": 15.35,
+          "lng": -86.7
+        },
+        {
+          "name": "Victoria",
+          "lat": 15.10012,
+          "lng": -87.5302
+        },
+        {
+          "name": "Yorito",
+          "lat": 15.06667,
+          "lng": -87.28333
+        },
+        {
+          "name": "Yoro",
+          "lat": 15.1375,
+          "lng": -87.12778
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+  "name": "North Korea",
+  "lat": 40,
+  "lng": 127,
+  "cities": [
+    {
+      "name": "Chagang",
+      "lat": 40.7198536,
+      "lng": 126.539056,
+      "districts": [
+        {
+          "name": "Kanggye",
+          "lat": 40.96946,
+          "lng": 126.58523
+        },
+        {
+          "name": "Manp’o",
+          "lat": 41.15472,
+          "lng": 126.28944
+        },
+        {
+          "name": "Changgang-gun",
+          "lat": 41.06333,
+          "lng": 126.72556
+        },
+        {
+          "name": "Chasŏng",
+          "lat": 41.46083,
+          "lng": 126.64139
+        }
+      ]
+    },
+    {
+      "name": "Kaesong",
+      "lat": 37.97166667,
+      "lng": 126.55277778,
+      "districts": []
+    },
+    {
+      "name": "Kangwon",
+      "lat": 38.8354349,
+      "lng": 127.5146547,
+      "districts": [
+        {
+          "name": "Wŏnsan",
+          "lat": 39.15278,
+          "lng": 127.44361
+        },
+        {
+          "name": "Anbyŏn-ŭp",
+          "lat": 39.0425,
+          "lng": 127.52389
+        },
+        {
+          "name": "Hoeyang",
+          "lat": 38.71028,
+          "lng": 127.59833
+        },
+        {
+          "name": "Kosan",
+          "lat": 38.85583,
+          "lng": 127.41806
+        },
+        {
+          "name": "T’ongch’ŏn-ŭp",
+          "lat": 38.95389,
+          "lng": 127.89167
+        }
+      ]
+    },
+    {
+      "name": "Nampho",
+      "lat": 38.73555556,
+      "lng": 125.40888889,
+      "districts": []
+    },
+    {
+      "name": "North Hamgyong",
+      "lat": 41.9098723,
+      "lng": 129.369056,
+      "districts": [
+        {
+          "name": "Chongjin",
+          "lat": 41.79556,
+          "lng": 129.77583
+        },
+        {
+          "name": "Kyŏngwŏn",
+          "lat": 42.81361,
+          "lng": 130.15278
+        },
+        {
+          "name": "Aoji",
+          "lat": 42.52448,
+          "lng": 130.39718
+        },
+        {
+          "name": "Hau-ri",
+          "lat": 41.20056,
+          "lng": 129.47028
+        },
+        {
+          "name": "Hoemul-li",
+          "lat": 41.43389,
+          "lng": 129.67
+        },
+        {
+          "name": "Hoeryŏng",
+          "lat": 42.44113,
+          "lng": 129.74601
+        },
+        {
+          "name": "Kilju",
+          "lat": 40.96417,
+          "lng": 129.32778
+        },
+        {
+          "name": "Kimch’aek-si",
+          "lat": 40.66889,
+          "lng": 129.18972
+        },
+        {
+          "name": "Komusan Il-tong",
+          "lat": 42.10914,
+          "lng": 129.69997
+        },
+        {
+          "name": "Kyŏngsŏng",
+          "lat": 41.58778,
+          "lng": 129.60611
+        },
+        {
+          "name": "Musan-ŭp",
+          "lat": 42.22609,
+          "lng": 129.20776
+        },
+        {
+          "name": "Namyang-dong",
+          "lat": 42.95,
+          "lng": 129.86667
+        },
+        {
+          "name": "Nanam",
+          "lat": 41.71361,
+          "lng": 129.68444
+        },
+        {
+          "name": "Onsŏng",
+          "lat": 42.95722,
+          "lng": 129.99333
+        },
+        {
+          "name": "Puryŏng",
+          "lat": 42.06056,
+          "lng": 129.71167
+        },
+        {
+          "name": "Sŭngam-nodongjagu",
+          "lat": 41.66972,
+          "lng": 129.66889
+        }
+      ]
+    },
+    {
+      "name": "North Hwanghae",
+      "lat": 38.5709632,
+      "lng": 126.2465723,
+      "districts": [
+        {
+          "name": "Sariwŏn",
+          "lat": 38.50722,
+          "lng": 125.75583
+        },
+        {
+          "name": "Anak",
+          "lat": 38.51083,
+          "lng": 125.49417
+        },
+        {
+          "name": "Hŭkkyo-ri",
+          "lat": 38.79861,
+          "lng": 125.79194
+        },
+        {
+          "name": "Hwangju-ŭp",
+          "lat": 38.67028,
+          "lng": 125.77611
+        },
+        {
+          "name": "Koksan",
+          "lat": 38.78194,
+          "lng": 126.66639
+        },
+        {
+          "name": "Sinmak",
+          "lat": 38.41667,
+          "lng": 126.23333
+        },
+        {
+          "name": "Songnim",
+          "lat": 38.75417,
+          "lng": 125.645
+        }
+      ]
+    },
+    {
+      "name": "North Pyongan",
+      "lat": 40.0642847,
+      "lng": 125.2356222,
+      "districts": [
+        {
+          "name": "Sinŭiju",
+          "lat": 40.10056,
+          "lng": 124.39806
+        },
+        {
+          "name": "Chŏngju",
+          "lat": 39.69333,
+          "lng": 125.21028
+        },
+        {
+          "name": "Chŏngju-gun",
+          "lat": 39.70944,
+          "lng": 125.25278
+        },
+        {
+          "name": "Kujang-ŭp",
+          "lat": 39.86722,
+          "lng": 126.03028
+        },
+        {
+          "name": "Kusŏng",
+          "lat": 39.98111,
+          "lng": 125.24472
+        },
+        {
+          "name": "Kwaksan",
+          "lat": 39.6875,
+          "lng": 125.08278
+        },
+        {
+          "name": "Panghyŏn-dong",
+          "lat": 39.88722,
+          "lng": 125.24139
+        },
+        {
+          "name": "Pukchil-lodongjagu",
+          "lat": 40.20194,
+          "lng": 125.74833
+        },
+        {
+          "name": "Sakchu-ŭp",
+          "lat": 40.38944,
+          "lng": 125.04667
+        },
+        {
+          "name": "Ŭiju",
+          "lat": 40.19944,
+          "lng": 124.53167
+        },
+        {
+          "name": "Yŏmju-ŭp",
+          "lat": 39.89333,
+          "lng": 124.59806
+        },
+        {
+          "name": "Yŏngbyŏn",
+          "lat": 39.81333,
+          "lng": 125.80417
+        }
+      ]
+    },
+    {
+      "name": "Pyongyang",
+      "lat": 39.0167979,
+      "lng": 125.7473609,
+      "districts": [
+        {
+          "name": "Pyongyang",
+          "lat": 39.03385,
+          "lng": 125.75432,
+          "iscapital": true
+        },
+        {
+          "name": "Chunghwa",
+          "lat": 38.86389,
+          "lng": 125.8
+        },
+        {
+          "name": "Kangdong-ŭp",
+          "lat": 39.1425,
+          "lng": 126.09611
+        },
+        {
+          "name": "Sunan",
+          "lat": 39.19833,
+          "lng": 125.69
+        },
+        {
+          "name": "Sŭngho 1-tong",
+          "lat": 38.99139,
+          "lng": 125.97778
+        }
+      ]
+    },
+    {
+      "name": "Rason",
+      "lat": 42.2497316,
+      "lng": 130.3113296,
+      "districts": [
+        {
+          "name": "Sŏnbong",
+          "lat": 42.35118,
+          "lng": 130.38307
+        },
+        {
+          "name": "Ungsang-nodongjagu",
+          "lat": 42.35778,
+          "lng": 130.46222
+        }
+      ]
+    },
+    {
+      "name": "Ryanggang",
+      "lat": 41.0997898,
+      "lng": 128.1690346,
+      "districts": [
+        {
+          "name": "Hyesan",
+          "lat": 41.40167,
+          "lng": 128.17778
+        },
+        {
+          "name": "Hyesan-dong",
+          "lat": 41.39756,
+          "lng": 128.17873
+        },
+        {
+          "name": "Kapsan-ŭp",
+          "lat": 41.09028,
+          "lng": 128.29333
+        },
+        {
+          "name": "Sŭngjibaegam",
+          "lat": 41.24278,
+          "lng": 128.79889
+        }
+      ]
+    },
+    {
+      "name": "South Hamgyong",
+      "lat": 40.119918,
+      "lng": 127.5990989,
+      "districts": [
+        {
+          "name": "Hamhŭng",
+          "lat": 39.91833,
+          "lng": 127.53639
+        },
+        {
+          "name": "Hongwŏn",
+          "lat": 40.02528,
+          "lng": 127.95583
+        },
+        {
+          "name": "Hŭngnam",
+          "lat": 39.83167,
+          "lng": 127.61861
+        },
+        {
+          "name": "Iwŏn-ŭp",
+          "lat": 40.32306,
+          "lng": 128.65528
+        },
+        {
+          "name": "Kowŏn-ŭp",
+          "lat": 39.43806,
+          "lng": 127.24306
+        },
+        {
+          "name": "Samho-rodongjagu",
+          "lat": 39.9475,
+          "lng": 127.87111
+        },
+        {
+          "name": "Sinsang-ni",
+          "lat": 39.65028,
+          "lng": 127.40583
+        },
+        {
+          "name": "Yŏnggwang-ŭp",
+          "lat": 40.01833,
+          "lng": 127.45472
+        },
+        {
+          "name": "Yuktae-dong",
+          "lat": 40.02472,
+          "lng": 128.15972
+        }
+      ]
+    },
+    {
+      "name": "South Hwanghae",
+      "lat": 38.2628262,
+      "lng": 125.476901,
+      "districts": [
+        {
+          "name": "Haeju",
+          "lat": 38.04056,
+          "lng": 125.71472
+        },
+        {
+          "name": "Kaesŏng",
+          "lat": 37.97083,
+          "lng": 126.55444
+        },
+        {
+          "name": "Ayang-ni",
+          "lat": 38.24306,
+          "lng": 125.78
+        },
+        {
+          "name": "Chaeryŏng-ŭp",
+          "lat": 38.39917,
+          "lng": 125.61556
+        },
+        {
+          "name": "Changyŏn",
+          "lat": 38.25083,
+          "lng": 125.09611
+        },
+        {
+          "name": "Ongjin",
+          "lat": 37.93472,
+          "lng": 125.36194
+        },
+        {
+          "name": "Pyŏksŏng-ŭp",
+          "lat": 38.0475,
+          "lng": 125.55667
+        },
+        {
+          "name": "Yŏnan-ŭp",
+          "lat": 37.90889,
+          "lng": 126.16111
+        }
+      ]
+    },
+    {
+      "name": "South Pyongan",
+      "lat": 39.5416505,
+      "lng": 126.0647645,
+      "districts": [
+        {
+          "name": "Namp’o",
+          "lat": 38.7375,
+          "lng": 125.40778
+        },
+        {
+          "name": "P’yŏngsŏng",
+          "lat": 39.24639,
+          "lng": 125.87194
+        },
+        {
+          "name": "Sunch’ŏn",
+          "lat": 39.43167,
+          "lng": 125.93278
+        },
+        {
+          "name": "Anju",
+          "lat": 39.61778,
+          "lng": 125.66472
+        },
+        {
+          "name": "Sangsŏng-ni",
+          "lat": 39.16944,
+          "lng": 126.88556
+        },
+        {
+          "name": "Sil-li",
+          "lat": 39.49472,
+          "lng": 125.47361
+        },
+        {
+          "name": "Sinanju",
+          "lat": 39.59806,
+          "lng": 125.60972
+        },
+        {
+          "name": "Yonggang-ŭp",
+          "lat": 38.85611,
+          "lng": 125.42444
+        }
+      ]
+    }
+  ]
+}

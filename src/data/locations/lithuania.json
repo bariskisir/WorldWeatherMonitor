@@ -1,0 +1,1078 @@
+{
+  "name": "Lithuania",
+  "lat": 56,
+  "lng": 24,
+  "cities": [
+    {
+      "name": "Akmenė",
+      "lat": 56.2455029,
+      "lng": 22.7471169,
+      "districts": []
+    },
+    {
+      "name": "Alytus",
+      "lat": 54.3924677,
+      "lng": 24.1087607,
+      "districts": []
+    },
+    {
+      "name": "Alytus",
+      "lat": 54.3924677,
+      "lng": 24.1087607,
+      "districts": [
+        {
+          "name": "Alytus",
+          "lat": 54.39635,
+          "lng": 24.04142
+        },
+        {
+          "name": "Daugai",
+          "lat": 54.36667,
+          "lng": 24.33333
+        },
+        {
+          "name": "Druskininkai",
+          "lat": 54.01573,
+          "lng": 23.98703
+        },
+        {
+          "name": "Lazdijai",
+          "lat": 54.23333,
+          "lng": 23.51667
+        },
+        {
+          "name": "Simnas",
+          "lat": 54.382,
+          "lng": 23.646
+        },
+        {
+          "name": "Varėna",
+          "lat": 54.21667,
+          "lng": 24.56667
+        },
+        {
+          "name": "Veisiejai",
+          "lat": 54.1011,
+          "lng": 23.69614
+        }
+      ]
+    },
+    {
+      "name": "Alytus",
+      "lat": 54.3924677,
+      "lng": 24.1087607,
+      "districts": []
+    },
+    {
+      "name": "Anykščiai",
+      "lat": 55.5257935,
+      "lng": 25.1061247,
+      "districts": []
+    },
+    {
+      "name": "Birštonas",
+      "lat": 54.5864194,
+      "lng": 24.0421736,
+      "districts": []
+    },
+    {
+      "name": "Biržai",
+      "lat": 56.2017719,
+      "lng": 24.7560118,
+      "districts": []
+    },
+    {
+      "name": "Druskininkai",
+      "lat": 54.0171932,
+      "lng": 23.9772282,
+      "districts": []
+    },
+    {
+      "name": "Elektrėnai",
+      "lat": 54.786657,
+      "lng": 24.6708398,
+      "districts": []
+    },
+    {
+      "name": "Ignalina",
+      "lat": 55.3398975,
+      "lng": 26.1614043,
+      "districts": []
+    },
+    {
+      "name": "Jonava",
+      "lat": 55.0727242,
+      "lng": 24.2793337,
+      "districts": []
+    },
+    {
+      "name": "Joniškis",
+      "lat": 56.236073,
+      "lng": 23.6136579,
+      "districts": []
+    },
+    {
+      "name": "Jurbarkas",
+      "lat": 55.0777077,
+      "lng": 22.7646945,
+      "districts": []
+    },
+    {
+      "name": "Kaišiadorys",
+      "lat": 54.8602337,
+      "lng": 24.4544785,
+      "districts": []
+    },
+    {
+      "name": "Kalvarija",
+      "lat": 54.3761674,
+      "lng": 23.1920321,
+      "districts": []
+    },
+    {
+      "name": "Kaunas",
+      "lat": 54.8982139,
+      "lng": 23.9044817,
+      "districts": []
+    },
+    {
+      "name": "Kaunas",
+      "lat": 54.8982139,
+      "lng": 23.9044817,
+      "districts": []
+    },
+    {
+      "name": "Kaunas",
+      "lat": 54.8982139,
+      "lng": 23.9044817,
+      "districts": [
+        {
+          "name": "Kaunas",
+          "lat": 54.90272,
+          "lng": 23.90961
+        },
+        {
+          "name": "Akademija (Kaunas)",
+          "lat": 54.8964,
+          "lng": 23.82411
+        },
+        {
+          "name": "Aleksotas",
+          "lat": 54.88037,
+          "lng": 23.90842
+        },
+        {
+          "name": "Ariogala",
+          "lat": 55.262,
+          "lng": 23.477
+        },
+        {
+          "name": "Birštonas",
+          "lat": 54.61667,
+          "lng": 24.03333
+        },
+        {
+          "name": "Dainava (Kaunas)",
+          "lat": 54.91525,
+          "lng": 23.96831
+        },
+        {
+          "name": "Eiguliai",
+          "lat": 54.93133,
+          "lng": 23.93243
+        },
+        {
+          "name": "Ežerėlis",
+          "lat": 54.88315,
+          "lng": 23.60396
+        },
+        {
+          "name": "Garliava",
+          "lat": 54.82139,
+          "lng": 23.8713
+        },
+        {
+          "name": "Jieznas",
+          "lat": 54.59937,
+          "lng": 24.17593
+        },
+        {
+          "name": "Jonava",
+          "lat": 55.08333,
+          "lng": 24.28333
+        },
+        {
+          "name": "Kaišiadorys",
+          "lat": 54.86667,
+          "lng": 24.45
+        },
+        {
+          "name": "Karmėlava",
+          "lat": 54.97055,
+          "lng": 24.06182
+        },
+        {
+          "name": "Kėdainiai",
+          "lat": 55.28333,
+          "lng": 23.96667
+        },
+        {
+          "name": "Kulautuva",
+          "lat": 54.94212,
+          "lng": 23.64218
+        },
+        {
+          "name": "Mastaiciai",
+          "lat": 54.81998,
+          "lng": 23.84462
+        },
+        {
+          "name": "Prienai",
+          "lat": 54.63333,
+          "lng": 23.95
+        },
+        {
+          "name": "Ramučiai",
+          "lat": 54.9483,
+          "lng": 24.0305
+        },
+        {
+          "name": "Raseiniai",
+          "lat": 55.36667,
+          "lng": 23.11667
+        },
+        {
+          "name": "Sargėnai",
+          "lat": 54.94933,
+          "lng": 23.88316
+        },
+        {
+          "name": "Šilainiai",
+          "lat": 54.92911,
+          "lng": 23.88599
+        },
+        {
+          "name": "Vilkija",
+          "lat": 55.04609,
+          "lng": 23.58552
+        },
+        {
+          "name": "Žiežmariai",
+          "lat": 54.80725,
+          "lng": 24.44073
+        }
+      ]
+    },
+    {
+      "name": "Kazlų Rūda",
+      "lat": 54.7520669,
+      "lng": 23.4985141,
+      "districts": []
+    },
+    {
+      "name": "Kėdainiai",
+      "lat": 55.2887322,
+      "lng": 23.9758359,
+      "districts": []
+    },
+    {
+      "name": "Kelmė",
+      "lat": 55.6294679,
+      "lng": 22.9313095,
+      "districts": []
+    },
+    {
+      "name": "Klaipėda",
+      "lat": 55.7127529,
+      "lng": 21.1350469,
+      "districts": []
+    },
+    {
+      "name": "Klaipėda",
+      "lat": 55.7127529,
+      "lng": 21.1350469,
+      "districts": [
+        {
+          "name": "Klaipėda",
+          "lat": 55.71667,
+          "lng": 21.11667
+        },
+        {
+          "name": "Gargždai",
+          "lat": 55.70951,
+          "lng": 21.39441
+        },
+        {
+          "name": "Kretinga",
+          "lat": 55.8888,
+          "lng": 21.24448
+        },
+        {
+          "name": "Neringa",
+          "lat": 55.36667,
+          "lng": 21.06667
+        },
+        {
+          "name": "Nida",
+          "lat": 55.3086,
+          "lng": 20.99651
+        },
+        {
+          "name": "Palanga",
+          "lat": 55.9175,
+          "lng": 21.06861
+        },
+        {
+          "name": "Priekulė",
+          "lat": 55.55427,
+          "lng": 21.31903
+        },
+        {
+          "name": "Rusnė",
+          "lat": 55.2982,
+          "lng": 21.3712
+        },
+        {
+          "name": "Salantai",
+          "lat": 56.0565,
+          "lng": 21.5689
+        },
+        {
+          "name": "Silute",
+          "lat": 55.34889,
+          "lng": 21.48306
+        },
+        {
+          "name": "Skuodas",
+          "lat": 56.26667,
+          "lng": 21.53333
+        },
+        {
+          "name": "Šventoji",
+          "lat": 56.0261,
+          "lng": 21.08411
+        },
+        {
+          "name": "Žemaičių Naumiestis",
+          "lat": 55.35941,
+          "lng": 21.70364
+        }
+      ]
+    },
+    {
+      "name": "Klaipėdos miestas",
+      "lat": 55.7032943,
+      "lng": 21.1442795,
+      "districts": []
+    },
+    {
+      "name": "Kretinga",
+      "lat": 55.883842,
+      "lng": 21.2350919,
+      "districts": []
+    },
+    {
+      "name": "Kupiškis",
+      "lat": 55.8388909,
+      "lng": 24.9760431,
+      "districts": []
+    },
+    {
+      "name": "Lazdijai",
+      "lat": 54.2343267,
+      "lng": 23.5156505,
+      "districts": []
+    },
+    {
+      "name": "Marijampolė",
+      "lat": 54.5562536,
+      "lng": 23.3503665,
+      "districts": [
+        {
+          "name": "Gelgaudiškis",
+          "lat": 55.07688,
+          "lng": 22.97699
+        },
+        {
+          "name": "Kalvarija",
+          "lat": 54.417,
+          "lng": 23.223
+        },
+        {
+          "name": "Kalvarija Municipality",
+          "lat": 54.41468,
+          "lng": 23.22484
+        },
+        {
+          "name": "Kazlų Rūda",
+          "lat": 54.749,
+          "lng": 23.49
+        },
+        {
+          "name": "Kazlų Rūda Municipality",
+          "lat": 54.74751,
+          "lng": 23.49272
+        },
+        {
+          "name": "Kudirkos Naumiestis",
+          "lat": 54.77353,
+          "lng": 22.86138
+        },
+        {
+          "name": "Kybartai",
+          "lat": 54.63858,
+          "lng": 22.76316
+        },
+        {
+          "name": "Marijampolė",
+          "lat": 54.55991,
+          "lng": 23.35412
+        },
+        {
+          "name": "Marijampolė Municipality",
+          "lat": 54.56667,
+          "lng": 23.35
+        },
+        {
+          "name": "Sakiai",
+          "lat": 54.95,
+          "lng": 23.05
+        },
+        {
+          "name": "Vilkaviskis",
+          "lat": 54.65167,
+          "lng": 23.03222
+        },
+        {
+          "name": "Vilkaviškis District Municipality",
+          "lat": 54.65,
+          "lng": 23.03333
+        },
+        {
+          "name": "Virbalis",
+          "lat": 54.62858,
+          "lng": 22.82272
+        }
+      ]
+    },
+    {
+      "name": "Marijampolė",
+      "lat": 54.5562536,
+      "lng": 23.3503665,
+      "districts": []
+    },
+    {
+      "name": "Mažeikiai",
+      "lat": 56.3092439,
+      "lng": 22.341468,
+      "districts": []
+    },
+    {
+      "name": "Molėtai",
+      "lat": 55.2265309,
+      "lng": 25.4180011,
+      "districts": []
+    },
+    {
+      "name": "Neringa",
+      "lat": 55.4756828,
+      "lng": 21.092587,
+      "districts": []
+    },
+    {
+      "name": "Pagėgiai",
+      "lat": 55.133252,
+      "lng": 21.9104398,
+      "districts": []
+    },
+    {
+      "name": "Pakruojis",
+      "lat": 55.9777084,
+      "lng": 23.8451797,
+      "districts": []
+    },
+    {
+      "name": "Palanga",
+      "lat": 55.920198,
+      "lng": 21.0677614,
+      "districts": []
+    },
+    {
+      "name": "Panevėžio miestas",
+      "lat": 55.7344985,
+      "lng": 24.3578055,
+      "districts": []
+    },
+    {
+      "name": "Panevėžys",
+      "lat": 55.7344985,
+      "lng": 24.3578055,
+      "districts": [
+        {
+          "name": "Birzai",
+          "lat": 56.2,
+          "lng": 24.75
+        },
+        {
+          "name": "Juodupė",
+          "lat": 56.087,
+          "lng": 25.607
+        },
+        {
+          "name": "Kupiskis",
+          "lat": 55.84027,
+          "lng": 24.97976
+        },
+        {
+          "name": "Obeliai",
+          "lat": 55.96895,
+          "lng": 25.15648
+        },
+        {
+          "name": "Panevėžys",
+          "lat": 55.73333,
+          "lng": 24.35
+        },
+        {
+          "name": "Panevėžys District Municipality",
+          "lat": 55.73301,
+          "lng": 24.37609
+        },
+        {
+          "name": "Pasvalys",
+          "lat": 56.06667,
+          "lng": 24.4
+        },
+        {
+          "name": "Ramygala",
+          "lat": 55.514,
+          "lng": 24.3
+        },
+        {
+          "name": "Rokiškis",
+          "lat": 55.96667,
+          "lng": 25.58333
+        },
+        {
+          "name": "Vabalninkas",
+          "lat": 55.98151,
+          "lng": 24.74828
+        }
+      ]
+    },
+    {
+      "name": "Panevėžys",
+      "lat": 55.7344985,
+      "lng": 24.3578055,
+      "districts": []
+    },
+    {
+      "name": "Pasvalys",
+      "lat": 56.0604619,
+      "lng": 24.396291,
+      "districts": []
+    },
+    {
+      "name": "Plungė",
+      "lat": 55.910784,
+      "lng": 21.8454069,
+      "districts": []
+    },
+    {
+      "name": "Prienai",
+      "lat": 54.638358,
+      "lng": 23.9468009,
+      "districts": []
+    },
+    {
+      "name": "Radviliškis",
+      "lat": 55.8108399,
+      "lng": 23.546487,
+      "districts": []
+    },
+    {
+      "name": "Raseiniai",
+      "lat": 55.3819499,
+      "lng": 23.1156129,
+      "districts": []
+    },
+    {
+      "name": "Rietavas",
+      "lat": 55.7229408,
+      "lng": 21.9270804,
+      "districts": []
+    },
+    {
+      "name": "Rokiškis",
+      "lat": 55.9555039,
+      "lng": 25.5859249,
+      "districts": []
+    },
+    {
+      "name": "Šakiai",
+      "lat": 54.952671,
+      "lng": 23.0480199,
+      "districts": []
+    },
+    {
+      "name": "Šalčininkai",
+      "lat": 54.309767,
+      "lng": 25.387564,
+      "districts": []
+    },
+    {
+      "name": "Šiauliai",
+      "lat": 55.9340823,
+      "lng": 23.3157775,
+      "districts": []
+    },
+    {
+      "name": "Šiauliai",
+      "lat": 55.9340823,
+      "lng": 23.3157775,
+      "districts": [
+        {
+          "name": "Šiauliai",
+          "lat": 55.93333,
+          "lng": 23.31667
+        },
+        {
+          "name": "Akmenė",
+          "lat": 56.25,
+          "lng": 22.75
+        },
+        {
+          "name": "Joniškis",
+          "lat": 56.23333,
+          "lng": 23.61667
+        },
+        {
+          "name": "Kelmė",
+          "lat": 55.63333,
+          "lng": 22.93333
+        },
+        {
+          "name": "Kuršėnai",
+          "lat": 56.00318,
+          "lng": 22.93662
+        },
+        {
+          "name": "Linkuva",
+          "lat": 56.08596,
+          "lng": 23.97061
+        },
+        {
+          "name": "Naujoji Akmene",
+          "lat": 56.31667,
+          "lng": 22.9
+        },
+        {
+          "name": "Pakruojis",
+          "lat": 55.96667,
+          "lng": 23.86667
+        },
+        {
+          "name": "Radviliskis",
+          "lat": 55.81667,
+          "lng": 23.53333
+        },
+        {
+          "name": "Šeduva",
+          "lat": 55.7493,
+          "lng": 23.7561
+        },
+        {
+          "name": "Tytuvėnėliai",
+          "lat": 55.62345,
+          "lng": 23.17162
+        },
+        {
+          "name": "Venta",
+          "lat": 56.19162,
+          "lng": 22.69528
+        },
+        {
+          "name": "Žagarė",
+          "lat": 56.36149,
+          "lng": 23.25094
+        }
+      ]
+    },
+    {
+      "name": "Šiauliai",
+      "lat": 55.9340823,
+      "lng": 23.3157775,
+      "districts": []
+    },
+    {
+      "name": "Šilalė ",
+      "lat": 55.49268,
+      "lng": 22.1845559,
+      "districts": []
+    },
+    {
+      "name": "Šilutė",
+      "lat": 55.3413747,
+      "lng": 21.4605697,
+      "districts": []
+    },
+    {
+      "name": "Širvintos",
+      "lat": 55.043102,
+      "lng": 24.956981,
+      "districts": []
+    },
+    {
+      "name": "Skuodas",
+      "lat": 56.2702169,
+      "lng": 21.5214331,
+      "districts": []
+    },
+    {
+      "name": "Švenčionys",
+      "lat": 55.1336865,
+      "lng": 26.1630146,
+      "districts": []
+    },
+    {
+      "name": "Tauragė",
+      "lat": 55.3072586,
+      "lng": 22.3572939,
+      "districts": [
+        {
+          "name": "Būgai",
+          "lat": 55.41387,
+          "lng": 22.60894
+        },
+        {
+          "name": "Jurbarkas",
+          "lat": 55.10859,
+          "lng": 22.79885
+        },
+        {
+          "name": "Pagėgiai",
+          "lat": 55.134,
+          "lng": 21.90446
+        },
+        {
+          "name": "Šilalė",
+          "lat": 55.46667,
+          "lng": 22.2
+        },
+        {
+          "name": "Taurage",
+          "lat": 55.25222,
+          "lng": 22.28972
+        }
+      ]
+    },
+    {
+      "name": "Tauragė",
+      "lat": 55.250366,
+      "lng": 22.29095,
+      "districts": []
+    },
+    {
+      "name": "Telšiai",
+      "lat": 55.9846135,
+      "lng": 22.2490753,
+      "districts": [
+        {
+          "name": "Mazeikiai",
+          "lat": 56.31667,
+          "lng": 22.33333
+        },
+        {
+          "name": "Plateliai",
+          "lat": 56.04657,
+          "lng": 21.81615
+        },
+        {
+          "name": "Plunge",
+          "lat": 55.91139,
+          "lng": 21.84417
+        },
+        {
+          "name": "Rietavas",
+          "lat": 55.72375,
+          "lng": 21.93266
+        },
+        {
+          "name": "Seda",
+          "lat": 56.16854,
+          "lng": 22.09071
+        },
+        {
+          "name": "Telsiai",
+          "lat": 55.98139,
+          "lng": 22.24722
+        },
+        {
+          "name": "Varniai",
+          "lat": 55.74435,
+          "lng": 22.37251
+        },
+        {
+          "name": "Viekšniai",
+          "lat": 56.23598,
+          "lng": 22.51667
+        }
+      ]
+    },
+    {
+      "name": "Telšiai",
+      "lat": 55.9846135,
+      "lng": 22.2490753,
+      "districts": []
+    },
+    {
+      "name": "Trakai",
+      "lat": 54.6379113,
+      "lng": 24.9346894,
+      "districts": []
+    },
+    {
+      "name": "Ukmergė",
+      "lat": 55.2477293,
+      "lng": 24.7599714,
+      "districts": []
+    },
+    {
+      "name": "Utena",
+      "lat": 55.4871833,
+      "lng": 25.6386221,
+      "districts": []
+    },
+    {
+      "name": "Utena",
+      "lat": 55.4871833,
+      "lng": 25.6386221,
+      "districts": [
+        {
+          "name": "Anyksciai",
+          "lat": 55.52557,
+          "lng": 25.10264
+        },
+        {
+          "name": "Dūkštas",
+          "lat": 55.522,
+          "lng": 26.321
+        },
+        {
+          "name": "Ignalina",
+          "lat": 55.35,
+          "lng": 26.16667
+        },
+        {
+          "name": "Moletai",
+          "lat": 55.23333,
+          "lng": 25.41667
+        },
+        {
+          "name": "Utena",
+          "lat": 55.49764,
+          "lng": 25.59918
+        },
+        {
+          "name": "Visaginas",
+          "lat": 55.6,
+          "lng": 26.41667
+        },
+        {
+          "name": "Zarasai",
+          "lat": 55.73333,
+          "lng": 26.25
+        }
+      ]
+    },
+    {
+      "name": "Varėna",
+      "lat": 54.2121764,
+      "lng": 24.5673724,
+      "districts": []
+    },
+    {
+      "name": "Vilkaviškis",
+      "lat": 54.651945,
+      "lng": 23.035155,
+      "districts": []
+    },
+    {
+      "name": "Vilnius",
+      "lat": 54.6870458,
+      "lng": 25.2829111,
+      "districts": []
+    },
+    {
+      "name": "Vilnius",
+      "lat": 54.6870458,
+      "lng": 25.2829111,
+      "districts": [
+        {
+          "name": "Vilnius",
+          "lat": 54.68916,
+          "lng": 25.2798,
+          "iscapital": true
+        },
+        {
+          "name": "Aukstadvaris",
+          "lat": 54.57946,
+          "lng": 24.52683
+        },
+        {
+          "name": "Baltoji Vokė",
+          "lat": 54.60002,
+          "lng": 25.19318
+        },
+        {
+          "name": "Eišiškės",
+          "lat": 54.17414,
+          "lng": 24.99917
+        },
+        {
+          "name": "Elektrėnai",
+          "lat": 54.78544,
+          "lng": 24.66302
+        },
+        {
+          "name": "Fabijoniškės",
+          "lat": 54.73333,
+          "lng": 25.24167
+        },
+        {
+          "name": "Grigiškės",
+          "lat": 54.68333,
+          "lng": 25.08333
+        },
+        {
+          "name": "Justiniškės",
+          "lat": 54.71664,
+          "lng": 25.2174
+        },
+        {
+          "name": "Lazdynai",
+          "lat": 54.66815,
+          "lng": 25.20684
+        },
+        {
+          "name": "Lentvaris",
+          "lat": 54.64364,
+          "lng": 25.05162
+        },
+        {
+          "name": "Naujamiestis",
+          "lat": 54.67951,
+          "lng": 25.26855
+        },
+        {
+          "name": "Nemenčinė",
+          "lat": 54.84776,
+          "lng": 25.46992
+        },
+        {
+          "name": "Pabradė",
+          "lat": 54.981,
+          "lng": 25.761
+        },
+        {
+          "name": "Pašilaičiai",
+          "lat": 54.73429,
+          "lng": 25.21912
+        },
+        {
+          "name": "Pilaitė",
+          "lat": 54.69981,
+          "lng": 25.18393
+        },
+        {
+          "name": "Rasos",
+          "lat": 54.67877,
+          "lng": 25.31173
+        },
+        {
+          "name": "Rūdiškės",
+          "lat": 54.51609,
+          "lng": 24.83084
+        },
+        {
+          "name": "Šalčininkai",
+          "lat": 54.3,
+          "lng": 25.38333
+        },
+        {
+          "name": "Senieji Trakai",
+          "lat": 54.609,
+          "lng": 24.98
+        },
+        {
+          "name": "Šeškinė",
+          "lat": 54.70972,
+          "lng": 25.25053
+        },
+        {
+          "name": "Sirvintos",
+          "lat": 55.05,
+          "lng": 24.95
+        },
+        {
+          "name": "Skaidiškės",
+          "lat": 54.61398,
+          "lng": 25.39573
+        },
+        {
+          "name": "Švenčionėliai",
+          "lat": 55.16163,
+          "lng": 26.00177
+        },
+        {
+          "name": "Svencionys",
+          "lat": 55.15,
+          "lng": 26.16667
+        },
+        {
+          "name": "Trakai",
+          "lat": 54.63783,
+          "lng": 24.93433
+        },
+        {
+          "name": "Ukmerge",
+          "lat": 55.25,
+          "lng": 24.75
+        },
+        {
+          "name": "Vievis",
+          "lat": 54.76667,
+          "lng": 24.8
+        },
+        {
+          "name": "Vilkpėdė",
+          "lat": 54.66969,
+          "lng": 25.2477
+        },
+        {
+          "name": "Vilnius District Municipality",
+          "lat": 54.73333,
+          "lng": 25.38333
+        }
+      ]
+    },
+    {
+      "name": "Vilnius",
+      "lat": 54.6870458,
+      "lng": 25.2829111,
+      "districts": []
+    },
+    {
+      "name": "Visaginas",
+      "lat": 55.594118,
+      "lng": 26.4307954,
+      "districts": []
+    },
+    {
+      "name": "Zarasai",
+      "lat": 55.7309609,
+      "lng": 26.245295,
+      "districts": []
+    }
+  ]
+}

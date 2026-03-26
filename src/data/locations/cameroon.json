@@ -1,0 +1,773 @@
+{
+  "name": "Cameroon",
+  "lat": 6,
+  "lng": 12,
+  "cities": [
+    {
+      "name": "Adamawa",
+      "lat": 6.8496708,
+      "lng": 13.2163222,
+      "districts": [
+        {
+          "name": "Mayo-Banyo",
+          "lat": 6.58138,
+          "lng": 11.73522
+        },
+        {
+          "name": "Ngaoundéré",
+          "lat": 7.32765,
+          "lng": 13.58472
+        },
+        {
+          "name": "Vina",
+          "lat": 7.16365,
+          "lng": 13.72711
+        },
+        {
+          "name": "Bankim",
+          "lat": 6.08303,
+          "lng": 11.4905
+        },
+        {
+          "name": "Banyo",
+          "lat": 6.75,
+          "lng": 11.81667
+        },
+        {
+          "name": "Bélel",
+          "lat": 7.05,
+          "lng": 14.43333
+        },
+        {
+          "name": "Djohong",
+          "lat": 6.83333,
+          "lng": 14.7
+        },
+        {
+          "name": "Kontcha",
+          "lat": 7.96667,
+          "lng": 12.23333
+        },
+        {
+          "name": "Meïganga",
+          "lat": 6.51667,
+          "lng": 14.3
+        },
+        {
+          "name": "Somié",
+          "lat": 6.45843,
+          "lng": 11.43299
+        },
+        {
+          "name": "Tibati",
+          "lat": 6.46504,
+          "lng": 12.62843
+        },
+        {
+          "name": "Tignère",
+          "lat": 7.36667,
+          "lng": 12.65
+        }
+      ]
+    },
+    {
+      "name": "Centre",
+      "lat": 4.686267,
+      "lng": 11.9414512,
+      "districts": [
+        {
+          "name": "Mbam-Et-Inoubou",
+          "lat": 4.73754,
+          "lng": 10.96972
+        },
+        {
+          "name": "Mfoundi",
+          "lat": 3.8667,
+          "lng": 11.5167,
+          "iscapital": true
+        },
+        {
+          "name": "Yaoundé",
+          "lat": 3.86667,
+          "lng": 11.51667
+        },
+        {
+          "name": "Akono",
+          "lat": 3.5,
+          "lng": 11.33333
+        },
+        {
+          "name": "Akonolinga",
+          "lat": 3.76667,
+          "lng": 12.25
+        },
+        {
+          "name": "Bafia",
+          "lat": 4.75,
+          "lng": 11.23333
+        },
+        {
+          "name": "Eséka",
+          "lat": 3.65,
+          "lng": 10.76667
+        },
+        {
+          "name": "Essé",
+          "lat": 4.1,
+          "lng": 11.9
+        },
+        {
+          "name": "Évodoula",
+          "lat": 4.08333,
+          "lng": 11.2
+        },
+        {
+          "name": "Mbalmayo",
+          "lat": 3.51667,
+          "lng": 11.5
+        },
+        {
+          "name": "Mbandjok",
+          "lat": 4.45,
+          "lng": 11.9
+        },
+        {
+          "name": "Mbankomo",
+          "lat": 3.78333,
+          "lng": 11.38333
+        },
+        {
+          "name": "Mefou-et-Akono",
+          "lat": 3.58706,
+          "lng": 11.36089
+        },
+        {
+          "name": "Minta",
+          "lat": 4.58333,
+          "lng": 12.8
+        },
+        {
+          "name": "Nanga Eboko",
+          "lat": 4.68333,
+          "lng": 12.36667
+        },
+        {
+          "name": "Ndikiniméki",
+          "lat": 4.76667,
+          "lng": 10.83333
+        },
+        {
+          "name": "Ngomedzap",
+          "lat": 3.25,
+          "lng": 11.2
+        },
+        {
+          "name": "Ngoro",
+          "lat": 4.95,
+          "lng": 11.38333
+        },
+        {
+          "name": "Nkoteng",
+          "lat": 4.51667,
+          "lng": 12.03333
+        },
+        {
+          "name": "Ntui",
+          "lat": 4.45,
+          "lng": 11.63333
+        },
+        {
+          "name": "Obala",
+          "lat": 4.16667,
+          "lng": 11.53333
+        },
+        {
+          "name": "Okoa",
+          "lat": 3.98333,
+          "lng": 11.6
+        },
+        {
+          "name": "Okola",
+          "lat": 4.01667,
+          "lng": 11.38333
+        },
+        {
+          "name": "Ombésa",
+          "lat": 4.6,
+          "lng": 11.25
+        },
+        {
+          "name": "Saa",
+          "lat": 4.36667,
+          "lng": 11.45
+        },
+        {
+          "name": "Yoko",
+          "lat": 5.53333,
+          "lng": 12.31667
+        }
+      ]
+    },
+    {
+      "name": "East",
+      "lat": 3.9894393,
+      "lng": 14.178373,
+      "districts": [
+        {
+          "name": "Bertoua",
+          "lat": 4.57728,
+          "lng": 13.68459
+        },
+        {
+          "name": "Abong Mbang",
+          "lat": 3.98333,
+          "lng": 13.18333
+        },
+        {
+          "name": "Batouri",
+          "lat": 4.43333,
+          "lng": 14.36667
+        },
+        {
+          "name": "Bélabo",
+          "lat": 4.93333,
+          "lng": 13.3
+        },
+        {
+          "name": "Bétaré Oya",
+          "lat": 5.6,
+          "lng": 14.08333
+        },
+        {
+          "name": "Dimako",
+          "lat": 4.38333,
+          "lng": 13.56667
+        },
+        {
+          "name": "Doumé",
+          "lat": 4.23333,
+          "lng": 13.45
+        },
+        {
+          "name": "Garoua Boulaï",
+          "lat": 5.88333,
+          "lng": 14.55
+        },
+        {
+          "name": "Mbang",
+          "lat": 4.58333,
+          "lng": 13.33333
+        },
+        {
+          "name": "Ndelele",
+          "lat": 4.04065,
+          "lng": 14.92501
+        },
+        {
+          "name": "Yokadouma",
+          "lat": 3.51667,
+          "lng": 15.05
+        }
+      ]
+    },
+    {
+      "name": "Far North",
+      "lat": 10.6377186,
+      "lng": 14.2738156,
+      "districts": [
+        {
+          "name": "Kousséri",
+          "lat": 12.07689,
+          "lng": 15.03063
+        },
+        {
+          "name": "Maroua",
+          "lat": 10.59095,
+          "lng": 14.31593
+        },
+        {
+          "name": "Mayo-Sava",
+          "lat": 11.10682,
+          "lng": 14.2056
+        },
+        {
+          "name": "Bogo",
+          "lat": 10.7336,
+          "lng": 14.60928
+        },
+        {
+          "name": "Kaélé",
+          "lat": 10.10917,
+          "lng": 14.45083
+        },
+        {
+          "name": "Koza",
+          "lat": 10.86846,
+          "lng": 13.88205
+        },
+        {
+          "name": "Makary",
+          "lat": 12.57535,
+          "lng": 14.45483
+        },
+        {
+          "name": "Mayo-Tsanaga",
+          "lat": 10.58221,
+          "lng": 13.79351
+        },
+        {
+          "name": "Mindif",
+          "lat": 10.39757,
+          "lng": 14.43626
+        },
+        {
+          "name": "Mokolo",
+          "lat": 10.74244,
+          "lng": 13.80227
+        },
+        {
+          "name": "Mora",
+          "lat": 11.04611,
+          "lng": 14.14011
+        },
+        {
+          "name": "Yagoua",
+          "lat": 10.34107,
+          "lng": 15.23288
+        }
+      ]
+    },
+    {
+      "name": "Littoral",
+      "lat": 4.203033,
+      "lng": 10.0563057,
+      "districts": [
+        {
+          "name": "Douala",
+          "lat": 4.04827,
+          "lng": 9.70428
+        },
+        {
+          "name": "Edéa",
+          "lat": 3.8,
+          "lng": 10.13333
+        },
+        {
+          "name": "Nkongsamba",
+          "lat": 4.9547,
+          "lng": 9.9404
+        },
+        {
+          "name": "Bonabéri",
+          "lat": 4.07142,
+          "lng": 9.68177
+        },
+        {
+          "name": "Diang",
+          "lat": 4.25,
+          "lng": 10.01667
+        },
+        {
+          "name": "Dibombari",
+          "lat": 4.1787,
+          "lng": 9.6561
+        },
+        {
+          "name": "Dizangué",
+          "lat": 3.76667,
+          "lng": 9.98333
+        },
+        {
+          "name": "Loum",
+          "lat": 4.7182,
+          "lng": 9.7351
+        },
+        {
+          "name": "Manjo",
+          "lat": 4.8428,
+          "lng": 9.8217
+        },
+        {
+          "name": "Mbanga",
+          "lat": 4.5016,
+          "lng": 9.5671
+        },
+        {
+          "name": "Melong",
+          "lat": 5.12181,
+          "lng": 9.96143
+        },
+        {
+          "name": "Mouanko",
+          "lat": 3.63972,
+          "lng": 9.77694
+        },
+        {
+          "name": "Ndom",
+          "lat": 4.4978,
+          "lng": 9.5628
+        },
+        {
+          "name": "Ngambé",
+          "lat": 4.23343,
+          "lng": 10.61532
+        },
+        {
+          "name": "Penja",
+          "lat": 4.63911,
+          "lng": 9.67987
+        },
+        {
+          "name": "Yabassi",
+          "lat": 4.45697,
+          "lng": 9.96822
+        }
+      ]
+    },
+    {
+      "name": "North",
+      "lat": 8.7712794,
+      "lng": 13.7803627,
+      "districts": [
+        {
+          "name": "Mayo-Louti",
+          "lat": 9.96577,
+          "lng": 13.72738
+        },
+        {
+          "name": "Mayo-Rey",
+          "lat": 8.1263,
+          "lng": 14.61456
+        },
+        {
+          "name": "Faro Department",
+          "lat": 8.25014,
+          "lng": 12.87829
+        },
+        {
+          "name": "Garoua",
+          "lat": 9.30143,
+          "lng": 13.39771
+        },
+        {
+          "name": "Guider",
+          "lat": 9.9333,
+          "lng": 13.94671
+        },
+        {
+          "name": "Lagdo",
+          "lat": 9.05828,
+          "lng": 13.66605
+        },
+        {
+          "name": "Pitoa",
+          "lat": 9.3839,
+          "lng": 13.50231
+        },
+        {
+          "name": "Poli",
+          "lat": 8.4756,
+          "lng": 13.24097
+        },
+        {
+          "name": "Rey Bouba",
+          "lat": 8.6724,
+          "lng": 14.1786
+        },
+        {
+          "name": "Tcholliré",
+          "lat": 8.4022,
+          "lng": 14.1698
+        }
+      ]
+    },
+    {
+      "name": "Northwest",
+      "lat": 6.3775255,
+      "lng": 10.3864171,
+      "districts": [
+        {
+          "name": "Bamenda",
+          "lat": 5.9597,
+          "lng": 10.14597
+        },
+        {
+          "name": "Boyo",
+          "lat": 6.36365,
+          "lng": 10.3554
+        },
+        {
+          "name": "Kumbo",
+          "lat": 6.2,
+          "lng": 10.66667
+        },
+        {
+          "name": "Babanki",
+          "lat": 6.11667,
+          "lng": 10.25
+        },
+        {
+          "name": "Bali",
+          "lat": 5.88737,
+          "lng": 10.01176
+        },
+        {
+          "name": "Batibo",
+          "lat": 5.8358,
+          "lng": 9.8553
+        },
+        {
+          "name": "Belo",
+          "lat": 6.13333,
+          "lng": 10.25
+        },
+        {
+          "name": "Fundong",
+          "lat": 6.25,
+          "lng": 10.26667
+        },
+        {
+          "name": "Jakiri",
+          "lat": 6.1,
+          "lng": 10.65
+        },
+        {
+          "name": "Mbengwi",
+          "lat": 6.01667,
+          "lng": 10
+        },
+        {
+          "name": "Mme-Bafumen",
+          "lat": 6.33333,
+          "lng": 10.23333
+        },
+        {
+          "name": "Njinikom",
+          "lat": 6.23333,
+          "lng": 10.28333
+        },
+        {
+          "name": "Wum",
+          "lat": 6.38333,
+          "lng": 10.06667
+        }
+      ]
+    },
+    {
+      "name": "South",
+      "lat": 2.7312374,
+      "lng": 11.6254622,
+      "districts": [
+        {
+          "name": "Ébolowa",
+          "lat": 2.9,
+          "lng": 11.15
+        },
+        {
+          "name": "Mvila",
+          "lat": 2.79796,
+          "lng": 11.39434
+        },
+        {
+          "name": "Akom II",
+          "lat": 2.78333,
+          "lng": 10.56667
+        },
+        {
+          "name": "Ambam",
+          "lat": 2.38333,
+          "lng": 11.28333
+        },
+        {
+          "name": "Kribi",
+          "lat": 2.93725,
+          "lng": 9.90765
+        },
+        {
+          "name": "Lolodorf",
+          "lat": 3.23333,
+          "lng": 10.73333
+        },
+        {
+          "name": "Mvangué",
+          "lat": 2.96667,
+          "lng": 11.51667
+        },
+        {
+          "name": "Sangmélima",
+          "lat": 2.93333,
+          "lng": 11.98333
+        }
+      ]
+    },
+    {
+      "name": "Southwest",
+      "lat": 5.0577606,
+      "lng": 9.2289407,
+      "districts": [
+        {
+          "name": "Buea",
+          "lat": 4.15342,
+          "lng": 9.24231
+        },
+        {
+          "name": "Kumba",
+          "lat": 4.6363,
+          "lng": 9.4469
+        },
+        {
+          "name": "Lebialem",
+          "lat": 5.56043,
+          "lng": 9.92316
+        },
+        {
+          "name": "Limbe",
+          "lat": 4.02356,
+          "lng": 9.20607
+        },
+        {
+          "name": "Bamusso",
+          "lat": 4.4591,
+          "lng": 8.9027
+        },
+        {
+          "name": "Bekondo",
+          "lat": 4.6819,
+          "lng": 9.3214
+        },
+        {
+          "name": "Fako Division",
+          "lat": 4.16667,
+          "lng": 9.16667
+        },
+        {
+          "name": "Fontem",
+          "lat": 5.4685,
+          "lng": 9.8818
+        },
+        {
+          "name": "Mamfe",
+          "lat": 5.75132,
+          "lng": 9.3137
+        },
+        {
+          "name": "Mundemba",
+          "lat": 4.9479,
+          "lng": 8.8724
+        },
+        {
+          "name": "Mutengene",
+          "lat": 4.0913,
+          "lng": 9.3144
+        },
+        {
+          "name": "Muyuka",
+          "lat": 4.2898,
+          "lng": 9.4103
+        },
+        {
+          "name": "Nguti",
+          "lat": 5.3299,
+          "lng": 9.4185
+        },
+        {
+          "name": "Tiko",
+          "lat": 4.075,
+          "lng": 9.36005
+        }
+      ]
+    },
+    {
+      "name": "West",
+      "lat": 5.5356382,
+      "lng": 10.5828826,
+      "districts": [
+        {
+          "name": "Bafoussam",
+          "lat": 5.47775,
+          "lng": 10.41759
+        },
+        {
+          "name": "Foumban",
+          "lat": 5.72662,
+          "lng": 10.89865
+        },
+        {
+          "name": "Hauts-Plateaux",
+          "lat": 5.29632,
+          "lng": 10.34314
+        },
+        {
+          "name": "Koung-Khi",
+          "lat": 5.33848,
+          "lng": 10.47453
+        },
+        {
+          "name": "Noun",
+          "lat": 5.64123,
+          "lng": 10.9184
+        },
+        {
+          "name": "Bafang",
+          "lat": 5.15705,
+          "lng": 10.1771
+        },
+        {
+          "name": "Bamendjou",
+          "lat": 5.38988,
+          "lng": 10.33014
+        },
+        {
+          "name": "Bana",
+          "lat": 5.14655,
+          "lng": 10.27545
+        },
+        {
+          "name": "Bandjoun",
+          "lat": 5.37568,
+          "lng": 10.41326
+        },
+        {
+          "name": "Bangangté",
+          "lat": 5.14079,
+          "lng": 10.52535
+        },
+        {
+          "name": "Bansoa",
+          "lat": 5.44836,
+          "lng": 10.31355
+        },
+        {
+          "name": "Bazou",
+          "lat": 5.06001,
+          "lng": 10.46751
+        },
+        {
+          "name": "Dschang",
+          "lat": 5.44397,
+          "lng": 10.05332
+        },
+        {
+          "name": "Foumbot",
+          "lat": 5.50803,
+          "lng": 10.6325
+        },
+        {
+          "name": "Mbouda",
+          "lat": 5.62611,
+          "lng": 10.25421
+        },
+        {
+          "name": "Ngou",
+          "lat": 5.19685,
+          "lng": 10.38595
+        },
+        {
+          "name": "Tonga",
+          "lat": 4.96667,
+          "lng": 10.7
+        }
+      ]
+    }
+  ]
+}

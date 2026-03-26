@@ -1,0 +1,148 @@
+{
+  "name": "Guyana",
+  "lat": 5,
+  "lng": -59,
+  "cities": [
+    {
+      "name": "Barima-Waini",
+      "lat": 7.7559147,
+      "lng": -59.7179022,
+      "districts": [
+        {
+          "name": "Mabaruma",
+          "lat": 8.2,
+          "lng": -59.78333
+        }
+      ]
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "lat": 6.188854,
+      "lng": -59.849737,
+      "districts": [
+        {
+          "name": "Bartica",
+          "lat": 6.40799,
+          "lng": -58.62192
+        }
+      ]
+    },
+    {
+      "name": "Demerara-Mahaica",
+      "lat": 6.4547883,
+      "lng": -58.1280676,
+      "districts": [
+        {
+          "name": "Georgetown",
+          "lat": 6.80448,
+          "lng": -58.15527,
+          "iscapital": true
+        },
+        {
+          "name": "Mahaica Village",
+          "lat": 6.68405,
+          "lng": -57.92181
+        }
+      ]
+    },
+    {
+      "name": "East Berbice-Corentyne",
+      "lat": 3.8972611,
+      "lng": -58.1383925,
+      "districts": [
+        {
+          "name": "New Amsterdam",
+          "lat": 6.24793,
+          "lng": -57.5171
+        },
+        {
+          "name": "Skeldon",
+          "lat": 5.88333,
+          "lng": -57.13333
+        }
+      ]
+    },
+    {
+      "name": "Essequibo Islands-West Demerara",
+      "lat": 6.8777848,
+      "lng": -58.3114218,
+      "districts": [
+        {
+          "name": "Parika",
+          "lat": 6.83712,
+          "lng": -58.42941
+        },
+        {
+          "name": "Vreed-en-Hoop",
+          "lat": 6.80927,
+          "lng": -58.19798
+        }
+      ]
+    },
+    {
+      "name": "Mahaica-Berbice",
+      "lat": 6.2766898,
+      "lng": -57.82391,
+      "districts": [
+        {
+          "name": "Mahaicony Village",
+          "lat": 6.57633,
+          "lng": -57.80486
+        },
+        {
+          "name": "Rosignol",
+          "lat": 6.27095,
+          "lng": -57.53697
+        }
+      ]
+    },
+    {
+      "name": "Pomeroon-Supenaam",
+      "lat": 7.2049548,
+      "lng": -58.8295641,
+      "districts": [
+        {
+          "name": "Anna Regina",
+          "lat": 7.26439,
+          "lng": -58.50769
+        }
+      ]
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "lat": 4.8622287,
+      "lng": -59.4193612,
+      "districts": [
+        {
+          "name": "Mahdia",
+          "lat": 5.26667,
+          "lng": -59.15
+        }
+      ]
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "lat": 5.5612677,
+      "lng": -58.154152,
+      "districts": [
+        {
+          "name": "Linden",
+          "lat": 6.00809,
+          "lng": -58.30714
+        }
+      ]
+    },
+    {
+      "name": "Upper Takutu-Upper Essequibo",
+      "lat": 2.8449628,
+      "lng": -58.9784823,
+      "districts": [
+        {
+          "name": "Lethem",
+          "lat": 3.38333,
+          "lng": -59.8
+        }
+      ]
+    }
+  ]
+}

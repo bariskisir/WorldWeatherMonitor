@@ -1,0 +1,361 @@
+{
+  "name": "Mongolia",
+  "lat": 46,
+  "lng": 105,
+  "cities": [
+    {
+      "name": "Arkhangai",
+      "lat": 47.862646,
+      "lng": 101.0316283,
+      "districts": [
+        {
+          "name": "Tsetserleg",
+          "lat": 47.475,
+          "lng": 101.45417
+        }
+      ]
+    },
+    {
+      "name": "Bayan-Ölgii",
+      "lat": 48.5470083,
+      "lng": 89.8549358,
+      "districts": [
+        {
+          "name": "Altay",
+          "lat": 48.29359,
+          "lng": 89.51488
+        },
+        {
+          "name": "Ölgii",
+          "lat": 48.96833,
+          "lng": 89.9625
+        },
+        {
+          "name": "Tsengel",
+          "lat": 48.94314,
+          "lng": 89.14358
+        }
+      ]
+    },
+    {
+      "name": "Bayankhongor",
+      "lat": 45.2380937,
+      "lng": 99.5146799,
+      "districts": [
+        {
+          "name": "Bayanhongor",
+          "lat": 46.19444,
+          "lng": 100.71806
+        }
+      ]
+    },
+    {
+      "name": "Bulgan",
+      "lat": 48.9521438,
+      "lng": 103.3965591,
+      "districts": [
+        {
+          "name": "Bulgan",
+          "lat": 48.8125,
+          "lng": 103.53472
+        }
+      ]
+    },
+    {
+      "name": "Darkhan-Uul",
+      "lat": 49.3767291,
+      "lng": 106.2901384,
+      "districts": [
+        {
+          "name": "Darhan",
+          "lat": 49.48667,
+          "lng": 105.92278
+        }
+      ]
+    },
+    {
+      "name": "Dornod",
+      "lat": 47.6772781,
+      "lng": 115.2177155,
+      "districts": [
+        {
+          "name": "Choibalsan",
+          "lat": 48.07257,
+          "lng": 114.53264
+        },
+        {
+          "name": "Ereencav",
+          "lat": 49.8807,
+          "lng": 115.72526
+        }
+      ]
+    },
+    {
+      "name": "Dornogovi",
+      "lat": 44.4179637,
+      "lng": 109.7783753,
+      "districts": []
+    },
+    {
+      "name": "Dundgovi",
+      "lat": 45.5186722,
+      "lng": 106.2611562,
+      "districts": [
+        {
+          "name": "Mandalgovi",
+          "lat": 45.7625,
+          "lng": 106.27083
+        }
+      ]
+    },
+    {
+      "name": "Govi-Altai",
+      "lat": 45.3463139,
+      "lng": 95.9325806,
+      "districts": [
+        {
+          "name": "Altai",
+          "lat": 46.37222,
+          "lng": 96.25833
+        }
+      ]
+    },
+    {
+      "name": "Govisümber",
+      "lat": 46.4610827,
+      "lng": 108.5173101,
+      "districts": [
+        {
+          "name": "Choyr",
+          "lat": 46.36111,
+          "lng": 108.36111
+        }
+      ]
+    },
+    {
+      "name": "Khentii",
+      "lat": 47.885981,
+      "lng": 110.4201043,
+      "districts": [
+        {
+          "name": "Undurkhaan",
+          "lat": 47.31944,
+          "lng": 110.65556
+        }
+      ]
+    },
+    {
+      "name": "Khovd",
+      "lat": 46.8997977,
+      "lng": 92.2959651,
+      "districts": [
+        {
+          "name": "Khovd",
+          "lat": 48.00556,
+          "lng": 91.64194
+        },
+        {
+          "name": "Möst",
+          "lat": 46.67712,
+          "lng": 92.78521
+        },
+        {
+          "name": "Üyönch",
+          "lat": 46.04786,
+          "lng": 92.02612
+        }
+      ]
+    },
+    {
+      "name": "Khövsgöl",
+      "lat": 50.2206196,
+      "lng": 99.9170492,
+      "districts": [
+        {
+          "name": "Hanh",
+          "lat": 51.50265,
+          "lng": 100.66395
+        },
+        {
+          "name": "Murun-kuren",
+          "lat": 49.63417,
+          "lng": 100.1625
+        },
+        {
+          "name": "Tsengel",
+          "lat": 49.47833,
+          "lng": 100.88944
+        },
+        {
+          "name": "Turt",
+          "lat": 51.50725,
+          "lng": 100.66257
+        }
+      ]
+    },
+    {
+      "name": "Ömnögovi",
+      "lat": 43.282363,
+      "lng": 104.1133864,
+      "districts": [
+        {
+          "name": "Dalandzadgad",
+          "lat": 43.57083,
+          "lng": 104.425
+        },
+        {
+          "name": "Hanhongor",
+          "lat": 43.77345,
+          "lng": 104.47998
+        },
+        {
+          "name": "Nomgon Sum",
+          "lat": 42.41462,
+          "lng": 105.0564
+        }
+      ]
+    },
+    {
+      "name": "Orkhon",
+      "lat": 49.0243744,
+      "lng": 104.2998863,
+      "districts": [
+        {
+          "name": "Erdenet",
+          "lat": 49.03333,
+          "lng": 104.08333
+        }
+      ]
+    },
+    {
+      "name": "Övörkhangai",
+      "lat": 45.8297039,
+      "lng": 102.7237769,
+      "districts": [
+        {
+          "name": "Arvayheer",
+          "lat": 46.26389,
+          "lng": 102.775
+        },
+        {
+          "name": "Harhorin",
+          "lat": 47.19753,
+          "lng": 102.82379
+        },
+        {
+          "name": "Hovd",
+          "lat": 44.67024,
+          "lng": 102.17491
+        },
+        {
+          "name": "Kharkhorin",
+          "lat": 47.19245,
+          "lng": 102.81349
+        },
+        {
+          "name": "Nariynteel",
+          "lat": 45.9595,
+          "lng": 101.45977
+        }
+      ]
+    },
+    {
+      "name": "Selenge",
+      "lat": 49.3910136,
+      "lng": 107.0629034,
+      "districts": [
+        {
+          "name": "Dzüünharaa",
+          "lat": 48.85229,
+          "lng": 106.45786
+        },
+        {
+          "name": "Sühbaatar",
+          "lat": 50.23139,
+          "lng": 106.20778
+        }
+      ]
+    },
+    {
+      "name": "Sükhbaatar",
+      "lat": 46.2093417,
+      "lng": 113.5077196,
+      "districts": [
+        {
+          "name": "Baruun-Urt",
+          "lat": 46.68056,
+          "lng": 113.27917
+        }
+      ]
+    },
+    {
+      "name": "Töv",
+      "lat": 47.4692538,
+      "lng": 106.5525161,
+      "districts": [
+        {
+          "name": "Ulan Bator",
+          "lat": 47.8917624,
+          "lng": 106.73706,
+          "iscapital": true
+        },
+        {
+          "name": "Centipede",
+          "lat": 47.70693,
+          "lng": 106.95276
+        },
+        {
+          "name": "Dzuunmod",
+          "lat": 47.70694,
+          "lng": 106.95278
+        },
+        {
+          "name": "Möngönmorĭt",
+          "lat": 48.19504,
+          "lng": 108.48295
+        },
+        {
+          "name": "Ulaanhudag",
+          "lat": 47.33333,
+          "lng": 104.5
+        }
+      ]
+    },
+    {
+      "name": "Ulaanbaatar",
+      "lat": 47.9184676,
+      "lng": 106.9177016,
+      "districts": [
+        {
+          "name": "Ulaanbaatar",
+          "lat": 47.8915317,
+          "lng": 106.7367222
+        }
+      ]
+    },
+    {
+      "name": "Uvs",
+      "lat": 49.6313887,
+      "lng": 92.9558186,
+      "districts": [
+        {
+          "name": "Ulaangom",
+          "lat": 49.98111,
+          "lng": 92.06667
+        }
+      ]
+    },
+    {
+      "name": "Zavkhan",
+      "lat": 48.3133355,
+      "lng": 96.2850506,
+      "districts": [
+        {
+          "name": "Uliastay",
+          "lat": 47.74167,
+          "lng": 96.84444
+        }
+      ]
+    }
+  ]
+}

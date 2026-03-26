@@ -1,0 +1,256 @@
+{
+  "name": "Maldives",
+  "lat": 3.25,
+  "lng": 73,
+  "cities": [
+    {
+      "name": "Addu",
+      "lat": -0.6414935,
+      "lng": 73.1629978,
+      "districts": [
+        {
+          "name": "Hithadhoo",
+          "lat": -0.6,
+          "lng": 73.08333
+        },
+        {
+          "name": "Meedhoo",
+          "lat": -0.58333,
+          "lng": 73.23333
+        }
+      ]
+    },
+    {
+      "name": "Alif Alif",
+      "lat": 4.4389236,
+      "lng": 72.8716854,
+      "districts": []
+    },
+    {
+      "name": "Alif Dhaal",
+      "lat": 3.6123026,
+      "lng": 72.855663,
+      "districts": [
+        {
+          "name": "Mahibadhoo",
+          "lat": 3.75713,
+          "lng": 72.96893
+        }
+      ]
+    },
+    {
+      "name": "Baa",
+      "lat": 5.13333333,
+      "lng": 72.95,
+      "districts": []
+    },
+    {
+      "name": "Dhaalu",
+      "lat": 2.8473454,
+      "lng": 72.9029526,
+      "districts": [
+        {
+          "name": "Kudahuvadhoo",
+          "lat": 2.67075,
+          "lng": 72.89437
+        }
+      ]
+    },
+    {
+      "name": "Faafu",
+      "lat": 3.1314909,
+      "lng": 72.8843567,
+      "districts": []
+    },
+    {
+      "name": "Gaafu Alif",
+      "lat": 0.9829527,
+      "lng": 73.2780939,
+      "districts": [
+        {
+          "name": "Viligili",
+          "lat": 0.75906,
+          "lng": 73.43296
+        }
+      ]
+    },
+    {
+      "name": "Gaafu Dhaalu",
+      "lat": 0.3041783,
+      "lng": 73.2124746,
+      "districts": [
+        {
+          "name": "Thinadhoo",
+          "lat": 0.5306,
+          "lng": 72.99969
+        }
+      ]
+    },
+    {
+      "name": "Gnaviyani",
+      "lat": -0.2053264,
+      "lng": 73.2569868,
+      "districts": [
+        {
+          "name": "Fuvahmulah",
+          "lat": -0.29878,
+          "lng": 73.42403
+        }
+      ]
+    },
+    {
+      "name": "Haa Alif",
+      "lat": 7.0607296,
+      "lng": 72.9896628,
+      "districts": [
+        {
+          "name": "Dhidhdhoo",
+          "lat": 6.88744,
+          "lng": 73.11402
+        }
+      ]
+    },
+    {
+      "name": "Haa Dhaalu",
+      "lat": 6.449901,
+      "lng": 72.6264899,
+      "districts": [
+        {
+          "name": "Kulhudhuffushi",
+          "lat": 6.62207,
+          "lng": 73.06998
+        }
+      ]
+    },
+    {
+      "name": "Kaafu",
+      "lat": 4.354299,
+      "lng": 73.5760032,
+      "districts": [
+        {
+          "name": "Male",
+          "lat": 4.17521,
+          "lng": 73.50916,
+          "iscapital": true
+        },
+        {
+          "name": "Guraidhoo",
+          "lat": 3.90045,
+          "lng": 73.46623
+        },
+        {
+          "name": "Hulhumale",
+          "lat": 4.21169,
+          "lng": 73.54008
+        },
+        {
+          "name": "Maafushi",
+          "lat": 3.94231,
+          "lng": 73.4907
+        }
+      ]
+    },
+    {
+      "name": "Laamu",
+      "lat": 1.8899418,
+      "lng": 73.3140027,
+      "districts": [
+        {
+          "name": "Fonadhoo",
+          "lat": 1.83243,
+          "lng": 73.50257
+        }
+      ]
+    },
+    {
+      "name": "Lhaviyani",
+      "lat": 5.3992544,
+      "lng": 73.5273924,
+      "districts": [
+        {
+          "name": "Naifaru",
+          "lat": 5.44438,
+          "lng": 73.36571
+        }
+      ]
+    },
+    {
+      "name": "Malé",
+      "lat": 4.1779879,
+      "lng": 73.5107387,
+      "districts": []
+    },
+    {
+      "name": "Meemu",
+      "lat": 2.7878094,
+      "lng": 73.5342987,
+      "districts": [
+        {
+          "name": "Muli",
+          "lat": 2.91667,
+          "lng": 73.56667
+        }
+      ]
+    },
+    {
+      "name": "Noonu",
+      "lat": 5.786755,
+      "lng": 73.4184336,
+      "districts": [
+        {
+          "name": "Manadhoo",
+          "lat": 5.76687,
+          "lng": 73.4136
+        }
+      ]
+    },
+    {
+      "name": "Raa",
+      "lat": 5.6609485,
+      "lng": 72.7681645,
+      "districts": [
+        {
+          "name": "Ugoofaaru",
+          "lat": 5.66812,
+          "lng": 73.03017
+        }
+      ]
+    },
+    {
+      "name": "Shaviyani",
+      "lat": 6.3322997,
+      "lng": 73.2324635,
+      "districts": [
+        {
+          "name": "Funadhoo",
+          "lat": 6.15091,
+          "lng": 73.29013
+        }
+      ]
+    },
+    {
+      "name": "Thaa",
+      "lat": 2.1461655,
+      "lng": 73.0288245,
+      "districts": [
+        {
+          "name": "Veymandoo",
+          "lat": 2.18772,
+          "lng": 73.09556
+        }
+      ]
+    },
+    {
+      "name": "Vaavu",
+      "lat": 3.6152492,
+      "lng": 73.5869986,
+      "districts": [
+        {
+          "name": "Felidhoo",
+          "lat": 3.47182,
+          "lng": 73.54699
+        }
+      ]
+    }
+  ]
+}

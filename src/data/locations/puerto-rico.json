@@ -1,0 +1,944 @@
+{
+  "name": "Puerto Rico",
+  "lat": 18.25,
+  "lng": -66.5,
+  "cities": [
+    {
+      "name": "Adjuntas",
+      "lat": 18.1634848,
+      "lng": -66.723158,
+      "districts": [
+        {
+          "name": "Adjuntas",
+          "lat": 18.1634848,
+          "lng": -66.723158
+        }
+      ]
+    },
+    {
+      "name": "Aguada",
+      "lat": 18.3801579,
+      "lng": -67.188704,
+      "districts": [
+        {
+          "name": "Aguada",
+          "lat": 18.3801579,
+          "lng": -67.188704
+        }
+      ]
+    },
+    {
+      "name": "Aguadilla",
+      "lat": 18.4496551,
+      "lng": -67.1184764,
+      "districts": [
+        {
+          "name": "Aguadilla",
+          "lat": 18.4274454,
+          "lng": -67.1540698
+        }
+      ]
+    },
+    {
+      "name": "Aguas Buenas",
+      "lat": 18.2568989,
+      "lng": -66.1029442,
+      "districts": [
+        {
+          "name": "Aguas Buenas",
+          "lat": 18.2568989,
+          "lng": -66.1029442
+        }
+      ]
+    },
+    {
+      "name": "Aibonito",
+      "lat": 18.1281472,
+      "lng": -66.2692441,
+      "districts": [
+        {
+          "name": "Aibonito",
+          "lat": 18.1399594,
+          "lng": -66.2660016
+        }
+      ]
+    },
+    {
+      "name": "Añasco",
+      "lat": 18.2854476,
+      "lng": -67.1402935,
+      "districts": [
+        {
+          "name": "Añasco",
+          "lat": 18.2854476,
+          "lng": -67.1402935
+        }
+      ]
+    },
+    {
+      "name": "Arecibo",
+      "lat": 18.47055556,
+      "lng": -66.72083333,
+      "districts": [
+        {
+          "name": "Arecibo",
+          "lat": 18.4705137,
+          "lng": -66.7218472
+        }
+      ]
+    },
+    {
+      "name": "Arroyo",
+      "lat": 17.9961993,
+      "lng": -66.0531683,
+      "districts": [
+        {
+          "name": "Arroyo",
+          "lat": 17.996422,
+          "lng": -66.0924879
+        }
+      ]
+    },
+    {
+      "name": "Barceloneta",
+      "lat": 18.4546639,
+      "lng": -66.5386877,
+      "districts": [
+        {
+          "name": "Barceloneta",
+          "lat": 41.3801061,
+          "lng": 2.1896957
+        }
+      ]
+    },
+    {
+      "name": "Barranquitas",
+      "lat": 18.1866242,
+      "lng": -66.3062802,
+      "districts": [
+        {
+          "name": "Barranquitas",
+          "lat": 18.1866242,
+          "lng": -66.3062802
+        }
+      ]
+    },
+    {
+      "name": "Bayamon",
+      "lat": 18.3449582,
+      "lng": -66.168374,
+      "districts": [
+        {
+          "name": "Bayamón",
+          "lat": 18.389396,
+          "lng": -66.1653224
+        }
+      ]
+    },
+    {
+      "name": "Cabo Rojo",
+      "lat": 18.0866265,
+      "lng": -67.1457347,
+      "districts": [
+        {
+          "name": "Cabo Rojo",
+          "lat": 18.0866265,
+          "lng": -67.1457347
+        }
+      ]
+    },
+    {
+      "name": "Caguas",
+      "lat": 18.23333333,
+      "lng": -66.03333333,
+      "districts": [
+        {
+          "name": "Caguas",
+          "lat": 18.2387995,
+          "lng": -66.035249
+        }
+      ]
+    },
+    {
+      "name": "Camuy",
+      "lat": 18.483833,
+      "lng": -66.8448994,
+      "districts": [
+        {
+          "name": "Camuy",
+          "lat": 18.483833,
+          "lng": -66.8448994
+        }
+      ]
+    },
+    {
+      "name": "Canóvanas",
+      "lat": 18.3748748,
+      "lng": -65.8997533,
+      "districts": [
+        {
+          "name": "Canóvanas",
+          "lat": 18.3748748,
+          "lng": -65.8997533
+        }
+      ]
+    },
+    {
+      "name": "Carolina",
+      "lat": 18.3808516,
+      "lng": -65.9570244,
+      "districts": [
+        {
+          "name": "Carolina",
+          "lat": 18.3680877,
+          "lng": -66.0424734
+        }
+      ]
+    },
+    {
+      "name": "Cataño",
+      "lat": 18.4465355,
+      "lng": -66.1355775,
+      "districts": [
+        {
+          "name": "Cataño",
+          "lat": 18.4465355,
+          "lng": -66.1355775
+        }
+      ]
+    },
+    {
+      "name": "Cayey",
+      "lat": 18.1119051,
+      "lng": -66.166,
+      "districts": [
+        {
+          "name": "Cayey",
+          "lat": 18.1119051,
+          "lng": -66.166
+        }
+      ]
+    },
+    {
+      "name": "Ceiba",
+      "lat": 18.1877139,
+      "lng": -65.894484,
+      "districts": [
+        {
+          "name": "Ceiba",
+          "lat": 18.2475177,
+          "lng": -65.9084953
+        }
+      ]
+    },
+    {
+      "name": "Ciales",
+      "lat": 18.3360622,
+      "lng": -66.4687823,
+      "districts": [
+        {
+          "name": "Ciales",
+          "lat": 18.3360622,
+          "lng": -66.4687823
+        }
+      ]
+    },
+    {
+      "name": "Cidra",
+      "lat": 18.1757914,
+      "lng": -66.1612779,
+      "districts": [
+        {
+          "name": "Cidra",
+          "lat": 18.1757914,
+          "lng": -66.1612779
+        }
+      ]
+    },
+    {
+      "name": "Coamo",
+      "lat": 18.0799616,
+      "lng": -66.3579473,
+      "districts": [
+        {
+          "name": "Coamo",
+          "lat": 18.0799616,
+          "lng": -66.3579473
+        }
+      ]
+    },
+    {
+      "name": "Comerío",
+      "lat": 18.2192001,
+      "lng": -66.2256022,
+      "districts": [
+        {
+          "name": "Comerío",
+          "lat": 18.2192001,
+          "lng": -66.2256022
+        }
+      ]
+    },
+    {
+      "name": "Corozal",
+      "lat": 18.3043878,
+      "lng": -66.3289186,
+      "districts": [
+        {
+          "name": "Corozal",
+          "lat": 18.4030802,
+          "lng": -88.3967536
+        }
+      ]
+    },
+    {
+      "name": "Culebra",
+      "lat": 18.3136776,
+      "lng": -65.2826226,
+      "districts": [
+        {
+          "name": "Culebra",
+          "lat": 18.310394,
+          "lng": -65.3030705
+        }
+      ]
+    },
+    {
+      "name": "Dorado",
+      "lat": 18.4594766,
+      "lng": -66.2618846,
+      "districts": [
+        {
+          "name": "Dorado",
+          "lat": 43.1480556,
+          "lng": -77.5772222
+        }
+      ]
+    },
+    {
+      "name": "Fajardo",
+      "lat": 18.3252148,
+      "lng": -65.6539356,
+      "districts": [
+        {
+          "name": "Fajardo",
+          "lat": 18.3252148,
+          "lng": -65.6539356
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "lat": 18.3629772,
+      "lng": -66.5669961,
+      "districts": [
+        {
+          "name": "Florida",
+          "lat": 27.6648274,
+          "lng": -81.5157535
+        }
+      ]
+    },
+    {
+      "name": "Guánica",
+      "lat": 17.9725145,
+      "lng": -66.9086264,
+      "districts": [
+        {
+          "name": "Guánica",
+          "lat": 17.9725145,
+          "lng": -66.9086264
+        }
+      ]
+    },
+    {
+      "name": "Guayama",
+      "lat": 17.9841328,
+      "lng": -66.1137767,
+      "districts": [
+        {
+          "name": "Guayama",
+          "lat": 17.9841328,
+          "lng": -66.1137767
+        }
+      ]
+    },
+    {
+      "name": "Guayanilla",
+      "lat": 18.0191314,
+      "lng": -66.791842,
+      "districts": [
+        {
+          "name": "Guayanilla",
+          "lat": 18.0191314,
+          "lng": -66.791842
+        }
+      ]
+    },
+    {
+      "name": "Guaynabo",
+      "lat": 18.3591596,
+      "lng": -66.1156802,
+      "districts": [
+        {
+          "name": "Guaynabo",
+          "lat": 18.3612954,
+          "lng": -66.1102957
+        }
+      ]
+    },
+    {
+      "name": "Gurabo",
+      "lat": 18.2543987,
+      "lng": -65.9729421,
+      "districts": [
+        {
+          "name": "Gurabo",
+          "lat": 18.2543987,
+          "lng": -65.9729421
+        }
+      ]
+    },
+    {
+      "name": "Hatillo",
+      "lat": 18.4071589,
+      "lng": -66.7959287,
+      "districts": [
+        {
+          "name": "Hatillo",
+          "lat": 18.4284642,
+          "lng": -66.7875321
+        }
+      ]
+    },
+    {
+      "name": "Hormigueros",
+      "lat": 18.1334638,
+      "lng": -67.1128123,
+      "districts": [
+        {
+          "name": "Hormigueros",
+          "lat": 18.1334638,
+          "lng": -67.1128123
+        }
+      ]
+    },
+    {
+      "name": "Humacao",
+      "lat": 18.1515736,
+      "lng": -65.8248529,
+      "districts": [
+        {
+          "name": "Humacao",
+          "lat": 18.1515736,
+          "lng": -65.8248529
+        }
+      ]
+    },
+    {
+      "name": "Isabela",
+      "lat": 18.5007536,
+      "lng": -67.0237422,
+      "districts": [
+        {
+          "name": "Isabela",
+          "lat": 16.9753758,
+          "lng": 121.8107079
+        }
+      ]
+    },
+    {
+      "name": "Jayuya",
+      "lat": 18.2185674,
+      "lng": -66.5915617,
+      "districts": [
+        {
+          "name": "Jayuya",
+          "lat": 18.2185674,
+          "lng": -66.5915617
+        }
+      ]
+    },
+    {
+      "name": "Juana Díaz",
+      "lat": 18.0534372,
+      "lng": -66.5075079,
+      "districts": [
+        {
+          "name": "Juana Díaz",
+          "lat": 18.0534372,
+          "lng": -66.5075079
+        }
+      ]
+    },
+    {
+      "name": "Juncos",
+      "lat": 18.2274558,
+      "lng": -65.920997,
+      "districts": [
+        {
+          "name": "Juncos",
+          "lat": 18.2274558,
+          "lng": -65.920997
+        }
+      ]
+    },
+    {
+      "name": "Lajas",
+      "lat": 18.049962,
+      "lng": -67.0593449,
+      "districts": [
+        {
+          "name": "Lajas",
+          "lat": 18.049962,
+          "lng": -67.0593449
+        }
+      ]
+    },
+    {
+      "name": "Lares",
+      "lat": 18.2948683,
+      "lng": -66.8776045,
+      "districts": [
+        {
+          "name": "Lares",
+          "lat": 34.0250802,
+          "lng": -118.4594593
+        }
+      ]
+    },
+    {
+      "name": "Las Marías",
+      "lat": 18.2522446,
+      "lng": -66.9918133,
+      "districts": [
+        {
+          "name": "Las Marías",
+          "lat": 35.8382238,
+          "lng": -78.6103566
+        }
+      ]
+    },
+    {
+      "name": "Las Piedras",
+      "lat": 18.1824445,
+      "lng": -65.8646741,
+      "districts": [
+        {
+          "name": "Las Piedras",
+          "lat": 18.1855753,
+          "lng": -65.8736245
+        }
+      ]
+    },
+    {
+      "name": "Loíza",
+      "lat": 18.4329904,
+      "lng": -65.87836,
+      "districts": [
+        {
+          "name": "Loíza",
+          "lat": 18.4329904,
+          "lng": -65.87836
+        }
+      ]
+    },
+    {
+      "name": "Luquillo",
+      "lat": 18.3724507,
+      "lng": -65.7165511,
+      "districts": [
+        {
+          "name": "Luquillo",
+          "lat": 18.3724507,
+          "lng": -65.7165511
+        }
+      ]
+    },
+    {
+      "name": "Manatí",
+      "lat": 18.4182467,
+      "lng": -66.49178,
+      "districts": [
+        {
+          "name": "Manatí",
+          "lat": 18.4181215,
+          "lng": -66.5262783
+        }
+      ]
+    },
+    {
+      "name": "Maricao",
+      "lat": 18.1807902,
+      "lng": -66.9799001,
+      "districts": [
+        {
+          "name": "Maricao",
+          "lat": 18.1807902,
+          "lng": -66.9799001
+        }
+      ]
+    },
+    {
+      "name": "Maunabo",
+      "lat": 18.0071885,
+      "lng": -65.8993289,
+      "districts": [
+        {
+          "name": "Maunabo",
+          "lat": 18.0071885,
+          "lng": -65.8993289
+        }
+      ]
+    },
+    {
+      "name": "Mayagüez",
+      "lat": 18.20111111,
+      "lng": -67.13972222,
+      "districts": [
+        {
+          "name": "Mayagüez",
+          "lat": 18.2013452,
+          "lng": -67.1451549
+        }
+      ]
+    },
+    {
+      "name": "Moca",
+      "lat": 18.3947512,
+      "lng": -67.113679,
+      "districts": [
+        {
+          "name": "Moca",
+          "lat": 18.3967929,
+          "lng": -67.1479035
+        }
+      ]
+    },
+    {
+      "name": "Morovis",
+      "lat": 18.325785,
+      "lng": -66.4065592,
+      "districts": [
+        {
+          "name": "Morovis",
+          "lat": 18.325785,
+          "lng": -66.4065592
+        }
+      ]
+    },
+    {
+      "name": "Naguabo",
+      "lat": 18.2116247,
+      "lng": -65.7348841,
+      "districts": [
+        {
+          "name": "Naguabo",
+          "lat": 18.2116247,
+          "lng": -65.7348841
+        }
+      ]
+    },
+    {
+      "name": "Naranjito",
+      "lat": 18.3007861,
+      "lng": -66.2448904,
+      "districts": [
+        {
+          "name": "Naranjito",
+          "lat": 18.3007861,
+          "lng": -66.2448904
+        }
+      ]
+    },
+    {
+      "name": "Orocovis",
+      "lat": 18.2269224,
+      "lng": -66.3911686,
+      "districts": [
+        {
+          "name": "Orocovis",
+          "lat": 18.2269224,
+          "lng": -66.3911686
+        }
+      ]
+    },
+    {
+      "name": "Patillas",
+      "lat": 18.0037381,
+      "lng": -66.0134059,
+      "districts": [
+        {
+          "name": "Patillas",
+          "lat": 18.0037381,
+          "lng": -66.0134059
+        }
+      ]
+    },
+    {
+      "name": "Peñuelas",
+      "lat": 18.0633577,
+      "lng": -66.7273896,
+      "districts": [
+        {
+          "name": "Peñuelas",
+          "lat": 18.0633577,
+          "lng": -66.7273896
+        }
+      ]
+    },
+    {
+      "name": "Ponce",
+      "lat": 18.011564,
+      "lng": -66.613958,
+      "districts": [
+        {
+          "name": "Ponce",
+          "lat": 18.0110768,
+          "lng": -66.6140616
+        }
+      ]
+    },
+    {
+      "name": "Quebradillas",
+      "lat": 18.473833,
+      "lng": -66.938512,
+      "districts": [
+        {
+          "name": "Quebradillas",
+          "lat": 18.473833,
+          "lng": -66.938512
+        }
+      ]
+    },
+    {
+      "name": "Rincón",
+      "lat": 18.3362074,
+      "lng": -67.2321202,
+      "districts": [
+        {
+          "name": "Rincón",
+          "lat": 18.3401514,
+          "lng": -67.2499459
+        }
+      ]
+    },
+    {
+      "name": "Río Grande",
+      "lat": 18.3606321,
+      "lng": -67.2368723,
+      "districts": [
+        {
+          "name": "Río Grande",
+          "lat": 28.81063826,
+          "lng": -101.8353878
+        }
+      ]
+    },
+    {
+      "name": "Sabana Grande",
+      "lat": 18.0777392,
+      "lng": -66.9604549,
+      "districts": [
+        {
+          "name": "Sabana Grande",
+          "lat": 18.0777392,
+          "lng": -66.9604549
+        }
+      ]
+    },
+    {
+      "name": "Salinas",
+      "lat": 17.9769779,
+      "lng": -66.2980187,
+      "districts": [
+        {
+          "name": "Salinas",
+          "lat": 36.6777372,
+          "lng": -121.6555013
+        }
+      ]
+    },
+    {
+      "name": "San Germán",
+      "lat": 18.0807082,
+      "lng": -67.0411096,
+      "districts": [
+        {
+          "name": "San Germán",
+          "lat": 18.0807082,
+          "lng": -67.0411096
+        }
+      ]
+    },
+    {
+      "name": "San Juan",
+      "lat": 18.384239,
+      "lng": -66.05344,
+      "districts": [
+        {
+          "name": "San Juan",
+          "lat": 18.463203,
+          "lng": -66.1147571,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "San Lorenzo",
+      "lat": 18.1904303,
+      "lng": -65.9611794,
+      "districts": [
+        {
+          "name": "San Lorenzo",
+          "lat": 18.1886912,
+          "lng": -65.9765862
+        }
+      ]
+    },
+    {
+      "name": "San Sebastián",
+      "lat": 18.32346,
+      "lng": -66.972837,
+      "districts": [
+        {
+          "name": "San Sebastián",
+          "lat": 43.318334,
+          "lng": -1.9812313
+        }
+      ]
+    },
+    {
+      "name": "Santa Isabel",
+      "lat": 17.9660775,
+      "lng": -66.404892,
+      "districts": [
+        {
+          "name": "Santa Isabel",
+          "lat": 17.9660775,
+          "lng": -66.404892
+        }
+      ]
+    },
+    {
+      "name": "Toa Alta",
+      "lat": 18.3882823,
+      "lng": -66.2482237,
+      "districts": [
+        {
+          "name": "Toa Alta",
+          "lat": 18.3882823,
+          "lng": -66.2482237
+        }
+      ]
+    },
+    {
+      "name": "Toa Baja",
+      "lat": 18.443889,
+      "lng": -66.259722,
+      "districts": [
+        {
+          "name": "Toa Baja",
+          "lat": 18.4444709,
+          "lng": -66.2543293
+        }
+      ]
+    },
+    {
+      "name": "Trujillo Alto",
+      "lat": 18.3542408,
+      "lng": -66.007377,
+      "districts": [
+        {
+          "name": "Trujillo Alto",
+          "lat": 18.3546719,
+          "lng": -66.0073876
+        }
+      ]
+    },
+    {
+      "name": "Utuado",
+      "lat": 18.2655095,
+      "lng": -66.7004519,
+      "districts": [
+        {
+          "name": "Utuado",
+          "lat": 18.2655095,
+          "lng": -66.7004519
+        }
+      ]
+    },
+    {
+      "name": "Vega Alta",
+      "lat": 18.4121703,
+      "lng": -66.3312805,
+      "districts": [
+        {
+          "name": "Vega Alta",
+          "lat": 18.4121703,
+          "lng": -66.3312805
+        }
+      ]
+    },
+    {
+      "name": "Vega Baja",
+      "lat": 18.4445314,
+      "lng": -66.387587,
+      "districts": [
+        {
+          "name": "Vega Baja",
+          "lat": 18.4461459,
+          "lng": -66.4041967
+        }
+      ]
+    },
+    {
+      "name": "Vieques",
+      "lat": 18.1215622,
+      "lng": -65.457464,
+      "districts": [
+        {
+          "name": "Vieques",
+          "lat": 18.1262854,
+          "lng": -65.4400985
+        }
+      ]
+    },
+    {
+      "name": "Villalba",
+      "lat": 18.1217554,
+      "lng": -66.4985787,
+      "districts": [
+        {
+          "name": "Villalba",
+          "lat": 18.1217554,
+          "lng": -66.4985787
+        }
+      ]
+    },
+    {
+      "name": "Yabucoa",
+      "lat": 18.0505201,
+      "lng": -65.8793288,
+      "districts": [
+        {
+          "name": "Yabucoa",
+          "lat": 18.0505201,
+          "lng": -65.8793288
+        }
+      ]
+    },
+    {
+      "name": "Yauco",
+      "lat": 18.034964,
+      "lng": -66.8498983,
+      "districts": [
+        {
+          "name": "Yauco",
+          "lat": 18.034964,
+          "lng": -66.8498983
+        }
+      ]
+    }
+  ]
+}

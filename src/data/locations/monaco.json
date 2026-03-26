@@ -1,0 +1,212 @@
+{
+  "name": "Monaco",
+  "lat": 43.73333333,
+  "lng": 7.4,
+  "cities": [
+    {
+      "name": "Fontvieille",
+      "lat": 43.72944444,
+      "lng": 7.415,
+      "districts": [
+        {
+          "name": "Fontvieille",
+          "lat": 43.72944444,
+          "lng": 7.415
+        }
+      ]
+    },
+    {
+      "name": "Jardin Exotique",
+      "lat": 43.73138889,
+      "lng": 7.41388889,
+      "districts": [
+        {
+          "name": "Jardin Exotique",
+          "lat": 43.73138889,
+          "lng": 7.41388889
+        }
+      ]
+    },
+    {
+      "name": "La Colle",
+      "lat": 43.7327465,
+      "lng": 7.4137276,
+      "districts": [
+        {
+          "name": "La Colle",
+          "lat": 43.7327465,
+          "lng": 7.4137276
+        }
+      ]
+    },
+    {
+      "name": "La Condamine",
+      "lat": 43.7350665,
+      "lng": 7.419906,
+      "districts": [
+        {
+          "name": "La Condamine",
+          "lat": 43.7350665,
+          "lng": 7.419906
+        }
+      ]
+    },
+    {
+      "name": "La Gare",
+      "lat": 43.7319,
+      "lng": 7.4168,
+      "districts": [
+        {
+          "name": "La Gare",
+          "lat": 43.7319,
+          "lng": 7.4168
+        }
+      ]
+    },
+    {
+      "name": "La Source",
+      "lat": 43.7365,
+      "lng": 7.4195,
+      "districts": [
+        {
+          "name": "La Source",
+          "lat": 43.7365,
+          "lng": 7.4195
+        }
+      ]
+    },
+    {
+      "name": "Larvotto",
+      "lat": 43.74666667,
+      "lng": 7.43333333,
+      "districts": [
+        {
+          "name": "Larvotto",
+          "lat": 43.74666667,
+          "lng": 7.43333333
+        }
+      ]
+    },
+    {
+      "name": "Malbousquet",
+      "lat": 43.7345,
+      "lng": 7.4215,
+      "districts": [
+        {
+          "name": "Malbousquet",
+          "lat": 43.7345,
+          "lng": 7.4215
+        }
+      ]
+    },
+    {
+      "name": "Monaco-Ville",
+      "lat": 43.7311,
+      "lng": 7.42,
+      "districts": [
+        {
+          "name": "Monaco-Ville",
+          "lat": 43.7311,
+          "lng": 7.42,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Moneghetti",
+      "lat": 43.7364927,
+      "lng": 7.4153383,
+      "districts": [
+        {
+          "name": "Moneghetti",
+          "lat": 43.7364927,
+          "lng": 7.4153383
+        }
+      ]
+    },
+    {
+      "name": "Monte-Carlo",
+      "lat": 43.73972222,
+      "lng": 7.42722222,
+      "districts": [
+        {
+          "name": "Monte-Carlo",
+          "lat": 43.73972222,
+          "lng": 7.42722222
+        }
+      ]
+    },
+    {
+      "name": "Moulins",
+      "lat": 43.7389,
+      "lng": 7.4185,
+      "districts": [
+        {
+          "name": "Moulins",
+          "lat": 43.7389,
+          "lng": 7.4185
+        }
+      ]
+    },
+    {
+      "name": "Port-Hercule",
+      "lat": 43.7347,
+      "lng": 7.4253,
+      "districts": [
+        {
+          "name": "Port-Hercule",
+          "lat": 43.7347,
+          "lng": 7.4253
+        }
+      ]
+    },
+    {
+      "name": "Saint-Roman",
+      "lat": 43.7453,
+      "lng": 7.4318,
+      "districts": [
+        {
+          "name": "Saint-Roman",
+          "lat": 43.7453,
+          "lng": 7.4318
+        }
+      ]
+    },
+    {
+      "name": "Sainte-Dévote",
+      "lat": 43.7372,
+      "lng": 7.4208,
+      "districts": [
+        {
+          "name": "Sainte-Dévote",
+          "lat": 43.7372,
+          "lng": 7.4208
+        }
+      ]
+    },
+    {
+      "name": "Spélugues",
+      "lat": 43.7392,
+      "lng": 7.4251,
+      "districts": [
+        {
+          "name": "Spélugues",
+          "lat": 43.7392,
+          "lng": 7.4251
+        }
+      ]
+    },
+    {
+      "name": "Vallon de la Rousse",
+      "lat": 43.7401,
+      "lng": 7.4175,
+      "districts": [
+        {
+          "name": "Vallon de la Rousse",
+          "lat": 43.7401,
+          "lng": 7.4175
+        }
+      ]
+    }
+  ]
+}

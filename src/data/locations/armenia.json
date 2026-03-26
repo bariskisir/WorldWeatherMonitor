@@ -1,0 +1,1625 @@
+{
+  "name": "Armenia",
+  "lat": 40,
+  "lng": 45,
+  "cities": [
+    {
+      "name": "Aragatsotn",
+      "lat": 40.2580349,
+      "lng": 44.1795089,
+      "districts": [
+        {
+          "name": "Agarakavan",
+          "lat": 40.33069,
+          "lng": 44.07233
+        },
+        {
+          "name": "Aparan",
+          "lat": 40.59323,
+          "lng": 44.3589
+        },
+        {
+          "name": "Aragats",
+          "lat": 40.48889,
+          "lng": 44.3529
+        },
+        {
+          "name": "Arteni",
+          "lat": 40.2973,
+          "lng": 43.76672
+        },
+        {
+          "name": "Ashnak",
+          "lat": 40.33069,
+          "lng": 43.91669
+        },
+        {
+          "name": "Ashtarak",
+          "lat": 40.2991,
+          "lng": 44.36204
+        },
+        {
+          "name": "Byurakan",
+          "lat": 40.33894,
+          "lng": 44.27275
+        },
+        {
+          "name": "Hnaberd",
+          "lat": 40.63721,
+          "lng": 44.14058
+        },
+        {
+          "name": "Karbi",
+          "lat": 40.33069,
+          "lng": 44.37793
+        },
+        {
+          "name": "Kasakh",
+          "lat": 40.53697,
+          "lng": 44.41046
+        },
+        {
+          "name": "Kosh",
+          "lat": 40.30011,
+          "lng": 44.16107
+        },
+        {
+          "name": "Nor Yerznka",
+          "lat": 40.30011,
+          "lng": 44.38892
+        },
+        {
+          "name": "Oshakan",
+          "lat": 40.26392,
+          "lng": 44.31671
+        },
+        {
+          "name": "Sasunik",
+          "lat": 40.25012,
+          "lng": 44.34448
+        },
+        {
+          "name": "Shenavan",
+          "lat": 40.48328,
+          "lng": 44.38348
+        },
+        {
+          "name": "T’alin",
+          "lat": 40.39172,
+          "lng": 43.87793
+        },
+        {
+          "name": "Tsaghkahovit",
+          "lat": 40.63428,
+          "lng": 44.22241
+        },
+        {
+          "name": "Ushi",
+          "lat": 40.34729,
+          "lng": 44.37512
+        },
+        {
+          "name": "Voskevaz",
+          "lat": 40.27508,
+          "lng": 44.30011
+        },
+        {
+          "name": "Zovuni",
+          "lat": 40.51111,
+          "lng": 44.4389
+        }
+      ]
+    },
+    {
+      "name": "Ararat",
+      "lat": 39.8553329,
+      "lng": 44.6943793,
+      "districts": [
+        {
+          "name": "Abovyan",
+          "lat": 40.04851,
+          "lng": 44.54742
+        },
+        {
+          "name": "Aralez",
+          "lat": 39.90008,
+          "lng": 44.6557
+        },
+        {
+          "name": "Ararat",
+          "lat": 39.83069,
+          "lng": 44.70569
+        },
+        {
+          "name": "Arevabuyr",
+          "lat": 40.03607,
+          "lng": 44.46948
+        },
+        {
+          "name": "Arevshat",
+          "lat": 40.03963,
+          "lng": 44.54179
+        },
+        {
+          "name": "Armash",
+          "lat": 39.76672,
+          "lng": 44.8111
+        },
+        {
+          "name": "Artashat",
+          "lat": 39.96144,
+          "lng": 44.54447
+        },
+        {
+          "name": "Avshar",
+          "lat": 39.85553,
+          "lng": 44.65832
+        },
+        {
+          "name": "Aygavan",
+          "lat": 39.87327,
+          "lng": 44.66984
+        },
+        {
+          "name": "Aygepat",
+          "lat": 39.95845,
+          "lng": 44.59981
+        },
+        {
+          "name": "Aygestan",
+          "lat": 40.00293,
+          "lng": 44.55829
+        },
+        {
+          "name": "Aygezard",
+          "lat": 39.95436,
+          "lng": 44.60229
+        },
+        {
+          "name": "Bardzrashen",
+          "lat": 40.08533,
+          "lng": 44.57957
+        },
+        {
+          "name": "Berk’anush",
+          "lat": 39.9779,
+          "lng": 44.51672
+        },
+        {
+          "name": "Burastan",
+          "lat": 39.99157,
+          "lng": 44.49681
+        },
+        {
+          "name": "Byuravan",
+          "lat": 40.01604,
+          "lng": 44.51889
+        },
+        {
+          "name": "Dalar",
+          "lat": 39.97653,
+          "lng": 44.52649
+        },
+        {
+          "name": "Darakert",
+          "lat": 40.10553,
+          "lng": 44.41388
+        },
+        {
+          "name": "Dashtavan",
+          "lat": 40.1001,
+          "lng": 44.39172
+        },
+        {
+          "name": "Dimitrov",
+          "lat": 40.00848,
+          "lng": 44.4917
+        },
+        {
+          "name": "Dvin",
+          "lat": 40.01984,
+          "lng": 44.58376
+        },
+        {
+          "name": "Getazat",
+          "lat": 40.03844,
+          "lng": 44.56369
+        },
+        {
+          "name": "Ghukasavan",
+          "lat": 40.12793,
+          "lng": 44.41669
+        },
+        {
+          "name": "Goravan",
+          "lat": 39.90832,
+          "lng": 44.73328
+        },
+        {
+          "name": "Hayanist",
+          "lat": 40.12231,
+          "lng": 44.37793
+        },
+        {
+          "name": "Hovtashat",
+          "lat": 40.09729,
+          "lng": 44.34448
+        },
+        {
+          "name": "Hovtashen",
+          "lat": 40.02508,
+          "lng": 44.45007
+        },
+        {
+          "name": "Jrahovit",
+          "lat": 40.0473,
+          "lng": 44.4751
+        },
+        {
+          "name": "Lusarrat",
+          "lat": 39.87403,
+          "lng": 44.58678
+        },
+        {
+          "name": "Marmarashen",
+          "lat": 40.05829,
+          "lng": 44.47229
+        },
+        {
+          "name": "Masis",
+          "lat": 40.06542,
+          "lng": 44.41618
+        },
+        {
+          "name": "Mrganush",
+          "lat": 40.02857,
+          "lng": 44.55831
+        },
+        {
+          "name": "Mrgavan",
+          "lat": 39.97251,
+          "lng": 44.53565
+        },
+        {
+          "name": "Mrgavet",
+          "lat": 40.02789,
+          "lng": 44.48328
+        },
+        {
+          "name": "Nizami",
+          "lat": 40.09168,
+          "lng": 44.4057
+        },
+        {
+          "name": "Norabats’",
+          "lat": 40.10553,
+          "lng": 44.43329
+        },
+        {
+          "name": "Noramarg",
+          "lat": 40.02228,
+          "lng": 44.42511
+        },
+        {
+          "name": "Norashen",
+          "lat": 40.0013,
+          "lng": 44.59296
+        },
+        {
+          "name": "Noyakert",
+          "lat": 39.83069,
+          "lng": 44.66949
+        },
+        {
+          "name": "Nshavan",
+          "lat": 40.02787,
+          "lng": 44.52565
+        },
+        {
+          "name": "Sayat’-Nova",
+          "lat": 40.07507,
+          "lng": 44.40008
+        },
+        {
+          "name": "Shahumyan",
+          "lat": 39.94171,
+          "lng": 44.57233
+        },
+        {
+          "name": "Sis",
+          "lat": 40.05829,
+          "lng": 44.38892
+        },
+        {
+          "name": "Sisavan",
+          "lat": 39.90802,
+          "lng": 44.66721
+        },
+        {
+          "name": "Surenavan",
+          "lat": 39.79449,
+          "lng": 44.77508
+        },
+        {
+          "name": "Vedi",
+          "lat": 39.91388,
+          "lng": 44.7251
+        },
+        {
+          "name": "Verin Artashat",
+          "lat": 39.99731,
+          "lng": 44.58893
+        },
+        {
+          "name": "Verin Dvin",
+          "lat": 40.02434,
+          "lng": 44.59038
+        },
+        {
+          "name": "Vosketap’",
+          "lat": 39.88114,
+          "lng": 44.64917
+        },
+        {
+          "name": "Vostan",
+          "lat": 39.96515,
+          "lng": 44.55937
+        },
+        {
+          "name": "Yeghegnavan",
+          "lat": 39.83893,
+          "lng": 44.61951
+        },
+        {
+          "name": "Zangakatun",
+          "lat": 39.82233,
+          "lng": 45.04169
+        },
+        {
+          "name": "Zorak",
+          "lat": 40.09168,
+          "lng": 44.39447
+        }
+      ]
+    },
+    {
+      "name": "Armavir",
+      "lat": 40.1554631,
+      "lng": 44.0372446,
+      "districts": [
+        {
+          "name": "Aghavnatun",
+          "lat": 40.2333,
+          "lng": 44.25295
+        },
+        {
+          "name": "Aknalich",
+          "lat": 40.14728,
+          "lng": 44.16669
+        },
+        {
+          "name": "Aknashen",
+          "lat": 40.09551,
+          "lng": 44.28604
+        },
+        {
+          "name": "Alashkert",
+          "lat": 40.10712,
+          "lng": 44.05108
+        },
+        {
+          "name": "Apaga",
+          "lat": 40.09729,
+          "lng": 44.25293
+        },
+        {
+          "name": "Arak’s",
+          "lat": 40.05548,
+          "lng": 44.30292
+        },
+        {
+          "name": "Arazap’",
+          "lat": 40.04169,
+          "lng": 44.14728
+        },
+        {
+          "name": "Arbat’",
+          "lat": 40.13892,
+          "lng": 44.40289
+        },
+        {
+          "name": "Arevashat",
+          "lat": 40.14447,
+          "lng": 44.37512
+        },
+        {
+          "name": "Arevik",
+          "lat": 40.1001,
+          "lng": 44.09448
+        },
+        {
+          "name": "Argavand",
+          "lat": 40.0611,
+          "lng": 44.09448
+        },
+        {
+          "name": "Armavir",
+          "lat": 40.15446,
+          "lng": 44.03815
+        },
+        {
+          "name": "Arshaluys",
+          "lat": 40.16949,
+          "lng": 44.21393
+        },
+        {
+          "name": "Artimet",
+          "lat": 40.15008,
+          "lng": 44.26672
+        },
+        {
+          "name": "Aygek",
+          "lat": 40.1889,
+          "lng": 44.38611
+        },
+        {
+          "name": "Aygeshat",
+          "lat": 40.07507,
+          "lng": 44.0611
+        },
+        {
+          "name": "Baghramyan",
+          "lat": 40.19452,
+          "lng": 44.36951
+        },
+        {
+          "name": "Bambakashat",
+          "lat": 40.10828,
+          "lng": 44.01947
+        },
+        {
+          "name": "Dalarik",
+          "lat": 40.2279,
+          "lng": 43.87793
+        },
+        {
+          "name": "Doghs",
+          "lat": 40.22229,
+          "lng": 44.27228
+        },
+        {
+          "name": "Gay",
+          "lat": 40.08444,
+          "lng": 44.30528
+        },
+        {
+          "name": "Geghakert",
+          "lat": 40.18516,
+          "lng": 44.24331
+        },
+        {
+          "name": "Geghanist",
+          "lat": 40.14587,
+          "lng": 44.43048
+        },
+        {
+          "name": "Getashen",
+          "lat": 40.04449,
+          "lng": 43.94171
+        },
+        {
+          "name": "Gmbet’",
+          "lat": 40.22369,
+          "lng": 44.25409
+        },
+        {
+          "name": "Griboyedov",
+          "lat": 40.11307,
+          "lng": 44.27169
+        },
+        {
+          "name": "Haykashen",
+          "lat": 40.07233,
+          "lng": 44.30829
+        },
+        {
+          "name": "Hovtamej",
+          "lat": 40.18329,
+          "lng": 44.25848
+        },
+        {
+          "name": "Janfida",
+          "lat": 40.04449,
+          "lng": 44.02789
+        },
+        {
+          "name": "Khoronk’",
+          "lat": 40.13611,
+          "lng": 44.24731
+        },
+        {
+          "name": "Lenughi",
+          "lat": 40.12512,
+          "lng": 43.96393
+        },
+        {
+          "name": "Lukashin",
+          "lat": 40.18726,
+          "lng": 44.0039
+        },
+        {
+          "name": "Margara",
+          "lat": 40.03332,
+          "lng": 44.18048
+        },
+        {
+          "name": "Mayisyan",
+          "lat": 40.15701,
+          "lng": 44.09192
+        },
+        {
+          "name": "Merdzavan",
+          "lat": 40.1814,
+          "lng": 44.40033
+        },
+        {
+          "name": "Metsamor",
+          "lat": 40.14447,
+          "lng": 44.1167
+        },
+        {
+          "name": "Mrgashat",
+          "lat": 40.13068,
+          "lng": 44.08069
+        },
+        {
+          "name": "Musalerr",
+          "lat": 40.1557,
+          "lng": 44.37793
+        },
+        {
+          "name": "Myasnikyan",
+          "lat": 40.18048,
+          "lng": 43.91949
+        },
+        {
+          "name": "Nalbandyan",
+          "lat": 40.0639,
+          "lng": 43.98889
+        },
+        {
+          "name": "Nor Armavir",
+          "lat": 40.08612,
+          "lng": 43.99451
+        },
+        {
+          "name": "Norakert",
+          "lat": 40.19733,
+          "lng": 44.3501
+        },
+        {
+          "name": "P’shatavan",
+          "lat": 40.03888,
+          "lng": 44.06671
+        },
+        {
+          "name": "Ptghunk’",
+          "lat": 40.16388,
+          "lng": 44.36389
+        },
+        {
+          "name": "Sardarapat",
+          "lat": 40.13206,
+          "lng": 44.00969
+        },
+        {
+          "name": "Shenavan",
+          "lat": 40.05548,
+          "lng": 43.93048
+        },
+        {
+          "name": "Tandzut",
+          "lat": 40.06952,
+          "lng": 44.07788
+        },
+        {
+          "name": "Taronik",
+          "lat": 40.13367,
+          "lng": 44.19957
+        },
+        {
+          "name": "Tsaghkunk’",
+          "lat": 40.18048,
+          "lng": 44.27228
+        },
+        {
+          "name": "Tsiatsan",
+          "lat": 40.1861,
+          "lng": 44.26947
+        },
+        {
+          "name": "Vagharshapat",
+          "lat": 40.16557,
+          "lng": 44.29462
+        },
+        {
+          "name": "Voskehat",
+          "lat": 40.14172,
+          "lng": 44.33069
+        },
+        {
+          "name": "Yeghegnut",
+          "lat": 40.08893,
+          "lng": 44.16669
+        },
+        {
+          "name": "Yeraskhahun",
+          "lat": 40.07233,
+          "lng": 44.21948
+        }
+      ]
+    },
+    {
+      "name": "Gegharkunik",
+      "lat": 40.2483299,
+      "lng": 45.1455126,
+      "districts": [
+        {
+          "name": "Akunk’",
+          "lat": 40.15886,
+          "lng": 45.72568
+        },
+        {
+          "name": "Astghadzor",
+          "lat": 40.12231,
+          "lng": 45.35553
+        },
+        {
+          "name": "Chambarak",
+          "lat": 40.59655,
+          "lng": 45.35498
+        },
+        {
+          "name": "Ddmashen",
+          "lat": 40.57028,
+          "lng": 44.82295
+        },
+        {
+          "name": "Drakhtik",
+          "lat": 40.56497,
+          "lng": 45.2367
+        },
+        {
+          "name": "Dzoragyugh",
+          "lat": 40.16957,
+          "lng": 45.18337
+        },
+        {
+          "name": "Gagarin",
+          "lat": 40.54026,
+          "lng": 44.86962
+        },
+        {
+          "name": "Gandzak",
+          "lat": 40.31472,
+          "lng": 45.11139
+        },
+        {
+          "name": "Gavarr",
+          "lat": 40.35398,
+          "lng": 45.12386
+        },
+        {
+          "name": "Geghamasar",
+          "lat": 40.31091,
+          "lng": 45.67924
+        },
+        {
+          "name": "Geghamavan",
+          "lat": 40.5625,
+          "lng": 44.88892
+        },
+        {
+          "name": "Karanlukh",
+          "lat": 40.10444,
+          "lng": 45.28972
+        },
+        {
+          "name": "Karchaghbyur",
+          "lat": 40.17048,
+          "lng": 45.57785
+        },
+        {
+          "name": "Lanjaghbyur",
+          "lat": 40.26947,
+          "lng": 45.14447
+        },
+        {
+          "name": "Lchap’",
+          "lat": 40.45569,
+          "lng": 45.07507
+        },
+        {
+          "name": "Lchashen",
+          "lat": 40.51947,
+          "lng": 44.93048
+        },
+        {
+          "name": "Lichk’",
+          "lat": 40.15933,
+          "lng": 45.23467
+        },
+        {
+          "name": "Madina",
+          "lat": 40.07637,
+          "lng": 45.25507
+        },
+        {
+          "name": "Martuni",
+          "lat": 40.08333,
+          "lng": 45.25
+        },
+        {
+          "name": "Mets Masrik",
+          "lat": 40.21948,
+          "lng": 45.76391
+        },
+        {
+          "name": "Nerk’in Getashen",
+          "lat": 40.14172,
+          "lng": 45.27087
+        },
+        {
+          "name": "Noratus",
+          "lat": 40.37793,
+          "lng": 45.18048
+        },
+        {
+          "name": "Sarukhan",
+          "lat": 40.29169,
+          "lng": 45.13068
+        },
+        {
+          "name": "Sevan",
+          "lat": 40.5473,
+          "lng": 44.94171
+        },
+        {
+          "name": "Tsovagyugh",
+          "lat": 40.63348,
+          "lng": 44.96112
+        },
+        {
+          "name": "Tsovak",
+          "lat": 40.18254,
+          "lng": 45.63286
+        },
+        {
+          "name": "Tsovasar",
+          "lat": 40.1382,
+          "lng": 45.19096
+        },
+        {
+          "name": "Tsovazard",
+          "lat": 40.4751,
+          "lng": 45.05011
+        },
+        {
+          "name": "Tsovinar",
+          "lat": 40.15959,
+          "lng": 45.46786
+        },
+        {
+          "name": "Vaghashen",
+          "lat": 40.13611,
+          "lng": 45.33069
+        },
+        {
+          "name": "Vahan",
+          "lat": 40.57549,
+          "lng": 45.39769
+        },
+        {
+          "name": "Vardenik",
+          "lat": 40.13348,
+          "lng": 45.44311
+        },
+        {
+          "name": "Vardenis",
+          "lat": 40.18329,
+          "lng": 45.73053
+        },
+        {
+          "name": "Varser",
+          "lat": 40.55548,
+          "lng": 44.90832
+        },
+        {
+          "name": "Verin Getashen",
+          "lat": 40.13068,
+          "lng": 45.25293
+        },
+        {
+          "name": "Yeranos",
+          "lat": 40.20428,
+          "lng": 45.19209
+        }
+      ]
+    },
+    {
+      "name": "Kotayk",
+      "lat": 40.4033275,
+      "lng": 44.6959923,
+      "districts": [
+        {
+          "name": "Abovyan",
+          "lat": 40.27368,
+          "lng": 44.63348
+        },
+        {
+          "name": "Aghavnadzor",
+          "lat": 40.58195,
+          "lng": 44.69581
+        },
+        {
+          "name": "Akunk’",
+          "lat": 40.26672,
+          "lng": 44.6861
+        },
+        {
+          "name": "Aramus",
+          "lat": 40.25095,
+          "lng": 44.66351
+        },
+        {
+          "name": "Argel",
+          "lat": 40.37793,
+          "lng": 44.6001
+        },
+        {
+          "name": "Arzakan",
+          "lat": 40.45007,
+          "lng": 44.60828
+        },
+        {
+          "name": "Arzni",
+          "lat": 40.2973,
+          "lng": 44.59869
+        },
+        {
+          "name": "Balahovit",
+          "lat": 40.25153,
+          "lng": 44.60828
+        },
+        {
+          "name": "Bjni",
+          "lat": 40.45831,
+          "lng": 44.65008
+        },
+        {
+          "name": "Buzhakan",
+          "lat": 40.45569,
+          "lng": 44.51947
+        },
+        {
+          "name": "Byureghavan",
+          "lat": 40.31417,
+          "lng": 44.59333
+        },
+        {
+          "name": "Dzoraghbyur",
+          "lat": 40.20412,
+          "lng": 44.6415
+        },
+        {
+          "name": "Fantan",
+          "lat": 40.39447,
+          "lng": 44.6861
+        },
+        {
+          "name": "Garrni",
+          "lat": 40.11931,
+          "lng": 44.73442
+        },
+        {
+          "name": "Goght’",
+          "lat": 40.1347,
+          "lng": 44.78332
+        },
+        {
+          "name": "Hrazdan",
+          "lat": 40.49748,
+          "lng": 44.7662
+        },
+        {
+          "name": "Kaputan",
+          "lat": 40.32507,
+          "lng": 44.70007
+        },
+        {
+          "name": "Kotayk’",
+          "lat": 40.27789,
+          "lng": 44.66388
+        },
+        {
+          "name": "Lerrnanist",
+          "lat": 40.46676,
+          "lng": 44.79249
+        },
+        {
+          "name": "Mayakovski",
+          "lat": 40.25293,
+          "lng": 44.63892
+        },
+        {
+          "name": "Meghradzor",
+          "lat": 40.60611,
+          "lng": 44.65147
+        },
+        {
+          "name": "Mrgashen",
+          "lat": 40.28607,
+          "lng": 44.54449
+        },
+        {
+          "name": "Nor Geghi",
+          "lat": 40.32233,
+          "lng": 44.58331
+        },
+        {
+          "name": "Nor Gyugh",
+          "lat": 40.26672,
+          "lng": 44.65832
+        },
+        {
+          "name": "Prroshyan",
+          "lat": 40.24731,
+          "lng": 44.41949
+        },
+        {
+          "name": "Ptghni",
+          "lat": 40.25568,
+          "lng": 44.58612
+        },
+        {
+          "name": "Solak",
+          "lat": 40.46252,
+          "lng": 44.70709
+        },
+        {
+          "name": "Tsaghkadzor",
+          "lat": 40.53259,
+          "lng": 44.72025
+        },
+        {
+          "name": "Yeghvard",
+          "lat": 40.32507,
+          "lng": 44.48608
+        },
+        {
+          "name": "Zarr",
+          "lat": 40.25848,
+          "lng": 44.73328
+        },
+        {
+          "name": "Zoravan",
+          "lat": 40.35553,
+          "lng": 44.52228
+        },
+        {
+          "name": "Zovaber",
+          "lat": 40.56671,
+          "lng": 44.79028
+        }
+      ]
+    },
+    {
+      "name": "Lori",
+      "lat": 41.007271,
+      "lng": 44.4900113,
+      "districts": [
+        {
+          "name": "Agarak",
+          "lat": 41.01072,
+          "lng": 44.46845
+        },
+        {
+          "name": "Akht’ala",
+          "lat": 41.16838,
+          "lng": 44.75811
+        },
+        {
+          "name": "Alaverdi",
+          "lat": 41.09766,
+          "lng": 44.67316
+        },
+        {
+          "name": "Arevashogh",
+          "lat": 40.86039,
+          "lng": 44.27438
+        },
+        {
+          "name": "Bazum",
+          "lat": 40.86763,
+          "lng": 44.43978
+        },
+        {
+          "name": "Chochkan",
+          "lat": 41.18118,
+          "lng": 44.83217
+        },
+        {
+          "name": "Darpas",
+          "lat": 40.83674,
+          "lng": 44.42494
+        },
+        {
+          "name": "Dsegh",
+          "lat": 40.9617,
+          "lng": 44.65003
+        },
+        {
+          "name": "Fioletovo",
+          "lat": 40.72241,
+          "lng": 44.71769
+        },
+        {
+          "name": "Gogaran",
+          "lat": 40.89255,
+          "lng": 44.19915
+        },
+        {
+          "name": "Gugark’",
+          "lat": 40.8046,
+          "lng": 44.54025
+        },
+        {
+          "name": "Gyulagarak",
+          "lat": 40.96715,
+          "lng": 44.47144
+        },
+        {
+          "name": "Jrashen",
+          "lat": 40.79028,
+          "lng": 44.18664
+        },
+        {
+          "name": "Lerrnants’k’",
+          "lat": 40.79532,
+          "lng": 44.27435
+        },
+        {
+          "name": "Lerrnapat",
+          "lat": 40.81538,
+          "lng": 44.39344
+        },
+        {
+          "name": "Lerrnavan",
+          "lat": 40.7882,
+          "lng": 44.16024
+        },
+        {
+          "name": "Lorut",
+          "lat": 40.93717,
+          "lng": 44.77142
+        },
+        {
+          "name": "Margahovit",
+          "lat": 40.73381,
+          "lng": 44.68474
+        },
+        {
+          "name": "Mets Parni",
+          "lat": 40.83472,
+          "lng": 44.11108
+        },
+        {
+          "name": "Metsavan",
+          "lat": 41.20156,
+          "lng": 44.22877
+        },
+        {
+          "name": "Norashen",
+          "lat": 41.18886,
+          "lng": 44.33336
+        },
+        {
+          "name": "Odzun",
+          "lat": 41.05321,
+          "lng": 44.61341
+        },
+        {
+          "name": "Sarahart’",
+          "lat": 40.87043,
+          "lng": 44.21407
+        },
+        {
+          "name": "Saramej",
+          "lat": 40.77487,
+          "lng": 44.2222
+        },
+        {
+          "name": "Shahumyan",
+          "lat": 40.77482,
+          "lng": 44.54596
+        },
+        {
+          "name": "Shirakamut",
+          "lat": 40.86056,
+          "lng": 44.15278
+        },
+        {
+          "name": "Shnogh",
+          "lat": 41.14693,
+          "lng": 44.84043
+        },
+        {
+          "name": "Spitak",
+          "lat": 40.83221,
+          "lng": 44.26731
+        },
+        {
+          "name": "Step’anavan",
+          "lat": 41.00995,
+          "lng": 44.38531
+        },
+        {
+          "name": "Tashir",
+          "lat": 41.12072,
+          "lng": 44.28462
+        },
+        {
+          "name": "Tsaghkaber",
+          "lat": 40.79849,
+          "lng": 44.10144
+        },
+        {
+          "name": "Urrut",
+          "lat": 41.06778,
+          "lng": 44.39628
+        },
+        {
+          "name": "Vahagni",
+          "lat": 40.90698,
+          "lng": 44.60873
+        },
+        {
+          "name": "Vanadzor",
+          "lat": 40.80456,
+          "lng": 44.4939
+        },
+        {
+          "name": "Vardablur",
+          "lat": 40.97083,
+          "lng": 44.50889
+        },
+        {
+          "name": "Yeghegnut",
+          "lat": 40.90302,
+          "lng": 44.63155
+        }
+      ]
+    },
+    {
+      "name": "Shirak",
+      "lat": 40.918594,
+      "lng": 43.8403536,
+      "districts": [
+        {
+          "name": "Gyumri",
+          "lat": 40.7942,
+          "lng": 43.84528
+        },
+        {
+          "name": "Akhuryan",
+          "lat": 40.78003,
+          "lng": 43.90027
+        },
+        {
+          "name": "Amasia",
+          "lat": 40.95442,
+          "lng": 43.7872
+        },
+        {
+          "name": "Anushavan",
+          "lat": 40.65008,
+          "lng": 43.98053
+        },
+        {
+          "name": "Arevik",
+          "lat": 40.7417,
+          "lng": 43.9043
+        },
+        {
+          "name": "Arevshat",
+          "lat": 40.65345,
+          "lng": 44.04419
+        },
+        {
+          "name": "Arrap’i",
+          "lat": 40.78276,
+          "lng": 43.80583
+        },
+        {
+          "name": "Azatan",
+          "lat": 40.71959,
+          "lng": 43.82727
+        },
+        {
+          "name": "Basen",
+          "lat": 40.75767,
+          "lng": 43.99274
+        },
+        {
+          "name": "Dzit’hank’ov",
+          "lat": 40.50848,
+          "lng": 43.82092
+        },
+        {
+          "name": "Haykavan",
+          "lat": 40.80312,
+          "lng": 43.75173
+        },
+        {
+          "name": "Horrom",
+          "lat": 40.65973,
+          "lng": 43.89032
+        },
+        {
+          "name": "Kamo",
+          "lat": 40.82572,
+          "lng": 43.95071
+        },
+        {
+          "name": "Lerrnakert",
+          "lat": 40.5625,
+          "lng": 43.9389
+        },
+        {
+          "name": "Maralik",
+          "lat": 40.57507,
+          "lng": 43.87231
+        },
+        {
+          "name": "Marmashen",
+          "lat": 40.83486,
+          "lng": 43.7779
+        },
+        {
+          "name": "Mayisyan",
+          "lat": 40.84715,
+          "lng": 43.83938
+        },
+        {
+          "name": "Meghrashen",
+          "lat": 40.6723,
+          "lng": 43.95831
+        },
+        {
+          "name": "Mets Mant’ash",
+          "lat": 40.64376,
+          "lng": 44.05653
+        },
+        {
+          "name": "P’ok’r Mant’ash",
+          "lat": 40.64026,
+          "lng": 44.04666
+        },
+        {
+          "name": "Pemzashen",
+          "lat": 40.58612,
+          "lng": 43.94311
+        },
+        {
+          "name": "Saratak",
+          "lat": 40.6709,
+          "lng": 43.87231
+        },
+        {
+          "name": "Shirak",
+          "lat": 40.84042,
+          "lng": 43.91582
+        },
+        {
+          "name": "Spandaryan",
+          "lat": 40.66105,
+          "lng": 44.01551
+        },
+        {
+          "name": "Voskehask",
+          "lat": 40.76426,
+          "lng": 43.77474
+        },
+        {
+          "name": "Yerazgavors",
+          "lat": 40.69505,
+          "lng": 43.74722
+        }
+      ]
+    },
+    {
+      "name": "Syunik",
+      "lat": 39.3281408,
+      "lng": 46.1530296,
+      "districts": [
+        {
+          "name": "Agarak",
+          "lat": 39.20684,
+          "lng": 46.5446
+        },
+        {
+          "name": "Akner",
+          "lat": 39.53491,
+          "lng": 46.30732
+        },
+        {
+          "name": "Angeghakot’",
+          "lat": 39.56952,
+          "lng": 45.94452
+        },
+        {
+          "name": "Brrnakot’",
+          "lat": 39.49742,
+          "lng": 45.97241
+        },
+        {
+          "name": "Dzorastan",
+          "lat": 39.27059,
+          "lng": 46.3572
+        },
+        {
+          "name": "Goris",
+          "lat": 39.51111,
+          "lng": 46.34168
+        },
+        {
+          "name": "Hats’avan",
+          "lat": 39.46405,
+          "lng": 45.97047
+        },
+        {
+          "name": "Kapan",
+          "lat": 39.20755,
+          "lng": 46.40576
+        },
+        {
+          "name": "Khndzoresk",
+          "lat": 39.50568,
+          "lng": 46.4361
+        },
+        {
+          "name": "Meghri",
+          "lat": 38.90292,
+          "lng": 46.24458
+        },
+        {
+          "name": "Shaghat",
+          "lat": 39.55698,
+          "lng": 45.90727
+        },
+        {
+          "name": "Shinuhayr",
+          "lat": 39.4367,
+          "lng": 46.31787
+        },
+        {
+          "name": "Tegh",
+          "lat": 39.55826,
+          "lng": 46.48054
+        },
+        {
+          "name": "Verishen",
+          "lat": 39.53543,
+          "lng": 46.32063
+        }
+      ]
+    },
+    {
+      "name": "Tavush",
+      "lat": 40.9176424,
+      "lng": 45.4050681,
+      "districts": [
+        {
+          "name": "Archis",
+          "lat": 41.16351,
+          "lng": 44.87631
+        },
+        {
+          "name": "Artsvaberd",
+          "lat": 40.83947,
+          "lng": 45.47033
+        },
+        {
+          "name": "Aygehovit",
+          "lat": 40.97951,
+          "lng": 45.25033
+        },
+        {
+          "name": "Azatamut",
+          "lat": 40.98204,
+          "lng": 45.18551
+        },
+        {
+          "name": "Bagratashen",
+          "lat": 41.24358,
+          "lng": 44.81737
+        },
+        {
+          "name": "Berd",
+          "lat": 40.88135,
+          "lng": 45.38901
+        },
+        {
+          "name": "Berdavan",
+          "lat": 41.20503,
+          "lng": 44.99967
+        },
+        {
+          "name": "Dilijan",
+          "lat": 40.7417,
+          "lng": 44.8501
+        },
+        {
+          "name": "Haghartsin",
+          "lat": 40.77614,
+          "lng": 44.96847
+        },
+        {
+          "name": "Ijevan",
+          "lat": 40.87877,
+          "lng": 45.14851
+        },
+        {
+          "name": "Khasht’arrak",
+          "lat": 40.93668,
+          "lng": 45.1821
+        },
+        {
+          "name": "Mosesgegh",
+          "lat": 40.90534,
+          "lng": 45.48838
+        },
+        {
+          "name": "Navur",
+          "lat": 40.86695,
+          "lng": 45.34179
+        },
+        {
+          "name": "Noyemberyan",
+          "lat": 41.17244,
+          "lng": 44.99917
+        },
+        {
+          "name": "Parravak’ar",
+          "lat": 40.98248,
+          "lng": 45.36696
+        },
+        {
+          "name": "Sarigyugh",
+          "lat": 41.03531,
+          "lng": 45.14486
+        },
+        {
+          "name": "Voskevan",
+          "lat": 41.12081,
+          "lng": 45.06381
+        }
+      ]
+    },
+    {
+      "name": "Vayots Dzor",
+      "lat": 39.8019849,
+      "lng": 45.4557591,
+      "districts": [
+        {
+          "name": "Agarakadzor",
+          "lat": 39.73608,
+          "lng": 45.35553
+        },
+        {
+          "name": "Aghavnadzor",
+          "lat": 39.78607,
+          "lng": 45.2279
+        },
+        {
+          "name": "Areni",
+          "lat": 39.71668,
+          "lng": 45.18329
+        },
+        {
+          "name": "Getap’",
+          "lat": 39.76392,
+          "lng": 45.30829
+        },
+        {
+          "name": "Gladzor",
+          "lat": 39.7807,
+          "lng": 45.34729
+        },
+        {
+          "name": "Jermuk",
+          "lat": 39.84168,
+          "lng": 45.66949
+        },
+        {
+          "name": "Malishka",
+          "lat": 39.74731,
+          "lng": 45.4057
+        },
+        {
+          "name": "Rrind",
+          "lat": 39.76111,
+          "lng": 45.17792
+        },
+        {
+          "name": "Shatin",
+          "lat": 39.83612,
+          "lng": 45.30292
+        },
+        {
+          "name": "Vayk’",
+          "lat": 39.6889,
+          "lng": 45.46668
+        },
+        {
+          "name": "Vernashen",
+          "lat": 39.79236,
+          "lng": 45.36389
+        },
+        {
+          "name": "Yeghegis",
+          "lat": 39.87231,
+          "lng": 45.3501
+        },
+        {
+          "name": "Yeghegnadzor",
+          "lat": 39.76389,
+          "lng": 45.33239
+        },
+        {
+          "name": "Zarrit’ap’",
+          "lat": 39.63892,
+          "lng": 45.51111
+        }
+      ]
+    },
+    {
+      "name": "Yerevan",
+      "lat": 40.1777112,
+      "lng": 44.5126233,
+      "districts": [
+        {
+          "name": "Arabkir",
+          "lat": 40.20549,
+          "lng": 44.50699
+        },
+        {
+          "name": "Yerevan",
+          "lat": 40.18111,
+          "lng": 44.51361,
+          "iscapital": true
+        },
+        {
+          "name": "Argavand",
+          "lat": 40.15289,
+          "lng": 44.4389
+        },
+        {
+          "name": "Jrashen",
+          "lat": 40.05275,
+          "lng": 44.51259
+        },
+        {
+          "name": "K’anak’erravan",
+          "lat": 40.24739,
+          "lng": 44.53511
+        },
+        {
+          "name": "Vardadzor",
+          "lat": 40.18701,
+          "lng": 45.19212
+        }
+      ]
+    }
+  ]
+}

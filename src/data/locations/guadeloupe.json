@@ -1,0 +1,182 @@
+{
+  "name": "Guadeloupe",
+  "lat": 16.25,
+  "lng": -61.583333,
+  "cities": [
+    {
+      "name": "Basse-Terre",
+      "lat": 16.0000778,
+      "lng": -61.7333373,
+      "districts": [
+        {
+          "name": "Basse-Terre",
+          "lat": 15.9991631,
+          "lng": -61.749981,
+          "iscapital": true
+        },
+        {
+          "name": "Baie-Mahault",
+          "lat": 16.2497607,
+          "lng": -61.6775072
+        },
+        {
+          "name": "Baillif",
+          "lat": 16.0497331,
+          "lng": -61.7570591
+        },
+        {
+          "name": "Bouillante",
+          "lat": 16.1386937,
+          "lng": -61.7989897
+        },
+        {
+          "name": "Capesterre-Belle-Eau",
+          "lat": 16.0485402,
+          "lng": -61.7021045
+        },
+        {
+          "name": "Deshaies",
+          "lat": 16.3193605,
+          "lng": -61.8242578
+        },
+        {
+          "name": "Gourbeyre",
+          "lat": 16.0056595,
+          "lng": -61.7302387
+        },
+        {
+          "name": "Goyave",
+          "lat": 16.1231077,
+          "lng": -61.6974021
+        },
+        {
+          "name": "Lamentin",
+          "lat": 16.2443132,
+          "lng": -61.7519194
+        },
+        {
+          "name": "Petit-Bourg",
+          "lat": 16.1694881,
+          "lng": -61.7404331
+        },
+        {
+          "name": "Pointe-Noire",
+          "lat": 16.2270277,
+          "lng": -61.8063122
+        },
+        {
+          "name": "Saint-Claude",
+          "lat": 16.0405744,
+          "lng": -61.7364873
+        },
+        {
+          "name": "Sainte-Rose",
+          "lat": 16.2937252,
+          "lng": -61.7659576
+        },
+        {
+          "name": "Terre-de-Bas",
+          "lat": 15.8554196,
+          "lng": -61.653292
+        },
+        {
+          "name": "Terre-de-Haut",
+          "lat": 15.8580376,
+          "lng": -61.6096098
+        },
+        {
+          "name": "Trois-Rivières",
+          "lat": 15.9931362,
+          "lng": -61.6905296
+        },
+        {
+          "name": "Vieux-Fort",
+          "lat": 15.9607038,
+          "lng": -61.7135177
+        },
+        {
+          "name": "Vieux-Habitants",
+          "lat": 16.0846618,
+          "lng": -61.7993923
+        }
+      ]
+    },
+    {
+      "name": "Pointe-à-Pitre",
+      "lat": 16.2408636,
+      "lng": -61.5334077,
+      "districts": [
+        {
+          "name": "Anse-Bertrand",
+          "lat": 16.4668181,
+          "lng": -61.5521768
+        },
+        {
+          "name": "Capesterre-de-Marie-Galante",
+          "lat": 15.9176399,
+          "lng": -61.2707786
+        },
+        {
+          "name": "Grand-Bourg",
+          "lat": 15.908538,
+          "lng": -61.3340618
+        },
+        {
+          "name": "La Désirade",
+          "lat": 16.2584545,
+          "lng": -61.1490279
+        },
+        {
+          "name": "Le Gosier",
+          "lat": 16.2272625,
+          "lng": -61.5573449
+        },
+        {
+          "name": "Le Moule",
+          "lat": 16.3353687,
+          "lng": -61.4424293
+        },
+        {
+          "name": "Les Abymes",
+          "lat": 16.2677383,
+          "lng": -61.5790727
+        },
+        {
+          "name": "Morne-à-l'Eau",
+          "lat": 16.3211061,
+          "lng": -61.6635689
+        },
+        {
+          "name": "Petit-Canal",
+          "lat": 16.392131,
+          "lng": -61.5371312
+        },
+        {
+          "name": "Pointe-à-Pitre",
+          "lat": 16.2331304,
+          "lng": -61.5623485
+        },
+        {
+          "name": "Port-Louis",
+          "lat": 16.4201282,
+          "lng": -61.5703989
+        },
+        {
+          "name": "Saint-François",
+          "lat": 16.2783495,
+          "lng": -61.3362498
+        },
+        {
+          "name": "Saint-Louis",
+          "lat": 15.9653589,
+          "lng": -61.355625
+        },
+        {
+          "name": "Sainte-Anne",
+          "lat": 16.2564613,
+          "lng": -61.4720288
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "name": "Burkina Faso",
+  "lat": 13,
+  "lng": -2,
+  "cities": [
+    {
+      "name": "Balé",
+      "lat": 11.658145,
+      "lng": -3.0541022,
+      "districts": []
+    },
+    {
+      "name": "Bam",
+      "lat": 13.468115,
+      "lng": -1.5986637,
+      "districts": []
+    },
+    {
+      "name": "Banwa",
+      "lat": 12.2265568,
+      "lng": -4.1913344,
+      "districts": []
+    },
+    {
+      "name": "Bazèga",
+      "lat": 11.8922276,
+      "lng": -1.4593762,
+      "districts": []
+    },
+    {
+      "name": "Boucle du Mouhoun",
+      "lat": 12.4777805,
+      "lng": -3.5879571,
+      "districts": [
+        {
+          "name": "Province de la Kossi",
+          "lat": 12.91667,
+          "lng": -3.83333
+        },
+        {
+          "name": "Province des Banwa",
+          "lat": 12.16667,
+          "lng": -4.16667
+        },
+        {
+          "name": "Province du Mouhoun",
+          "lat": 12.25,
+          "lng": -3.41667
+        },
+        {
+          "name": "Province du Nayala",
+          "lat": 12.66667,
+          "lng": -3
+        },
+        {
+          "name": "Province du Sourou",
+          "lat": 13.25,
+          "lng": -3
+        },
+        {
+          "name": "Barani",
+          "lat": 13.1691,
+          "lng": -3.8899
+        },
+        {
+          "name": "Boromo",
+          "lat": 11.74542,
+          "lng": -2.93006
+        },
+        {
+          "name": "Dédougou",
+          "lat": 12.46338,
+          "lng": -3.46075
+        },
+        {
+          "name": "Nouna",
+          "lat": 12.72939,
+          "lng": -3.86305
+        },
+        {
+          "name": "Province des Balé",
+          "lat": 11.71667,
+          "lng": -3.05
+        },
+        {
+          "name": "Salanso",
+          "lat": 12.17423,
+          "lng": -4.08477
+        },
+        {
+          "name": "Toma",
+          "lat": 12.75844,
+          "lng": -2.89879
+        },
+        {
+          "name": "Tougan",
+          "lat": 13.0725,
+          "lng": -3.0694
+        }
+      ]
+    },
+    {
+      "name": "Bougouriba",
+      "lat": 10.8820933,
+      "lng": -3.4306631,
+      "districts": []
+    },
+    {
+      "name": "Boulgou",
+      "lat": 11.464625,
+      "lng": -0.4089101,
+      "districts": []
+    },
+    {
+      "name": "Boulkiemde",
+      "lat": 12.293712,
+      "lng": -2.1041312,
+      "districts": []
+    },
+    {
+      "name": "Cascades",
+      "lat": 10.3071812,
+      "lng": -4.4351893,
+      "districts": [
+        {
+          "name": "Banfora",
+          "lat": 10.63333,
+          "lng": -4.76667
+        },
+        {
+          "name": "Province de la Comoé",
+          "lat": 10.33333,
+          "lng": -4.41667
+        },
+        {
+          "name": "Province de la Léraba",
+          "lat": 10.66667,
+          "lng": -5.2
+        },
+        {
+          "name": "Sindou",
+          "lat": 10.66667,
+          "lng": -5.16667
+        }
+      ]
+    },
+    {
+      "name": "Centre",
+      "lat": 12.36732,
+      "lng": -1.5430869,
+      "districts": [
+        {
+          "name": "Kadiogo",
+          "lat": 12.33333,
+          "lng": -1.5
+        },
+        {
+          "name": "Ouagadougou",
+          "lat": 12.36566,
+          "lng": -1.53388,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Centre-Est",
+      "lat": 11.734933,
+      "lng": -0.2921056,
+      "districts": [
+        {
+          "name": "Kouritenga",
+          "lat": 12.2,
+          "lng": -0.3
+        },
+        {
+          "name": "Province du Boulgou",
+          "lat": 11.5,
+          "lng": -0.41667
+        },
+        {
+          "name": "Province du Koulpélogo",
+          "lat": 11.41667,
+          "lng": 0.16667
+        },
+        {
+          "name": "Garango",
+          "lat": 11.8,
+          "lng": -0.55056
+        },
+        {
+          "name": "Koupéla",
+          "lat": 12.17864,
+          "lng": -0.35103
+        },
+        {
+          "name": "Ouargaye",
+          "lat": 11.50202,
+          "lng": 0.05886
+        },
+        {
+          "name": "Tenkodogo",
+          "lat": 11.78,
+          "lng": -0.36972
+        }
+      ]
+    },
+    {
+      "name": "Centre-Nord",
+      "lat": 13.23871,
+      "lng": -1.0349832,
+      "districts": [
+        {
+          "name": "Kaya",
+          "lat": 13.09167,
+          "lng": -1.08444
+        },
+        {
+          "name": "Province du Bam",
+          "lat": 13.46667,
+          "lng": -1.58333
+        },
+        {
+          "name": "Province du Namentenga",
+          "lat": 13.25,
+          "lng": -0.5
+        },
+        {
+          "name": "Province du Sanmatenga",
+          "lat": 13.25,
+          "lng": -1.08333
+        },
+        {
+          "name": "Boulsa",
+          "lat": 12.66664,
+          "lng": -0.57469
+        },
+        {
+          "name": "Kongoussi",
+          "lat": 13.32583,
+          "lng": -1.53472
+        }
+      ]
+    },
+    {
+      "name": "Centre-Ouest",
+      "lat": 11.9067933,
+      "lng": -2.3044801,
+      "districts": [
+        {
+          "name": "Koudougou",
+          "lat": 12.25263,
+          "lng": -2.36272
+        },
+        {
+          "name": "Province de la Sissili",
+          "lat": 11.33333,
+          "lng": -2.25
+        },
+        {
+          "name": "Province du Boulkiemdé",
+          "lat": 12.33333,
+          "lng": -2.16667
+        },
+        {
+          "name": "Province du Sanguié",
+          "lat": 12.16667,
+          "lng": -2.66667
+        },
+        {
+          "name": "Province du Ziro",
+          "lat": 11.58333,
+          "lng": -1.91667
+        },
+        {
+          "name": "Goulouré",
+          "lat": 12.23484,
+          "lng": -1.93394
+        },
+        {
+          "name": "Kokologo",
+          "lat": 12.19392,
+          "lng": -1.87687
+        },
+        {
+          "name": "Léo",
+          "lat": 11.10033,
+          "lng": -2.10654
+        },
+        {
+          "name": "Pitmoaga",
+          "lat": 12.24564,
+          "lng": -1.88148
+        },
+        {
+          "name": "Réo",
+          "lat": 12.31963,
+          "lng": -2.47094
+        },
+        {
+          "name": "Sapouy",
+          "lat": 11.55444,
+          "lng": -1.77361
+        }
+      ]
+    },
+    {
+      "name": "Centre-Sud",
+      "lat": 11.5833646,
+      "lng": -1.0556301,
+      "districts": [
+        {
+          "name": "Bazega",
+          "lat": 11.91667,
+          "lng": -1.5
+        },
+        {
+          "name": "Nahouri",
+          "lat": 11.25,
+          "lng": -1.25
+        },
+        {
+          "name": "Zoundweogo",
+          "lat": 11.58333,
+          "lng": -1
+        },
+        {
+          "name": "Kombissiri",
+          "lat": 12.06884,
+          "lng": -1.33644
+        },
+        {
+          "name": "Manga",
+          "lat": 11.66361,
+          "lng": -1.07306
+        },
+        {
+          "name": "Pô",
+          "lat": 11.16972,
+          "lng": -1.145
+        }
+      ]
+    },
+    {
+      "name": "Comoé",
+      "lat": 10.2419897,
+      "lng": -4.4268875,
+      "districts": []
+    },
+    {
+      "name": "Est",
+      "lat": 12.2527495,
+      "lng": 0.8736106,
+      "districts": [
+        {
+          "name": "Gnagna",
+          "lat": 12.9188,
+          "lng": 0.0392
+        },
+        {
+          "name": "Province de la Kompienga",
+          "lat": 11.41667,
+          "lng": 0.91667
+        },
+        {
+          "name": "Province de la Tapoa",
+          "lat": 12,
+          "lng": 1.75
+        },
+        {
+          "name": "Province du Gourma",
+          "lat": 12.08333,
+          "lng": 0.5
+        },
+        {
+          "name": "Bogandé",
+          "lat": 12.9704,
+          "lng": -0.14953
+        },
+        {
+          "name": "Diapaga",
+          "lat": 12.07305,
+          "lng": 1.78838
+        },
+        {
+          "name": "Fada N'gourma",
+          "lat": 12.06157,
+          "lng": 0.35843
+        },
+        {
+          "name": "Gayéri",
+          "lat": 12.64824,
+          "lng": 0.49314
+        },
+        {
+          "name": "Pama",
+          "lat": 11.24972,
+          "lng": 0.7075
+        },
+        {
+          "name": "Province de la Komandjoari",
+          "lat": 12.66667,
+          "lng": 0.66667
+        }
+      ]
+    },
+    {
+      "name": "Ganzourgou",
+      "lat": 12.2899154,
+      "lng": -0.8083429,
+      "districts": []
+    },
+    {
+      "name": "Gnagna",
+      "lat": 12.9154574,
+      "lng": -0.0659562,
+      "districts": []
+    },
+    {
+      "name": "Gourma",
+      "lat": 12.2278267,
+      "lng": 0.5472078,
+      "districts": []
+    },
+    {
+      "name": "Hauts-Bassins",
+      "lat": 11.3890275,
+      "lng": -4.041365,
+      "districts": [
+        {
+          "name": "Bobo-Dioulasso",
+          "lat": 11.17715,
+          "lng": -4.2979
+        },
+        {
+          "name": "Province du Houet",
+          "lat": 11.33333,
+          "lng": -4.25
+        },
+        {
+          "name": "Province du Kénédougou",
+          "lat": 11.41667,
+          "lng": -5
+        },
+        {
+          "name": "Province du Tuy",
+          "lat": 11.41667,
+          "lng": -3.41667
+        },
+        {
+          "name": "Houndé",
+          "lat": 11.5,
+          "lng": -3.51667
+        }
+      ]
+    },
+    {
+      "name": "Houet",
+      "lat": 11.3851056,
+      "lng": -4.3273643,
+      "districts": []
+    },
+    {
+      "name": "Ioba",
+      "lat": 11.0343187,
+      "lng": -2.9627761,
+      "districts": []
+    },
+    {
+      "name": "Kadiogo",
+      "lat": 12.36732,
+      "lng": -1.5430869,
+      "districts": []
+    },
+    {
+      "name": "Kénédougou",
+      "lat": 11.403998,
+      "lng": -4.9851028,
+      "districts": []
+    },
+    {
+      "name": "Komondjari",
+      "lat": 12.7269113,
+      "lng": 0.7047083,
+      "districts": []
+    },
+    {
+      "name": "Kompienga",
+      "lat": 11.4487592,
+      "lng": 0.9770378,
+      "districts": []
+    },
+    {
+      "name": "Kossi",
+      "lat": 12.9593346,
+      "lng": -3.8436797,
+      "districts": []
+    },
+    {
+      "name": "Koulpélogo",
+      "lat": 11.4153137,
+      "lng": 0.149899,
+      "districts": []
+    },
+    {
+      "name": "Kouritenga",
+      "lat": 12.185035,
+      "lng": -0.244848,
+      "districts": []
+    },
+    {
+      "name": "Kourwéogo",
+      "lat": 12.6004222,
+      "lng": -1.7598561,
+      "districts": []
+    },
+    {
+      "name": "Léraba",
+      "lat": 10.6520035,
+      "lng": -5.2116858,
+      "districts": []
+    },
+    {
+      "name": "Loroum",
+      "lat": 13.9463767,
+      "lng": -2.10554,
+      "districts": []
+    },
+    {
+      "name": "Mouhoun",
+      "lat": 12.2367475,
+      "lng": -3.3387562,
+      "districts": []
+    },
+    {
+      "name": "Nahouri",
+      "lat": 11.2545114,
+      "lng": -1.2699821,
+      "districts": []
+    },
+    {
+      "name": "Namentenga",
+      "lat": 13.23672,
+      "lng": -0.4819343,
+      "districts": []
+    },
+    {
+      "name": "Nayala",
+      "lat": 12.6601866,
+      "lng": -2.9891153,
+      "districts": []
+    },
+    {
+      "name": "Nord",
+      "lat": 13.45911,
+      "lng": -2.2496367,
+      "districts": [
+        {
+          "name": "Ouahigouya",
+          "lat": 13.58278,
+          "lng": -2.42158
+        },
+        {
+          "name": "Province du Loroum",
+          "lat": 13.91667,
+          "lng": -2.16667
+        },
+        {
+          "name": "Province du Passoré",
+          "lat": 12.91667,
+          "lng": -2.16667
+        },
+        {
+          "name": "Province du Yatenga",
+          "lat": 13.58333,
+          "lng": -2.41667
+        },
+        {
+          "name": "Province du Zondoma",
+          "lat": 13.18333,
+          "lng": -2.36667
+        },
+        {
+          "name": "Gourcy",
+          "lat": 13.20776,
+          "lng": -2.35893
+        },
+        {
+          "name": "Titao",
+          "lat": 13.76667,
+          "lng": -2.06667
+        },
+        {
+          "name": "Yako",
+          "lat": 12.9591,
+          "lng": -2.26075
+        }
+      ]
+    },
+    {
+      "name": "Noumbiel",
+      "lat": 9.7967453,
+      "lng": -2.9265543,
+      "districts": []
+    },
+    {
+      "name": "Oubritenga",
+      "lat": 12.59701,
+      "lng": -1.252231,
+      "districts": []
+    },
+    {
+      "name": "Oudalan",
+      "lat": 14.6253063,
+      "lng": -0.3333471,
+      "districts": []
+    },
+    {
+      "name": "Passoré",
+      "lat": 12.8777,
+      "lng": -2.2944905,
+      "districts": []
+    },
+    {
+      "name": "Plateau-Central",
+      "lat": 12.40414,
+      "lng": -0.886416,
+      "districts": [
+        {
+          "name": "Oubritenga",
+          "lat": 12.66667,
+          "lng": -1.33333
+        },
+        {
+          "name": "Province du Ganzourgou",
+          "lat": 12.26667,
+          "lng": -0.76667
+        },
+        {
+          "name": "Province du Kourwéogo",
+          "lat": 12.58333,
+          "lng": -1.76667
+        },
+        {
+          "name": "Boussé",
+          "lat": 12.66121,
+          "lng": -1.89515
+        },
+        {
+          "name": "Ziniaré",
+          "lat": 12.58186,
+          "lng": -1.2971
+        },
+        {
+          "name": "Zorgo",
+          "lat": 12.24922,
+          "lng": -0.61527
+        }
+      ]
+    },
+    {
+      "name": "Poni",
+      "lat": 10.3085943,
+      "lng": -3.3016811,
+      "districts": []
+    },
+    {
+      "name": "Sahel",
+      "lat": 14.0279165,
+      "lng": -0.7717776,
+      "districts": [
+        {
+          "name": "Province du Séno",
+          "lat": 13.964,
+          "lng": 0.012
+        },
+        {
+          "name": "Province du Soum",
+          "lat": 14.33333,
+          "lng": -1.25
+        },
+        {
+          "name": "Province du Yagha",
+          "lat": 13.41667,
+          "lng": 0.58333
+        },
+        {
+          "name": "Djibo",
+          "lat": 14.0994,
+          "lng": -1.62554
+        },
+        {
+          "name": "Dori",
+          "lat": 14.0354,
+          "lng": -0.0345
+        },
+        {
+          "name": "Gorom-Gorom",
+          "lat": 14.4429,
+          "lng": -0.23468
+        },
+        {
+          "name": "Province de l’Oudalan",
+          "lat": 14.66667,
+          "lng": -0.33333
+        }
+      ]
+    },
+    {
+      "name": "Sanguié",
+      "lat": 12.2101561,
+      "lng": -2.6421059,
+      "districts": []
+    },
+    {
+      "name": "Sanmatenga",
+      "lat": 13.2405448,
+      "lng": -0.9747023,
+      "districts": []
+    },
+    {
+      "name": "Séno",
+      "lat": 13.99508,
+      "lng": -0.0992076,
+      "districts": []
+    },
+    {
+      "name": "Sissili",
+      "lat": 11.4484064,
+      "lng": -2.3912085,
+      "districts": []
+    },
+    {
+      "name": "Soum",
+      "lat": 14.2861443,
+      "lng": -1.3452326,
+      "districts": []
+    },
+    {
+      "name": "Sourou",
+      "lat": 13.2311675,
+      "lng": -2.962181,
+      "districts": []
+    },
+    {
+      "name": "Sud-Ouest",
+      "lat": 10.3869208,
+      "lng": -3.2831886,
+      "districts": [
+        {
+          "name": "Province de la Bougouriba",
+          "lat": 10.83333,
+          "lng": -3.41667
+        },
+        {
+          "name": "Province du Ioba",
+          "lat": 11.08333,
+          "lng": -3.08333
+        },
+        {
+          "name": "Province du Poni",
+          "lat": 10.25,
+          "lng": -3.41667
+        },
+        {
+          "name": "Batié",
+          "lat": 9.88333,
+          "lng": -2.91667
+        },
+        {
+          "name": "Dano",
+          "lat": 11.1464,
+          "lng": -3.05784
+        },
+        {
+          "name": "Diébougou",
+          "lat": 10.96209,
+          "lng": -3.24967
+        },
+        {
+          "name": "Province du Noumbièl",
+          "lat": 9.83333,
+          "lng": -3
+        }
+      ]
+    },
+    {
+      "name": "Tapoa",
+      "lat": 12.1450627,
+      "lng": 1.7603025,
+      "districts": []
+    },
+    {
+      "name": "Tuy",
+      "lat": 11.4495604,
+      "lng": -3.3787653,
+      "districts": []
+    },
+    {
+      "name": "Yagha",
+      "lat": 13.4269445,
+      "lng": 0.6161497,
+      "districts": []
+    },
+    {
+      "name": "Yatenga",
+      "lat": 13.5942938,
+      "lng": -2.5249513,
+      "districts": []
+    },
+    {
+      "name": "Ziro",
+      "lat": 11.675305,
+      "lng": -1.9146626,
+      "districts": []
+    },
+    {
+      "name": "Zondoma",
+      "lat": 13.1975396,
+      "lng": -2.3085276,
+      "districts": []
+    },
+    {
+      "name": "Zoundwéogo",
+      "lat": 11.5525895,
+      "lng": -1.0308938,
+      "districts": []
+    }
+  ]
+}

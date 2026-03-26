@@ -1,0 +1,913 @@
+{
+  "name": "Malta",
+  "lat": 35.83333333,
+  "lng": 14.58333333,
+  "cities": [
+    {
+      "name": "Attard",
+      "lat": 35.8909172,
+      "lng": 14.4430093,
+      "districts": [
+        {
+          "name": "Attard",
+          "lat": 35.88972,
+          "lng": 14.4425
+        }
+      ]
+    },
+    {
+      "name": "Balzan",
+      "lat": 35.8957414,
+      "lng": 14.4534065,
+      "districts": [
+        {
+          "name": "Balzan",
+          "lat": 35.90028,
+          "lng": 14.455
+        }
+      ]
+    },
+    {
+      "name": "Birgu",
+      "lat": 35.8879214,
+      "lng": 14.522562,
+      "districts": [
+        {
+          "name": "Birgu (Vittoriosa)",
+          "lat": 35.89222,
+          "lng": 14.51833
+        }
+      ]
+    },
+    {
+      "name": "Birkirkara",
+      "lat": 35.8954706,
+      "lng": 14.4665072,
+      "districts": [
+        {
+          "name": "Birkirkara",
+          "lat": 35.89722,
+          "lng": 14.46111
+        },
+        {
+          "name": "Fleur De Lys",
+          "lat": 35.8953,
+          "lng": 14.4656
+        },
+        {
+          "name": "Swatar",
+          "lat": 35.898778,
+          "lng": 14.476592
+        }
+      ]
+    },
+    {
+      "name": "Birżebbuġa",
+      "lat": 35.8269478,
+      "lng": 14.5274189,
+      "districts": [
+        {
+          "name": "Birżebbuġa",
+          "lat": 35.82583,
+          "lng": 14.52694
+        },
+        {
+          "name": "Ħal Far",
+          "lat": 35.811349,
+          "lng": 14.510686
+        }
+      ]
+    },
+    {
+      "name": "Cospicua",
+      "lat": 35.8806753,
+      "lng": 14.5218338,
+      "districts": [
+        {
+          "name": "Cospicua",
+          "lat": 35.88556,
+          "lng": 14.5275
+        }
+      ]
+    },
+    {
+      "name": "Dingli",
+      "lat": 35.8627309,
+      "lng": 14.3850107,
+      "districts": [
+        {
+          "name": "Dingli",
+          "lat": 35.86139,
+          "lng": 14.38222
+        }
+      ]
+    },
+    {
+      "name": "Fgura",
+      "lat": 35.8738269,
+      "lng": 14.5232901,
+      "districts": [
+        {
+          "name": "Fgura",
+          "lat": 35.87028,
+          "lng": 14.51333
+        }
+      ]
+    },
+    {
+      "name": "Floriana",
+      "lat": 35.8929838,
+      "lng": 14.5052716,
+      "districts": [
+        {
+          "name": "Floriana",
+          "lat": 35.89583,
+          "lng": 14.50833
+        }
+      ]
+    },
+    {
+      "name": "Fontana",
+      "lat": 36.038744,
+      "lng": 14.2370014,
+      "districts": [
+        {
+          "name": "Fontana",
+          "lat": 36.0375,
+          "lng": 14.23611
+        }
+      ]
+    },
+    {
+      "name": "Għajnsielem",
+      "lat": 36.0247966,
+      "lng": 14.2802961,
+      "districts": [
+        {
+          "name": "Għajnsielem",
+          "lat": 36.02639,
+          "lng": 14.285
+        },
+        {
+          "name": "Ħal Għargħur",
+          "lat": 35.92409,
+          "lng": 14.45118
+        }
+      ]
+    },
+    {
+      "name": "Għarb",
+      "lat": 36.0598182,
+      "lng": 14.209081,
+      "districts": []
+    },
+    {
+      "name": "Għargħur",
+      "lat": 35.9220569,
+      "lng": 14.4563176,
+      "districts": [
+        {
+          "name": "Ħal Għaxaq",
+          "lat": 35.84889,
+          "lng": 14.51667
+        }
+      ]
+    },
+    {
+      "name": "Għasri",
+      "lat": 36.0668075,
+      "lng": 14.2192475,
+      "districts": [
+        {
+          "name": "Gudja",
+          "lat": 35.84917,
+          "lng": 14.50306
+        }
+      ]
+    },
+    {
+      "name": "Għaxaq",
+      "lat": 35.8440359,
+      "lng": 14.516009,
+      "districts": [
+        {
+          "name": "Gżira",
+          "lat": 35.90583,
+          "lng": 14.48806
+        }
+      ]
+    },
+    {
+      "name": "Gudja",
+      "lat": 35.8469803,
+      "lng": 14.502904,
+      "districts": []
+    },
+    {
+      "name": "Gżira",
+      "lat": 35.905897,
+      "lng": 14.4953338,
+      "districts": [
+        {
+          "name": "Għarb",
+          "lat": 36.06,
+          "lng": 14.20889
+        }
+      ]
+    },
+    {
+      "name": "Ħamrun",
+      "lat": 35.8861237,
+      "lng": 14.4883442,
+      "districts": [
+        {
+          "name": "Blata l' Bajda",
+          "lat": 35.8875,
+          "lng": 14.498611
+        },
+        {
+          "name": "Ħamrun",
+          "lat": 35.88472,
+          "lng": 14.48444
+        }
+      ]
+    },
+    {
+      "name": "Iklin",
+      "lat": 35.9098774,
+      "lng": 14.4577732,
+      "districts": [
+        {
+          "name": "L-Iklin",
+          "lat": 35.90414,
+          "lng": 14.45415
+        }
+      ]
+    },
+    {
+      "name": "Kalkara",
+      "lat": 35.8914242,
+      "lng": 14.5320278,
+      "districts": [
+        {
+          "name": "Imġarr",
+          "lat": 35.92056,
+          "lng": 14.36639
+        },
+        {
+          "name": "Mġarr",
+          "lat": 36.02528,
+          "lng": 14.295
+        }
+      ]
+    },
+    {
+      "name": "Kerċem",
+      "lat": 36.0447939,
+      "lng": 14.2250605,
+      "districts": [
+        {
+          "name": "Mqabba",
+          "lat": 35.84763,
+          "lng": 14.46824
+        }
+      ]
+    },
+    {
+      "name": "Kirkop",
+      "lat": 35.8437862,
+      "lng": 14.4854324,
+      "districts": [
+        {
+          "name": "Imsida",
+          "lat": 35.8925,
+          "lng": 14.48278
+        },
+        {
+          "name": "Kirkop",
+          "lat": 35.84222,
+          "lng": 14.48528
+        }
+      ]
+    },
+    {
+      "name": "Lija",
+      "lat": 35.901766,
+      "lng": 14.4476136,
+      "districts": [
+        {
+          "name": "Ħal Lija",
+          "lat": 35.90056,
+          "lng": 14.44639
+        },
+        {
+          "name": "Imtarfa",
+          "lat": 35.89333,
+          "lng": 14.39889
+        }
+      ]
+    },
+    {
+      "name": "Luqa",
+      "lat": 35.8582865,
+      "lng": 14.4868883,
+      "districts": [
+        {
+          "name": "Ħal Luqa",
+          "lat": 35.85889,
+          "lng": 14.48861
+        },
+        {
+          "name": "Senglea",
+          "lat": 35.8875,
+          "lng": 14.51694
+        }
+      ]
+    },
+    {
+      "name": "Marsa",
+      "lat": 35.882892,
+      "lng": 14.4944898,
+      "districts": [
+        {
+          "name": "Kalkara",
+          "lat": 35.88917,
+          "lng": 14.53278
+        }
+      ]
+    },
+    {
+      "name": "Marsaskala",
+      "lat": 35.860364,
+      "lng": 14.5567876,
+      "districts": [
+        {
+          "name": "Kerċem",
+          "lat": 36.04194,
+          "lng": 14.22667
+        },
+        {
+          "name": "Marsaskala",
+          "lat": 35.8622,
+          "lng": 14.56701
+        }
+      ]
+    },
+    {
+      "name": "Marsaxlokk",
+      "lat": 35.8411699,
+      "lng": 14.5393097,
+      "districts": [
+        {
+          "name": "Marsaxlokk",
+          "lat": 35.84194,
+          "lng": 14.54306
+        }
+      ]
+    },
+    {
+      "name": "Mdina",
+      "lat": 35.888093,
+      "lng": 14.4068357,
+      "districts": []
+    },
+    {
+      "name": "Mellieħa",
+      "lat": 35.9599618,
+      "lng": 14.368367,
+      "districts": [
+        {
+          "name": "Manikata",
+          "lat": 35.94,
+          "lng": 14.35333
+        }
+      ]
+    },
+    {
+      "name": "Mġarr",
+      "lat": 35.9189327,
+      "lng": 14.3617343,
+      "districts": [
+        {
+          "name": "Marsa",
+          "lat": 35.87917,
+          "lng": 14.49528
+        }
+      ]
+    },
+    {
+      "name": "Mosta",
+      "lat": 35.9141504,
+      "lng": 14.4228427,
+      "districts": [
+        {
+          "name": "Bidnija",
+          "lat": 35.926944,
+          "lng": 14.398333
+        }
+      ]
+    },
+    {
+      "name": "Mqabba",
+      "lat": 35.8444143,
+      "lng": 14.4694186,
+      "districts": []
+    },
+    {
+      "name": "Msida",
+      "lat": 35.8956388,
+      "lng": 14.4868883,
+      "districts": [
+        {
+          "name": "Mellieħa",
+          "lat": 35.95639,
+          "lng": 14.36222
+        }
+      ]
+    },
+    {
+      "name": "Mtarfa",
+      "lat": 35.8895125,
+      "lng": 14.3951953,
+      "districts": []
+    },
+    {
+      "name": "Munxar",
+      "lat": 36.0288058,
+      "lng": 14.2250605,
+      "districts": [
+        {
+          "name": "Munxar",
+          "lat": 36.03,
+          "lng": 14.23333
+        }
+      ]
+    },
+    {
+      "name": "Nadur",
+      "lat": 36.0447019,
+      "lng": 14.2919273,
+      "districts": [
+        {
+          "name": "Nadur",
+          "lat": 36.03778,
+          "lng": 14.29417
+        }
+      ]
+    },
+    {
+      "name": "Naxxar",
+      "lat": 35.9133396,
+      "lng": 14.4432851,
+      "districts": [
+        {
+          "name": "Baħar iċ-Ċagħaq",
+          "lat": 35.938787,
+          "lng": 14.453725
+        },
+        {
+          "name": "Magħtab",
+          "lat": 35.945,
+          "lng": 14.44
+        },
+        {
+          "name": "Naxxar",
+          "lat": 35.91361,
+          "lng": 14.44361
+        },
+        {
+          "name": "Salina",
+          "lat": 35.945556,
+          "lng": 14.424444
+        }
+      ]
+    },
+    {
+      "name": "Paola",
+      "lat": 35.8717994,
+      "lng": 14.5073748,
+      "districts": [
+        {
+          "name": "Paola",
+          "lat": 35.87306,
+          "lng": 14.49889
+        }
+      ]
+    },
+    {
+      "name": "Pembroke",
+      "lat": 35.9281313,
+      "lng": 14.4795722,
+      "districts": [
+        {
+          "name": "Pembroke",
+          "lat": 35.93056,
+          "lng": 14.47639
+        }
+      ]
+    },
+    {
+      "name": "Pietà",
+      "lat": 35.892353,
+      "lng": 14.4934881,
+      "districts": [
+        {
+          "name": "Pietà",
+          "lat": 35.89472,
+          "lng": 14.495
+        }
+      ]
+    },
+    {
+      "name": "Qala",
+      "lat": 36.0388628,
+      "lng": 14.318101,
+      "districts": [
+        {
+          "name": "Qala",
+          "lat": 36.03611,
+          "lng": 14.30944
+        }
+      ]
+    },
+    {
+      "name": "Qormi",
+      "lat": 35.8764388,
+      "lng": 14.4694186,
+      "districts": [
+        {
+          "name": "Qormi",
+          "lat": 35.87601,
+          "lng": 14.472
+        }
+      ]
+    },
+    {
+      "name": "Qrendi",
+      "lat": 35.8328488,
+      "lng": 14.4548621,
+      "districts": [
+        {
+          "name": "Qrendi",
+          "lat": 35.83472,
+          "lng": 14.45833
+        }
+      ]
+    },
+    {
+      "name": "Rabat",
+      "lat": 35.884717,
+      "lng": 14.37234,
+      "districts": [
+        {
+          "name": "Baħrija",
+          "lat": 35.894722,
+          "lng": 14.348333
+        },
+        {
+          "name": "Binġemma",
+          "lat": 35.902778,
+          "lng": 14.377778
+        }
+      ]
+    },
+    {
+      "name": "Safi",
+      "lat": 35.83333333,
+      "lng": 14.485,
+      "districts": [
+        {
+          "name": "Ħal Safi",
+          "lat": 35.833333,
+          "lng": 14.485
+        }
+      ]
+    },
+    {
+      "name": "San Ġwann",
+      "lat": 35.9077365,
+      "lng": 14.4752416,
+      "districts": [
+        {
+          "name": "San Ġiljan (St. Julian's)",
+          "lat": 35.91839,
+          "lng": 14.48977
+        }
+      ]
+    },
+    {
+      "name": "San Lawrenz",
+      "lat": 36.0553005,
+      "lng": 14.2039503,
+      "districts": [
+        {
+          "name": "San Lawrenz",
+          "lat": 36.05556,
+          "lng": 14.20361
+        }
+      ]
+    },
+    {
+      "name": "Sannat",
+      "lat": 36.0273022,
+      "lng": 14.2429017,
+      "districts": [
+        {
+          "name": "San Pawl il-Baħar",
+          "lat": 35.95064,
+          "lng": 14.41561
+        },
+        {
+          "name": "Sannat",
+          "lat": 36.02444,
+          "lng": 14.24278
+        }
+      ]
+    },
+    {
+      "name": "Santa Luċija",
+      "lat": 35.856142,
+      "lng": 14.50436,
+      "districts": [
+        {
+          "name": "Santa Venera",
+          "lat": 35.89083,
+          "lng": 14.47417
+        }
+      ]
+    },
+    {
+      "name": "Santa Venera",
+      "lat": 35.8902201,
+      "lng": 14.4766974,
+      "districts": []
+    },
+    {
+      "name": "Senglea",
+      "lat": 35.8873041,
+      "lng": 14.5167371,
+      "districts": [
+        {
+          "name": "Imdina",
+          "lat": 35.88694,
+          "lng": 14.4025
+        }
+      ]
+    },
+    {
+      "name": "Siġġiewi",
+      "lat": 35.8539354,
+      "lng": 14.438063,
+      "districts": [
+        {
+          "name": "Siġġiewi",
+          "lat": 35.85556,
+          "lng": 14.43639
+        }
+      ]
+    },
+    {
+      "name": "Sliema",
+      "lat": 35.9110081,
+      "lng": 14.502904,
+      "districts": [
+        {
+          "name": "Sliema",
+          "lat": 35.9125,
+          "lng": 14.50194
+        }
+      ]
+    },
+    {
+      "name": "St. Julian's",
+      "lat": 35.9199225,
+      "lng": 14.4877119,
+      "districts": [
+        {
+          "name": "Paceville",
+          "lat": 35.9237,
+          "lng": 14.4914
+        },
+        {
+          "name": "San Ġwann",
+          "lat": 35.90556,
+          "lng": 14.47611
+        }
+      ]
+    },
+    {
+      "name": "St. Paul's Bay",
+      "lat": 35.9480742,
+      "lng": 14.3973929,
+      "districts": [
+        {
+          "name": "Buġibba",
+          "lat": 35.949167,
+          "lng": 14.411667
+        },
+        {
+          "name": "Burmarrad",
+          "lat": 35.9349,
+          "lng": 14.4143
+        },
+        {
+          "name": "Mosta",
+          "lat": 35.90917,
+          "lng": 14.42556
+        },
+        {
+          "name": "Qawra",
+          "lat": 35.954167,
+          "lng": 14.42
+        },
+        {
+          "name": "Santa Luċija",
+          "lat": 36.04306,
+          "lng": 14.21722
+        },
+        {
+          "name": "Santa Luċija, Gozo",
+          "lat": 35.86278,
+          "lng": 14.5075
+        },
+        {
+          "name": "Wardija",
+          "lat": 35.937958,
+          "lng": 14.392542
+        },
+        {
+          "name": "Xemxija",
+          "lat": 35.950556,
+          "lng": 14.385833
+        }
+      ]
+    },
+    {
+      "name": "Swieqi",
+      "lat": 35.9191182,
+      "lng": 14.4694186,
+      "districts": [
+        {
+          "name": "Madliena",
+          "lat": 35.933333,
+          "lng": 14.466667
+        },
+        {
+          "name": "Swieqi",
+          "lat": 35.9225,
+          "lng": 14.48
+        }
+      ]
+    },
+    {
+      "name": "Ta' Xbiex",
+      "lat": 35.8991448,
+      "lng": 14.4963519,
+      "districts": [
+        {
+          "name": "Ta’ Xbiex",
+          "lat": 35.89917,
+          "lng": 14.49444
+        }
+      ]
+    },
+    {
+      "name": "Tarxien",
+      "lat": 35.8672552,
+      "lng": 14.5116405,
+      "districts": [
+        {
+          "name": "Ħal Tarxien",
+          "lat": 35.86583,
+          "lng": 14.515
+        }
+      ]
+    },
+    {
+      "name": "Valletta",
+      "lat": 35.8989085,
+      "lng": 14.5145528,
+      "districts": [
+        {
+          "name": "Valletta",
+          "lat": 35.89972,
+          "lng": 14.51472,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Victoria",
+      "lat": 36.0428907,
+      "lng": 14.2398479,
+      "districts": [
+        {
+          "name": "Rabat",
+          "lat": 35.88152,
+          "lng": 14.39872
+        },
+        {
+          "name": "Victoria",
+          "lat": 36.04444,
+          "lng": 14.23972
+        }
+      ]
+    },
+    {
+      "name": "Xagħra",
+      "lat": 36.050845,
+      "lng": 14.267482,
+      "districts": [
+        {
+          "name": "Xagħra",
+          "lat": 36.05,
+          "lng": 14.26444
+        }
+      ]
+    },
+    {
+      "name": "Xewkija",
+      "lat": 36.0299236,
+      "lng": 14.2599437,
+      "districts": [
+        {
+          "name": "Xewkija",
+          "lat": 36.03278,
+          "lng": 14.25806
+        }
+      ]
+    },
+    {
+      "name": "Xgħajra",
+      "lat": 35.8868282,
+      "lng": 14.5472391,
+      "districts": [
+        {
+          "name": "Xgħajra",
+          "lat": 35.88556,
+          "lng": 14.5475
+        }
+      ]
+    },
+    {
+      "name": "Żabbar",
+      "lat": 35.8724715,
+      "lng": 14.5451354,
+      "districts": [
+        {
+          "name": "Żabbar",
+          "lat": 35.87611,
+          "lng": 14.535
+        }
+      ]
+    },
+    {
+      "name": "Żebbuġ Gozo",
+      "lat": 36.0716403,
+      "lng": 14.245408,
+      "districts": [
+        {
+          "name": "Ħaż-Żebbuġ",
+          "lat": 35.87194,
+          "lng": 14.44111
+        }
+      ]
+    },
+    {
+      "name": "Żebbuġ Malta",
+      "lat": 35.8764648,
+      "lng": 14.439084,
+      "districts": [
+        {
+          "name": "Żebbuġ",
+          "lat": 36.07222,
+          "lng": 14.23583
+        }
+      ]
+    },
+    {
+      "name": "Żejtun",
+      "lat": 35.8548714,
+      "lng": 14.5363969,
+      "districts": [
+        {
+          "name": "Żejtun",
+          "lat": 35.85583,
+          "lng": 14.53306
+        }
+      ]
+    },
+    {
+      "name": "Żurrieq",
+      "lat": 35.8294676,
+      "lng": 14.4745172,
+      "districts": [
+        {
+          "name": "Żurrieq",
+          "lat": 35.83111,
+          "lng": 14.47417
+        }
+      ]
+    }
+  ]
+}

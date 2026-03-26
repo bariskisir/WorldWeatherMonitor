@@ -1,0 +1,2042 @@
+{
+  "name": "Ireland",
+  "lat": 53,
+  "lng": -8,
+  "cities": [
+    {
+      "name": "Carlow",
+      "lat": 52.6907887,
+      "lng": -6.8251452,
+      "districts": []
+    },
+    {
+      "name": "Cavan",
+      "lat": 53.9911042,
+      "lng": -7.3603119,
+      "districts": []
+    },
+    {
+      "name": "Clare",
+      "lat": 53.3454937,
+      "lng": -8.9860534,
+      "districts": []
+    },
+    {
+      "name": "Connacht",
+      "lat": 53.7210278,
+      "lng": -8.925256,
+      "districts": [
+        {
+          "name": "County Galway",
+          "lat": 53.33333,
+          "lng": -9
+        },
+        {
+          "name": "Athenry",
+          "lat": 53.29639,
+          "lng": -8.74306
+        },
+        {
+          "name": "Ballaghaderreen",
+          "lat": 53.9,
+          "lng": -8.58333
+        },
+        {
+          "name": "Ballina",
+          "lat": 54.11667,
+          "lng": -9.16667
+        },
+        {
+          "name": "Ballinasloe",
+          "lat": 53.3275,
+          "lng": -8.21944
+        },
+        {
+          "name": "Ballinrobe",
+          "lat": 53.63333,
+          "lng": -9.23333
+        },
+        {
+          "name": "Ballisodare",
+          "lat": 54.2111,
+          "lng": -8.50865
+        },
+        {
+          "name": "Ballyhaunis",
+          "lat": 53.76667,
+          "lng": -8.76667
+        },
+        {
+          "name": "Ballymote",
+          "lat": 54.08333,
+          "lng": -8.51667
+        },
+        {
+          "name": "Bearna",
+          "lat": 53.25194,
+          "lng": -9.14972
+        },
+        {
+          "name": "Belmullet",
+          "lat": 54.225,
+          "lng": -9.99083
+        },
+        {
+          "name": "Boyle",
+          "lat": 53.96667,
+          "lng": -8.3
+        },
+        {
+          "name": "Carrick-on-Shannon",
+          "lat": 53.94694,
+          "lng": -8.09
+        },
+        {
+          "name": "Castlebar",
+          "lat": 53.85,
+          "lng": -9.3
+        },
+        {
+          "name": "Castlerea",
+          "lat": 53.76667,
+          "lng": -8.5
+        },
+        {
+          "name": "Claregalway",
+          "lat": 53.33861,
+          "lng": -8.945
+        },
+        {
+          "name": "Claremorris",
+          "lat": 53.71667,
+          "lng": -9
+        },
+        {
+          "name": "Clifden",
+          "lat": 53.48907,
+          "lng": -10.0191
+        },
+        {
+          "name": "Collooney",
+          "lat": 54.18333,
+          "lng": -8.5
+        },
+        {
+          "name": "County Leitrim",
+          "lat": 54.11667,
+          "lng": -8
+        },
+        {
+          "name": "Crossmolina",
+          "lat": 54.1,
+          "lng": -9.31667
+        },
+        {
+          "name": "Foxford",
+          "lat": 53.9807,
+          "lng": -9.11551
+        },
+        {
+          "name": "Gaillimh",
+          "lat": 53.27194,
+          "lng": -9.04889
+        },
+        {
+          "name": "Galway City",
+          "lat": 53.2877,
+          "lng": -9.05004
+        },
+        {
+          "name": "Gort",
+          "lat": 53.06639,
+          "lng": -8.81667
+        },
+        {
+          "name": "Inishcrone",
+          "lat": 54.21591,
+          "lng": -9.09197
+        },
+        {
+          "name": "Kiltamagh",
+          "lat": 53.85,
+          "lng": -9
+        },
+        {
+          "name": "Kinlough",
+          "lat": 54.45,
+          "lng": -8.28333
+        },
+        {
+          "name": "Loughrea",
+          "lat": 53.19694,
+          "lng": -8.56694
+        },
+        {
+          "name": "Manorhamilton",
+          "lat": 54.30639,
+          "lng": -8.17611
+        },
+        {
+          "name": "Mayo",
+          "lat": 53.9,
+          "lng": -9.25
+        },
+        {
+          "name": "Moycullen",
+          "lat": 53.33783,
+          "lng": -9.18002
+        },
+        {
+          "name": "Oranmore",
+          "lat": 53.26833,
+          "lng": -8.92
+        },
+        {
+          "name": "Oughterard",
+          "lat": 53.41667,
+          "lng": -9.33333
+        },
+        {
+          "name": "Portumna",
+          "lat": 53.08917,
+          "lng": -8.21889
+        },
+        {
+          "name": "Roscommon",
+          "lat": 53.75,
+          "lng": -8.25
+        },
+        {
+          "name": "Sligo",
+          "lat": 54.25,
+          "lng": -8.66667
+        },
+        {
+          "name": "Strandhill",
+          "lat": 54.27194,
+          "lng": -8.59333
+        },
+        {
+          "name": "Swinford",
+          "lat": 53.95,
+          "lng": -8.95
+        },
+        {
+          "name": "Tobercurry",
+          "lat": 54.05,
+          "lng": -8.73333
+        },
+        {
+          "name": "Tuam",
+          "lat": 53.51667,
+          "lng": -8.85
+        },
+        {
+          "name": "Westport",
+          "lat": 53.8,
+          "lng": -9.51667
+        }
+      ]
+    },
+    {
+      "name": "Cork",
+      "lat": 51.8985143,
+      "lng": -8.4756035,
+      "districts": []
+    },
+    {
+      "name": "Donegal",
+      "lat": 54.6548993,
+      "lng": -8.1040967,
+      "districts": []
+    },
+    {
+      "name": "Dublin",
+      "lat": 53.3498053,
+      "lng": -6.2603097,
+      "districts": []
+    },
+    {
+      "name": "Galway",
+      "lat": 53.2744122,
+      "lng": -9.0490601,
+      "districts": []
+    },
+    {
+      "name": "Kerry",
+      "lat": 52.1453345,
+      "lng": -9.5174011,
+      "districts": []
+    },
+    {
+      "name": "Kildare",
+      "lat": 53.1543645,
+      "lng": -6.8184423,
+      "districts": []
+    },
+    {
+      "name": "Kilkenny",
+      "lat": 52.5687098,
+      "lng": -7.1889831,
+      "districts": []
+    },
+    {
+      "name": "Laois",
+      "lat": 52.9984575,
+      "lng": -7.3980338,
+      "districts": []
+    },
+    {
+      "name": "Leinster",
+      "lat": 53.118465,
+      "lng": -6.9918183,
+      "districts": [
+        {
+          "name": "Dublin",
+          "lat": 53.33306,
+          "lng": -6.24889,
+          "iscapital": true
+        },
+        {
+          "name": "South Dublin",
+          "lat": 53.28595,
+          "lng": -6.37739
+        },
+        {
+          "name": "Abbeyleix",
+          "lat": 52.91331,
+          "lng": -7.34456
+        },
+        {
+          "name": "An Iarmhí",
+          "lat": 53.5,
+          "lng": -7.5
+        },
+        {
+          "name": "An Longfort",
+          "lat": 53.66667,
+          "lng": -7.75
+        },
+        {
+          "name": "An Mhí",
+          "lat": 53.66667,
+          "lng": -6.66667
+        },
+        {
+          "name": "An Muileann gCearr",
+          "lat": 53.53333,
+          "lng": -7.35
+        },
+        {
+          "name": "An Ros",
+          "lat": 53.52424,
+          "lng": -6.10497
+        },
+        {
+          "name": "Ardee",
+          "lat": 53.85972,
+          "lng": -6.54056
+        },
+        {
+          "name": "Arklow",
+          "lat": 52.79306,
+          "lng": -6.14139
+        },
+        {
+          "name": "Artane",
+          "lat": 53.38712,
+          "lng": -6.2138
+        },
+        {
+          "name": "Ashbourne",
+          "lat": 53.51163,
+          "lng": -6.39821
+        },
+        {
+          "name": "Ashford",
+          "lat": 53.00833,
+          "lng": -6.11139
+        },
+        {
+          "name": "Athboy",
+          "lat": 53.62327,
+          "lng": -6.91434
+        },
+        {
+          "name": "Athgarvan",
+          "lat": 53.15229,
+          "lng": -6.78173
+        },
+        {
+          "name": "Athlone",
+          "lat": 53.43333,
+          "lng": -7.95
+        },
+        {
+          "name": "Athy",
+          "lat": 52.99139,
+          "lng": -6.98028
+        },
+        {
+          "name": "Aughrim",
+          "lat": 52.85333,
+          "lng": -6.3275
+        },
+        {
+          "name": "Bagenalstown",
+          "lat": 52.70031,
+          "lng": -6.96181
+        },
+        {
+          "name": "Balally",
+          "lat": 53.27504,
+          "lng": -6.23594
+        },
+        {
+          "name": "Balbriggan",
+          "lat": 53.60846,
+          "lng": -6.1831
+        },
+        {
+          "name": "Baldoyle",
+          "lat": 53.39972,
+          "lng": -6.12583
+        },
+        {
+          "name": "Ballinroad",
+          "lat": 52.51789,
+          "lng": -6.40619
+        },
+        {
+          "name": "Ballinteer",
+          "lat": 53.27409,
+          "lng": -6.25397
+        },
+        {
+          "name": "Ballivor",
+          "lat": 53.53167,
+          "lng": -6.96111
+        },
+        {
+          "name": "Ballyboden",
+          "lat": 53.28056,
+          "lng": -6.31639
+        },
+        {
+          "name": "Ballyfermot",
+          "lat": 53.34283,
+          "lng": -6.3548
+        },
+        {
+          "name": "Ballygerry",
+          "lat": 52.24917,
+          "lng": -6.35739
+        },
+        {
+          "name": "Ballylinan",
+          "lat": 52.94497,
+          "lng": -7.04073
+        },
+        {
+          "name": "Ballymahon",
+          "lat": 53.56667,
+          "lng": -7.76667
+        },
+        {
+          "name": "Ballymun",
+          "lat": 53.39807,
+          "lng": -6.26693
+        },
+        {
+          "name": "Ballyragget",
+          "lat": 52.78889,
+          "lng": -7.33028
+        },
+        {
+          "name": "Balrothery",
+          "lat": 53.58828,
+          "lng": -6.18728
+        },
+        {
+          "name": "Baltinglass",
+          "lat": 52.93722,
+          "lng": -6.70917
+        },
+        {
+          "name": "Banagher",
+          "lat": 53.18861,
+          "lng": -7.98667
+        },
+        {
+          "name": "Bayside",
+          "lat": 53.38895,
+          "lng": -6.14041
+        },
+        {
+          "name": "Beaumont",
+          "lat": 53.38721,
+          "lng": -6.22713
+        },
+        {
+          "name": "Birr",
+          "lat": 53.09139,
+          "lng": -7.91333
+        },
+        {
+          "name": "Blackrock",
+          "lat": 53.3015,
+          "lng": -6.1778
+        },
+        {
+          "name": "Blanchardstown",
+          "lat": 53.38806,
+          "lng": -6.37556
+        },
+        {
+          "name": "Blessington",
+          "lat": 53.17,
+          "lng": -6.5325
+        },
+        {
+          "name": "Bonnybrook",
+          "lat": 53.39835,
+          "lng": -6.20749
+        },
+        {
+          "name": "Booterstown",
+          "lat": 53.30447,
+          "lng": -6.19985
+        },
+        {
+          "name": "Bray",
+          "lat": 53.20278,
+          "lng": -6.09833
+        },
+        {
+          "name": "Bunclody",
+          "lat": 52.6553,
+          "lng": -6.65359
+        },
+        {
+          "name": "Cabinteely",
+          "lat": 53.26973,
+          "lng": -6.16058
+        },
+        {
+          "name": "Cabra",
+          "lat": 53.36694,
+          "lng": -6.29444
+        },
+        {
+          "name": "Callan",
+          "lat": 52.545,
+          "lng": -7.39111
+        },
+        {
+          "name": "Carlingford",
+          "lat": 54.04,
+          "lng": -6.18833
+        },
+        {
+          "name": "Carlow",
+          "lat": 52.84083,
+          "lng": -6.92611
+        },
+        {
+          "name": "Carnew",
+          "lat": 52.70806,
+          "lng": -6.49444
+        },
+        {
+          "name": "Castlebellingham",
+          "lat": 53.90083,
+          "lng": -6.39028
+        },
+        {
+          "name": "Castlebridge",
+          "lat": 52.38639,
+          "lng": -6.44944
+        },
+        {
+          "name": "Castlecomer",
+          "lat": 52.80611,
+          "lng": -7.21056
+        },
+        {
+          "name": "Castledermot",
+          "lat": 52.90889,
+          "lng": -6.84222
+        },
+        {
+          "name": "Castleknock",
+          "lat": 53.37483,
+          "lng": -6.36336
+        },
+        {
+          "name": "Castlepollard",
+          "lat": 53.67935,
+          "lng": -7.29736
+        },
+        {
+          "name": "Castletown",
+          "lat": 52.72306,
+          "lng": -6.18944
+        },
+        {
+          "name": "Celbridge",
+          "lat": 53.34165,
+          "lng": -6.54419
+        },
+        {
+          "name": "Chapelizod",
+          "lat": 53.34846,
+          "lng": -6.34301
+        },
+        {
+          "name": "Charlesland",
+          "lat": 53.12771,
+          "lng": -6.06347
+        },
+        {
+          "name": "Cherry Orchard",
+          "lat": 53.33605,
+          "lng": -6.37799
+        },
+        {
+          "name": "Cherryville",
+          "lat": 53.15694,
+          "lng": -6.96667
+        },
+        {
+          "name": "Clane",
+          "lat": 53.29139,
+          "lng": -6.68917
+        },
+        {
+          "name": "Clara",
+          "lat": 53.3425,
+          "lng": -7.61389
+        },
+        {
+          "name": "Clogherhead",
+          "lat": 53.79361,
+          "lng": -6.2375
+        },
+        {
+          "name": "Clondalkin",
+          "lat": 53.32444,
+          "lng": -6.39722
+        },
+        {
+          "name": "Clonskeagh",
+          "lat": 53.31467,
+          "lng": -6.23148
+        },
+        {
+          "name": "Confey",
+          "lat": 53.37923,
+          "lng": -6.49052
+        },
+        {
+          "name": "Coolock",
+          "lat": 53.3887,
+          "lng": -6.19998
+        },
+        {
+          "name": "County Carlow",
+          "lat": 52.66667,
+          "lng": -6.83333
+        },
+        {
+          "name": "Courtown",
+          "lat": 52.64424,
+          "lng": -6.22899
+        },
+        {
+          "name": "Crumlin",
+          "lat": 53.32154,
+          "lng": -6.31439
+        },
+        {
+          "name": "Daingean",
+          "lat": 53.29611,
+          "lng": -7.28944
+        },
+        {
+          "name": "Dalkey",
+          "lat": 53.27833,
+          "lng": -6.10028
+        },
+        {
+          "name": "Darndale",
+          "lat": 53.39948,
+          "lng": -6.18886
+        },
+        {
+          "name": "Derrinturn",
+          "lat": 53.34167,
+          "lng": -6.94111
+        },
+        {
+          "name": "Dollymount",
+          "lat": 53.36489,
+          "lng": -6.18032
+        },
+        {
+          "name": "Donabate",
+          "lat": 53.48722,
+          "lng": -6.15194
+        },
+        {
+          "name": "Donaghmede",
+          "lat": 53.39845,
+          "lng": -6.16179
+        },
+        {
+          "name": "Donnybrook",
+          "lat": 53.31375,
+          "lng": -6.22274
+        },
+        {
+          "name": "Donnycarney",
+          "lat": 53.3735,
+          "lng": -6.20976
+        },
+        {
+          "name": "Drogheda",
+          "lat": 53.71889,
+          "lng": -6.34778
+        },
+        {
+          "name": "Droichead Nua",
+          "lat": 53.18194,
+          "lng": -6.79667
+        },
+        {
+          "name": "Dromiskin",
+          "lat": 53.92538,
+          "lng": -6.40292
+        },
+        {
+          "name": "Drumcondra",
+          "lat": 53.37058,
+          "lng": -6.25298
+        },
+        {
+          "name": "Duleek",
+          "lat": 53.65667,
+          "lng": -6.41917
+        },
+        {
+          "name": "Dún Laoghaire",
+          "lat": 53.29395,
+          "lng": -6.13586
+        },
+        {
+          "name": "Dún Laoghaire-Rathdown",
+          "lat": 53.29436,
+          "lng": -6.13489
+        },
+        {
+          "name": "Dunboyne",
+          "lat": 53.41901,
+          "lng": -6.47375
+        },
+        {
+          "name": "Dundalk",
+          "lat": 54,
+          "lng": -6.41667
+        },
+        {
+          "name": "Dundrum",
+          "lat": 53.29067,
+          "lng": -6.25714
+        },
+        {
+          "name": "Dunleer",
+          "lat": 53.835,
+          "lng": -6.39611
+        },
+        {
+          "name": "Dunshaughlin",
+          "lat": 53.5125,
+          "lng": -6.54
+        },
+        {
+          "name": "Eadestown",
+          "lat": 53.20278,
+          "lng": -6.57806
+        },
+        {
+          "name": "Edenderry",
+          "lat": 53.33948,
+          "lng": -7.04752
+        },
+        {
+          "name": "Edgeworthstown",
+          "lat": 53.7,
+          "lng": -7.61667
+        },
+        {
+          "name": "Enfield",
+          "lat": 53.41419,
+          "lng": -6.83229
+        },
+        {
+          "name": "Enniscorthy",
+          "lat": 52.50083,
+          "lng": -6.55778
+        },
+        {
+          "name": "Enniskerry",
+          "lat": 53.1925,
+          "lng": -6.16917
+        },
+        {
+          "name": "Fairview",
+          "lat": 53.36597,
+          "lng": -6.23985
+        },
+        {
+          "name": "Ferbane",
+          "lat": 53.26944,
+          "lng": -7.82694
+        },
+        {
+          "name": "Ferns",
+          "lat": 52.58833,
+          "lng": -6.49972
+        },
+        {
+          "name": "Fingal",
+          "lat": 53.45909,
+          "lng": -6.21942
+        },
+        {
+          "name": "Finglas",
+          "lat": 53.38917,
+          "lng": -6.29694
+        },
+        {
+          "name": "Firhouse",
+          "lat": 53.28167,
+          "lng": -6.33917
+        },
+        {
+          "name": "Foxrock",
+          "lat": 53.26667,
+          "lng": -6.17417
+        },
+        {
+          "name": "Glasnevin",
+          "lat": 53.37851,
+          "lng": -6.28028
+        },
+        {
+          "name": "Gorey",
+          "lat": 52.67472,
+          "lng": -6.2925
+        },
+        {
+          "name": "Graiguenamanagh",
+          "lat": 52.54028,
+          "lng": -6.95472
+        },
+        {
+          "name": "Granard",
+          "lat": 53.77928,
+          "lng": -7.49429
+        },
+        {
+          "name": "Greenhills",
+          "lat": 53.33467,
+          "lng": -6.30302
+        },
+        {
+          "name": "Greystones",
+          "lat": 53.14083,
+          "lng": -6.06306
+        },
+        {
+          "name": "Hartstown",
+          "lat": 53.39306,
+          "lng": -6.42694
+        },
+        {
+          "name": "Howth",
+          "lat": 53.38778,
+          "lng": -6.06528
+        },
+        {
+          "name": "Jobstown",
+          "lat": 53.27866,
+          "lng": -6.40803
+        },
+        {
+          "name": "Johnstown",
+          "lat": 53.23833,
+          "lng": -6.62222
+        },
+        {
+          "name": "Kells",
+          "lat": 53.72639,
+          "lng": -6.87917
+        },
+        {
+          "name": "Kentstown",
+          "lat": 53.62754,
+          "lng": -6.52674
+        },
+        {
+          "name": "Kilbeggan",
+          "lat": 53.36944,
+          "lng": -7.50333
+        },
+        {
+          "name": "Kilcock",
+          "lat": 53.40222,
+          "lng": -6.67083
+        },
+        {
+          "name": "Kilcoole",
+          "lat": 53.10278,
+          "lng": -6.065
+        },
+        {
+          "name": "Kilcullen",
+          "lat": 53.13028,
+          "lng": -6.74444
+        },
+        {
+          "name": "Kildare",
+          "lat": 53.16667,
+          "lng": -6.75
+        },
+        {
+          "name": "Kilkenny",
+          "lat": 52.58333,
+          "lng": -7.25
+        },
+        {
+          "name": "Kill",
+          "lat": 53.25139,
+          "lng": -6.59167
+        },
+        {
+          "name": "Killester",
+          "lat": 53.37322,
+          "lng": -6.20431
+        },
+        {
+          "name": "Kilmacanoge",
+          "lat": 53.16722,
+          "lng": -6.13361
+        },
+        {
+          "name": "Kilpedder",
+          "lat": 53.10917,
+          "lng": -6.10667
+        },
+        {
+          "name": "Kilquade",
+          "lat": 53.09743,
+          "lng": -6.08411
+        },
+        {
+          "name": "Kinnegad",
+          "lat": 53.45222,
+          "lng": -7.09972
+        },
+        {
+          "name": "Kinsealy-Drinan",
+          "lat": 53.44395,
+          "lng": -6.20334
+        },
+        {
+          "name": "Knocklyon",
+          "lat": 53.2803,
+          "lng": -6.3313
+        },
+        {
+          "name": "Lanesborough",
+          "lat": 53.66667,
+          "lng": -7.98333
+        },
+        {
+          "name": "Laois",
+          "lat": 53,
+          "lng": -7.4
+        },
+        {
+          "name": "Laytown",
+          "lat": 53.68194,
+          "lng": -6.23917
+        },
+        {
+          "name": "Leixlip",
+          "lat": 53.36583,
+          "lng": -6.49556
+        },
+        {
+          "name": "Little Bray",
+          "lat": 53.20444,
+          "lng": -6.12083
+        },
+        {
+          "name": "Loch Garman",
+          "lat": 52.5,
+          "lng": -6.66667
+        },
+        {
+          "name": "Longford",
+          "lat": 53.72536,
+          "lng": -7.79823
+        },
+        {
+          "name": "Longwood",
+          "lat": 53.45389,
+          "lng": -6.92194
+        },
+        {
+          "name": "Loughlinstown",
+          "lat": 53.24389,
+          "lng": -6.13306
+        },
+        {
+          "name": "Lú",
+          "lat": 53.83333,
+          "lng": -6.5
+        },
+        {
+          "name": "Lucan",
+          "lat": 53.35736,
+          "lng": -6.44859
+        },
+        {
+          "name": "Lusk",
+          "lat": 53.52743,
+          "lng": -6.16423
+        },
+        {
+          "name": "Malahide",
+          "lat": 53.45083,
+          "lng": -6.15444
+        },
+        {
+          "name": "Marino",
+          "lat": 53.37022,
+          "lng": -6.23646
+        },
+        {
+          "name": "Maynooth",
+          "lat": 53.385,
+          "lng": -6.59361
+        },
+        {
+          "name": "Milltown",
+          "lat": 53.31301,
+          "lng": -6.2453
+        },
+        {
+          "name": "Moate",
+          "lat": 53.39389,
+          "lng": -7.71722
+        },
+        {
+          "name": "Monasterevin",
+          "lat": 53.14056,
+          "lng": -7.06639
+        },
+        {
+          "name": "Monkstown",
+          "lat": 53.29308,
+          "lng": -6.15312
+        },
+        {
+          "name": "Mooncoin",
+          "lat": 52.28944,
+          "lng": -7.24833
+        },
+        {
+          "name": "Moone",
+          "lat": 52.97556,
+          "lng": -6.815
+        },
+        {
+          "name": "Mount Merrion",
+          "lat": 53.30008,
+          "lng": -6.21504
+        },
+        {
+          "name": "Mountmellick",
+          "lat": 53.11361,
+          "lng": -7.32
+        },
+        {
+          "name": "Mountrath",
+          "lat": 52.99889,
+          "lng": -7.47278
+        },
+        {
+          "name": "Naas",
+          "lat": 53.21583,
+          "lng": -6.66694
+        },
+        {
+          "name": "Navan",
+          "lat": 53.65278,
+          "lng": -6.68139
+        },
+        {
+          "name": "New Ross",
+          "lat": 52.39667,
+          "lng": -6.93667
+        },
+        {
+          "name": "Newcastle",
+          "lat": 53.30111,
+          "lng": -6.50222
+        },
+        {
+          "name": "Newtown Trim",
+          "lat": 53.55611,
+          "lng": -6.77
+        },
+        {
+          "name": "Newtownmountkennedy",
+          "lat": 53.09052,
+          "lng": -6.11149
+        },
+        {
+          "name": "Old Kilcullen",
+          "lat": 53.10639,
+          "lng": -6.76528
+        },
+        {
+          "name": "Oldbawn",
+          "lat": 53.27556,
+          "lng": -6.3675
+        },
+        {
+          "name": "Oldcastle",
+          "lat": 53.76648,
+          "lng": -7.16284
+        },
+        {
+          "name": "Palmerstown",
+          "lat": 53.35019,
+          "lng": -6.37778
+        },
+        {
+          "name": "Piltown",
+          "lat": 52.35333,
+          "lng": -7.34028
+        },
+        {
+          "name": "Portarlington",
+          "lat": 53.16222,
+          "lng": -7.19111
+        },
+        {
+          "name": "Portlaoise",
+          "lat": 53.03441,
+          "lng": -7.29979
+        },
+        {
+          "name": "Portmarnock",
+          "lat": 53.42306,
+          "lng": -6.1375
+        },
+        {
+          "name": "Portraine",
+          "lat": 53.49667,
+          "lng": -6.11111
+        },
+        {
+          "name": "Prosperous",
+          "lat": 53.29028,
+          "lng": -6.75389
+        },
+        {
+          "name": "Raheny",
+          "lat": 53.38681,
+          "lng": -6.18067
+        },
+        {
+          "name": "Rathangan",
+          "lat": 53.22139,
+          "lng": -6.995
+        },
+        {
+          "name": "Rathcoole",
+          "lat": 53.28278,
+          "lng": -6.47278
+        },
+        {
+          "name": "Rathdowney",
+          "lat": 52.85472,
+          "lng": -7.58028
+        },
+        {
+          "name": "Rathdrum",
+          "lat": 52.92639,
+          "lng": -6.23556
+        },
+        {
+          "name": "Rathgar",
+          "lat": 53.31457,
+          "lng": -6.275
+        },
+        {
+          "name": "Rathmines",
+          "lat": 53.32028,
+          "lng": -6.26333
+        },
+        {
+          "name": "Rathnew",
+          "lat": 52.99056,
+          "lng": -6.08528
+        },
+        {
+          "name": "Rathwire",
+          "lat": 53.50767,
+          "lng": -7.1351
+        },
+        {
+          "name": "Ratoath",
+          "lat": 53.50806,
+          "lng": -6.4625
+        },
+        {
+          "name": "Rialto",
+          "lat": 53.33625,
+          "lng": -6.29718
+        },
+        {
+          "name": "Ringsend",
+          "lat": 53.34194,
+          "lng": -6.22639
+        },
+        {
+          "name": "Rochfortbridge",
+          "lat": 53.41417,
+          "lng": -7.29611
+        },
+        {
+          "name": "Rosslare",
+          "lat": 52.27583,
+          "lng": -6.38444
+        },
+        {
+          "name": "Saggart",
+          "lat": 53.28028,
+          "lng": -6.44444
+        },
+        {
+          "name": "Sallins",
+          "lat": 53.24889,
+          "lng": -6.66611
+        },
+        {
+          "name": "Sallynoggin",
+          "lat": 53.27917,
+          "lng": -6.14058
+        },
+        {
+          "name": "Sandyford",
+          "lat": 53.2747,
+          "lng": -6.2253
+        },
+        {
+          "name": "Sandymount",
+          "lat": 53.32815,
+          "lng": -6.22224
+        },
+        {
+          "name": "Shankill",
+          "lat": 53.22611,
+          "lng": -6.12444
+        },
+        {
+          "name": "Skerries",
+          "lat": 53.58278,
+          "lng": -6.10833
+        },
+        {
+          "name": "Slane",
+          "lat": 53.71,
+          "lng": -6.54333
+        },
+        {
+          "name": "Stamullin",
+          "lat": 53.62889,
+          "lng": -6.26833
+        },
+        {
+          "name": "Stradbally",
+          "lat": 53.01556,
+          "lng": -7.15278
+        },
+        {
+          "name": "Sutton",
+          "lat": 53.38947,
+          "lng": -6.11059
+        },
+        {
+          "name": "Swords",
+          "lat": 53.45972,
+          "lng": -6.21806
+        },
+        {
+          "name": "Tallaght",
+          "lat": 53.2859,
+          "lng": -6.37344
+        },
+        {
+          "name": "Templeogue",
+          "lat": 53.29528,
+          "lng": -6.30889
+        },
+        {
+          "name": "Terenure",
+          "lat": 53.30972,
+          "lng": -6.28528
+        },
+        {
+          "name": "Termonfeckin",
+          "lat": 53.76333,
+          "lng": -6.26778
+        },
+        {
+          "name": "Thomastown",
+          "lat": 52.52667,
+          "lng": -7.13722
+        },
+        {
+          "name": "Trim",
+          "lat": 53.555,
+          "lng": -6.79167
+        },
+        {
+          "name": "Tullamore",
+          "lat": 53.27389,
+          "lng": -7.48889
+        },
+        {
+          "name": "Tullow",
+          "lat": 52.80028,
+          "lng": -6.73694
+        },
+        {
+          "name": "Tullyallen",
+          "lat": 53.73611,
+          "lng": -6.42278
+        },
+        {
+          "name": "Uíbh Fhailí",
+          "lat": 53.25,
+          "lng": -7.5
+        },
+        {
+          "name": "Valleymount",
+          "lat": 53.10389,
+          "lng": -6.55361
+        },
+        {
+          "name": "Wicklow",
+          "lat": 53,
+          "lng": -6.41667
+        }
+      ]
+    },
+    {
+      "name": "Leitrim",
+      "lat": 54.1401622,
+      "lng": -8.0524782,
+      "districts": []
+    },
+    {
+      "name": "Limerick",
+      "lat": 52.5188316,
+      "lng": -8.7958347,
+      "districts": []
+    },
+    {
+      "name": "Longford",
+      "lat": 53.7274982,
+      "lng": -7.7931527,
+      "districts": []
+    },
+    {
+      "name": "Louth",
+      "lat": 53.9062848,
+      "lng": -6.5320502,
+      "districts": []
+    },
+    {
+      "name": "Mayo",
+      "lat": 53.9087056,
+      "lng": -9.2983049,
+      "districts": []
+    },
+    {
+      "name": "Meath",
+      "lat": 53.6497514,
+      "lng": -6.5884245,
+      "districts": []
+    },
+    {
+      "name": "Monaghan",
+      "lat": 54.2492046,
+      "lng": -6.9683132,
+      "districts": []
+    },
+    {
+      "name": "Munster",
+      "lat": 52.3076216,
+      "lng": -8.5708973,
+      "districts": [
+        {
+          "name": "Cork",
+          "lat": 51.89797,
+          "lng": -8.47061
+        },
+        {
+          "name": "County Tipperary",
+          "lat": 52.66667,
+          "lng": -7.83333
+        },
+        {
+          "name": "Abbeyfeale",
+          "lat": 52.38139,
+          "lng": -9.3025
+        },
+        {
+          "name": "Adare",
+          "lat": 52.56194,
+          "lng": -8.79556
+        },
+        {
+          "name": "Aghada",
+          "lat": 51.83917,
+          "lng": -8.21222
+        },
+        {
+          "name": "An Clár",
+          "lat": 52.83333,
+          "lng": -9
+        },
+        {
+          "name": "Annacotty",
+          "lat": 52.66768,
+          "lng": -8.53121
+        },
+        {
+          "name": "Ardnacrusha",
+          "lat": 52.70908,
+          "lng": -8.61431
+        },
+        {
+          "name": "Askeaton",
+          "lat": 52.59972,
+          "lng": -8.97556
+        },
+        {
+          "name": "Ballina",
+          "lat": 52.80778,
+          "lng": -8.43556
+        },
+        {
+          "name": "Ballybunnion",
+          "lat": 52.51108,
+          "lng": -9.67097
+        },
+        {
+          "name": "Bandon",
+          "lat": 51.74694,
+          "lng": -8.7425
+        },
+        {
+          "name": "Bantry",
+          "lat": 51.68333,
+          "lng": -9.45
+        },
+        {
+          "name": "Blarney",
+          "lat": 51.93333,
+          "lng": -8.56667
+        },
+        {
+          "name": "Caherconlish",
+          "lat": 52.59361,
+          "lng": -8.47028
+        },
+        {
+          "name": "Cahersiveen",
+          "lat": 51.94861,
+          "lng": -10.22222
+        },
+        {
+          "name": "Cahir",
+          "lat": 52.37694,
+          "lng": -7.92167
+        },
+        {
+          "name": "Carrick-on-Suir",
+          "lat": 52.34917,
+          "lng": -7.41306
+        },
+        {
+          "name": "Carrigaline",
+          "lat": 51.81167,
+          "lng": -8.39861
+        },
+        {
+          "name": "Carrigtwohill",
+          "lat": 51.90833,
+          "lng": -8.26333
+        },
+        {
+          "name": "Cashel",
+          "lat": 52.51583,
+          "lng": -7.88556
+        },
+        {
+          "name": "Castleconnell",
+          "lat": 52.71389,
+          "lng": -8.49944
+        },
+        {
+          "name": "Castleisland",
+          "lat": 52.23333,
+          "lng": -9.46667
+        },
+        {
+          "name": "Castlemartyr",
+          "lat": 51.91028,
+          "lng": -8.05389
+        },
+        {
+          "name": "Ciarraí",
+          "lat": 52.16667,
+          "lng": -9.75
+        },
+        {
+          "name": "Cill Airne",
+          "lat": 52.0598,
+          "lng": -9.50858
+        },
+        {
+          "name": "Clonakilty",
+          "lat": 51.62306,
+          "lng": -8.87056
+        },
+        {
+          "name": "Cloyne",
+          "lat": 51.86278,
+          "lng": -8.12444
+        },
+        {
+          "name": "Cluain Meala",
+          "lat": 52.355,
+          "lng": -7.70389
+        },
+        {
+          "name": "Cobh",
+          "lat": 51.85046,
+          "lng": -8.2948
+        },
+        {
+          "name": "County Cork",
+          "lat": 51.96667,
+          "lng": -8.58333
+        },
+        {
+          "name": "Croom",
+          "lat": 52.51944,
+          "lng": -8.71778
+        },
+        {
+          "name": "Crosshaven",
+          "lat": 51.79833,
+          "lng": -8.30083
+        },
+        {
+          "name": "Derry",
+          "lat": 51.58666,
+          "lng": -9.05026
+        },
+        {
+          "name": "Dingle",
+          "lat": 52.14083,
+          "lng": -10.26889
+        },
+        {
+          "name": "Dungarvan",
+          "lat": 52.08806,
+          "lng": -7.62528
+        },
+        {
+          "name": "Dunmanway",
+          "lat": 51.71667,
+          "lng": -9.11667
+        },
+        {
+          "name": "Dunmore East",
+          "lat": 52.15108,
+          "lng": -6.99872
+        },
+        {
+          "name": "Ennis",
+          "lat": 52.84361,
+          "lng": -8.98639
+        },
+        {
+          "name": "Fermoy",
+          "lat": 52.13583,
+          "lng": -8.27583
+        },
+        {
+          "name": "Fethard",
+          "lat": 52.46722,
+          "lng": -7.69111
+        },
+        {
+          "name": "Kanturk",
+          "lat": 52.16667,
+          "lng": -8.9
+        },
+        {
+          "name": "Kenmare",
+          "lat": 51.88333,
+          "lng": -9.58333
+        },
+        {
+          "name": "Killaloe",
+          "lat": 52.80667,
+          "lng": -8.44361
+        },
+        {
+          "name": "Killorglin",
+          "lat": 52.1,
+          "lng": -9.78333
+        },
+        {
+          "name": "Killumney",
+          "lat": 51.87243,
+          "lng": -8.64781
+        },
+        {
+          "name": "Kilmallock",
+          "lat": 52.4,
+          "lng": -8.57722
+        },
+        {
+          "name": "Kilrush",
+          "lat": 52.63972,
+          "lng": -9.48333
+        },
+        {
+          "name": "Kinsale",
+          "lat": 51.7075,
+          "lng": -8.53056
+        },
+        {
+          "name": "Limerick",
+          "lat": 52.66472,
+          "lng": -8.62306
+        },
+        {
+          "name": "Listowel",
+          "lat": 52.44639,
+          "lng": -9.485
+        },
+        {
+          "name": "Macroom",
+          "lat": 51.90663,
+          "lng": -8.96968
+        },
+        {
+          "name": "Mallow",
+          "lat": 52.13333,
+          "lng": -8.63333
+        },
+        {
+          "name": "Midleton",
+          "lat": 51.91526,
+          "lng": -8.18052
+        },
+        {
+          "name": "Millstreet",
+          "lat": 52.05935,
+          "lng": -9.06031
+        },
+        {
+          "name": "Mitchelstown",
+          "lat": 52.26583,
+          "lng": -8.26806
+        },
+        {
+          "name": "Moroe",
+          "lat": 52.65111,
+          "lng": -8.39611
+        },
+        {
+          "name": "Moyross",
+          "lat": 52.68198,
+          "lng": -8.63955
+        },
+        {
+          "name": "Nenagh",
+          "lat": 52.86194,
+          "lng": -8.19667
+        },
+        {
+          "name": "Nenagh Bridge",
+          "lat": 52.88167,
+          "lng": -8.19583
+        },
+        {
+          "name": "Newcastle West",
+          "lat": 52.44917,
+          "lng": -9.06111
+        },
+        {
+          "name": "Newmarket on Fergus",
+          "lat": 52.76,
+          "lng": -8.89556
+        },
+        {
+          "name": "Newport",
+          "lat": 52.71111,
+          "lng": -8.40972
+        },
+        {
+          "name": "Passage West",
+          "lat": 51.87389,
+          "lng": -8.34444
+        },
+        {
+          "name": "Portlaw",
+          "lat": 52.28833,
+          "lng": -7.32056
+        },
+        {
+          "name": "Ráth Luirc",
+          "lat": 52.35,
+          "lng": -8.68333
+        },
+        {
+          "name": "Rathcormac",
+          "lat": 52.07694,
+          "lng": -8.28194
+        },
+        {
+          "name": "Rathkeale",
+          "lat": 52.52444,
+          "lng": -8.93806
+        },
+        {
+          "name": "Roscrea",
+          "lat": 52.95111,
+          "lng": -7.80167
+        },
+        {
+          "name": "Shannon",
+          "lat": 52.70389,
+          "lng": -8.86417
+        },
+        {
+          "name": "Sixmilebridge",
+          "lat": 52.74139,
+          "lng": -8.77417
+        },
+        {
+          "name": "Skibbereen",
+          "lat": 51.55,
+          "lng": -9.26667
+        },
+        {
+          "name": "Templemore",
+          "lat": 52.79472,
+          "lng": -7.83389
+        },
+        {
+          "name": "Thurles",
+          "lat": 52.68194,
+          "lng": -7.80222
+        },
+        {
+          "name": "Tipperary",
+          "lat": 52.47333,
+          "lng": -8.15583
+        },
+        {
+          "name": "Tower",
+          "lat": 51.92599,
+          "lng": -8.60747
+        },
+        {
+          "name": "Trá Mhór",
+          "lat": 52.16235,
+          "lng": -7.15244
+        },
+        {
+          "name": "Tralee",
+          "lat": 52.27042,
+          "lng": -9.70264
+        },
+        {
+          "name": "Waterford",
+          "lat": 52.25833,
+          "lng": -7.11194
+        },
+        {
+          "name": "Watergrasshill",
+          "lat": 52.01139,
+          "lng": -8.34417
+        },
+        {
+          "name": "Whitegate",
+          "lat": 51.83056,
+          "lng": -8.22972
+        },
+        {
+          "name": "Youghal",
+          "lat": 51.95,
+          "lng": -7.85056
+        }
+      ]
+    },
+    {
+      "name": "Offaly",
+      "lat": 53.1361722,
+      "lng": -7.8103408,
+      "districts": []
+    },
+    {
+      "name": "Roscommon",
+      "lat": 53.6982695,
+      "lng": -8.2182508,
+      "districts": []
+    },
+    {
+      "name": "Sligo",
+      "lat": 54.1929861,
+      "lng": -8.7305427,
+      "districts": []
+    },
+    {
+      "name": "Tipperary",
+      "lat": 52.4737894,
+      "lng": -8.1618514,
+      "districts": []
+    },
+    {
+      "name": "Ulster",
+      "lat": 54.0934659,
+      "lng": -7.1989794,
+      "districts": [
+        {
+          "name": "County Donegal",
+          "lat": 54.91667,
+          "lng": -8
+        },
+        {
+          "name": "An Cabhán",
+          "lat": 53.91667,
+          "lng": -7.25
+        },
+        {
+          "name": "Bailieborough",
+          "lat": 53.91667,
+          "lng": -6.96667
+        },
+        {
+          "name": "Ballybofey",
+          "lat": 54.8,
+          "lng": -7.78333
+        },
+        {
+          "name": "Ballyconnell",
+          "lat": 54.11667,
+          "lng": -7.58333
+        },
+        {
+          "name": "Ballyjamesduff",
+          "lat": 53.86528,
+          "lng": -7.20278
+        },
+        {
+          "name": "Ballyshannon",
+          "lat": 54.5,
+          "lng": -8.18333
+        },
+        {
+          "name": "Belturbet",
+          "lat": 54.1,
+          "lng": -7.45
+        },
+        {
+          "name": "Buncrana",
+          "lat": 55.13333,
+          "lng": -7.45
+        },
+        {
+          "name": "Bundoran",
+          "lat": 54.47782,
+          "lng": -8.28094
+        },
+        {
+          "name": "Carndonagh",
+          "lat": 55.25,
+          "lng": -7.26667
+        },
+        {
+          "name": "Carrickmacross",
+          "lat": 53.97278,
+          "lng": -6.71889
+        },
+        {
+          "name": "Castleblayney",
+          "lat": 54.11667,
+          "lng": -6.73333
+        },
+        {
+          "name": "Cavan",
+          "lat": 53.99083,
+          "lng": -7.36056
+        },
+        {
+          "name": "Clones",
+          "lat": 54.18333,
+          "lng": -7.23333
+        },
+        {
+          "name": "Convoy",
+          "lat": 54.86083,
+          "lng": -7.66556
+        },
+        {
+          "name": "Cootehill",
+          "lat": 54.0725,
+          "lng": -7.08194
+        },
+        {
+          "name": "County Monaghan",
+          "lat": 54.25,
+          "lng": -7
+        },
+        {
+          "name": "Derrybeg",
+          "lat": 55.08333,
+          "lng": -8.28944
+        },
+        {
+          "name": "Donegal",
+          "lat": 54.65378,
+          "lng": -8.11134
+        },
+        {
+          "name": "Dungloe",
+          "lat": 54.95111,
+          "lng": -8.35917
+        },
+        {
+          "name": "Dunlewy",
+          "lat": 55.01667,
+          "lng": -8.1
+        },
+        {
+          "name": "Gweedore",
+          "lat": 55.05028,
+          "lng": -8.23194
+        },
+        {
+          "name": "Killybegs",
+          "lat": 54.63333,
+          "lng": -8.45
+        },
+        {
+          "name": "Kingscourt",
+          "lat": 53.90806,
+          "lng": -6.80556
+        },
+        {
+          "name": "Leifear",
+          "lat": 54.83194,
+          "lng": -7.48361
+        },
+        {
+          "name": "Letterkenny",
+          "lat": 54.95,
+          "lng": -7.73333
+        },
+        {
+          "name": "Monaghan",
+          "lat": 54.25,
+          "lng": -6.96667
+        },
+        {
+          "name": "Moville",
+          "lat": 55.19153,
+          "lng": -7.03873
+        },
+        {
+          "name": "Muff",
+          "lat": 55.06667,
+          "lng": -7.26667
+        },
+        {
+          "name": "Mullagh",
+          "lat": 53.81306,
+          "lng": -6.95139
+        },
+        {
+          "name": "Newtown Cunningham",
+          "lat": 54.99639,
+          "lng": -7.51917
+        },
+        {
+          "name": "Ramelton",
+          "lat": 55.03673,
+          "lng": -7.64923
+        },
+        {
+          "name": "Raphoe",
+          "lat": 54.87472,
+          "lng": -7.59833
+        },
+        {
+          "name": "Virginia",
+          "lat": 53.83389,
+          "lng": -7.07556
+        }
+      ]
+    },
+    {
+      "name": "Waterford",
+      "lat": 52.1509131,
+      "lng": -7.6577982,
+      "districts": []
+    },
+    {
+      "name": "Westmeath",
+      "lat": 53.5577902,
+      "lng": -7.3478558,
+      "districts": []
+    },
+    {
+      "name": "Wexford",
+      "lat": 52.4601874,
+      "lng": -6.6065155,
+      "districts": []
+    },
+    {
+      "name": "Wicklow",
+      "lat": 52.9582099,
+      "lng": -6.3814208,
+      "districts": []
+    }
+  ]
+}

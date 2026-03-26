@@ -1,0 +1,105 @@
+{
+  "name": "Eritrea",
+  "lat": 15,
+  "lng": 39,
+  "cities": [
+    {
+      "name": "Anseba",
+      "lat": 16.5000101,
+      "lng": 37.5000048,
+      "districts": [
+        {
+          "name": "Keren",
+          "lat": 15.77792,
+          "lng": 38.45107
+        }
+      ]
+    },
+    {
+      "name": "Debub",
+      "lat": 14.9099667,
+      "lng": 38.8150692,
+      "districts": [
+        {
+          "name": "Adi Keyh",
+          "lat": 14.84444,
+          "lng": 39.37722
+        },
+        {
+          "name": "Dek’emhāre",
+          "lat": 15.07,
+          "lng": 39.0475
+        },
+        {
+          "name": "Mendefera",
+          "lat": 14.88722,
+          "lng": 38.81528
+        }
+      ]
+    },
+    {
+      "name": "Gash-Barka",
+      "lat": 15.25,
+      "lng": 37.5,
+      "districts": [
+        {
+          "name": "Ak’ordat",
+          "lat": 15.54798,
+          "lng": 37.88291
+        },
+        {
+          "name": "Barentu",
+          "lat": 15.10582,
+          "lng": 37.59067
+        },
+        {
+          "name": "Teseney",
+          "lat": 15.11,
+          "lng": 36.6575
+        }
+      ]
+    },
+    {
+      "name": "Maekel",
+      "lat": 15.333333,
+      "lng": 38.916667,
+      "districts": [
+        {
+          "name": "Asmara",
+          "lat": 15.33805,
+          "lng": 38.93184,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Northern Red Sea",
+      "lat": 16,
+      "lng": 39,
+      "districts": [
+        {
+          "name": "Massawa",
+          "lat": 15.60811,
+          "lng": 39.47455
+        }
+      ]
+    },
+    {
+      "name": "Southern Red Sea",
+      "lat": 13.75,
+      "lng": 41.5,
+      "districts": [
+        {
+          "name": "Assab",
+          "lat": 13.00917,
+          "lng": 42.73944
+        },
+        {
+          "name": "Edd",
+          "lat": 13.93088,
+          "lng": 41.6938
+        }
+      ]
+    }
+  ]
+}

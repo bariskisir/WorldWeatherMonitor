@@ -1,0 +1,345 @@
+{
+  "name": "Namibia",
+  "lat": -22,
+  "lng": 17,
+  "cities": [
+    {
+      "name": "Erongo",
+      "lat": -22.0278147,
+      "lng": 15.389358,
+      "districts": [
+        {
+          "name": "Arandis",
+          "lat": -22.41667,
+          "lng": 14.96667
+        },
+        {
+          "name": "Hentiesbaai",
+          "lat": -22.11667,
+          "lng": 14.28333
+        },
+        {
+          "name": "Karibib",
+          "lat": -21.93333,
+          "lng": 15.83333
+        },
+        {
+          "name": "Omaruru",
+          "lat": -21.43333,
+          "lng": 15.93333
+        },
+        {
+          "name": "Otjimbingwe",
+          "lat": -22.35,
+          "lng": 16.13333
+        },
+        {
+          "name": "Swakopmund",
+          "lat": -22.67842,
+          "lng": 14.52663
+        },
+        {
+          "name": "Swakopmund Constituency",
+          "lat": -22.63199,
+          "lng": 14.60119
+        },
+        {
+          "name": "Usakos",
+          "lat": -22,
+          "lng": 15.6
+        },
+        {
+          "name": "Walvis Bay",
+          "lat": -22.9575,
+          "lng": 14.50528
+        }
+      ]
+    },
+    {
+      "name": "Hardap",
+      "lat": -24.4140944,
+      "lng": 17.4134051,
+      "districts": [
+        {
+          "name": "Aranos",
+          "lat": -24.13333,
+          "lng": 19.11667
+        },
+        {
+          "name": "Hoachanas",
+          "lat": -23.91667,
+          "lng": 18.05
+        },
+        {
+          "name": "Maltahöhe",
+          "lat": -24.83333,
+          "lng": 16.98333
+        },
+        {
+          "name": "Mariental",
+          "lat": -24.63333,
+          "lng": 17.96667
+        },
+        {
+          "name": "Rehoboth",
+          "lat": -23.317,
+          "lng": 17.09
+        }
+      ]
+    },
+    {
+      "name": "Karas",
+      "lat": -26.8752094,
+      "lng": 17.7634818,
+      "districts": [
+        {
+          "name": "Bethanie",
+          "lat": -26.48333,
+          "lng": 17.15
+        },
+        {
+          "name": "Karasburg",
+          "lat": -28.01667,
+          "lng": 18.75
+        },
+        {
+          "name": "Keetmanshoop",
+          "lat": -26.58333,
+          "lng": 18.13333
+        },
+        {
+          "name": "Lüderitz",
+          "lat": -26.64807,
+          "lng": 15.15383
+        },
+        {
+          "name": "Oranjemund",
+          "lat": -28.55,
+          "lng": 16.43333
+        },
+        {
+          "name": "Tses",
+          "lat": -25.88333,
+          "lng": 18
+        },
+        {
+          "name": "Warmbad",
+          "lat": -28.45,
+          "lng": 18.73333
+        }
+      ]
+    },
+    {
+      "name": "Kavango East",
+      "lat": -18.3982355,
+      "lng": 20.72468,
+      "districts": [
+        {
+          "name": "Rundu",
+          "lat": -17.93333,
+          "lng": 19.76667
+        }
+      ]
+    },
+    {
+      "name": "Kavango West",
+      "lat": -18.256111,
+      "lng": 18.970201,
+      "districts": []
+    },
+    {
+      "name": "Khomas",
+      "lat": -22.9082553,
+      "lng": 17.09198,
+      "districts": [
+        {
+          "name": "Windhoek",
+          "lat": -22.55941,
+          "lng": 17.08323,
+          "iscapital": true
+        },
+        {
+          "name": "Katutura",
+          "lat": -22.52306,
+          "lng": 17.06028
+        }
+      ]
+    },
+    {
+      "name": "Kunene",
+      "lat": -19.6792809,
+      "lng": 13.9756564,
+      "districts": [
+        {
+          "name": "Epupa Constituency",
+          "lat": -17.00388,
+          "lng": 13.24825
+        },
+        {
+          "name": "Khorixas",
+          "lat": -20.36667,
+          "lng": 14.96667
+        },
+        {
+          "name": "Khorixas Constituency",
+          "lat": -20.36792,
+          "lng": 14.95996
+        },
+        {
+          "name": "Opuwo",
+          "lat": -18.06068,
+          "lng": 13.83998
+        },
+        {
+          "name": "Opuwo Constituency",
+          "lat": -18.54247,
+          "lng": 13.51617
+        },
+        {
+          "name": "Outjo",
+          "lat": -20.11667,
+          "lng": 16.15
+        },
+        {
+          "name": "Sesfontein Constituency",
+          "lat": -19.56106,
+          "lng": 13.7653
+        }
+      ]
+    },
+    {
+      "name": "Ohangwena",
+      "lat": -17.5877369,
+      "lng": 16.7737955,
+      "districts": [
+        {
+          "name": "Oshikango",
+          "lat": -17.4,
+          "lng": 15.88333
+        }
+      ]
+    },
+    {
+      "name": "Omaheke",
+      "lat": -21.9074676,
+      "lng": 19.3929661,
+      "districts": [
+        {
+          "name": "Gobabis",
+          "lat": -22.45,
+          "lng": 18.96667
+        }
+      ]
+    },
+    {
+      "name": "Omusati",
+      "lat": -18.2862314,
+      "lng": 14.8856679,
+      "districts": [
+        {
+          "name": "Okahao",
+          "lat": -17.88758,
+          "lng": 15.06677
+        },
+        {
+          "name": "Ongandjera",
+          "lat": -17.88333,
+          "lng": 15.06667
+        },
+        {
+          "name": "Outapi",
+          "lat": -17.5,
+          "lng": 14.98333
+        }
+      ]
+    },
+    {
+      "name": "Oshana",
+      "lat": -18.4702308,
+      "lng": 15.7434419,
+      "districts": [
+        {
+          "name": "Ondangwa",
+          "lat": -17.91667,
+          "lng": 15.95
+        },
+        {
+          "name": "Ongwediva",
+          "lat": -17.78333,
+          "lng": 15.76667
+        },
+        {
+          "name": "Oshakati",
+          "lat": -17.78833,
+          "lng": 15.70436
+        }
+      ]
+    },
+    {
+      "name": "Oshikoto",
+      "lat": -18.5464046,
+      "lng": 17.1019606,
+      "districts": [
+        {
+          "name": "Omuthiya",
+          "lat": -18.36463,
+          "lng": 16.58146
+        },
+        {
+          "name": "Tsumeb",
+          "lat": -19.23333,
+          "lng": 17.71667
+        }
+      ]
+    },
+    {
+      "name": "Otjozondjupa",
+      "lat": -19.9424962,
+      "lng": 18.395886,
+      "districts": [
+        {
+          "name": "Grootfontein",
+          "lat": -19.56667,
+          "lng": 18.11667
+        },
+        {
+          "name": "Okahandja",
+          "lat": -21.98333,
+          "lng": 16.91667
+        },
+        {
+          "name": "Okakarara",
+          "lat": -20.58333,
+          "lng": 17.43333
+        },
+        {
+          "name": "Otavi",
+          "lat": -19.65,
+          "lng": 17.33333
+        },
+        {
+          "name": "Otjiwarongo",
+          "lat": -20.46369,
+          "lng": 16.64772
+        }
+      ]
+    },
+    {
+      "name": "Zambezi",
+      "lat": -17.6912922,
+      "lng": 24.1377371,
+      "districts": [
+        {
+          "name": "Bagani",
+          "lat": -18.11065,
+          "lng": 21.61645
+        },
+        {
+          "name": "Katima Mulilo",
+          "lat": -17.5,
+          "lng": 24.26667
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "name": "Seychelles",
+  "lat": -4.6574977,
+  "lng": 55.4540146,
+  "cities": [
+    {
+      "name": "Anse Boileau",
+      "lat": -4.7047268,
+      "lng": 55.4859363,
+      "districts": [
+        {
+          "name": "Anse Boileau",
+          "lat": -4.71667,
+          "lng": 55.48333
+        }
+      ]
+    },
+    {
+      "name": "Anse Etoile",
+      "lat": -4.59166667,
+      "lng": 55.45,
+      "districts": [
+        {
+          "name": "Anse Etoile",
+          "lat": -4.59166667,
+          "lng": 55.45
+        }
+      ]
+    },
+    {
+      "name": "Anse Royale",
+      "lat": -4.7376121,
+      "lng": 55.5176065,
+      "districts": [
+        {
+          "name": "Anse Royale",
+          "lat": -4.73333,
+          "lng": 55.51667
+        }
+      ]
+    },
+    {
+      "name": "Anse-aux-Pins",
+      "lat": -4.6900443,
+      "lng": 55.5150289,
+      "districts": []
+    },
+    {
+      "name": "Au Cap",
+      "lat": -4.7059723,
+      "lng": 55.5081012,
+      "districts": []
+    },
+    {
+      "name": "Baie Lazare",
+      "lat": -4.7482525,
+      "lng": 55.4859363,
+      "districts": []
+    },
+    {
+      "name": "Baie Sainte Anne",
+      "lat": -4.3411172,
+      "lng": 55.7564233,
+      "districts": []
+    },
+    {
+      "name": "Beau Vallon",
+      "lat": -4.6210967,
+      "lng": 55.4277802,
+      "districts": [
+        {
+          "name": "Beau Vallon",
+          "lat": -4.62091,
+          "lng": 55.43015
+        }
+      ]
+    },
+    {
+      "name": "Bel Air",
+      "lat": -4.6416206,
+      "lng": 55.4518668,
+      "districts": []
+    },
+    {
+      "name": "Bel Ombre",
+      "lat": -4.6193716,
+      "lng": 55.4112979,
+      "districts": [
+        {
+          "name": "Bel Ombre",
+          "lat": -4.61667,
+          "lng": 55.41667
+        }
+      ]
+    },
+    {
+      "name": "Cascade",
+      "lat": -4.6691243,
+      "lng": 55.4972693,
+      "districts": [
+        {
+          "name": "Cascade",
+          "lat": -4.66667,
+          "lng": 55.5
+        }
+      ]
+    },
+    {
+      "name": "Glacis",
+      "lat": -4.583654,
+      "lng": 55.4345526,
+      "districts": []
+    },
+    {
+      "name": "Grand'Anse Mahé",
+      "lat": -4.6750171,
+      "lng": 55.4505286,
+      "districts": []
+    },
+    {
+      "name": "Grand'Anse Praslin",
+      "lat": -4.3269702,
+      "lng": 55.7177343,
+      "districts": []
+    },
+    {
+      "name": "Ile Perseverance I",
+      "lat": -4.63,
+      "lng": 55.47,
+      "districts": []
+    },
+    {
+      "name": "Ile Perseverance II",
+      "lat": -4.635,
+      "lng": 55.475,
+      "districts": []
+    },
+    {
+      "name": "La Digue",
+      "lat": -4.356222,
+      "lng": 55.8306895,
+      "districts": []
+    },
+    {
+      "name": "La Rivière Anglaise",
+      "lat": -4.6156909,
+      "lng": 55.451153,
+      "districts": [
+        {
+          "name": "Victoria",
+          "lat": -4.62001,
+          "lng": 55.45501,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Les Mamelles",
+      "lat": -4.6570449,
+      "lng": 55.4811608,
+      "districts": []
+    },
+    {
+      "name": "Mont Buxton",
+      "lat": -4.6166667,
+      "lng": 55.4457768,
+      "districts": []
+    },
+    {
+      "name": "Mont Fleuri",
+      "lat": -4.6363172,
+      "lng": 55.4645941,
+      "districts": []
+    },
+    {
+      "name": "Plaisance",
+      "lat": -4.65391,
+      "lng": 55.4680175,
+      "districts": []
+    },
+    {
+      "name": "Pointe La Rue",
+      "lat": -4.680489,
+      "lng": 55.5191857,
+      "districts": []
+    },
+    {
+      "name": "Port Glaud",
+      "lat": -4.66406,
+      "lng": 55.4177606,
+      "districts": [
+        {
+          "name": "Port Glaud",
+          "lat": -4.66667,
+          "lng": 55.41667
+        }
+      ]
+    },
+    {
+      "name": "Roche Caiman",
+      "lat": -4.6493085,
+      "lng": 55.4831656,
+      "districts": []
+    },
+    {
+      "name": "Saint Louis",
+      "lat": -4.6223,
+      "lng": 55.4390618,
+      "districts": []
+    },
+    {
+      "name": "Takamaka",
+      "lat": -4.3250885,
+      "lng": 55.7312042,
+      "districts": [
+        {
+          "name": "Takamaka",
+          "lat": -4.76667,
+          "lng": 55.5
+        }
+      ]
+    }
+  ]
+}

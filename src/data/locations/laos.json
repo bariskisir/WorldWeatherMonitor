@@ -1,0 +1,514 @@
+{
+  "name": "Laos",
+  "lat": 18,
+  "lng": 105,
+  "cities": [
+    {
+      "name": "Attapeu",
+      "lat": 14.79073,
+      "lng": 107.1008318,
+      "districts": [
+        {
+          "name": "Attapeu",
+          "lat": 14.81071,
+          "lng": 106.83184
+        },
+        {
+          "name": "Muang Phouvong",
+          "lat": 14.56821,
+          "lng": 107.01087
+        },
+        {
+          "name": "Muang Samakhixai",
+          "lat": 14.80539,
+          "lng": 106.78164
+        },
+        {
+          "name": "Muang Sanamxai",
+          "lat": 14.73807,
+          "lng": 106.41328
+        },
+        {
+          "name": "Muang Sanxai",
+          "lat": 15.02944,
+          "lng": 107.23158
+        },
+        {
+          "name": "Muang Xaiséttha",
+          "lat": 14.90594,
+          "lng": 106.97894
+        }
+      ]
+    },
+    {
+      "name": "Bokeo",
+      "lat": 20.317445,
+      "lng": 100.3958112,
+      "districts": [
+        {
+          "name": "Ban Houakhoua",
+          "lat": 20.2467,
+          "lng": 100.45401
+        },
+        {
+          "name": "Ban Houayxay",
+          "lat": 20.27,
+          "lng": 100.4178
+        },
+        {
+          "name": "Muang Houayxay",
+          "lat": 20.38763,
+          "lng": 100.62687
+        },
+        {
+          "name": "Muang Meung",
+          "lat": 20.67585,
+          "lng": 100.52639
+        },
+        {
+          "name": "Muang Paktha",
+          "lat": 20.09108,
+          "lng": 100.5994
+        },
+        {
+          "name": "Muang Pha Oudôm",
+          "lat": 20.18744,
+          "lng": 100.926
+        },
+        {
+          "name": "Muang Tônpheung",
+          "lat": 20.53465,
+          "lng": 100.29624
+        }
+      ]
+    },
+    {
+      "name": "Bolikhamsai",
+      "lat": 18.5806594,
+      "lng": 104.1491594,
+      "districts": [
+        {
+          "name": "Ban Nahin",
+          "lat": 18.24253,
+          "lng": 104.21281
+        },
+        {
+          "name": "Pakxan",
+          "lat": 18.3942,
+          "lng": 103.6611
+        }
+      ]
+    },
+    {
+      "name": "Champasak",
+      "lat": 14.8872885,
+      "lng": 105.8765804,
+      "districts": [
+        {
+          "name": "Champasak",
+          "lat": 14.89204,
+          "lng": 105.87787
+        },
+        {
+          "name": "Muang Bachiangchaleunsook",
+          "lat": 15.24426,
+          "lng": 105.96716
+        },
+        {
+          "name": "Muang Champasak",
+          "lat": 14.85704,
+          "lng": 105.75334
+        },
+        {
+          "name": "Muang Không",
+          "lat": 14.14696,
+          "lng": 105.95938
+        },
+        {
+          "name": "Muang Mounlapamôk",
+          "lat": 14.28922,
+          "lng": 105.56832
+        },
+        {
+          "name": "Muang Pakxé",
+          "lat": 15.13139,
+          "lng": 105.81612
+        },
+        {
+          "name": "Muang Pakxong",
+          "lat": 15.0981,
+          "lng": 106.43398
+        },
+        {
+          "name": "Muang Pathoumphon",
+          "lat": 14.68453,
+          "lng": 106.06357
+        },
+        {
+          "name": "Muang Phônthong",
+          "lat": 15.10669,
+          "lng": 105.6489
+        },
+        {
+          "name": "Muang Soukhouma",
+          "lat": 14.6256,
+          "lng": 105.6752
+        },
+        {
+          "name": "Muang Xanasômboun",
+          "lat": 15.34107,
+          "lng": 105.73703
+        },
+        {
+          "name": "Pakse",
+          "lat": 15.12022,
+          "lng": 105.79898
+        },
+        {
+          "name": "Pakxong",
+          "lat": 15.18154,
+          "lng": 106.23038
+        }
+      ]
+    },
+    {
+      "name": "Houaphanh",
+      "lat": 20.2354748,
+      "lng": 103.6203387,
+      "districts": [
+        {
+          "name": "Xam Neua",
+          "lat": 20.40764,
+          "lng": 104.0656
+        },
+        {
+          "name": "Xam Nua",
+          "lat": 20.4164,
+          "lng": 104.045
+        }
+      ]
+    },
+    {
+      "name": "Khammouane",
+      "lat": 17.5842055,
+      "lng": 105.2471325,
+      "districts": [
+        {
+          "name": "Muang Thakhèk",
+          "lat": 17.4088,
+          "lng": 104.82639
+        },
+        {
+          "name": "Thakhèk",
+          "lat": 17.41027,
+          "lng": 104.83068
+        }
+      ]
+    },
+    {
+      "name": "Luang Namtha",
+      "lat": 20.933004,
+      "lng": 101.0586737,
+      "districts": [
+        {
+          "name": "Luang Namtha",
+          "lat": 20.9486,
+          "lng": 101.40188
+        },
+        {
+          "name": "Muang Louang Namtha",
+          "lat": 21.00424,
+          "lng": 101.44785
+        }
+      ]
+    },
+    {
+      "name": "Luang Prabang",
+      "lat": 20.2115415,
+      "lng": 102.612684,
+      "districts": [
+        {
+          "name": "Luang Prabang",
+          "lat": 19.88601,
+          "lng": 102.13503
+        }
+      ]
+    },
+    {
+      "name": "Oudomxay",
+      "lat": 20.6930134,
+      "lng": 101.9853678,
+      "districts": [
+        {
+          "name": "Muang Xay",
+          "lat": 20.69229,
+          "lng": 101.98368
+        }
+      ]
+    },
+    {
+      "name": "Phongsaly",
+      "lat": 21.6767816,
+      "lng": 102.2773177,
+      "districts": [
+        {
+          "name": "Phôngsali",
+          "lat": 21.6808,
+          "lng": 102.1003
+        }
+      ]
+    },
+    {
+      "name": "Sainyabuli",
+      "lat": 19.2536139,
+      "lng": 101.6180985,
+      "districts": [
+        {
+          "name": "Sainyabuli",
+          "lat": 19.25756,
+          "lng": 101.71032
+        }
+      ]
+    },
+    {
+      "name": "Salavan",
+      "lat": 15.87128,
+      "lng": 106.3389565,
+      "districts": [
+        {
+          "name": "Muang Khôngxédôn",
+          "lat": 15.54626,
+          "lng": 105.77051
+        },
+        {
+          "name": "Muang Lakhonphéng",
+          "lat": 15.83308,
+          "lng": 105.59745
+        },
+        {
+          "name": "Muang Laongam",
+          "lat": 15.47745,
+          "lng": 106.14111
+        },
+        {
+          "name": "Muang Samouay",
+          "lat": 16.35868,
+          "lng": 106.8748
+        },
+        {
+          "name": "Muang Saravan",
+          "lat": 15.71587,
+          "lng": 106.36158
+        },
+        {
+          "name": "Muang Ta-Ôy",
+          "lat": 16.07765,
+          "lng": 106.70304
+        },
+        {
+          "name": "Muang Toumlan",
+          "lat": 16.02236,
+          "lng": 106.23837
+        },
+        {
+          "name": "Muang Vapi",
+          "lat": 15.75005,
+          "lng": 105.95529
+        },
+        {
+          "name": "Salavan",
+          "lat": 15.71652,
+          "lng": 106.41744
+        }
+      ]
+    },
+    {
+      "name": "Savannakhet",
+      "lat": 16.5001958,
+      "lng": 105.7155946,
+      "districts": [
+        {
+          "name": "Savannakhet",
+          "lat": 16.5703,
+          "lng": 104.7622
+        },
+        {
+          "name": "Kaysone Phomvihane",
+          "lat": 16.54943,
+          "lng": 104.82339
+        },
+        {
+          "name": "Muang Alsaphangthong",
+          "lat": 16.72645,
+          "lng": 105.39326
+        },
+        {
+          "name": "Muang Atsaphan",
+          "lat": 16.9474,
+          "lng": 105.4029
+        },
+        {
+          "name": "Muang Champhon",
+          "lat": 16.49363,
+          "lng": 105.2202
+        },
+        {
+          "name": "Muang Nong",
+          "lat": 16.38458,
+          "lng": 106.50419
+        },
+        {
+          "name": "Muang Outhoumphon",
+          "lat": 16.66667,
+          "lng": 105.05
+        },
+        {
+          "name": "Muang Phin",
+          "lat": 16.44316,
+          "lng": 106.03019
+        },
+        {
+          "name": "Muang Songkhon",
+          "lat": 16.17116,
+          "lng": 105.30729
+        },
+        {
+          "name": "Muang Thapangthong",
+          "lat": 16.09132,
+          "lng": 105.81038
+        },
+        {
+          "name": "Muang Vilabouli",
+          "lat": 16.94067,
+          "lng": 105.93677
+        },
+        {
+          "name": "Muang Xaibouli",
+          "lat": 16.94432,
+          "lng": 104.92312
+        },
+        {
+          "name": "Muang Xayphoothong",
+          "lat": 16.3737,
+          "lng": 105.02165
+        },
+        {
+          "name": "Muang Xônbouli",
+          "lat": 16.40036,
+          "lng": 105.57388
+        },
+        {
+          "name": "Thaphalanxay",
+          "lat": 16.7,
+          "lng": 105.6
+        }
+      ]
+    },
+    {
+      "name": "Sekong",
+      "lat": 15.8660419,
+      "lng": 106.9637782,
+      "districts": [
+        {
+          "name": "Ban Thatèng",
+          "lat": 15.43317,
+          "lng": 106.38272
+        },
+        {
+          "name": "Lamam",
+          "lat": 15.41705,
+          "lng": 106.69461
+        },
+        {
+          "name": "Muang Dakchung",
+          "lat": 15.38199,
+          "lng": 107.31847
+        },
+        {
+          "name": "Muang Khaleum",
+          "lat": 15.79886,
+          "lng": 107.04529
+        },
+        {
+          "name": "Muang Laman",
+          "lat": 15.41273,
+          "lng": 106.81706
+        },
+        {
+          "name": "Muang Thatèng",
+          "lat": 15.42745,
+          "lng": 106.48149
+        }
+      ]
+    },
+    {
+      "name": "Vientiane",
+      "lat": 17.9640988,
+      "lng": 102.6133707,
+      "districts": [
+        {
+          "name": "Muang Phôn-Hông",
+          "lat": 18.4953,
+          "lng": 102.4153
+        },
+        {
+          "name": "Vangviang",
+          "lat": 18.9235,
+          "lng": 102.44784
+        }
+      ]
+    },
+    {
+      "name": "Vientiane",
+      "lat": 17.9640988,
+      "lng": 102.6133707,
+      "districts": [
+        {
+          "name": "Vientiane",
+          "lat": 17.96667,
+          "lng": 102.6,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Xaisomboun",
+      "lat": 18.8631725,
+      "lng": 103.0344783,
+      "districts": [
+        {
+          "name": "Anouvong",
+          "lat": 18.89731,
+          "lng": 103.09274
+        },
+        {
+          "name": "Longchaeng",
+          "lat": 18.89394,
+          "lng": 103.14274
+        },
+        {
+          "name": "Muang Longxan",
+          "lat": 18.61782,
+          "lng": 102.88079
+        },
+        {
+          "name": "Muang Thathôm",
+          "lat": 19.0013,
+          "lng": 103.61572
+        }
+      ]
+    },
+    {
+      "name": "Xiangkhouang",
+      "lat": 19.4130479,
+      "lng": 103.4680126,
+      "districts": [
+        {
+          "name": "Muang Phônsavan",
+          "lat": 19.4494,
+          "lng": 103.1917
+        }
+      ]
+    }
+  ]
+}

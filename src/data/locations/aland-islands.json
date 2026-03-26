@@ -1,0 +1,166 @@
+{
+  "name": "Aland Islands",
+  "lat": 60.116667,
+  "lng": 19.9,
+  "cities": [
+    {
+      "name": "Brändö",
+      "lat": 60.4135873,
+      "lng": 21.0440498,
+      "districts": []
+    },
+    {
+      "name": "Eckerö",
+      "lat": 60.2231814,
+      "lng": 19.5389379,
+      "districts": []
+    },
+    {
+      "name": "Finström",
+      "lat": 60.2310519,
+      "lng": 19.9867259,
+      "districts": []
+    },
+    {
+      "name": "Föglö",
+      "lat": 60.0107325,
+      "lng": 20.4246997,
+      "districts": []
+    },
+    {
+      "name": "Geta",
+      "lat": 60.3740157,
+      "lng": 19.8498128,
+      "districts": []
+    },
+    {
+      "name": "Hammarland",
+      "lat": 60.2196758,
+      "lng": 19.7378481,
+      "districts": []
+    },
+    {
+      "name": "Jomala",
+      "lat": 60.1522947,
+      "lng": 19.9489144,
+      "districts": [
+        {
+          "name": "Bomarsund",
+          "lat": 60.21234,
+          "lng": 20.24023
+        },
+        {
+          "name": "Finström",
+          "lat": 60.26667,
+          "lng": 19.93333
+        },
+        {
+          "name": "Godby",
+          "lat": 60.22995,
+          "lng": 19.9881
+        },
+        {
+          "name": "Hammarland",
+          "lat": 60.21667,
+          "lng": 19.75
+        },
+        {
+          "name": "Jomala",
+          "lat": 60.14902,
+          "lng": 19.951
+        },
+        {
+          "name": "Lemland",
+          "lat": 60.07178,
+          "lng": 20.08472
+        },
+        {
+          "name": "Saltvik",
+          "lat": 60.28333,
+          "lng": 20.05
+        },
+        {
+          "name": "Sund",
+          "lat": 60.25,
+          "lng": 20.11667
+        },
+        {
+          "name": "Tjudö",
+          "lat": 60.33333,
+          "lng": 19.95
+        },
+        {
+          "name": "Yomala",
+          "lat": 60.16689,
+          "lng": 19.93341
+        },
+        {
+          "name": "Ytterby",
+          "lat": 60.16667,
+          "lng": 20.01667
+        }
+      ]
+    },
+    {
+      "name": "Kökar",
+      "lat": 59.9211709,
+      "lng": 20.9103514,
+      "districts": []
+    },
+    {
+      "name": "Kumlinge",
+      "lat": 60.2587693,
+      "lng": 20.7782292,
+      "districts": []
+    },
+    {
+      "name": "Lemland",
+      "lat": 60.0690169,
+      "lng": 20.0860081,
+      "districts": []
+    },
+    {
+      "name": "Lumparland",
+      "lat": 60.1168385,
+      "lng": 20.2610583,
+      "districts": []
+    },
+    {
+      "name": "Mariehamn",
+      "lat": 60.102423,
+      "lng": 19.94126,
+      "districts": [
+        {
+          "name": "Mariehamn",
+          "lat": 60.09726,
+          "lng": 19.93481,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Saltvik",
+      "lat": 60.2755756,
+      "lng": 20.0612065,
+      "districts": []
+    },
+    {
+      "name": "Sottunga",
+      "lat": 60.1307977,
+      "lng": 20.6459821,
+      "districts": []
+    },
+    {
+      "name": "Sund",
+      "lat": 60.2530332,
+      "lng": 20.1198637,
+      "districts": []
+    },
+    {
+      "name": "Vårdö",
+      "lat": 60.2421692,
+      "lng": 20.3744261,
+      "districts": []
+    }
+  ]
+}

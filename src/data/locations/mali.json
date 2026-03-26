@@ -1,0 +1,318 @@
+{
+  "name": "Mali",
+  "lat": 17,
+  "lng": -4,
+  "cities": [
+    {
+      "name": "Bamako",
+      "lat": 12.649319,
+      "lng": -8.000337,
+      "districts": [
+        {
+          "name": "Bamako",
+          "lat": 12.65,
+          "lng": -8,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Gao",
+      "lat": 17.00244,
+      "lng": -0.0991154,
+      "districts": [
+        {
+          "name": "Gao",
+          "lat": 16.27167,
+          "lng": -0.04472
+        },
+        {
+          "name": "Gao Cercle",
+          "lat": 16.72237,
+          "lng": 0.43984
+        },
+        {
+          "name": "Ansongo",
+          "lat": 15.6597,
+          "lng": 0.5022
+        },
+        {
+          "name": "Cercle de Bourem",
+          "lat": 17.71192,
+          "lng": -0.34284
+        },
+        {
+          "name": "Inékar",
+          "lat": 15.95944,
+          "lng": 3.14111
+        }
+      ]
+    },
+    {
+      "name": "Kayes",
+      "lat": 13.8001844,
+      "lng": -10.2245548,
+      "districts": [
+        {
+          "name": "Kayes",
+          "lat": 14.44693,
+          "lng": -11.44448
+        },
+        {
+          "name": "Bafoulabé",
+          "lat": 13.8065,
+          "lng": -10.8321
+        },
+        {
+          "name": "Kita",
+          "lat": 13.0349,
+          "lng": -9.4895
+        },
+        {
+          "name": "Kokofata",
+          "lat": 12.88333,
+          "lng": -9.95
+        },
+        {
+          "name": "Sagalo",
+          "lat": 12.2,
+          "lng": -10.7
+        }
+      ]
+    },
+    {
+      "name": "Kidal",
+      "lat": 18.4408358,
+      "lng": 1.4075395,
+      "districts": [
+        {
+          "name": "Abeïbara",
+          "lat": 19.11667,
+          "lng": 1.75
+        },
+        {
+          "name": "Cercle d’Abeïbara",
+          "lat": 19.48878,
+          "lng": 2.20025
+        },
+        {
+          "name": "Kidal",
+          "lat": 18.44111,
+          "lng": 1.40778
+        }
+      ]
+    },
+    {
+      "name": "Koulikoro",
+      "lat": 13.4820706,
+      "lng": -7.6096079,
+      "districts": [
+        {
+          "name": "Kati",
+          "lat": 12.74409,
+          "lng": -8.07257
+        },
+        {
+          "name": "Banamba",
+          "lat": 13.54773,
+          "lng": -7.44808
+        },
+        {
+          "name": "Kangaba",
+          "lat": 11.93333,
+          "lng": -8.41667
+        },
+        {
+          "name": "Kolokani",
+          "lat": 13.5728,
+          "lng": -8.0339
+        },
+        {
+          "name": "Koulikoro",
+          "lat": 12.86273,
+          "lng": -7.55985
+        }
+      ]
+    },
+    {
+      "name": "Ménaka",
+      "lat": 15.9156421,
+      "lng": 2.396174,
+      "districts": []
+    },
+    {
+      "name": "Mopti",
+      "lat": 14.514489,
+      "lng": -3.6464581,
+      "districts": [
+        {
+          "name": "Douentza Cercle",
+          "lat": 15.06947,
+          "lng": -2.40875
+        },
+        {
+          "name": "Mopti",
+          "lat": 14.4843,
+          "lng": -4.18296
+        },
+        {
+          "name": "Bandiagara",
+          "lat": 14.35005,
+          "lng": -3.61038
+        },
+        {
+          "name": "Djénné",
+          "lat": 13.90608,
+          "lng": -4.55332
+        },
+        {
+          "name": "Douentza",
+          "lat": 15.00155,
+          "lng": -2.94978
+        },
+        {
+          "name": "Ténenkou",
+          "lat": 14.45722,
+          "lng": -4.9169
+        }
+      ]
+    },
+    {
+      "name": "Ségou",
+      "lat": 14.0487607,
+      "lng": -6.0047091,
+      "districts": [
+        {
+          "name": "San",
+          "lat": 13.30335,
+          "lng": -4.89562
+        },
+        {
+          "name": "Ségou",
+          "lat": 13.4317,
+          "lng": -6.2157
+        },
+        {
+          "name": "Baroueli",
+          "lat": 13.07489,
+          "lng": -6.57171
+        },
+        {
+          "name": "Cercle de San",
+          "lat": 13.17895,
+          "lng": -5.01617
+        },
+        {
+          "name": "Ké-Macina",
+          "lat": 13.9641,
+          "lng": -5.35791
+        },
+        {
+          "name": "Kinmparana",
+          "lat": 12.84217,
+          "lng": -4.9245
+        },
+        {
+          "name": "Markala",
+          "lat": 13.7021,
+          "lng": -6.0659
+        },
+        {
+          "name": "Sokolo",
+          "lat": 14.7328,
+          "lng": -6.1219
+        }
+      ]
+    },
+    {
+      "name": "Sikasso",
+      "lat": 11.529684,
+      "lng": -6.8663259,
+      "districts": [
+        {
+          "name": "Koutiala",
+          "lat": 12.39173,
+          "lng": -5.46421
+        },
+        {
+          "name": "Koutiala Cercle",
+          "lat": 12.35311,
+          "lng": -5.5839
+        },
+        {
+          "name": "Sikasso",
+          "lat": 11.31755,
+          "lng": -5.66654
+        },
+        {
+          "name": "Bougouni",
+          "lat": 11.41769,
+          "lng": -7.48323
+        },
+        {
+          "name": "Kolondiéba",
+          "lat": 11.08943,
+          "lng": -6.8929
+        },
+        {
+          "name": "Ntossoni",
+          "lat": 12.5304,
+          "lng": -5.77003
+        },
+        {
+          "name": "Yorosso",
+          "lat": 12.35811,
+          "lng": -4.77688
+        }
+      ]
+    },
+    {
+      "name": "Taoudénit",
+      "lat": 20.8582718,
+      "lng": -3.39819,
+      "districts": []
+    },
+    {
+      "name": "Tombouctou",
+      "lat": 16.7719091,
+      "lng": -3.0087272,
+      "districts": [
+        {
+          "name": "Gourma-Rharous Cercle",
+          "lat": 16.07979,
+          "lng": -1.76981
+        },
+        {
+          "name": "Araouane",
+          "lat": 18.90476,
+          "lng": -3.52649
+        },
+        {
+          "name": "Cercle de Goundam",
+          "lat": 18.60035,
+          "lng": -4.99306
+        },
+        {
+          "name": "Dire",
+          "lat": 16.28017,
+          "lng": -3.31302
+        },
+        {
+          "name": "Goundam",
+          "lat": 16.41453,
+          "lng": -3.67075
+        },
+        {
+          "name": "Niafunké",
+          "lat": 15.9322,
+          "lng": -3.9906
+        },
+        {
+          "name": "Timbuktu",
+          "lat": 16.77348,
+          "lng": -3.00742
+        }
+      ]
+    }
+  ]
+}

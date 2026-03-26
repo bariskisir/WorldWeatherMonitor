@@ -1,0 +1,107 @@
+{
+  "name": "Tuvalu",
+  "lat": -8,
+  "lng": 178,
+  "cities": [
+    {
+      "name": "Funafuti",
+      "lat": -8.5211471,
+      "lng": 179.1961926,
+      "districts": [
+        {
+          "name": "Funafuti",
+          "lat": -8.52425,
+          "lng": 179.19417,
+          "iscapital": true
+        },
+        {
+          "name": "Alapi Village",
+          "lat": -8.52074,
+          "lng": 179.1968
+        },
+        {
+          "name": "Fakaifou Village",
+          "lat": -8.51758,
+          "lng": 179.20094
+        }
+      ]
+    },
+    {
+      "name": "Nanumanga",
+      "lat": -6.2858019,
+      "lng": 176.319928,
+      "districts": [
+        {
+          "name": "Toga Village",
+          "lat": -6.28764,
+          "lng": 176.31472
+        }
+      ]
+    },
+    {
+      "name": "Nanumea",
+      "lat": -5.6817338,
+      "lng": 176.1271787,
+      "districts": []
+    },
+    {
+      "name": "Niutao Island Council",
+      "lat": -6.1064258,
+      "lng": 177.3438429,
+      "districts": [
+        {
+          "name": "Kulia Village",
+          "lat": -6.10819,
+          "lng": 177.33393
+        },
+        {
+          "name": "Niulakita",
+          "lat": -10.788,
+          "lng": 179.466
+        }
+      ]
+    },
+    {
+      "name": "Nui",
+      "lat": -7.2207599,
+      "lng": 177.1461122,
+      "districts": [
+        {
+          "name": "Tanrake Village",
+          "lat": -7.24562,
+          "lng": 177.14511
+        }
+      ]
+    },
+    {
+      "name": "Nukufetau",
+      "lat": -8.1159264,
+      "lng": 178.4798165,
+      "districts": [
+        {
+          "name": "Savave Village",
+          "lat": -8.02731,
+          "lng": 178.31351
+        }
+      ]
+    },
+    {
+      "name": "Nukulaelae",
+      "lat": -9.1754173,
+      "lng": 179.6367792,
+      "districts": []
+    },
+    {
+      "name": "Vaitupu",
+      "lat": -7.4767327,
+      "lng": 178.6747675,
+      "districts": [
+        {
+          "name": "Asau Village",
+          "lat": -7.49026,
+          "lng": 178.68016
+        }
+      ]
+    }
+  ]
+}

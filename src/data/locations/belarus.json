@@ -1,0 +1,1702 @@
+{
+  "name": "Belarus",
+  "lat": 53,
+  "lng": 28,
+  "cities": [
+    {
+      "name": "Brest",
+      "lat": 52.093751,
+      "lng": 23.6851851,
+      "districts": [
+        {
+          "name": "Brest",
+          "lat": 52.09755,
+          "lng": 23.68775
+        },
+        {
+          "name": "Antopal’",
+          "lat": 52.2038,
+          "lng": 24.7863
+        },
+        {
+          "name": "Asnyezhytsy",
+          "lat": 52.1891,
+          "lng": 26.1299
+        },
+        {
+          "name": "Baranovichi",
+          "lat": 53.1327,
+          "lng": 26.0139
+        },
+        {
+          "name": "Baranovichskiy Rayon",
+          "lat": 53.16667,
+          "lng": 25.83333
+        },
+        {
+          "name": "Brestski Rayon",
+          "lat": 52,
+          "lng": 23.75
+        },
+        {
+          "name": "Byaroza",
+          "lat": 52.5314,
+          "lng": 24.9786
+        },
+        {
+          "name": "Byarozawski Rayon",
+          "lat": 52.5,
+          "lng": 25
+        },
+        {
+          "name": "Byelaazyorsk",
+          "lat": 52.4731,
+          "lng": 25.1784
+        },
+        {
+          "name": "Charnawchytsy",
+          "lat": 52.21948,
+          "lng": 23.74043
+        },
+        {
+          "name": "Damachava",
+          "lat": 51.75,
+          "lng": 23.6
+        },
+        {
+          "name": "Davyd-Haradok",
+          "lat": 52.0566,
+          "lng": 27.2161
+        },
+        {
+          "name": "Drahichyn",
+          "lat": 52.1874,
+          "lng": 25.1597
+        },
+        {
+          "name": "Drahichynski Rayon",
+          "lat": 52.16667,
+          "lng": 25
+        },
+        {
+          "name": "Hantsavichy",
+          "lat": 52.758,
+          "lng": 26.43
+        },
+        {
+          "name": "Hantsavitski Rayon",
+          "lat": 52.66667,
+          "lng": 26.5
+        },
+        {
+          "name": "Haradzishcha",
+          "lat": 53.3247,
+          "lng": 26.0107
+        },
+        {
+          "name": "Horad Baranavichy",
+          "lat": 53.13333,
+          "lng": 26.03333
+        },
+        {
+          "name": "Horad Brest",
+          "lat": 52.1,
+          "lng": 23.7
+        },
+        {
+          "name": "Ivanava",
+          "lat": 52.1451,
+          "lng": 25.5365
+        },
+        {
+          "name": "Ivanawski Rayon",
+          "lat": 52.16667,
+          "lng": 25.58333
+        },
+        {
+          "name": "Ivatsevichy",
+          "lat": 52.709,
+          "lng": 25.3401
+        },
+        {
+          "name": "Kamyanyets",
+          "lat": 52.40013,
+          "lng": 23.81
+        },
+        {
+          "name": "Kamyanyetski Rayon",
+          "lat": 52.41667,
+          "lng": 23.66667
+        },
+        {
+          "name": "Kamyanyuki",
+          "lat": 52.55757,
+          "lng": 23.80525
+        },
+        {
+          "name": "Kobryn",
+          "lat": 52.2138,
+          "lng": 24.3564
+        },
+        {
+          "name": "Kosava",
+          "lat": 52.7583,
+          "lng": 25.1554
+        },
+        {
+          "name": "Lahishyn",
+          "lat": 52.339,
+          "lng": 25.9867
+        },
+        {
+          "name": "Luninyets",
+          "lat": 52.2472,
+          "lng": 26.8047
+        },
+        {
+          "name": "Lyakhavichy",
+          "lat": 53.0388,
+          "lng": 26.2656
+        },
+        {
+          "name": "Malaryta",
+          "lat": 51.7905,
+          "lng": 24.074
+        },
+        {
+          "name": "Mikashevichy",
+          "lat": 52.2173,
+          "lng": 27.476
+        },
+        {
+          "name": "Motal’",
+          "lat": 52.3138,
+          "lng": 25.6072
+        },
+        {
+          "name": "Nyakhachava",
+          "lat": 52.644,
+          "lng": 25.2027
+        },
+        {
+          "name": "Pinsk",
+          "lat": 52.1229,
+          "lng": 26.0951
+        },
+        {
+          "name": "Pruzhanski Rayon",
+          "lat": 52.66667,
+          "lng": 24.58333
+        },
+        {
+          "name": "Pruzhany",
+          "lat": 52.556,
+          "lng": 24.4573
+        },
+        {
+          "name": "Ruzhany",
+          "lat": 52.86322,
+          "lng": 24.89357
+        },
+        {
+          "name": "Stolin",
+          "lat": 51.89115,
+          "lng": 26.84597
+        },
+        {
+          "name": "Stolinski Rayon",
+          "lat": 52,
+          "lng": 27
+        },
+        {
+          "name": "Tsyelyakhany",
+          "lat": 52.5175,
+          "lng": 25.8429
+        },
+        {
+          "name": "Vysokaye",
+          "lat": 52.37091,
+          "lng": 23.37083
+        },
+        {
+          "name": "Zhabinka",
+          "lat": 52.1984,
+          "lng": 24.0115
+        },
+        {
+          "name": "Zhabinkawski Rayon",
+          "lat": 52.16667,
+          "lng": 24.08333
+        },
+        {
+          "name": "Znamenka",
+          "lat": 51.88168,
+          "lng": 23.65545
+        }
+      ]
+    },
+    {
+      "name": "Gomel",
+      "lat": 52.4238936,
+      "lng": 31.0131698,
+      "districts": [
+        {
+          "name": "Homyel'",
+          "lat": 52.4345,
+          "lng": 30.9754
+        },
+        {
+          "name": "Mazyr",
+          "lat": 52.0495,
+          "lng": 29.2456
+        },
+        {
+          "name": "Aktsyabrski",
+          "lat": 52.644,
+          "lng": 28.8801
+        },
+        {
+          "name": "Brahin",
+          "lat": 51.787,
+          "lng": 30.2677
+        },
+        {
+          "name": "Brahinski Rayon",
+          "lat": 51.66667,
+          "lng": 30.33333
+        },
+        {
+          "name": "Buda-Kashalyova",
+          "lat": 52.7179,
+          "lng": 30.5701
+        },
+        {
+          "name": "Chachersk",
+          "lat": 52.9164,
+          "lng": 30.9179
+        },
+        {
+          "name": "Chacherski Rayon",
+          "lat": 52.91667,
+          "lng": 31.08333
+        },
+        {
+          "name": "Dobrush",
+          "lat": 52.4089,
+          "lng": 31.3237
+        },
+        {
+          "name": "Dowsk",
+          "lat": 53.1571,
+          "lng": 30.4601
+        },
+        {
+          "name": "Homyel’ski Rayon",
+          "lat": 52.33333,
+          "lng": 31
+        },
+        {
+          "name": "Kalinkavichy",
+          "lat": 52.1323,
+          "lng": 29.3257
+        },
+        {
+          "name": "Karanyowka",
+          "lat": 52.3506,
+          "lng": 31.1121
+        },
+        {
+          "name": "Karma",
+          "lat": 53.1301,
+          "lng": 30.8016
+        },
+        {
+          "name": "Kastsyukowka",
+          "lat": 52.5387,
+          "lng": 30.9173
+        },
+        {
+          "name": "Khal’ch",
+          "lat": 52.5643,
+          "lng": 31.1364
+        },
+        {
+          "name": "Khoyniki",
+          "lat": 51.8911,
+          "lng": 29.9552
+        },
+        {
+          "name": "Loyew",
+          "lat": 51.9458,
+          "lng": 30.7953
+        },
+        {
+          "name": "Lyel’chytski Rayon",
+          "lat": 51.83333,
+          "lng": 28.25
+        },
+        {
+          "name": "Lyel’chytsy",
+          "lat": 51.7862,
+          "lng": 28.3288
+        },
+        {
+          "name": "Mazyrski Rayon",
+          "lat": 52,
+          "lng": 29
+        },
+        {
+          "name": "Narowlya",
+          "lat": 51.7961,
+          "lng": 29.5004
+        },
+        {
+          "name": "Novaya Huta",
+          "lat": 52.1032,
+          "lng": 30.9837
+        },
+        {
+          "name": "Parychy",
+          "lat": 52.8042,
+          "lng": 29.4176
+        },
+        {
+          "name": "Peramoga",
+          "lat": 52.3973,
+          "lng": 31.071
+        },
+        {
+          "name": "Pyetrykaw",
+          "lat": 52.1289,
+          "lng": 28.4921
+        },
+        {
+          "name": "Rahachow",
+          "lat": 53.0934,
+          "lng": 30.0495
+        },
+        {
+          "name": "Rahachowski Rayon",
+          "lat": 53.16667,
+          "lng": 30.16667
+        },
+        {
+          "name": "Rechytsa",
+          "lat": 52.3617,
+          "lng": 30.3916
+        },
+        {
+          "name": "Sasnovy Bor",
+          "lat": 52.5194,
+          "lng": 29.5988
+        },
+        {
+          "name": "Svyetlahorsk",
+          "lat": 52.6329,
+          "lng": 29.7389
+        },
+        {
+          "name": "Turaw",
+          "lat": 52.0683,
+          "lng": 27.735
+        },
+        {
+          "name": "Vasilyevichy",
+          "lat": 52.2512,
+          "lng": 29.8288
+        },
+        {
+          "name": "Vyetka",
+          "lat": 52.5591,
+          "lng": 31.1794
+        },
+        {
+          "name": "Vyetkawski Rayon",
+          "lat": 52.66667,
+          "lng": 31.25
+        },
+        {
+          "name": "Yel’sk",
+          "lat": 51.8141,
+          "lng": 29.1522
+        },
+        {
+          "name": "Zhlobin",
+          "lat": 52.8926,
+          "lng": 30.024
+        },
+        {
+          "name": "Zhlobinski Rayon",
+          "lat": 52.75,
+          "lng": 29.83333
+        },
+        {
+          "name": "Zhytkavichy",
+          "lat": 52.2168,
+          "lng": 27.8561
+        }
+      ]
+    },
+    {
+      "name": "Grodno",
+      "lat": 53.6834599,
+      "lng": 23.8342648,
+      "districts": [
+        {
+          "name": "Hrodna",
+          "lat": 53.6884,
+          "lng": 23.8258
+        },
+        {
+          "name": "Lida",
+          "lat": 53.88333,
+          "lng": 25.29972
+        },
+        {
+          "name": "Ashmyanski Rayon",
+          "lat": 54.41667,
+          "lng": 25.91667
+        },
+        {
+          "name": "Ashmyany",
+          "lat": 54.421,
+          "lng": 25.936
+        },
+        {
+          "name": "Astravyets",
+          "lat": 54.61378,
+          "lng": 25.95537
+        },
+        {
+          "name": "Astravyetski Rayon",
+          "lat": 54.66667,
+          "lng": 26
+        },
+        {
+          "name": "Baruny",
+          "lat": 54.3171,
+          "lng": 26.1376
+        },
+        {
+          "name": "Byarozawka",
+          "lat": 53.72406,
+          "lng": 25.49709
+        },
+        {
+          "name": "Dyatlovo",
+          "lat": 53.4631,
+          "lng": 25.4068
+        },
+        {
+          "name": "Grodnenskiy Rayon",
+          "lat": 53.66667,
+          "lng": 24
+        },
+        {
+          "name": "Hal’shany",
+          "lat": 54.2585,
+          "lng": 26.0144
+        },
+        {
+          "name": "Horad Hrodna",
+          "lat": 53.68333,
+          "lng": 23.83333
+        },
+        {
+          "name": "Hyeranyony",
+          "lat": 54.1159,
+          "lng": 25.5773
+        },
+        {
+          "name": "Indura",
+          "lat": 53.4605,
+          "lng": 23.8823
+        },
+        {
+          "name": "Iwye",
+          "lat": 53.9299,
+          "lng": 25.7727
+        },
+        {
+          "name": "Karelichy",
+          "lat": 53.5648,
+          "lng": 26.1406
+        },
+        {
+          "name": "Karelitski Rayon",
+          "lat": 53.5,
+          "lng": 26.25
+        },
+        {
+          "name": "Krasnosel’skiy",
+          "lat": 53.2645,
+          "lng": 24.4301
+        },
+        {
+          "name": "Kreva",
+          "lat": 54.3118,
+          "lng": 26.2916
+        },
+        {
+          "name": "Lidski Rayon",
+          "lat": 53.66667,
+          "lng": 25.25
+        },
+        {
+          "name": "Lyubcha",
+          "lat": 53.7522,
+          "lng": 26.0603
+        },
+        {
+          "name": "Mir",
+          "lat": 53.4544,
+          "lng": 26.467
+        },
+        {
+          "name": "Mosty",
+          "lat": 53.4122,
+          "lng": 24.5387
+        },
+        {
+          "name": "Novogrudok",
+          "lat": 53.5942,
+          "lng": 25.8191
+        },
+        {
+          "name": "Ross’",
+          "lat": 53.28451,
+          "lng": 24.40335
+        },
+        {
+          "name": "Sapotskin",
+          "lat": 53.8329,
+          "lng": 23.6598
+        },
+        {
+          "name": "Shchuchyn",
+          "lat": 53.6014,
+          "lng": 24.7465
+        },
+        {
+          "name": "Shchuchynski Rayon",
+          "lat": 53.58333,
+          "lng": 24.66667
+        },
+        {
+          "name": "Skidel’",
+          "lat": 53.5904,
+          "lng": 24.2478
+        },
+        {
+          "name": "Slonim",
+          "lat": 53.0869,
+          "lng": 25.3163
+        },
+        {
+          "name": "Smarhon’",
+          "lat": 54.4798,
+          "lng": 26.3957
+        },
+        {
+          "name": "Soly",
+          "lat": 54.51301,
+          "lng": 26.19381
+        },
+        {
+          "name": "Svislach",
+          "lat": 53.03474,
+          "lng": 24.09829
+        },
+        {
+          "name": "Vishnyeva",
+          "lat": 54.7102,
+          "lng": 26.5228
+        },
+        {
+          "name": "Volkovysk",
+          "lat": 53.1561,
+          "lng": 24.4513
+        },
+        {
+          "name": "Voranava",
+          "lat": 54.1492,
+          "lng": 25.3112
+        },
+        {
+          "name": "Vyalikaya Byerastavitsa",
+          "lat": 53.196,
+          "lng": 24.0166
+        },
+        {
+          "name": "Zel’va",
+          "lat": 53.1504,
+          "lng": 24.8153
+        },
+        {
+          "name": "Zhaludok",
+          "lat": 53.5974,
+          "lng": 24.9828
+        },
+        {
+          "name": "Zhirovichi",
+          "lat": 53.0131,
+          "lng": 25.3443
+        }
+      ]
+    },
+    {
+      "name": "Minsk",
+      "lat": 53.9024716,
+      "lng": 27.5618225,
+      "districts": [
+        {
+          "name": "Barysaw",
+          "lat": 54.2279,
+          "lng": 28.505
+        },
+        {
+          "name": "Astrashytski Haradok",
+          "lat": 54.0651,
+          "lng": 27.695
+        },
+        {
+          "name": "Atolina",
+          "lat": 53.7817,
+          "lng": 27.4346
+        },
+        {
+          "name": "Azyartso",
+          "lat": 53.8397,
+          "lng": 27.3917
+        },
+        {
+          "name": "Bal’shavik",
+          "lat": 54.0036,
+          "lng": 27.5669
+        },
+        {
+          "name": "Barysawski Rayon",
+          "lat": 54.33333,
+          "lng": 28.58333
+        },
+        {
+          "name": "Blon’",
+          "lat": 53.5269,
+          "lng": 28.1732
+        },
+        {
+          "name": "Bobr",
+          "lat": 54.342,
+          "lng": 29.2736
+        },
+        {
+          "name": "Borovlyany",
+          "lat": 54.0022,
+          "lng": 27.6754
+        },
+        {
+          "name": "Byarezinski Rayon",
+          "lat": 53.83333,
+          "lng": 29
+        },
+        {
+          "name": "Byerazino",
+          "lat": 53.8391,
+          "lng": 28.9879
+        },
+        {
+          "name": "Chervyen’",
+          "lat": 53.7059,
+          "lng": 28.4313
+        },
+        {
+          "name": "Chervyen’ski Rayon",
+          "lat": 53.75,
+          "lng": 28.5
+        },
+        {
+          "name": "Chyrvonaya Slabada",
+          "lat": 52.8522,
+          "lng": 27.1698
+        },
+        {
+          "name": "Chyst’",
+          "lat": 54.2698,
+          "lng": 27.1067
+        },
+        {
+          "name": "Druzhny",
+          "lat": 53.6238,
+          "lng": 27.8977
+        },
+        {
+          "name": "Dukora",
+          "lat": 53.6786,
+          "lng": 27.94
+        },
+        {
+          "name": "Dzyarzhynsk",
+          "lat": 53.6832,
+          "lng": 27.138
+        },
+        {
+          "name": "Enyerhyetykaw",
+          "lat": 53.5871,
+          "lng": 27.0535
+        },
+        {
+          "name": "Fanipol",
+          "lat": 53.74998,
+          "lng": 27.33338
+        },
+        {
+          "name": "Haradzyeya",
+          "lat": 53.3121,
+          "lng": 26.538
+        },
+        {
+          "name": "Hatava",
+          "lat": 53.7829,
+          "lng": 27.6407
+        },
+        {
+          "name": "Horad Smalyavichy",
+          "lat": 54.0249,
+          "lng": 28.0894
+        },
+        {
+          "name": "Horad Zhodzina",
+          "lat": 54.0985,
+          "lng": 28.3331
+        },
+        {
+          "name": "Hotsk",
+          "lat": 52.5215,
+          "lng": 27.1385
+        },
+        {
+          "name": "Il’ya",
+          "lat": 54.4167,
+          "lng": 27.2958
+        },
+        {
+          "name": "Ivyanyets",
+          "lat": 53.8864,
+          "lng": 26.7432
+        },
+        {
+          "name": "Kalodzishchy",
+          "lat": 53.944,
+          "lng": 27.7823
+        },
+        {
+          "name": "Kapyl’",
+          "lat": 53.1516,
+          "lng": 27.0913
+        },
+        {
+          "name": "Kapyl’ski Rayon",
+          "lat": 53.16667,
+          "lng": 27.08333
+        },
+        {
+          "name": "Khatsyezhyna",
+          "lat": 53.9094,
+          "lng": 27.3069
+        },
+        {
+          "name": "Kholopenichi",
+          "lat": 54.51746,
+          "lng": 28.95645
+        },
+        {
+          "name": "Klyetsk",
+          "lat": 53.0635,
+          "lng": 26.6321
+        },
+        {
+          "name": "Klyetski Rayon",
+          "lat": 53,
+          "lng": 26.66667
+        },
+        {
+          "name": "Korolëv Stan",
+          "lat": 53.9865,
+          "lng": 27.7982
+        },
+        {
+          "name": "Krasnaye",
+          "lat": 54.2438,
+          "lng": 27.0758
+        },
+        {
+          "name": "Krupki",
+          "lat": 54.3178,
+          "lng": 29.1374
+        },
+        {
+          "name": "Kryvichy",
+          "lat": 54.7132,
+          "lng": 27.2886
+        },
+        {
+          "name": "Lahoysk",
+          "lat": 54.2064,
+          "lng": 27.8512
+        },
+        {
+          "name": "Loshnitsa",
+          "lat": 54.2796,
+          "lng": 28.7649
+        },
+        {
+          "name": "Luhavaya Slabada",
+          "lat": 53.7823,
+          "lng": 27.8434
+        },
+        {
+          "name": "Lyasny",
+          "lat": 54.0072,
+          "lng": 27.6963
+        },
+        {
+          "name": "Lyeskawka",
+          "lat": 54.0024,
+          "lng": 27.7108
+        },
+        {
+          "name": "Lyuban’",
+          "lat": 52.7985,
+          "lng": 28.0048
+        },
+        {
+          "name": "Machulishchy",
+          "lat": 53.7788,
+          "lng": 27.5948
+        },
+        {
+          "name": "Maladzyechna",
+          "lat": 54.3167,
+          "lng": 26.854
+        },
+        {
+          "name": "Mar’’ina Horka",
+          "lat": 53.509,
+          "lng": 28.147
+        },
+        {
+          "name": "Michanovichi",
+          "lat": 53.73937,
+          "lng": 27.69276
+        },
+        {
+          "name": "Myadzyel",
+          "lat": 54.8789,
+          "lng": 26.9371
+        },
+        {
+          "name": "Myadzyel’ski Rayon",
+          "lat": 54.83333,
+          "lng": 27
+        },
+        {
+          "name": "Narach",
+          "lat": 54.9102,
+          "lng": 26.708
+        },
+        {
+          "name": "Nasilava",
+          "lat": 54.30441,
+          "lng": 26.78209
+        },
+        {
+          "name": "Novosel’ye",
+          "lat": 53.9162,
+          "lng": 27.2009
+        },
+        {
+          "name": "Novy Svyerzhan’",
+          "lat": 53.4542,
+          "lng": 26.7301
+        },
+        {
+          "name": "Nyasvizh",
+          "lat": 53.2189,
+          "lng": 26.6779
+        },
+        {
+          "name": "Nyasvizhski Rayon",
+          "lat": 53.25,
+          "lng": 26.66667
+        },
+        {
+          "name": "Plyeshchanitsy",
+          "lat": 54.4235,
+          "lng": 27.8301
+        },
+        {
+          "name": "Prawdzinski",
+          "lat": 53.5248,
+          "lng": 27.8303
+        },
+        {
+          "name": "Pryvol’ny",
+          "lat": 53.7969,
+          "lng": 27.7967
+        },
+        {
+          "name": "Pukhavichy",
+          "lat": 53.5297,
+          "lng": 28.2467
+        },
+        {
+          "name": "Pukhavichy Raion",
+          "lat": 53.5,
+          "lng": 28
+        },
+        {
+          "name": "Pyatryshki",
+          "lat": 54.0686,
+          "lng": 27.2179
+        },
+        {
+          "name": "Radashkovichy",
+          "lat": 54.1554,
+          "lng": 27.2412
+        },
+        {
+          "name": "Rakaw",
+          "lat": 53.9674,
+          "lng": 27.0562
+        },
+        {
+          "name": "Rudzyensk",
+          "lat": 53.5983,
+          "lng": 27.8621
+        },
+        {
+          "name": "Salihorsk",
+          "lat": 52.7876,
+          "lng": 27.5415
+        },
+        {
+          "name": "Samakhvalavichy",
+          "lat": 53.7396,
+          "lng": 27.5037
+        },
+        {
+          "name": "Sarachy",
+          "lat": 52.7867,
+          "lng": 28.0186
+        },
+        {
+          "name": "Schomyslitsa",
+          "lat": 53.8211,
+          "lng": 27.4522
+        },
+        {
+          "name": "Slabada",
+          "lat": 54.0087,
+          "lng": 27.8866
+        },
+        {
+          "name": "Slutsk",
+          "lat": 53.0274,
+          "lng": 27.5597
+        },
+        {
+          "name": "Slutski Rayon",
+          "lat": 53,
+          "lng": 27.66667
+        },
+        {
+          "name": "Smalyavitski Rayon",
+          "lat": 54,
+          "lng": 28.16667
+        },
+        {
+          "name": "Smilavichy",
+          "lat": 53.7496,
+          "lng": 28.0115
+        },
+        {
+          "name": "Snow",
+          "lat": 53.2201,
+          "lng": 26.401
+        },
+        {
+          "name": "Stan’kava",
+          "lat": 53.6292,
+          "lng": 27.229
+        },
+        {
+          "name": "Staradarozhski Rayon",
+          "lat": 53,
+          "lng": 28.16667
+        },
+        {
+          "name": "Starobin",
+          "lat": 52.7267,
+          "lng": 27.4606
+        },
+        {
+          "name": "Staryya Darohi",
+          "lat": 53.0402,
+          "lng": 28.267
+        },
+        {
+          "name": "Stawbtsowski Rayon",
+          "lat": 53.58333,
+          "lng": 26.66667
+        },
+        {
+          "name": "Stowbtsy",
+          "lat": 53.4785,
+          "lng": 26.7434
+        },
+        {
+          "name": "Svir",
+          "lat": 54.8517,
+          "lng": 26.395
+        },
+        {
+          "name": "Svislach",
+          "lat": 53.6404,
+          "lng": 27.9199
+        },
+        {
+          "name": "Syenitsa",
+          "lat": 53.8313,
+          "lng": 27.5343
+        },
+        {
+          "name": "Syomkava",
+          "lat": 54.0101,
+          "lng": 27.441
+        },
+        {
+          "name": "Tsimkavichy",
+          "lat": 53.0672,
+          "lng": 26.9902
+        },
+        {
+          "name": "Turets-Bayary",
+          "lat": 54.3785,
+          "lng": 26.6581
+        },
+        {
+          "name": "Urechcha",
+          "lat": 52.9479,
+          "lng": 27.893
+        },
+        {
+          "name": "Usiazh",
+          "lat": 54.07598,
+          "lng": 28.00698
+        },
+        {
+          "name": "Uzda",
+          "lat": 53.4627,
+          "lng": 27.2137
+        },
+        {
+          "name": "Uzdzyenski Rayon",
+          "lat": 53.41667,
+          "lng": 27.33333
+        },
+        {
+          "name": "Valozhyn",
+          "lat": 54.0892,
+          "lng": 26.5266
+        },
+        {
+          "name": "Vilyeyka",
+          "lat": 54.4914,
+          "lng": 26.9111
+        },
+        {
+          "name": "Vilyeyski Rayon",
+          "lat": 54.5,
+          "lng": 27.08333
+        },
+        {
+          "name": "Vyaliki Trastsyanets",
+          "lat": 53.851,
+          "lng": 27.7139
+        },
+        {
+          "name": "Yubilyeyny",
+          "lat": 53.8191,
+          "lng": 27.5215
+        },
+        {
+          "name": "Zamostochye",
+          "lat": 53.8198,
+          "lng": 27.8685
+        },
+        {
+          "name": "Zaslawye",
+          "lat": 54.0114,
+          "lng": 27.2695
+        },
+        {
+          "name": "Zhdanovichy",
+          "lat": 53.9432,
+          "lng": 27.425
+        },
+        {
+          "name": "Zyembin",
+          "lat": 54.3579,
+          "lng": 28.2207
+        },
+        {
+          "name": "Октябрьский",
+          "lat": 54.04059,
+          "lng": 28.19813
+        }
+      ]
+    },
+    {
+      "name": "Minsk",
+      "lat": 53.9024716,
+      "lng": 27.5618225,
+      "districts": [
+        {
+          "name": "Minsk",
+          "lat": 53.9,
+          "lng": 27.56667,
+          "iscapital": true
+        },
+        {
+          "name": "Frunzyenski Rayon",
+          "lat": 53.90056,
+          "lng": 27.495
+        },
+        {
+          "name": "Kastrychnitski Rayon",
+          "lat": 53.85667,
+          "lng": 27.54139
+        },
+        {
+          "name": "Lyeninski Rayon",
+          "lat": 53.85944,
+          "lng": 27.58778
+        },
+        {
+          "name": "Maskowski Rayon",
+          "lat": 53.87417,
+          "lng": 27.50278
+        },
+        {
+          "name": "Partyzanski Rayon",
+          "lat": 53.88028,
+          "lng": 27.67
+        },
+        {
+          "name": "Savyetski Rayon",
+          "lat": 53.91778,
+          "lng": 27.59417
+        },
+        {
+          "name": "Tsentral’ny Rayon",
+          "lat": 53.91778,
+          "lng": 27.56333
+        },
+        {
+          "name": "Zavodski Rayon",
+          "lat": 53.86194,
+          "lng": 27.66222
+        }
+      ]
+    },
+    {
+      "name": "Mogilev",
+      "lat": 53.9090245,
+      "lng": 30.3429838,
+      "districts": [
+        {
+          "name": "Babruysk",
+          "lat": 53.1384,
+          "lng": 29.2214
+        },
+        {
+          "name": "Asipovichy",
+          "lat": 53.3011,
+          "lng": 28.6386
+        },
+        {
+          "name": "Asipovitski Rayon",
+          "lat": 53.33333,
+          "lng": 28.75
+        },
+        {
+          "name": "Babruyski Rayon",
+          "lat": 53.08333,
+          "lng": 29.16667
+        },
+        {
+          "name": "Buynichy",
+          "lat": 53.8536,
+          "lng": 30.2671
+        },
+        {
+          "name": "Byalynichy",
+          "lat": 53.9994,
+          "lng": 29.7141
+        },
+        {
+          "name": "Byalynitski Rayon",
+          "lat": 54,
+          "lng": 29.75
+        },
+        {
+          "name": "Bykhaw",
+          "lat": 53.521,
+          "lng": 30.2454
+        },
+        {
+          "name": "Chavuski Rayon",
+          "lat": 53.83333,
+          "lng": 30.91667
+        },
+        {
+          "name": "Chavusy",
+          "lat": 53.8098,
+          "lng": 30.9717
+        },
+        {
+          "name": "Cherykaw",
+          "lat": 53.5689,
+          "lng": 31.3831
+        },
+        {
+          "name": "Cherykawski Rayon",
+          "lat": 53.66667,
+          "lng": 31.33333
+        },
+        {
+          "name": "Dashkawka",
+          "lat": 53.7352,
+          "lng": 30.2625
+        },
+        {
+          "name": "Drybin",
+          "lat": 54.1192,
+          "lng": 31.0939
+        },
+        {
+          "name": "Drybinski Rayon",
+          "lat": 54.08333,
+          "lng": 31
+        },
+        {
+          "name": "Hlusha",
+          "lat": 53.0868,
+          "lng": 28.8567
+        },
+        {
+          "name": "Hlusk",
+          "lat": 52.903,
+          "lng": 28.6845
+        },
+        {
+          "name": "Horatski Rayon",
+          "lat": 54.33333,
+          "lng": 31
+        },
+        {
+          "name": "Horki",
+          "lat": 54.2862,
+          "lng": 30.9863
+        },
+        {
+          "name": "Kadino",
+          "lat": 53.88389,
+          "lng": 30.52028
+        },
+        {
+          "name": "Kamyennyya Lavy",
+          "lat": 54.0898,
+          "lng": 30.2962
+        },
+        {
+          "name": "Kastsyukovichy",
+          "lat": 53.3525,
+          "lng": 32.0514
+        },
+        {
+          "name": "Khodasy",
+          "lat": 53.9266,
+          "lng": 31.4779
+        },
+        {
+          "name": "Khotsimsk",
+          "lat": 53.4086,
+          "lng": 32.578
+        },
+        {
+          "name": "Khotsimski Rayon",
+          "lat": 53.41667,
+          "lng": 32.5
+        },
+        {
+          "name": "Kirawsk",
+          "lat": 53.2693,
+          "lng": 29.4752
+        },
+        {
+          "name": "Klichaw",
+          "lat": 53.4923,
+          "lng": 29.3356
+        },
+        {
+          "name": "Klimavichy",
+          "lat": 53.6079,
+          "lng": 31.9586
+        },
+        {
+          "name": "Krasnapol’ski Rayon",
+          "lat": 53.33333,
+          "lng": 31.41667
+        },
+        {
+          "name": "Krasnapollye",
+          "lat": 53.3353,
+          "lng": 31.3999
+        },
+        {
+          "name": "Krasnyy Bereg",
+          "lat": 53.3291,
+          "lng": 30.1929
+        },
+        {
+          "name": "Kruhlaye",
+          "lat": 54.2497,
+          "lng": 29.7968
+        },
+        {
+          "name": "Krychaw",
+          "lat": 53.7125,
+          "lng": 31.717
+        },
+        {
+          "name": "Mahilyow",
+          "lat": 53.9168,
+          "lng": 30.3449
+        },
+        {
+          "name": "Mahilyowski Rayon",
+          "lat": 53.83333,
+          "lng": 30.25
+        },
+        {
+          "name": "Mstsislaw",
+          "lat": 54.0185,
+          "lng": 31.7217
+        },
+        {
+          "name": "Myazhysyatki",
+          "lat": 53.7776,
+          "lng": 30.1765
+        },
+        {
+          "name": "Myshkavichy",
+          "lat": 53.2172,
+          "lng": 29.512
+        },
+        {
+          "name": "Palykavichy Pyershyya",
+          "lat": 53.9854,
+          "lng": 30.36
+        },
+        {
+          "name": "Posëlok Voskhod",
+          "lat": 53.7766,
+          "lng": 30.3497
+        },
+        {
+          "name": "Ramanavichy",
+          "lat": 53.8653,
+          "lng": 30.5597
+        },
+        {
+          "name": "Shklow",
+          "lat": 54.2131,
+          "lng": 30.2877
+        },
+        {
+          "name": "Shklowski Rayon",
+          "lat": 54.16667,
+          "lng": 30.33333
+        },
+        {
+          "name": "Slawharad",
+          "lat": 53.4429,
+          "lng": 31.0014
+        },
+        {
+          "name": "Veyno",
+          "lat": 53.83333,
+          "lng": 30.38333
+        },
+        {
+          "name": "Vishow",
+          "lat": 53.9805,
+          "lng": 29.9925
+        },
+        {
+          "name": "Yalizava",
+          "lat": 53.3994,
+          "lng": 29.0048
+        }
+      ]
+    },
+    {
+      "name": "Vitebsk",
+      "lat": 55.2381972,
+      "lng": 28.7742203,
+      "districts": [
+        {
+          "name": "Orsha",
+          "lat": 54.5081,
+          "lng": 30.4172
+        },
+        {
+          "name": "Vitebsk",
+          "lat": 55.1904,
+          "lng": 30.2049
+        },
+        {
+          "name": "Balbasava",
+          "lat": 54.4207,
+          "lng": 30.2909
+        },
+        {
+          "name": "Baran’",
+          "lat": 54.4784,
+          "lng": 30.3159
+        },
+        {
+          "name": "Braslaw",
+          "lat": 55.6413,
+          "lng": 27.0418
+        },
+        {
+          "name": "Braslawski Rayon",
+          "lat": 55.55972,
+          "lng": 27
+        },
+        {
+          "name": "Byahoml’",
+          "lat": 54.7316,
+          "lng": 28.0577
+        },
+        {
+          "name": "Byeshankovitski Rayon",
+          "lat": 55,
+          "lng": 29.5
+        },
+        {
+          "name": "Chashniki",
+          "lat": 54.8584,
+          "lng": 29.1608
+        },
+        {
+          "name": "Chashnitski Rayon",
+          "lat": 54.75,
+          "lng": 29.25
+        },
+        {
+          "name": "Dokshytski Rayon",
+          "lat": 54.83333,
+          "lng": 27.91667
+        },
+        {
+          "name": "Dokshytsy",
+          "lat": 54.8918,
+          "lng": 27.7667
+        },
+        {
+          "name": "Druya",
+          "lat": 55.7906,
+          "lng": 27.4505
+        },
+        {
+          "name": "Dubrowna",
+          "lat": 54.5716,
+          "lng": 30.691
+        },
+        {
+          "name": "Dzisna",
+          "lat": 55.5676,
+          "lng": 28.2076
+        },
+        {
+          "name": "Haradok",
+          "lat": 55.4624,
+          "lng": 29.9845
+        },
+        {
+          "name": "Haradotski Rayon",
+          "lat": 55.66667,
+          "lng": 30.16667
+        },
+        {
+          "name": "Hlybokaye",
+          "lat": 55.1384,
+          "lng": 27.6905
+        },
+        {
+          "name": "Hlybotski Rayon",
+          "lat": 55.16667,
+          "lng": 27.83333
+        },
+        {
+          "name": "Kokhanava",
+          "lat": 54.4611,
+          "lng": 30.0018
+        },
+        {
+          "name": "Konstantinovo",
+          "lat": 54.6593,
+          "lng": 29.2684
+        },
+        {
+          "name": "Lyepyel’",
+          "lat": 54.8814,
+          "lng": 28.699
+        },
+        {
+          "name": "Lyepyel’ski Rayon",
+          "lat": 54.83333,
+          "lng": 28.66667
+        },
+        {
+          "name": "Lyntupy",
+          "lat": 55.0516,
+          "lng": 26.3103
+        },
+        {
+          "name": "Lyozna",
+          "lat": 55.0247,
+          "lng": 30.797
+        },
+        {
+          "name": "Lyoznyenski Rayon",
+          "lat": 55,
+          "lng": 30.66667
+        },
+        {
+          "name": "Mosar",
+          "lat": 55.2232,
+          "lng": 27.4609
+        },
+        {
+          "name": "Myorski Rayon",
+          "lat": 55.58333,
+          "lng": 27.83333
+        },
+        {
+          "name": "Myory",
+          "lat": 55.6222,
+          "lng": 27.6281
+        },
+        {
+          "name": "Navapolatsk",
+          "lat": 55.5318,
+          "lng": 28.5987
+        },
+        {
+          "name": "Novolukoml’",
+          "lat": 54.66192,
+          "lng": 29.15016
+        },
+        {
+          "name": "Osveya",
+          "lat": 56.0147,
+          "lng": 28.11049
+        },
+        {
+          "name": "Pastavy",
+          "lat": 55.11676,
+          "lng": 26.83263
+        },
+        {
+          "name": "Pastawski Rayon",
+          "lat": 55.08333,
+          "lng": 26.91667
+        },
+        {
+          "name": "Polatsk",
+          "lat": 55.4879,
+          "lng": 28.7856
+        },
+        {
+          "name": "Polatski Rayon",
+          "lat": 55.58333,
+          "lng": 29
+        },
+        {
+          "name": "Rasonski Rayon",
+          "lat": 55.83333,
+          "lng": 28.91667
+        },
+        {
+          "name": "Rasony",
+          "lat": 55.9058,
+          "lng": 28.8135
+        },
+        {
+          "name": "Sharkawshchyna",
+          "lat": 55.3689,
+          "lng": 27.4686
+        },
+        {
+          "name": "Sharkawshchynski Rayon",
+          "lat": 55.41667,
+          "lng": 27.41667
+        },
+        {
+          "name": "Shumilinski Rayon",
+          "lat": 55.33333,
+          "lng": 29.5
+        },
+        {
+          "name": "Syanno",
+          "lat": 54.8108,
+          "lng": 29.7086
+        },
+        {
+          "name": "Syennyenski Rayon",
+          "lat": 54.83333,
+          "lng": 29.83333
+        },
+        {
+          "name": "Talachyn",
+          "lat": 54.4087,
+          "lng": 29.6955
+        },
+        {
+          "name": "Ushachy",
+          "lat": 55.179,
+          "lng": 28.6158
+        },
+        {
+          "name": "Vidzy",
+          "lat": 55.3945,
+          "lng": 26.6305
+        },
+        {
+          "name": "Vyerkhnyadzvinsk",
+          "lat": 55.7777,
+          "lng": 27.9389
+        },
+        {
+          "name": "Vyerkhnyadzvinski Rayon",
+          "lat": 55.75,
+          "lng": 28.16667
+        }
+      ]
+    }
+  ]
+}

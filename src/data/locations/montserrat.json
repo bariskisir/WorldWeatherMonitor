@@ -1,0 +1,25 @@
+{
+  "name": "Montserrat",
+  "lat": 16.75,
+  "lng": -62.2,
+  "cities": [
+    {
+      "name": "Saint Anthony",
+      "lat": 16.7056245,
+      "lng": -62.1855304,
+      "districts": []
+    },
+    {
+      "name": "Saint Georges",
+      "lat": 16.7484755,
+      "lng": -62.1907472,
+      "districts": []
+    },
+    {
+      "name": "Saint Peter",
+      "lat": 16.7765981,
+      "lng": -62.2000786,
+      "districts": []
+    }
+  ]
+}

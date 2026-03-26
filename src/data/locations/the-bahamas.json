@@ -1,0 +1,324 @@
+{
+  "name": "The Bahamas",
+  "lat": 24.25,
+  "lng": -76,
+  "cities": [
+    {
+      "name": "Acklins",
+      "lat": 22.4145,
+      "lng": -74.0606831,
+      "districts": []
+    },
+    {
+      "name": "Berry Islands",
+      "lat": 25.5905,
+      "lng": -77.7261006,
+      "districts": []
+    },
+    {
+      "name": "Bimini",
+      "lat": 25.7032538,
+      "lng": -79.2733449,
+      "districts": [
+        {
+          "name": "Alice Town",
+          "lat": 25.728,
+          "lng": -79.29721
+        }
+      ]
+    },
+    {
+      "name": "Black Point",
+      "lat": 24.0962598,
+      "lng": -76.4022591,
+      "districts": []
+    },
+    {
+      "name": "Cat Island",
+      "lat": 24.3385,
+      "lng": -75.6149932,
+      "districts": [
+        {
+          "name": "Arthur’s Town",
+          "lat": 24.6224,
+          "lng": -75.67151
+        }
+      ]
+    },
+    {
+      "name": "Central Abaco",
+      "lat": 26.5255105,
+      "lng": -77.2838118,
+      "districts": [
+        {
+          "name": "Marsh Harbour",
+          "lat": 26.54124,
+          "lng": -77.0636
+        }
+      ]
+    },
+    {
+      "name": "Central Andros",
+      "lat": 24.4343749,
+      "lng": -77.7934077,
+      "districts": []
+    },
+    {
+      "name": "Central Eleuthera",
+      "lat": 25.239,
+      "lng": -76.3291621,
+      "districts": []
+    },
+    {
+      "name": "Crooked Island",
+      "lat": 22.7486959,
+      "lng": -74.2386163,
+      "districts": [
+        {
+          "name": "Colonel Hill",
+          "lat": 22.7545,
+          "lng": -74.20415
+        }
+      ]
+    },
+    {
+      "name": "East Grand Bahama",
+      "lat": 26.6772229,
+      "lng": -78.0134521,
+      "districts": [
+        {
+          "name": "High Rock",
+          "lat": 26.60999,
+          "lng": -78.27863
+        }
+      ]
+    },
+    {
+      "name": "Exuma",
+      "lat": 23.9685,
+      "lng": -76.1799049,
+      "districts": [
+        {
+          "name": "George Town",
+          "lat": 23.51616,
+          "lng": -75.78665
+        }
+      ]
+    },
+    {
+      "name": "Freeport",
+      "lat": 26.535681,
+      "lng": -78.6953623,
+      "districts": [
+        {
+          "name": "Freeport",
+          "lat": 26.53333,
+          "lng": -78.7
+        },
+        {
+          "name": "Lucaya",
+          "lat": 26.53333,
+          "lng": -78.66667
+        }
+      ]
+    },
+    {
+      "name": "Grand Cay",
+      "lat": 27.2287191,
+      "lng": -78.3324366,
+      "districts": []
+    },
+    {
+      "name": "Harbour Island",
+      "lat": 25.50011,
+      "lng": -76.6340511,
+      "districts": [
+        {
+          "name": "Dunmore Town",
+          "lat": 25.50216,
+          "lng": -76.63633
+        }
+      ]
+    },
+    {
+      "name": "Hope Town",
+      "lat": 26.5407116,
+      "lng": -76.9594379,
+      "districts": []
+    },
+    {
+      "name": "Inagua",
+      "lat": 21.2325,
+      "lng": -73.3096213,
+      "districts": [
+        {
+          "name": "Matthew Town",
+          "lat": 20.94982,
+          "lng": -73.67346
+        }
+      ]
+    },
+    {
+      "name": "Long Island",
+      "lat": 23.303,
+      "lng": -75.1058782,
+      "districts": [
+        {
+          "name": "Clarence Town",
+          "lat": 23.1,
+          "lng": -74.98333
+        }
+      ]
+    },
+    {
+      "name": "Mangrove Cay",
+      "lat": 24.2188205,
+      "lng": -77.7176145,
+      "districts": []
+    },
+    {
+      "name": "Mayaguana",
+      "lat": 22.3698426,
+      "lng": -72.8876816,
+      "districts": [
+        {
+          "name": "Abraham’s Bay",
+          "lat": 22.36667,
+          "lng": -72.96667
+        }
+      ]
+    },
+    {
+      "name": "Moore's Island",
+      "lat": 25.866667,
+      "lng": -77.966667,
+      "districts": []
+    },
+    {
+      "name": "New Providence",
+      "lat": 25.1943588,
+      "lng": -77.2953297,
+      "districts": [
+        {
+          "name": "Nassau",
+          "lat": 25.06666667,
+          "lng": -77.33333333,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "North Abaco",
+      "lat": 26.9383943,
+      "lng": -77.6838221,
+      "districts": [
+        {
+          "name": "Cooper’s Town",
+          "lat": 26.87137,
+          "lng": -77.51131
+        }
+      ]
+    },
+    {
+      "name": "North Andros",
+      "lat": 24.8875,
+      "lng": -78.0811619,
+      "districts": [
+        {
+          "name": "Andros Town",
+          "lat": 24.70502,
+          "lng": -77.76912
+        },
+        {
+          "name": "San Andros",
+          "lat": 25.06667,
+          "lng": -78.05
+        }
+      ]
+    },
+    {
+      "name": "North Eleuthera",
+      "lat": 25.3776694,
+      "lng": -76.7842655,
+      "districts": []
+    },
+    {
+      "name": "Ragged Island",
+      "lat": 22.4765594,
+      "lng": -75.8020934,
+      "districts": [
+        {
+          "name": "Duncan Town",
+          "lat": 22.19083,
+          "lng": -75.72583
+        }
+      ]
+    },
+    {
+      "name": "Rum Cay",
+      "lat": 23.8263065,
+      "lng": -74.9326829,
+      "districts": [
+        {
+          "name": "Port Nelson",
+          "lat": 23.64967,
+          "lng": -74.84157
+        }
+      ]
+    },
+    {
+      "name": "San Salvador Island",
+      "lat": 24.0343816,
+      "lng": -74.4851373,
+      "districts": [
+        {
+          "name": "Cockburn Town",
+          "lat": 24.05179,
+          "lng": -74.53138
+        }
+      ]
+    },
+    {
+      "name": "South Abaco",
+      "lat": 26.004,
+      "lng": -77.3567072,
+      "districts": []
+    },
+    {
+      "name": "South Andros",
+      "lat": 23.8985,
+      "lng": -77.4565404,
+      "districts": []
+    },
+    {
+      "name": "South Eleuthera",
+      "lat": 24.7310794,
+      "lng": -76.2926928,
+      "districts": []
+    },
+    {
+      "name": "Spanish Wells",
+      "lat": 25.5402336,
+      "lng": -76.9606233,
+      "districts": [
+        {
+          "name": "Spanish Wells",
+          "lat": 25.54717,
+          "lng": -76.76405
+        }
+      ]
+    },
+    {
+      "name": "West Grand Bahama",
+      "lat": 26.744,
+      "lng": -78.8788685,
+      "districts": [
+        {
+          "name": "West End",
+          "lat": 26.68711,
+          "lng": -78.97702
+        }
+      ]
+    }
+  ]
+}

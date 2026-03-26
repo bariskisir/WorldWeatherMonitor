@@ -1,0 +1,531 @@
+{
+  "name": "Guinea",
+  "lat": 11,
+  "lng": -10,
+  "cities": [
+    {
+      "name": "Beyla",
+      "lat": 8.909432,
+      "lng": -8.3674755,
+      "districts": []
+    },
+    {
+      "name": "Boffa",
+      "lat": 10.1808254,
+      "lng": -14.0391615,
+      "districts": []
+    },
+    {
+      "name": "Boké",
+      "lat": 11.3406898,
+      "lng": -13.9440724,
+      "districts": [
+        {
+          "name": "Boke Prefecture",
+          "lat": 11.08333,
+          "lng": -14.41667
+        },
+        {
+          "name": "Gaoual Prefecture",
+          "lat": 11.7243435,
+          "lng": -13.2477875
+        },
+        {
+          "name": "Koundara Prefecture",
+          "lat": 12.41667,
+          "lng": -13.16667
+        },
+        {
+          "name": "Boffa",
+          "lat": 10.33333,
+          "lng": -14.16667
+        },
+        {
+          "name": "Boké",
+          "lat": 10.93217,
+          "lng": -14.29055
+        },
+        {
+          "name": "Fria",
+          "lat": 10.41667,
+          "lng": -13.58333
+        },
+        {
+          "name": "Gaoual",
+          "lat": 11.754096,
+          "lng": -13.200333
+        },
+        {
+          "name": "Kimbo",
+          "lat": 10.4,
+          "lng": -13.55
+        },
+        {
+          "name": "Koundara",
+          "lat": 12.48333,
+          "lng": -13.3
+        },
+        {
+          "name": "Sanguéya",
+          "lat": 10.7,
+          "lng": -14.36667
+        },
+        {
+          "name": "Youkounkoun",
+          "lat": 12.5311,
+          "lng": -13.1224
+        }
+      ]
+    },
+    {
+      "name": "Boké",
+      "lat": 11.3406898,
+      "lng": -13.9440724,
+      "districts": []
+    },
+    {
+      "name": "Conakry",
+      "lat": 9.5170602,
+      "lng": -13.6998434,
+      "districts": [
+        {
+          "name": "Camayenne",
+          "lat": 9.535,
+          "lng": -13.68778
+        },
+        {
+          "name": "Conakry",
+          "lat": 9.53795,
+          "lng": -13.67729,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Coyah",
+      "lat": 9.709041,
+      "lng": -13.388956,
+      "districts": []
+    },
+    {
+      "name": "Dabola",
+      "lat": 10.742172,
+      "lng": -11.106486,
+      "districts": []
+    },
+    {
+      "name": "Dalaba",
+      "lat": 10.6868176,
+      "lng": -12.2490697,
+      "districts": []
+    },
+    {
+      "name": "Dinguiraye",
+      "lat": 11.5325439,
+      "lng": -10.6727268,
+      "districts": []
+    },
+    {
+      "name": "Dubréka",
+      "lat": 9.7907348,
+      "lng": -13.5147735,
+      "districts": []
+    },
+    {
+      "name": "Faranah",
+      "lat": 10.3143203,
+      "lng": -10.890097,
+      "districts": []
+    },
+    {
+      "name": "Faranah",
+      "lat": 10.042493,
+      "lng": -10.740824,
+      "districts": []
+    },
+    {
+      "name": "Forécariah",
+      "lat": 9.4300088,
+      "lng": -13.0833859,
+      "districts": []
+    },
+    {
+      "name": "Fria",
+      "lat": 10.3674543,
+      "lng": -13.5841871,
+      "districts": []
+    },
+    {
+      "name": "Gaoual",
+      "lat": 11.7243435,
+      "lng": -13.2477875,
+      "districts": []
+    },
+    {
+      "name": "Guéckédou",
+      "lat": 8.5649688,
+      "lng": -10.1311163,
+      "districts": []
+    },
+    {
+      "name": "Kankan",
+      "lat": 10.3835169,
+      "lng": -9.3069354,
+      "districts": []
+    },
+    {
+      "name": "Kankan",
+      "lat": 10.3835169,
+      "lng": -9.3069354,
+      "districts": [
+        {
+          "name": "Kankan",
+          "lat": 10.38542,
+          "lng": -9.30568
+        },
+        {
+          "name": "Kankan Prefecture",
+          "lat": 10.271,
+          "lng": -9.178
+        },
+        {
+          "name": "Kerouane Prefecture",
+          "lat": 9.16667,
+          "lng": -9.08333
+        },
+        {
+          "name": "Mandiana Prefecture",
+          "lat": 10.658,
+          "lng": -8.615
+        },
+        {
+          "name": "Siguiri",
+          "lat": 11.42282,
+          "lng": -9.16852
+        },
+        {
+          "name": "Siguiri Prefecture",
+          "lat": 11.66667,
+          "lng": -9.5
+        },
+        {
+          "name": "Kérouané",
+          "lat": 9.26667,
+          "lng": -9.01667
+        },
+        {
+          "name": "Kouroussa",
+          "lat": 10.66667,
+          "lng": -9.91667
+        },
+        {
+          "name": "Mandiana",
+          "lat": 10.62577,
+          "lng": -8.69413
+        },
+        {
+          "name": "Tokonou",
+          "lat": 9.65,
+          "lng": -9.78333
+        }
+      ]
+    },
+    {
+      "name": "Kérouané",
+      "lat": 9.2705687,
+      "lng": -9.0076196,
+      "districts": []
+    },
+    {
+      "name": "Kindia",
+      "lat": 10.0368,
+      "lng": -12.8260215,
+      "districts": [
+        {
+          "name": "Coyah",
+          "lat": 9.75,
+          "lng": -13.41667
+        },
+        {
+          "name": "Dubréka",
+          "lat": 9.79111,
+          "lng": -13.52333
+        },
+        {
+          "name": "Kindia",
+          "lat": 10.08333,
+          "lng": -12.8
+        },
+        {
+          "name": "Telimele Prefecture",
+          "lat": 10.91667,
+          "lng": -13.33333
+        },
+        {
+          "name": "Forécariah",
+          "lat": 9.43056,
+          "lng": -13.08806
+        },
+        {
+          "name": "Préfecture de Dubréka",
+          "lat": 10.25,
+          "lng": -13.41667
+        },
+        {
+          "name": "Préfecture de Forécariah",
+          "lat": 9.43333,
+          "lng": -13.1
+        },
+        {
+          "name": "Télimélé",
+          "lat": 10.9,
+          "lng": -13.03333
+        },
+        {
+          "name": "Tondon",
+          "lat": 10.36667,
+          "lng": -13.35
+        }
+      ]
+    },
+    {
+      "name": "Kindia",
+      "lat": 10.0368,
+      "lng": -12.8260215,
+      "districts": []
+    },
+    {
+      "name": "Kissidougou",
+      "lat": 9.192389,
+      "lng": -10.098269,
+      "districts": []
+    },
+    {
+      "name": "Koubia",
+      "lat": 11.582354,
+      "lng": -11.8920237,
+      "districts": []
+    },
+    {
+      "name": "Koundara",
+      "lat": 12.485154,
+      "lng": -13.298509,
+      "districts": []
+    },
+    {
+      "name": "Kouroussa",
+      "lat": 10.6489229,
+      "lng": -9.8850586,
+      "districts": []
+    },
+    {
+      "name": "Labé",
+      "lat": 11.3541939,
+      "lng": -12.3463875,
+      "districts": []
+    },
+    {
+      "name": "Labé",
+      "lat": 11.3232042,
+      "lng": -12.2891314,
+      "districts": [
+        {
+          "name": "Labé",
+          "lat": 11.31823,
+          "lng": -12.28332
+        },
+        {
+          "name": "Labe Prefecture",
+          "lat": 11.366,
+          "lng": -12.3
+        },
+        {
+          "name": "Lelouma Prefecture",
+          "lat": 11.41667,
+          "lng": -12.66667
+        },
+        {
+          "name": "Mali Prefecture",
+          "lat": 12.08333,
+          "lng": -12.08333
+        },
+        {
+          "name": "Tougue Prefecture",
+          "lat": 11.46667,
+          "lng": -11.6
+        },
+        {
+          "name": "Koubia",
+          "lat": 11.58333,
+          "lng": -11.83333
+        },
+        {
+          "name": "Lélouma",
+          "lat": 11.42383,
+          "lng": -12.68183
+        },
+        {
+          "name": "Mali",
+          "lat": 12.079,
+          "lng": -12.2982
+        },
+        {
+          "name": "Tougué",
+          "lat": 11.44503,
+          "lng": -11.66422
+        }
+      ]
+    },
+    {
+      "name": "Lélouma",
+      "lat": 11.4257233,
+      "lng": -12.6828521,
+      "districts": []
+    },
+    {
+      "name": "Lola",
+      "lat": 8.0166961,
+      "lng": -8.3078426,
+      "districts": []
+    },
+    {
+      "name": "Macenta",
+      "lat": 8.2948292,
+      "lng": -9.2094463,
+      "districts": []
+    },
+    {
+      "name": "Mali",
+      "lat": 12.0420493,
+      "lng": -12.2623061,
+      "districts": []
+    },
+    {
+      "name": "Mamou",
+      "lat": 10.6619269,
+      "lng": -12.1139542,
+      "districts": [
+        {
+          "name": "Mamou Prefecture",
+          "lat": 10.459,
+          "lng": -11.815
+        },
+        {
+          "name": "Pita",
+          "lat": 10.83333,
+          "lng": -12.58333
+        },
+        {
+          "name": "Dalaba",
+          "lat": 10.75,
+          "lng": -12.3
+        },
+        {
+          "name": "Mamou",
+          "lat": 10.37546,
+          "lng": -12.09148
+        }
+      ]
+    },
+    {
+      "name": "Mamou",
+      "lat": 10.6619269,
+      "lng": -12.1139542,
+      "districts": []
+    },
+    {
+      "name": "Mandiana",
+      "lat": 10.6172827,
+      "lng": -8.6985716,
+      "districts": []
+    },
+    {
+      "name": "Nzérékoré",
+      "lat": 7.8932884,
+      "lng": -8.8812922,
+      "districts": [
+        {
+          "name": "Beyla Prefecture",
+          "lat": 8.91667,
+          "lng": -8.41667
+        },
+        {
+          "name": "Nzérékoré",
+          "lat": 7.75624,
+          "lng": -8.8179
+        },
+        {
+          "name": "Nzerekore Prefecture",
+          "lat": 7.945,
+          "lng": -8.783
+        },
+        {
+          "name": "Beyla",
+          "lat": 8.69011,
+          "lng": -8.64869
+        },
+        {
+          "name": "Gueckedou",
+          "lat": 8.56744,
+          "lng": -10.1336
+        },
+        {
+          "name": "Lola",
+          "lat": 7.83333,
+          "lng": -8.33333
+        },
+        {
+          "name": "Macenta",
+          "lat": 8.5,
+          "lng": -9.41667
+        },
+        {
+          "name": "Préfecture de Guékédou",
+          "lat": 8.66667,
+          "lng": -10.25
+        },
+        {
+          "name": "Yomou",
+          "lat": 7.5,
+          "lng": -9.16667
+        }
+      ]
+    },
+    {
+      "name": "Nzérékoré",
+      "lat": 7.8932884,
+      "lng": -8.8812922,
+      "districts": []
+    },
+    {
+      "name": "Pita",
+      "lat": 10.8994295,
+      "lng": -12.636091,
+      "districts": []
+    },
+    {
+      "name": "Siguiri",
+      "lat": 11.4148113,
+      "lng": -9.1788304,
+      "districts": []
+    },
+    {
+      "name": "Télimélé",
+      "lat": 10.9089364,
+      "lng": -13.0299331,
+      "districts": []
+    },
+    {
+      "name": "Tougué",
+      "lat": 11.4394566,
+      "lng": -11.6629484,
+      "districts": []
+    },
+    {
+      "name": "Yomou",
+      "lat": 7.5696279,
+      "lng": -9.2591571,
+      "districts": []
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "Qatar",
+  "lat": 25.5,
+  "lng": 51.25,
+  "cities": [
+    {
+      "name": "Al Daayen",
+      "lat": 25.5097419,
+      "lng": 51.4422699,
+      "districts": []
+    },
+    {
+      "name": "Al Khor",
+      "lat": 25.6804078,
+      "lng": 51.4968502,
+      "districts": [
+        {
+          "name": "Al Ghuwayrīyah",
+          "lat": 25.82882,
+          "lng": 51.24567
+        },
+        {
+          "name": "Al Khawr",
+          "lat": 25.68389,
+          "lng": 51.50583
+        }
+      ]
+    },
+    {
+      "name": "Al Rayyan",
+      "lat": 24.9304741,
+      "lng": 50.9776888,
+      "districts": [
+        {
+          "name": "Ar Rayyān",
+          "lat": 25.29194,
+          "lng": 51.42444
+        },
+        {
+          "name": "Umm Bāb",
+          "lat": 25.21417,
+          "lng": 50.80722
+        }
+      ]
+    },
+    {
+      "name": "Al Wakrah",
+      "lat": 25.1566623,
+      "lng": 51.6013212,
+      "districts": [
+        {
+          "name": "Al Wakrah",
+          "lat": 25.17151,
+          "lng": 51.60337
+        },
+        {
+          "name": "Al Wukayr",
+          "lat": 25.15107,
+          "lng": 51.53718
+        },
+        {
+          "name": "Musay‘īd",
+          "lat": 24.99226,
+          "lng": 51.55067
+        }
+      ]
+    },
+    {
+      "name": "Al-Shahaniya",
+      "lat": 25.3717421,
+      "lng": 51.227109,
+      "districts": [
+        {
+          "name": "Al Jumaylīyah",
+          "lat": 25.61068,
+          "lng": 51.09108
+        },
+        {
+          "name": "Ash Shīḩānīyah",
+          "lat": 25.37088,
+          "lng": 51.22264
+        },
+        {
+          "name": "Dukhān",
+          "lat": 25.42485,
+          "lng": 50.78227
+        }
+      ]
+    },
+    {
+      "name": "Doha",
+      "lat": 25.2854473,
+      "lng": 51.5310398,
+      "districts": [
+        {
+          "name": "Doha",
+          "lat": 25.28545,
+          "lng": 51.53096,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Madinat ash Shamal",
+      "lat": 26.1182743,
+      "lng": 51.2157265,
+      "districts": [
+        {
+          "name": "Ar Ruways",
+          "lat": 26.13978,
+          "lng": 51.21493
+        },
+        {
+          "name": "Fuwayriţ",
+          "lat": 26.02565,
+          "lng": 51.36971
+        },
+        {
+          "name": "Madīnat ash Shamāl",
+          "lat": 26.12933,
+          "lng": 51.2009
+        }
+      ]
+    },
+    {
+      "name": "Umm Salal",
+      "lat": 25.4647654,
+      "lng": 51.3383996,
+      "districts": [
+        {
+          "name": "Umm Şalāl Muḩammad",
+          "lat": 25.41524,
+          "lng": 51.40647
+        }
+      ]
+    }
+  ]
+}
