@@ -1,0 +1,83 @@
+{
+  "name": "Tonga",
+  "lat": -20,
+  "lng": -175,
+  "cities": [
+    {
+      "name": "Haʻapai",
+      "lat": -20.0587404,
+      "lng": -174.6229919,
+      "districts": [
+        {
+          "name": "Pangai",
+          "lat": -19.81468,
+          "lng": -174.35423
+        }
+      ]
+    },
+    {
+      "name": "ʻEua",
+      "lat": -21.3705828,
+      "lng": -174.9388843,
+      "districts": [
+        {
+          "name": "‘Ohonua",
+          "lat": -21.33333,
+          "lng": -174.95
+        }
+      ]
+    },
+    {
+      "name": "Niuas",
+      "lat": -15.9594,
+      "lng": -173.783,
+      "districts": [
+        {
+          "name": "Hihifo",
+          "lat": -15.9544,
+          "lng": -173.79616
+        }
+      ]
+    },
+    {
+      "name": "Tongatapu",
+      "lat": -21.1678253,
+      "lng": -175.2738691,
+      "districts": [
+        {
+          "name": "Nuku‘alofa",
+          "lat": -21.13938,
+          "lng": -175.2018,
+          "iscapital": true
+        },
+        {
+          "name": "Haveluloto",
+          "lat": -21.15216,
+          "lng": -175.21333
+        },
+        {
+          "name": "Kolonga",
+          "lat": -21.13333,
+          "lng": -175.06667
+        },
+        {
+          "name": "Vaini",
+          "lat": -21.19292,
+          "lng": -175.17678
+        }
+      ]
+    },
+    {
+      "name": "Vavaʻu",
+      "lat": -18.6231468,
+      "lng": -174.002138,
+      "districts": [
+        {
+          "name": "Neiafu",
+          "lat": -18.6506,
+          "lng": -173.98404
+        }
+      ]
+    }
+  ]
+}

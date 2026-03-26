@@ -1,0 +1,55 @@
+{
+  "name": "Saint Helena",
+  "lat": -15.95,
+  "lng": -5.7,
+  "cities": [
+    {
+      "name": "Alarm Forest",
+      "lat": -15.9485043,
+      "lng": -5.7028194,
+      "districts": []
+    },
+    {
+      "name": "Blue Hill",
+      "lat": -15.9801303,
+      "lng": -5.7489856,
+      "districts": []
+    },
+    {
+      "name": "Half Tree Hollow",
+      "lat": -15.9346328,
+      "lng": -5.7194732,
+      "districts": []
+    },
+    {
+      "name": "Jamestown",
+      "lat": -15.9288308,
+      "lng": -5.7203338,
+      "districts": []
+    },
+    {
+      "name": "Levelwood",
+      "lat": -15.9743129,
+      "lng": -5.6805785,
+      "districts": []
+    },
+    {
+      "name": "Longwood",
+      "lat": -15.9493288,
+      "lng": -5.6858605,
+      "districts": []
+    },
+    {
+      "name": "Saint Paul's",
+      "lat": -15.9851267,
+      "lng": -5.7380986,
+      "districts": []
+    },
+    {
+      "name": "Sandy Bay",
+      "lat": -16.0060601,
+      "lng": -5.7127075,
+      "districts": []
+    }
+  ]
+}

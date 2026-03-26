@@ -1,0 +1,73 @@
+{
+  "name": "South Sudan",
+  "lat": 7,
+  "lng": 30,
+  "cities": [
+    {
+      "name": "Central Equatoria",
+      "lat": 5,
+      "lng": 31.5,
+      "districts": []
+    },
+    {
+      "name": "Eastern Equatoria",
+      "lat": 5.283932,
+      "lng": 33.5912329,
+      "districts": []
+    },
+    {
+      "name": "Jonglei State",
+      "lat": 8,
+      "lng": 32,
+      "districts": []
+    },
+    {
+      "name": "Lakes",
+      "lat": 6.7526716,
+      "lng": 30.0948429,
+      "districts": [
+        {
+          "name": "Yirol",
+          "lat": 6.5525,
+          "lng": 30.49806
+        }
+      ]
+    },
+    {
+      "name": "Northern Bahr el Ghazal",
+      "lat": 9,
+      "lng": 27,
+      "districts": []
+    },
+    {
+      "name": "Unity",
+      "lat": 8.4582525,
+      "lng": 29.9560547,
+      "districts": []
+    },
+    {
+      "name": "Upper Nile",
+      "lat": 9,
+      "lng": 33,
+      "districts": []
+    },
+    {
+      "name": "Warrap",
+      "lat": 7.9132688,
+      "lng": 28.9588141,
+      "districts": []
+    },
+    {
+      "name": "Western Bahr el Ghazal",
+      "lat": 8.5455555,
+      "lng": 25.2224504,
+      "districts": []
+    },
+    {
+      "name": "Western Equatoria",
+      "lat": 5.5381215,
+      "lng": 29.1495118,
+      "districts": []
+    }
+  ]
+}

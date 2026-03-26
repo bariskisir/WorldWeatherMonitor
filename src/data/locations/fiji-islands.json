@@ -1,0 +1,226 @@
+{
+  "name": "Fiji Islands",
+  "lat": -18,
+  "lng": 175,
+  "cities": [
+    {
+      "name": "Ba",
+      "lat": 36.0613893,
+      "lng": -95.8005872,
+      "districts": []
+    },
+    {
+      "name": "Bua",
+      "lat": 43.0964584,
+      "lng": -89.50088,
+      "districts": []
+    },
+    {
+      "name": "Cakaudrove",
+      "lat": -16.8133648,
+      "lng": 179.2868682,
+      "districts": []
+    },
+    {
+      "name": "Central",
+      "lat": 34.0440066,
+      "lng": -118.2472738,
+      "districts": [
+        {
+          "name": "Suva",
+          "lat": -18.14161,
+          "lng": 178.44149,
+          "iscapital": true
+        },
+        {
+          "name": "Naitasiri",
+          "lat": -17.83333,
+          "lng": 178.25
+        },
+        {
+          "name": "Namosi",
+          "lat": -18.05,
+          "lng": 178.13333
+        },
+        {
+          "name": "Rewa",
+          "lat": -18.08333,
+          "lng": 178.33333
+        },
+        {
+          "name": "Serua",
+          "lat": -18.16667,
+          "lng": 178
+        },
+        {
+          "name": "Tailevu",
+          "lat": -17.83333,
+          "lng": 178.5
+        }
+      ]
+    },
+    {
+      "name": "Eastern",
+      "lat": 32.8094305,
+      "lng": -117.1289937,
+      "districts": [
+        {
+          "name": "Kadavu",
+          "lat": -18.99331,
+          "lng": 178.22021
+        },
+        {
+          "name": "Lau",
+          "lat": -18.20488,
+          "lng": -178.79251
+        },
+        {
+          "name": "Levuka",
+          "lat": -18.06667,
+          "lng": 179.31667
+        },
+        {
+          "name": "Lomaiviti",
+          "lat": -17.66667,
+          "lng": 178.8
+        }
+      ]
+    },
+    {
+      "name": "Kadavu",
+      "lat": -19.0127122,
+      "lng": 178.1876676,
+      "districts": []
+    },
+    {
+      "name": "Lau",
+      "lat": 31.6687015,
+      "lng": -106.3955763,
+      "districts": []
+    },
+    {
+      "name": "Lomaiviti",
+      "lat": -17.709,
+      "lng": 179.091,
+      "districts": []
+    },
+    {
+      "name": "Macuata",
+      "lat": -16.4864922,
+      "lng": 179.2847251,
+      "districts": []
+    },
+    {
+      "name": "Nadroga-Navosa",
+      "lat": -17.9865278,
+      "lng": 177.658113,
+      "districts": []
+    },
+    {
+      "name": "Naitasiri",
+      "lat": -17.8975754,
+      "lng": 178.2071598,
+      "districts": []
+    },
+    {
+      "name": "Namosi",
+      "lat": -18.0864176,
+      "lng": 178.1291387,
+      "districts": []
+    },
+    {
+      "name": "Northern",
+      "lat": -16.8133648,
+      "lng": 179.2868682,
+      "districts": [
+        {
+          "name": "Bua",
+          "lat": -16.83333,
+          "lng": 178.75
+        },
+        {
+          "name": "Cakaudrove",
+          "lat": -16.66667,
+          "lng": 179.41667
+        },
+        {
+          "name": "Labasa",
+          "lat": -16.4332,
+          "lng": 179.36451
+        },
+        {
+          "name": "Macuata",
+          "lat": -16.5,
+          "lng": 179.25
+        }
+      ]
+    },
+    {
+      "name": "Ra",
+      "lat": 37.1003153,
+      "lng": -95.6744246,
+      "districts": []
+    },
+    {
+      "name": "Rewa",
+      "lat": 34.7923517,
+      "lng": -82.3609264,
+      "districts": []
+    },
+    {
+      "name": "Rotuma",
+      "lat": -12.5025069,
+      "lng": 177.0724164,
+      "districts": []
+    },
+    {
+      "name": "Serua",
+      "lat": -18.1804749,
+      "lng": 178.050979,
+      "districts": []
+    },
+    {
+      "name": "Tailevu",
+      "lat": -17.8269111,
+      "lng": 178.293248,
+      "districts": []
+    },
+    {
+      "name": "Western",
+      "lat": 42.9662198,
+      "lng": -78.7021134,
+      "districts": [
+        {
+          "name": "Ba",
+          "lat": -17.5343,
+          "lng": 177.67407
+        },
+        {
+          "name": "Ba Province",
+          "lat": -17.66667,
+          "lng": 177.66667
+        },
+        {
+          "name": "Lautoka",
+          "lat": -17.61686,
+          "lng": 177.45049
+        },
+        {
+          "name": "Nadi",
+          "lat": -17.80309,
+          "lng": 177.41617
+        },
+        {
+          "name": "Nandronga and Navosa",
+          "lat": -18,
+          "lng": 177.66667
+        },
+        {
+          "name": "Ra",
+          "lat": -17.5,
+          "lng": 178.16667
+        }
+      ]
+    }
+  ]
+}

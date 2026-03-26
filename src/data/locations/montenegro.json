@@ -1,0 +1,382 @@
+{
+  "name": "Montenegro",
+  "lat": 42.5,
+  "lng": 19.3,
+  "cities": [
+    {
+      "name": "Andrijevica",
+      "lat": 42.7362477,
+      "lng": 19.7859556,
+      "districts": [
+        {
+          "name": "Andrijevica",
+          "lat": 42.73389,
+          "lng": 19.79194
+        }
+      ]
+    },
+    {
+      "name": "Bar",
+      "lat": 42.0979745,
+      "lng": 19.0954528,
+      "districts": [
+        {
+          "name": "Bar",
+          "lat": 42.09306,
+          "lng": 19.10028
+        },
+        {
+          "name": "Stari Bar",
+          "lat": 42.097,
+          "lng": 19.136
+        },
+        {
+          "name": "Šušanj",
+          "lat": 42.11556,
+          "lng": 19.08833
+        },
+        {
+          "name": "Sutomore",
+          "lat": 42.14278,
+          "lng": 19.04667
+        }
+      ]
+    },
+    {
+      "name": "Berane",
+      "lat": 42.8435792,
+      "lng": 19.8728701,
+      "districts": [
+        {
+          "name": "Berane",
+          "lat": 42.8425,
+          "lng": 19.87333
+        }
+      ]
+    },
+    {
+      "name": "Bijelo Polje",
+      "lat": 43.0341595,
+      "lng": 19.7473559,
+      "districts": [
+        {
+          "name": "Bijelo Polje",
+          "lat": 43.03834,
+          "lng": 19.74758
+        }
+      ]
+    },
+    {
+      "name": "Budva",
+      "lat": 42.2885656,
+      "lng": 18.8419505,
+      "districts": [
+        {
+          "name": "Budva",
+          "lat": 42.28639,
+          "lng": 18.84
+        },
+        {
+          "name": "Petrovac na Moru",
+          "lat": 42.20556,
+          "lng": 18.9425
+        }
+      ]
+    },
+    {
+      "name": "Danilovgrad",
+      "lat": 42.5524049,
+      "lng": 19.1052289,
+      "districts": [
+        {
+          "name": "Danilovgrad",
+          "lat": 42.55384,
+          "lng": 19.14608
+        },
+        {
+          "name": "Spuž",
+          "lat": 42.515,
+          "lng": 19.195
+        }
+      ]
+    },
+    {
+      "name": "Gusinje",
+      "lat": 42.5563455,
+      "lng": 19.8306051,
+      "districts": [
+        {
+          "name": "Gusinje",
+          "lat": 42.56194,
+          "lng": 19.83389
+        }
+      ]
+    },
+    {
+      "name": "Herceg-Novi",
+      "lat": 42.45306,
+      "lng": 18.53722,
+      "districts": [
+        {
+          "name": "Bijela",
+          "lat": 42.44778,
+          "lng": 18.65972
+        },
+        {
+          "name": "Herceg Novi",
+          "lat": 42.45306,
+          "lng": 18.53722
+        },
+        {
+          "name": "Igalo",
+          "lat": 42.45583,
+          "lng": 18.51667
+        },
+        {
+          "name": "Kamenari",
+          "lat": 42.46167,
+          "lng": 18.68806
+        }
+      ]
+    },
+    {
+      "name": "Kolašin",
+      "lat": 42.8238387,
+      "lng": 19.5218005,
+      "districts": [
+        {
+          "name": "Kolašin",
+          "lat": 42.82229,
+          "lng": 19.51653
+        }
+      ]
+    },
+    {
+      "name": "Kotor",
+      "lat": 42.4249205,
+      "lng": 18.7713332,
+      "districts": [
+        {
+          "name": "Dobrota",
+          "lat": 42.45417,
+          "lng": 18.76833
+        },
+        {
+          "name": "Kotor",
+          "lat": 42.42067,
+          "lng": 18.76825
+        },
+        {
+          "name": "Prčanj",
+          "lat": 42.4575,
+          "lng": 18.74222
+        },
+        {
+          "name": "Risan",
+          "lat": 42.515,
+          "lng": 18.69556
+        }
+      ]
+    },
+    {
+      "name": "Mojkovac",
+      "lat": 42.9624908,
+      "lng": 19.5799899,
+      "districts": [
+        {
+          "name": "Mojkovac",
+          "lat": 42.96044,
+          "lng": 19.5833
+        }
+      ]
+    },
+    {
+      "name": "Nikšić",
+      "lat": 42.7739388,
+      "lng": 18.9488097,
+      "districts": [
+        {
+          "name": "Nikšić",
+          "lat": 42.7731,
+          "lng": 18.94446
+        }
+      ]
+    },
+    {
+      "name": "Old Royal Capital Cetinje",
+      "lat": 42.4783057,
+      "lng": 18.8980059,
+      "districts": [
+        {
+          "name": "Cetinje",
+          "lat": 42.39063,
+          "lng": 18.91417
+        }
+      ]
+    },
+    {
+      "name": "Petnjica",
+      "lat": 42.925657,
+      "lng": 19.9829219,
+      "districts": []
+    },
+    {
+      "name": "Plav",
+      "lat": 42.6001337,
+      "lng": 19.9407541,
+      "districts": [
+        {
+          "name": "Plav",
+          "lat": 42.59694,
+          "lng": 19.94556
+        }
+      ]
+    },
+    {
+      "name": "Pljevlja",
+      "lat": 43.3565611,
+      "lng": 19.3584715,
+      "districts": [
+        {
+          "name": "Pljevlja",
+          "lat": 43.3567,
+          "lng": 19.35843
+        }
+      ]
+    },
+    {
+      "name": "Plužine",
+      "lat": 43.1593384,
+      "lng": 18.8551484,
+      "districts": [
+        {
+          "name": "Plužine",
+          "lat": 43.15278,
+          "lng": 18.83944
+        }
+      ]
+    },
+    {
+      "name": "Podgorica",
+      "lat": 42.4415238,
+      "lng": 19.2621081,
+      "districts": [
+        {
+          "name": "Podgorica",
+          "lat": 42.44111,
+          "lng": 19.26361,
+          "iscapital": true
+        },
+        {
+          "name": "Goričani",
+          "lat": 42.33222,
+          "lng": 19.21194
+        },
+        {
+          "name": "Mojanovići",
+          "lat": 42.34167,
+          "lng": 19.22139
+        }
+      ]
+    },
+    {
+      "name": "Rožaje",
+      "lat": 42.8408389,
+      "lng": 20.1670628,
+      "districts": [
+        {
+          "name": "Rožaje",
+          "lat": 42.83299,
+          "lng": 20.16652
+        }
+      ]
+    },
+    {
+      "name": "Šavnik",
+      "lat": 42.957197,
+      "lng": 19.0946043,
+      "districts": [
+        {
+          "name": "Šavnik",
+          "lat": 42.95639,
+          "lng": 19.09667
+        }
+      ]
+    },
+    {
+      "name": "Tivat",
+      "lat": 42.4303762,
+      "lng": 18.6988104,
+      "districts": [
+        {
+          "name": "Tivat",
+          "lat": 42.43639,
+          "lng": 18.69611
+        }
+      ]
+    },
+    {
+      "name": "Tuzi",
+      "lat": 42.36667,
+      "lng": 19.4,
+      "districts": [
+        {
+          "name": "Dinoša",
+          "lat": 42.38333,
+          "lng": 19.38333
+        },
+        {
+          "name": "Mataguži",
+          "lat": 42.35,
+          "lng": 19.41667
+        },
+        {
+          "name": "Tuzi",
+          "lat": 42.36667,
+          "lng": 19.4
+        }
+      ]
+    },
+    {
+      "name": "Ulcinj",
+      "lat": 41.926012,
+      "lng": 19.2055563,
+      "districts": [
+        {
+          "name": "Ulcinj",
+          "lat": 41.92936,
+          "lng": 19.22436
+        }
+      ]
+    },
+    {
+      "name": "Žabljak",
+      "lat": 43.1555152,
+      "lng": 19.1226018,
+      "districts": [
+        {
+          "name": "Žabljak",
+          "lat": 43.15423,
+          "lng": 19.12325
+        }
+      ]
+    },
+    {
+      "name": "Zeta",
+      "lat": 42.4,
+      "lng": 19.25,
+      "districts": [
+        {
+          "name": "Golubovci",
+          "lat": 42.36667,
+          "lng": 19.23333
+        },
+        {
+          "name": "Ponari",
+          "lat": 42.4,
+          "lng": 19.28333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1062 @@
+{
+  "name": "Kenya",
+  "lat": 1,
+  "lng": 38,
+  "cities": [
+    {
+      "name": "Baringo",
+      "lat": 0.71401,
+      "lng": 36.0172739,
+      "districts": [
+        {
+          "name": "Baringo",
+          "lat": 0.46667,
+          "lng": 35.96667
+        },
+        {
+          "name": "Eldama Ravine",
+          "lat": 0.05196,
+          "lng": 35.72734
+        },
+        {
+          "name": "Kabarnet",
+          "lat": 0.49194,
+          "lng": 35.74303
+        }
+      ]
+    },
+    {
+      "name": "Bomet",
+      "lat": -0.7196054,
+      "lng": 35.2399625,
+      "districts": [
+        {
+          "name": "Sotik",
+          "lat": -0.69069,
+          "lng": 35.11102
+        },
+        {
+          "name": "Sotik Post",
+          "lat": -0.78129,
+          "lng": 35.34156
+        }
+      ]
+    },
+    {
+      "name": "Bungoma",
+      "lat": 0.5695252,
+      "lng": 34.5583766,
+      "districts": [
+        {
+          "name": "Bungoma",
+          "lat": 0.5635,
+          "lng": 34.56055
+        },
+        {
+          "name": "Malikisi",
+          "lat": 0.67694,
+          "lng": 34.42167
+        },
+        {
+          "name": "Webuye",
+          "lat": 0.6004,
+          "lng": 34.77119
+        }
+      ]
+    },
+    {
+      "name": "Busia",
+      "lat": 0.3712048,
+      "lng": 34.2647952,
+      "districts": [
+        {
+          "name": "Busia",
+          "lat": 0.46005,
+          "lng": 34.11169
+        },
+        {
+          "name": "Luanda",
+          "lat": 0.31354,
+          "lng": 34.07146
+        },
+        {
+          "name": "Lugulu",
+          "lat": 0.39337,
+          "lng": 34.30399
+        },
+        {
+          "name": "Malaba",
+          "lat": 0.63513,
+          "lng": 34.28165
+        },
+        {
+          "name": "Nambare",
+          "lat": 0.45813,
+          "lng": 34.25353
+        },
+        {
+          "name": "Port Victoria",
+          "lat": 0.09809,
+          "lng": 33.97248
+        }
+      ]
+    },
+    {
+      "name": "Elgeyo-Marakwet",
+      "lat": 0.7422191,
+      "lng": 35.5618083,
+      "districts": [
+        {
+          "name": "Chebiemit",
+          "lat": 1.05,
+          "lng": 35.4
+        },
+        {
+          "name": "Chepkorio",
+          "lat": 0.3833,
+          "lng": 35.45
+        },
+        {
+          "name": "Chesoi",
+          "lat": 1.15,
+          "lng": 35.65
+        },
+        {
+          "name": "Chesongoch",
+          "lat": 1.0833,
+          "lng": 35.65
+        },
+        {
+          "name": "Flax",
+          "lat": 0.45,
+          "lng": 35.4
+        },
+        {
+          "name": "Iten",
+          "lat": 0.6708,
+          "lng": 35.5083
+        },
+        {
+          "name": "Kapcherop",
+          "lat": 1.2333,
+          "lng": 35.3833
+        },
+        {
+          "name": "Kapsait",
+          "lat": 1.2167,
+          "lng": 35.3
+        },
+        {
+          "name": "Kapsowar",
+          "lat": 1.015,
+          "lng": 35.5225
+        },
+        {
+          "name": "Kaptalamwa",
+          "lat": 1.2,
+          "lng": 35.45
+        },
+        {
+          "name": "Kaptarakwa",
+          "lat": 0.4333,
+          "lng": 35.5833
+        },
+        {
+          "name": "Kapyego",
+          "lat": 1.2333,
+          "lng": 35.6667
+        },
+        {
+          "name": "Kipmwarer",
+          "lat": 0.9167,
+          "lng": 35.5333
+        },
+        {
+          "name": "Kocholwo",
+          "lat": 0.4167,
+          "lng": 35.5667
+        },
+        {
+          "name": "Tambach",
+          "lat": 0.7333,
+          "lng": 35.5833
+        }
+      ]
+    },
+    {
+      "name": "Embu",
+      "lat": -0.5359479,
+      "lng": 37.6652884,
+      "districts": [
+        {
+          "name": "Embu",
+          "lat": -0.53987,
+          "lng": 37.45743
+        }
+      ]
+    },
+    {
+      "name": "Garissa",
+      "lat": -0.4532293,
+      "lng": 39.6460988,
+      "districts": [
+        {
+          "name": "Garissa",
+          "lat": -0.45275,
+          "lng": 39.64601
+        }
+      ]
+    },
+    {
+      "name": "Homa Bay",
+      "lat": -0.5639601,
+      "lng": 34.3187819,
+      "districts": [
+        {
+          "name": "Rachuonyo",
+          "lat": -0.44,
+          "lng": 34.739
+        },
+        {
+          "name": "Homa Bay",
+          "lat": -0.52731,
+          "lng": 34.45714
+        },
+        {
+          "name": "Oyugis",
+          "lat": -0.50974,
+          "lng": 34.73067
+        }
+      ]
+    },
+    {
+      "name": "Isiolo",
+      "lat": 1.0060601,
+      "lng": 38.7478954,
+      "districts": [
+        {
+          "name": "Isiolo",
+          "lat": 0.35462,
+          "lng": 37.58218
+        }
+      ]
+    },
+    {
+      "name": "Kajiado",
+      "lat": -2.121717,
+      "lng": 36.786255,
+      "districts": [
+        {
+          "name": "Ngong",
+          "lat": -1.3527,
+          "lng": 36.6699
+        },
+        {
+          "name": "Kajiado",
+          "lat": -1.85238,
+          "lng": 36.77683
+        },
+        {
+          "name": "Magadi",
+          "lat": -1.90122,
+          "lng": 36.287
+        }
+      ]
+    },
+    {
+      "name": "Kakamega",
+      "lat": 0.2833,
+      "lng": 34.75,
+      "districts": [
+        {
+          "name": "Kakamega",
+          "lat": 0.28422,
+          "lng": 34.75229
+        },
+        {
+          "name": "Butere",
+          "lat": 0.20694,
+          "lng": 34.49006
+        },
+        {
+          "name": "Mumias",
+          "lat": 0.33474,
+          "lng": 34.48796
+        }
+      ]
+    },
+    {
+      "name": "Kericho",
+      "lat": -0.3666,
+      "lng": 35.2833,
+      "districts": [
+        {
+          "name": "Kericho",
+          "lat": -0.36774,
+          "lng": 35.28314
+        },
+        {
+          "name": "Kipkelion",
+          "lat": -0.19982,
+          "lng": 35.46735
+        },
+        {
+          "name": "Litein",
+          "lat": -0.58249,
+          "lng": 35.18969
+        },
+        {
+          "name": "Londiani",
+          "lat": -0.16552,
+          "lng": 35.59359
+        }
+      ]
+    },
+    {
+      "name": "Kiambu",
+      "lat": -1.036395,
+      "lng": 36.8431312,
+      "districts": [
+        {
+          "name": "Kiambu",
+          "lat": -1.17139,
+          "lng": 36.83556
+        },
+        {
+          "name": "Kikuyu",
+          "lat": -1.24627,
+          "lng": 36.66291
+        },
+        {
+          "name": "Limuru",
+          "lat": -1.1136,
+          "lng": 36.64205
+        },
+        {
+          "name": "Thika",
+          "lat": -1.03326,
+          "lng": 37.06933
+        }
+      ]
+    },
+    {
+      "name": "Kilifi",
+      "lat": -3.6333,
+      "lng": 39.85,
+      "districts": [
+        {
+          "name": "Malindi",
+          "lat": -3.21799,
+          "lng": 40.11692
+        },
+        {
+          "name": "Iten",
+          "lat": 0.67028,
+          "lng": 35.50806
+        },
+        {
+          "name": "Kapsowar",
+          "lat": 0.9789,
+          "lng": 35.55854
+        },
+        {
+          "name": "Kilifi",
+          "lat": -3.63045,
+          "lng": 39.84992
+        },
+        {
+          "name": "Mariakani",
+          "lat": -3.86261,
+          "lng": 39.47458
+        },
+        {
+          "name": "Takaungu",
+          "lat": -3.6835,
+          "lng": 39.85687
+        }
+      ]
+    },
+    {
+      "name": "Kirinyaga",
+      "lat": -0.468878,
+      "lng": 37.3027681,
+      "districts": [
+        {
+          "name": "Kerugoya",
+          "lat": -0.49887,
+          "lng": 37.28031
+        },
+        {
+          "name": "Sagana",
+          "lat": -0.66806,
+          "lng": 37.20875
+        }
+      ]
+    },
+    {
+      "name": "Kisii",
+      "lat": -0.6694119,
+      "lng": 34.7677944,
+      "districts": [
+        {
+          "name": "Kisii",
+          "lat": -0.68174,
+          "lng": 34.76666
+        },
+        {
+          "name": "Ogembo",
+          "lat": -0.80116,
+          "lng": 34.72579
+        }
+      ]
+    },
+    {
+      "name": "Kisumu",
+      "lat": -0.1029109,
+      "lng": 34.7541761,
+      "districts": [
+        {
+          "name": "Kisumu",
+          "lat": -0.10221,
+          "lng": 34.76171
+        },
+        {
+          "name": "Ahero",
+          "lat": -0.17359,
+          "lng": 34.9189
+        },
+        {
+          "name": "Muhoroni",
+          "lat": -0.15816,
+          "lng": 35.19645
+        }
+      ]
+    },
+    {
+      "name": "Kitui",
+      "lat": -1.5642219,
+      "lng": 38.3728116,
+      "districts": [
+        {
+          "name": "Kitui",
+          "lat": -1.36696,
+          "lng": 38.01055
+        },
+        {
+          "name": "Mwingi",
+          "lat": -0.93605,
+          "lng": 38.05955
+        }
+      ]
+    },
+    {
+      "name": "Kwale",
+      "lat": -4.1836067,
+      "lng": 39.105095,
+      "districts": [
+        {
+          "name": "Gazi",
+          "lat": -4.42402,
+          "lng": 39.50588
+        },
+        {
+          "name": "Kinango",
+          "lat": -4.13723,
+          "lng": 39.31528
+        },
+        {
+          "name": "Kwale",
+          "lat": -4.17375,
+          "lng": 39.45206
+        },
+        {
+          "name": "Sawa Sawa",
+          "lat": -4.47166,
+          "lng": 39.48463
+        },
+        {
+          "name": "Shimoni",
+          "lat": -4.64756,
+          "lng": 39.38175
+        }
+      ]
+    },
+    {
+      "name": "Laikipia",
+      "lat": 0.2858452,
+      "lng": 36.8257711,
+      "districts": [
+        {
+          "name": "Nanyuki",
+          "lat": 0.00624,
+          "lng": 37.07398
+        },
+        {
+          "name": "Nyahururu",
+          "lat": 0.03813,
+          "lng": 36.36339
+        },
+        {
+          "name": "Rumuruti",
+          "lat": 0.2725,
+          "lng": 36.53806
+        }
+      ]
+    },
+    {
+      "name": "Lamu",
+      "lat": -2.0645209,
+      "lng": 40.7280992,
+      "districts": [
+        {
+          "name": "Lamu",
+          "lat": -2.27169,
+          "lng": 40.90201
+        },
+        {
+          "name": "Witu",
+          "lat": -2.38892,
+          "lng": 40.43827
+        }
+      ]
+    },
+    {
+      "name": "Machakos",
+      "lat": -1.5176837,
+      "lng": 37.2634146,
+      "districts": [
+        {
+          "name": "Athi River",
+          "lat": -1.4563,
+          "lng": 36.97826
+        },
+        {
+          "name": "Kangundo",
+          "lat": -1.30342,
+          "lng": 37.34813
+        },
+        {
+          "name": "Konza",
+          "lat": -1.73947,
+          "lng": 37.13195
+        },
+        {
+          "name": "Machakos",
+          "lat": -1.52233,
+          "lng": 37.26521
+        }
+      ]
+    },
+    {
+      "name": "Makueni",
+      "lat": -2.257093,
+      "lng": 37.8771715,
+      "districts": [
+        {
+          "name": "Makueni Boma",
+          "lat": -1.80388,
+          "lng": 37.62405
+        },
+        {
+          "name": "Mtito Andei",
+          "lat": -2.68987,
+          "lng": 38.16687
+        },
+        {
+          "name": "Wote",
+          "lat": -1.78079,
+          "lng": 37.62882
+        }
+      ]
+    },
+    {
+      "name": "Mandera",
+      "lat": 3.2285332,
+      "lng": 40.7056153,
+      "districts": [
+        {
+          "name": "Mandera",
+          "lat": 3.93726,
+          "lng": 41.85688
+        }
+      ]
+    },
+    {
+      "name": "Marsabit",
+      "lat": 2.3380612,
+      "lng": 37.991639,
+      "districts": [
+        {
+          "name": "Marsabit",
+          "lat": 2.33468,
+          "lng": 37.99086
+        },
+        {
+          "name": "Moyale",
+          "lat": 3.52661,
+          "lng": 39.0561
+        }
+      ]
+    },
+    {
+      "name": "Meru",
+      "lat": 0.2254509,
+      "lng": 37.7772624,
+      "districts": [
+        {
+          "name": "Maua",
+          "lat": 0.2332,
+          "lng": 37.94086
+        },
+        {
+          "name": "Meru",
+          "lat": 0.04626,
+          "lng": 37.65587
+        }
+      ]
+    },
+    {
+      "name": "Migori",
+      "lat": -1.0192237,
+      "lng": 34.3095427,
+      "districts": [
+        {
+          "name": "Kihancha",
+          "lat": -1.19347,
+          "lng": 34.61967
+        },
+        {
+          "name": "Migori",
+          "lat": -1.06343,
+          "lng": 34.47313
+        }
+      ]
+    },
+    {
+      "name": "Mombasa",
+      "lat": -4.05052,
+      "lng": 39.667169,
+      "districts": [
+        {
+          "name": "Mombasa",
+          "lat": -4.05466,
+          "lng": 39.66359
+        }
+      ]
+    },
+    {
+      "name": "Murang'a",
+      "lat": -0.8317087,
+      "lng": 37.0049216,
+      "districts": [
+        {
+          "name": "Karuri",
+          "lat": -0.7,
+          "lng": 37.18333
+        },
+        {
+          "name": "Kangema",
+          "lat": -0.68553,
+          "lng": 36.96463
+        },
+        {
+          "name": "Maragua",
+          "lat": -0.79602,
+          "lng": 37.13292
+        },
+        {
+          "name": "Murang’a",
+          "lat": -0.72104,
+          "lng": 37.15259
+        }
+      ]
+    },
+    {
+      "name": "Nairobi City",
+      "lat": -1.2920659,
+      "lng": 36.8219462,
+      "districts": [
+        {
+          "name": "Nairobi",
+          "lat": -1.28333,
+          "lng": 36.81667,
+          "iscapital": true
+        },
+        {
+          "name": "Pumwani",
+          "lat": -1.28333,
+          "lng": 36.85
+        }
+      ]
+    },
+    {
+      "name": "Nakuru",
+      "lat": -0.2802724,
+      "lng": 36.0712048,
+      "districts": [
+        {
+          "name": "Naivasha",
+          "lat": -0.71383,
+          "lng": 36.43261
+        },
+        {
+          "name": "Nakuru",
+          "lat": -0.30719,
+          "lng": 36.07225
+        },
+        {
+          "name": "Kijabe",
+          "lat": -0.93334,
+          "lng": 36.57233
+        },
+        {
+          "name": "Molo",
+          "lat": -0.24849,
+          "lng": 35.73194
+        },
+        {
+          "name": "Rongai",
+          "lat": -0.17344,
+          "lng": 35.86313
+        }
+      ]
+    },
+    {
+      "name": "Nandi",
+      "lat": 0.2253932,
+      "lng": 35.1244929,
+      "districts": [
+        {
+          "name": "Kapsabet",
+          "lat": 0.20387,
+          "lng": 35.105
+        },
+        {
+          "name": "Nandi Hills",
+          "lat": 0.10366,
+          "lng": 35.18426
+        }
+      ]
+    },
+    {
+      "name": "Narok",
+      "lat": -1.0886931,
+      "lng": 35.8714916,
+      "districts": [
+        {
+          "name": "Narok",
+          "lat": -1.08083,
+          "lng": 35.87111
+        }
+      ]
+    },
+    {
+      "name": "Nyamira",
+      "lat": -0.6517907,
+      "lng": 34.934167,
+      "districts": [
+        {
+          "name": "Keroka",
+          "lat": -0.77612,
+          "lng": 34.94678
+        },
+        {
+          "name": "Nyamira",
+          "lat": -0.56333,
+          "lng": 34.93583
+        }
+      ]
+    },
+    {
+      "name": "Nyandarua",
+      "lat": -0.3917064,
+      "lng": 36.4977397,
+      "districts": [
+        {
+          "name": "Ol Kalou",
+          "lat": -0.27088,
+          "lng": 36.37917
+        }
+      ]
+    },
+    {
+      "name": "Nyeri",
+      "lat": -0.4192962,
+      "lng": 36.9517005,
+      "districts": [
+        {
+          "name": "Naro Moru",
+          "lat": -0.16357,
+          "lng": 37.01773
+        },
+        {
+          "name": "Nyeri",
+          "lat": -0.42013,
+          "lng": 36.94759
+        },
+        {
+          "name": "Othaya",
+          "lat": -0.54655,
+          "lng": 36.93178
+        }
+      ]
+    },
+    {
+      "name": "Samburu",
+      "lat": 1.5394463,
+      "lng": 36.942166,
+      "districts": [
+        {
+          "name": "Maralal",
+          "lat": 1.09667,
+          "lng": 36.69806
+        }
+      ]
+    },
+    {
+      "name": "Siaya",
+      "lat": -0.0604013,
+      "lng": 34.200135,
+      "districts": [
+        {
+          "name": "Bondo",
+          "lat": 0.23522,
+          "lng": 34.28086
+        },
+        {
+          "name": "Siaya",
+          "lat": 0.0607,
+          "lng": 34.28806
+        },
+        {
+          "name": "Yala",
+          "lat": 0.09438,
+          "lng": 34.53602
+        }
+      ]
+    },
+    {
+      "name": "Taita–Taveta",
+      "lat": -3.4178355,
+      "lng": 38.3670676,
+      "districts": [
+        {
+          "name": "Bura",
+          "lat": -3.5,
+          "lng": 38.3
+        },
+        {
+          "name": "Chala",
+          "lat": -3.3833,
+          "lng": 37.6833
+        },
+        {
+          "name": "Maktau",
+          "lat": -3.4,
+          "lng": 38.1333
+        },
+        {
+          "name": "Mgange",
+          "lat": -3.4,
+          "lng": 38.3167
+        },
+        {
+          "name": "Mwanda",
+          "lat": -3.4,
+          "lng": 38.2833
+        },
+        {
+          "name": "Mwatate",
+          "lat": -3.5033,
+          "lng": 38.3812
+        },
+        {
+          "name": "Taveta",
+          "lat": -3.3988,
+          "lng": 37.6834
+        },
+        {
+          "name": "Voi",
+          "lat": -3.3961,
+          "lng": 38.5563
+        },
+        {
+          "name": "Wesu",
+          "lat": -3.4,
+          "lng": 38.35
+        },
+        {
+          "name": "Wundanyi",
+          "lat": -3.4085,
+          "lng": 38.3651
+        }
+      ]
+    },
+    {
+      "name": "Tana River",
+      "lat": -1.5365119,
+      "lng": 39.5508374,
+      "districts": [
+        {
+          "name": "Hola",
+          "lat": -1.48256,
+          "lng": 40.03341
+        },
+        {
+          "name": "Kipini",
+          "lat": -2.52565,
+          "lng": 40.5262
+        }
+      ]
+    },
+    {
+      "name": "Tharaka-Nithi",
+      "lat": -0.1937081,
+      "lng": 37.961405,
+      "districts": [
+        {
+          "name": "Chuka",
+          "lat": -0.33316,
+          "lng": 37.64587
+        }
+      ]
+    },
+    {
+      "name": "Trans Nzoia",
+      "lat": 1.0454582,
+      "lng": 34.979044,
+      "districts": [
+        {
+          "name": "Kitale",
+          "lat": 1.01572,
+          "lng": 35.00622
+        }
+      ]
+    },
+    {
+      "name": "Turkana",
+      "lat": 2.7655657,
+      "lng": 35.5977228,
+      "districts": [
+        {
+          "name": "Lodwar",
+          "lat": 3.11988,
+          "lng": 35.59642
+        }
+      ]
+    },
+    {
+      "name": "Uasin Gishu",
+      "lat": 0.4771938,
+      "lng": 35.3050597,
+      "districts": [
+        {
+          "name": "Eldoret",
+          "lat": 0.52036,
+          "lng": 35.26993
+        }
+      ]
+    },
+    {
+      "name": "Vihiga",
+      "lat": 0.0767553,
+      "lng": 34.7077665,
+      "districts": [
+        {
+          "name": "Chavakali",
+          "lat": 0.1167,
+          "lng": 34.7
+        },
+        {
+          "name": "Esabalu",
+          "lat": 0.0167,
+          "lng": 34.6167
+        },
+        {
+          "name": "Gambogi",
+          "lat": 0.0833,
+          "lng": 34.8
+        },
+        {
+          "name": "Kilingili",
+          "lat": 0.0833,
+          "lng": 34.6667
+        },
+        {
+          "name": "Luanda",
+          "lat": 0.0043,
+          "lng": 34.597
+        },
+        {
+          "name": "Majengo",
+          "lat": 0.1,
+          "lng": 34.6167
+        },
+        {
+          "name": "Maseno",
+          "lat": 0,
+          "lng": 34.6
+        },
+        {
+          "name": "Mbale",
+          "lat": 0.0708,
+          "lng": 34.7242
+        },
+        {
+          "name": "Mudete",
+          "lat": 0.1333,
+          "lng": 34.75
+        },
+        {
+          "name": "Serem",
+          "lat": 0.0833,
+          "lng": 34.8833
+        }
+      ]
+    },
+    {
+      "name": "Wajir",
+      "lat": 1.7504651,
+      "lng": 40.0594959,
+      "districts": [
+        {
+          "name": "Wajir",
+          "lat": 1.7471,
+          "lng": 40.05732
+        }
+      ]
+    },
+    {
+      "name": "West Pokot",
+      "lat": 1.8798608,
+      "lng": 35.210613,
+      "districts": [
+        {
+          "name": "Chepareria",
+          "lat": 1.30583,
+          "lng": 35.20365
+        },
+        {
+          "name": "Kapenguria",
+          "lat": 1.23889,
+          "lng": 35.11194
+        },
+        {
+          "name": "Taveta",
+          "lat": -3.39879,
+          "lng": 37.68336
+        },
+        {
+          "name": "Voi",
+          "lat": -3.39605,
+          "lng": 38.55609
+        },
+        {
+          "name": "Wundanyi",
+          "lat": -3.39642,
+          "lng": 38.35729
+        }
+      ]
+    }
+  ]
+}

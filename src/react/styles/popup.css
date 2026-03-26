@@ -1,0 +1,402 @@
+/** This file defines the detail popup and chart area styling. */
+.detail-popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 900px;
+  max-width: 95vw;
+  max-height: 90vh;
+  background: var(--bg-glass);
+  backdrop-filter: blur(40px);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  border-radius: 4px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8), inset 0 0 40px rgba(0, 229, 255, 0.05);
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.dp-anim-area {
+  position: relative;
+  width: 100%;
+  height: 120px;
+  background: rgba(0, 10, 20, 0.4);
+  overflow: hidden;
+  border-bottom: 1px solid rgba(0, 229, 255, 0.1);
+}
+
+.dp-anim-area canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.dp-hero {
+  position: relative;
+  z-index: 2;
+  padding: 12px 20px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.dp-close {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 24px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(0, 229, 255, 0.2);
+  color: var(--hud-cyan);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-family: "Share Tech Mono", monospace;
+}
+
+.dp-close:hover {
+  background: rgba(255, 100, 100, 0.2);
+  border-color: var(--accent-red);
+  color: var(--accent-red);
+}
+
+.dp-location,
+.dp-temp,
+.dp-section-title,
+.dp-aqi-status,
+.ds-val {
+  font-family: "Orbitron", sans-serif;
+}
+
+.dp-location {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--hud-cyan);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.dp-country,
+.dp-desc,
+.ph-time,
+.pd-name,
+.pd-low,
+.dp-aqi-detail,
+.dp-sun,
+.ds-lbl {
+  font-family: "Share Tech Mono", monospace;
+}
+
+.dp-country {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 1px;
+}
+
+.dp-temp-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.dp-temp {
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1;
+  color: var(--hud-cyan);
+}
+
+.dp-temp.warm {
+  color: var(--hud-warm);
+}
+
+.dp-icon {
+  font-size: 28px;
+  margin-bottom: 2px;
+}
+
+.dp-desc {
+  font-size: 10px;
+  color: rgba(0, 229, 255, 0.6);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-top: 2px;
+}
+
+.dp-body {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.dp-grid {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+}
+
+.dp-col-left {
+  padding: 12px;
+  border-right: 1px solid rgba(0, 229, 255, 0.1);
+  background: rgba(0, 229, 255, 0.02);
+}
+
+.dp-col-right {
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.dp-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.dp-stat {
+  flex: 1 1 calc(33.333% - 6px);
+  background: rgba(0, 229, 255, 0.03);
+  border: 1px solid rgba(0, 229, 255, 0.1);
+  padding: 6px 4px;
+  text-align: center;
+}
+
+.dp-stat:hover {
+  background: rgba(0, 229, 255, 0.06);
+}
+
+.ds-icon {
+  font-size: 12px;
+  display: block;
+  margin-bottom: 2px;
+}
+
+.ds-val {
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+  display: block;
+}
+
+.ds-lbl {
+  font-size: 8px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.dp-sun-row {
+  display: flex;
+  gap: 6px;
+  margin: 8px 0;
+}
+
+.dp-sun {
+  flex: 1 1 calc(50% - 6px);
+  background: rgba(0, 229, 255, 0.03);
+  border: 1px solid rgba(0, 229, 255, 0.1);
+  padding: 6px 8px;
+  font-size: 11px;
+  color: var(--hud-cyan);
+}
+
+.dp-section-title {
+  font-size: 9px;
+  font-weight: 600;
+  color: rgba(0, 229, 255, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 8px 0 4px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid rgba(0, 229, 255, 0.08);
+}
+
+.dp-hourly-scroll,
+.dp-daily-list {
+  display: flex;
+  gap: 3px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.popup-hour,
+.popup-day {
+  min-width: 44px;
+  flex-shrink: 0;
+  background: rgba(0, 229, 255, 0.03);
+  border: 1px solid rgba(0, 229, 255, 0.08);
+  padding: 4px 3px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.ph-time,
+.pd-name {
+  font-size: 9px;
+  color: var(--text-muted);
+  display: block;
+}
+
+.ph-icon,
+.pd-icon {
+  font-size: 16px;
+  display: block;
+  margin: 2px 0;
+}
+
+.ph-temp,
+.pd-high {
+  font-family: "Orbitron", sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  color: #fff;
+  display: block;
+}
+
+.pd-low {
+  font-size: 9px;
+  color: var(--text-muted);
+  display: block;
+  margin-top: 1px;
+}
+
+.dp-chart-wrap {
+  background: rgba(0, 229, 255, 0.02);
+  border: 1px solid rgba(0, 229, 255, 0.08);
+  padding: 8px;
+  height: 130px;
+  position: relative;
+}
+
+.dp-aqi {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(0, 229, 255, 0.03);
+  border: 1px solid rgba(0, 229, 255, 0.1);
+  padding: 8px;
+}
+
+.aqi-skeleton {
+  height: 48px;
+  background: linear-gradient(90deg, rgba(0, 229, 255, 0.03) 25%, rgba(0, 229, 255, 0.08) 50%, rgba(0, 229, 255, 0.03) 75%);
+  background-size: 200% 100%;
+  animation: aqi-pulse 1.5s infinite linear;
+  border-radius: 8px;
+  margin-top: 5px;
+}
+
+.dp-aqi-gauge {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 2px solid;
+  flex-shrink: 0;
+}
+
+.dp-aqi-gauge.good {
+  border-color: var(--accent-green);
+  color: var(--accent-green);
+}
+
+.dp-aqi-gauge.moderate {
+  border-color: var(--accent-yellow);
+  color: var(--accent-yellow);
+}
+
+.dp-aqi-gauge.unhealthy-sensitive {
+  border-color: var(--accent-orange);
+  color: var(--accent-orange);
+}
+
+.dp-aqi-gauge.unhealthy {
+  border-color: var(--accent-red);
+  color: var(--accent-red);
+}
+
+.dp-aqi-gauge.very-unhealthy {
+  border-color: var(--accent-purple);
+  color: var(--accent-purple);
+}
+
+.dp-aqi-num {
+  font-family: "Orbitron", sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.dp-aqi-lbl {
+  font-size: 6px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.dp-aqi-status {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.dp-aqi-detail {
+  font-size: 9px;
+  color: var(--text-secondary);
+  margin-top: 2px;
+}
+
+@keyframes aqi-pulse {
+  0% {
+    background-position: 200% 0;
+  }
+  100% {
+    background-position: -200% 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .detail-popup {
+    width: calc(100vw - 20px);
+    max-height: 80vh;
+  }
+
+  .dp-grid {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .dp-col-left {
+    border-right: none;
+    border-bottom: 1px solid rgba(0, 229, 255, 0.1);
+    padding: 8px;
+  }
+
+  .dp-col-right {
+    padding: 8px;
+  }
+
+  .dp-temp {
+    font-size: 28px;
+  }
+
+  .dp-location {
+    font-size: 14px;
+  }
+
+  .dp-close {
+    width: 32px;
+    height: 32px;
+    font-size: 16px;
+    top: 10px;
+    right: 10px;
+  }
+}

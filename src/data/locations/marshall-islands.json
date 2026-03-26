@@ -1,0 +1,318 @@
+{
+  "name": "Marshall Islands",
+  "lat": 9,
+  "lng": 168,
+  "cities": [
+    {
+      "name": "Ailinglaplap",
+      "lat": 7.5,
+      "lng": 168.73333333,
+      "districts": [
+        {
+          "name": "Ailinglaplap",
+          "lat": 7.5,
+          "lng": 168.73333333
+        }
+      ]
+    },
+    {
+      "name": "Ailuk",
+      "lat": 10.31666667,
+      "lng": 169.93333333,
+      "districts": [
+        {
+          "name": "Ailuk",
+          "lat": 10.31666667,
+          "lng": 169.93333333
+        }
+      ]
+    },
+    {
+      "name": "Arno",
+      "lat": 7.08333333,
+      "lng": 171.7,
+      "districts": [
+        {
+          "name": "Arno",
+          "lat": 7.08333333,
+          "lng": 171.7
+        }
+      ]
+    },
+    {
+      "name": "Aur",
+      "lat": 8.2,
+      "lng": 171.1,
+      "districts": [
+        {
+          "name": "Aur",
+          "lat": 8.2,
+          "lng": 171.1
+        }
+      ]
+    },
+    {
+      "name": "Bikini & Kili",
+      "lat": 11.6,
+      "lng": 165.4,
+      "districts": [
+        {
+          "name": "Bikini",
+          "lat": 11.6,
+          "lng": 165.4
+        },
+        {
+          "name": "Kili",
+          "lat": 5.61666667,
+          "lng": 169.11666667
+        }
+      ]
+    },
+    {
+      "name": "Ebon",
+      "lat": 4.63333333,
+      "lng": 168.71666667,
+      "districts": [
+        {
+          "name": "Ebon",
+          "lat": 4.63333333,
+          "lng": 168.71666667
+        }
+      ]
+    },
+    {
+      "name": "Enewetak & Ujelang",
+      "lat": 11.5,
+      "lng": 162.33333333,
+      "districts": [
+        {
+          "name": "Enewetak",
+          "lat": 11.5,
+          "lng": 162.33333333
+        },
+        {
+          "name": "Ujelang",
+          "lat": 9.82222222,
+          "lng": 160.9
+        }
+      ]
+    },
+    {
+      "name": "Jabat",
+      "lat": 7.75,
+      "lng": 168.96666667,
+      "districts": [
+        {
+          "name": "Jabat",
+          "lat": 7.75,
+          "lng": 168.96666667
+        }
+      ]
+    },
+    {
+      "name": "Jaluit",
+      "lat": 6,
+      "lng": 169.56666667,
+      "districts": [
+        {
+          "name": "Jabor",
+          "lat": 6,
+          "lng": 169.56666667
+        }
+      ]
+    },
+    {
+      "name": "Kwajalein",
+      "lat": 8.71666667,
+      "lng": 167.73333333,
+      "districts": [
+        {
+          "name": "Ebeye",
+          "lat": 41.0811,
+          "lng": -111.92
+        }
+      ]
+    },
+    {
+      "name": "Lae",
+      "lat": 8.93611111,
+      "lng": 166.2375,
+      "districts": [
+        {
+          "name": "Lae",
+          "lat": 8.93611111,
+          "lng": 166.2375
+        }
+      ]
+    },
+    {
+      "name": "Lib",
+      "lat": 8.31305556,
+      "lng": 167.37777778,
+      "districts": [
+        {
+          "name": "Lib",
+          "lat": 8.31305556,
+          "lng": 167.37777778
+        }
+      ]
+    },
+    {
+      "name": "Likiep",
+      "lat": 9.88498,
+      "lng": 169.14345,
+      "districts": [
+        {
+          "name": "Likiep",
+          "lat": 9.88498,
+          "lng": 169.14345
+        }
+      ]
+    },
+    {
+      "name": "Majuro",
+      "lat": 7.0918,
+      "lng": 171.3802,
+      "districts": [
+        {
+          "name": "Delap-Uliga-Djarrit",
+          "lat": 7.08333333,
+          "lng": 171.38333333,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Maloelap",
+      "lat": 8.75343611,
+      "lng": 171.04888889,
+      "districts": [
+        {
+          "name": "Taroa",
+          "lat": 48,
+          "lng": 33.41666667
+        }
+      ]
+    },
+    {
+      "name": "Mejit",
+      "lat": 10.28333333,
+      "lng": 170.88333333,
+      "districts": [
+        {
+          "name": "Mejit",
+          "lat": 10.28333333,
+          "lng": 170.88333333
+        }
+      ]
+    },
+    {
+      "name": "Mili",
+      "lat": 6.12621667,
+      "lng": 171.97998056,
+      "districts": [
+        {
+          "name": "Mili",
+          "lat": 6.12621667,
+          "lng": 171.97998056
+        }
+      ]
+    },
+    {
+      "name": "Namdrik",
+      "lat": 5.61666667,
+      "lng": 168.11666667,
+      "districts": [
+        {
+          "name": "Namdrik",
+          "lat": 5.61666667,
+          "lng": 168.11666667
+        }
+      ]
+    },
+    {
+      "name": "Namu",
+      "lat": 7.98333333,
+      "lng": 168.17361111,
+      "districts": [
+        {
+          "name": "Namu",
+          "lat": 7.98333333,
+          "lng": 168.17361111
+        }
+      ]
+    },
+    {
+      "name": "Ralik",
+      "lat": 8.230817,
+      "lng": 167.7953224,
+      "districts": []
+    },
+    {
+      "name": "Ratak",
+      "lat": 8.615055,
+      "lng": 170.8205547,
+      "districts": []
+    },
+    {
+      "name": "Rongelap",
+      "lat": 11.31666667,
+      "lng": 166.78333333,
+      "districts": [
+        {
+          "name": "Rongelap",
+          "lat": 11.31666667,
+          "lng": 166.78333333
+        }
+      ]
+    },
+    {
+      "name": "Ujae",
+      "lat": 9.05,
+      "lng": 165.65,
+      "districts": [
+        {
+          "name": "Ujae",
+          "lat": 9.05,
+          "lng": 165.65
+        }
+      ]
+    },
+    {
+      "name": "Utrik",
+      "lat": 11.26730556,
+      "lng": 169.78426111,
+      "districts": [
+        {
+          "name": "Utrik",
+          "lat": 11.26730556,
+          "lng": 169.78426111
+        }
+      ]
+    },
+    {
+      "name": "Wotho",
+      "lat": 10.1,
+      "lng": 165.96666667,
+      "districts": [
+        {
+          "name": "Wotho",
+          "lat": 10.1,
+          "lng": 165.96666667
+        }
+      ]
+    },
+    {
+      "name": "Wotje",
+      "lat": 9.43333333,
+      "lng": 170.01666667,
+      "districts": [
+        {
+          "name": "Wotje",
+          "lat": 9.43333333,
+          "lng": 170.01666667
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Anguilla",
+  "lat": 18.25,
+  "lng": -63.16666666,
+  "cities": [
+    {
+      "name": "Blowing Point",
+      "lat": 18.1765553,
+      "lng": -63.1021296,
+      "districts": []
+    },
+    {
+      "name": "East End",
+      "lat": 18.2342629,
+      "lng": -62.997374,
+      "districts": []
+    },
+    {
+      "name": "George Hill",
+      "lat": 18.2036599,
+      "lng": -63.0648112,
+      "districts": []
+    },
+    {
+      "name": "Island Harbour",
+      "lat": 18.2556888,
+      "lng": -63.0012814,
+      "districts": []
+    },
+    {
+      "name": "North Hill",
+      "lat": 18.2050863,
+      "lng": -63.0858457,
+      "districts": []
+    },
+    {
+      "name": "North Side",
+      "lat": 18.2300544,
+      "lng": -63.051889,
+      "districts": []
+    },
+    {
+      "name": "Sandy Ground",
+      "lat": 18.2018551,
+      "lng": -63.0973471,
+      "districts": []
+    },
+    {
+      "name": "Sandy Hill",
+      "lat": 18.218921,
+      "lng": -63.0129916,
+      "districts": []
+    },
+    {
+      "name": "South Hill",
+      "lat": 18.1892475,
+      "lng": -63.0976367,
+      "districts": []
+    },
+    {
+      "name": "Stoney Ground",
+      "lat": 18.2179997,
+      "lng": -63.0400727,
+      "districts": []
+    },
+    {
+      "name": "The Farrington",
+      "lat": 18.2134701,
+      "lng": -63.0272162,
+      "districts": []
+    },
+    {
+      "name": "The Quarter",
+      "lat": 18.2145334,
+      "lng": -63.0564489,
+      "districts": []
+    },
+    {
+      "name": "The Valley",
+      "lat": 18.2145861,
+      "lng": -63.0517759,
+      "districts": []
+    },
+    {
+      "name": "West End",
+      "lat": 18.1721666,
+      "lng": -63.1567037,
+      "districts": []
+    }
+  ]
+}

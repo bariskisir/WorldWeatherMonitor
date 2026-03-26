@@ -1,0 +1,115 @@
+{
+  "name": "Bermuda",
+  "lat": 32.33333333,
+  "lng": -64.75,
+  "cities": [
+    {
+      "name": "Devonshire",
+      "lat": 32.3038062,
+      "lng": -64.7606954,
+      "districts": [
+        {
+          "name": "Devonshire",
+          "lat": 32.293,
+          "lng": -64.8
+        }
+      ]
+    },
+    {
+      "name": "Hamilton",
+      "lat": 32.3379906,
+      "lng": -64.7357556,
+      "districts": [
+        {
+          "name": "Hamilton",
+          "lat": 32.294,
+          "lng": -64.783,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Paget",
+      "lat": 32.281074,
+      "lng": -64.7784787,
+      "districts": [
+        {
+          "name": "Paget",
+          "lat": 32.278,
+          "lng": -64.769
+        }
+      ]
+    },
+    {
+      "name": "Pembroke",
+      "lat": 32.3007672,
+      "lng": -64.796263,
+      "districts": []
+    },
+    {
+      "name": "Saint George's",
+      "lat": 32.3722689,
+      "lng": -64.698502,
+      "districts": [
+        {
+          "name": "St. George's",
+          "lat": 32.381,
+          "lng": -64.674
+        },
+        {
+          "name": "Tucker’s Town",
+          "lat": 32.3328,
+          "lng": -64.6881
+        }
+      ]
+    },
+    {
+      "name": "Sandys",
+      "lat": 32.2999528,
+      "lng": -64.8674103,
+      "districts": [
+        {
+          "name": "Somerset",
+          "lat": 32.282,
+          "lng": -64.844
+        }
+      ]
+    },
+    {
+      "name": "Smith's",
+      "lat": 32.3133966,
+      "lng": -64.7310588,
+      "districts": [
+        {
+          "name": "Flatts",
+          "lat": 32.328,
+          "lng": -64.736
+        }
+      ]
+    },
+    {
+      "name": "Southampton",
+      "lat": 32.2517959,
+      "lng": -64.8496989,
+      "districts": [
+        {
+          "name": "Southampton",
+          "lat": 32.249,
+          "lng": -64.861
+        }
+      ]
+    },
+    {
+      "name": "Warwick",
+      "lat": 32.2661534,
+      "lng": -64.8081198,
+      "districts": [
+        {
+          "name": "Warwick",
+          "lat": 32.267,
+          "lng": -64.806
+        }
+      ]
+    }
+  ]
+}

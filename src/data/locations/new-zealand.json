@@ -1,0 +1,912 @@
+{
+  "name": "New Zealand",
+  "lat": -41,
+  "lng": 174,
+  "cities": [
+    {
+      "name": "Auckland",
+      "lat": -36.852095,
+      "lng": 174.7631803,
+      "districts": [
+        {
+          "name": "Auckland",
+          "lat": -36.84853,
+          "lng": 174.76349
+        },
+        {
+          "name": "Manukau City",
+          "lat": -36.99282,
+          "lng": 174.87986
+        },
+        {
+          "name": "North Shore",
+          "lat": -36.8,
+          "lng": 174.75
+        },
+        {
+          "name": "Mangere",
+          "lat": -36.96807,
+          "lng": 174.79875
+        },
+        {
+          "name": "Muriwai Beach",
+          "lat": -36.81667,
+          "lng": 174.45
+        },
+        {
+          "name": "Murrays Bay",
+          "lat": -36.72819,
+          "lng": 174.75019
+        },
+        {
+          "name": "Pakuranga",
+          "lat": -36.88333,
+          "lng": 174.91667
+        },
+        {
+          "name": "Papakura",
+          "lat": -37.06573,
+          "lng": 174.94393
+        },
+        {
+          "name": "Parakai",
+          "lat": -36.65,
+          "lng": 174.43333
+        },
+        {
+          "name": "Pukekohe East",
+          "lat": -37.2,
+          "lng": 174.95
+        },
+        {
+          "name": "Red Hill",
+          "lat": -37.0582,
+          "lng": 174.97019
+        },
+        {
+          "name": "Rosebank",
+          "lat": -36.87495,
+          "lng": 174.66991
+        },
+        {
+          "name": "Rothesay Bay",
+          "lat": -36.72602,
+          "lng": 174.74064
+        },
+        {
+          "name": "Takanini",
+          "lat": -37.0482,
+          "lng": 174.90019
+        },
+        {
+          "name": "Tamaki",
+          "lat": -36.8882,
+          "lng": 174.86019
+        },
+        {
+          "name": "Titirangi",
+          "lat": -36.93754,
+          "lng": 174.65584
+        },
+        {
+          "name": "Waitakere",
+          "lat": -36.91754,
+          "lng": 174.65773
+        },
+        {
+          "name": "Waiuku",
+          "lat": -37.24806,
+          "lng": 174.73489
+        },
+        {
+          "name": "Warkworth",
+          "lat": -36.4,
+          "lng": 174.66667
+        },
+        {
+          "name": "Wellsford",
+          "lat": -36.28333,
+          "lng": 174.51667
+        },
+        {
+          "name": "Wiri",
+          "lat": -36.9982,
+          "lng": 174.86019
+        }
+      ]
+    },
+    {
+      "name": "Bay of Plenty",
+      "lat": -37.4969185,
+      "lng": 176.9228349,
+      "districts": [
+        {
+          "name": "Tauranga",
+          "lat": -37.68611,
+          "lng": 176.16667
+        },
+        {
+          "name": "Edgecumbe",
+          "lat": -37.98333,
+          "lng": 176.83333
+        },
+        {
+          "name": "Katikati",
+          "lat": -37.55,
+          "lng": 175.91667
+        },
+        {
+          "name": "Kawerau",
+          "lat": -38.1,
+          "lng": 176.7
+        },
+        {
+          "name": "Maketu",
+          "lat": -37.76667,
+          "lng": 176.45
+        },
+        {
+          "name": "Murupara",
+          "lat": -38.46667,
+          "lng": 176.7
+        },
+        {
+          "name": "Opotiki",
+          "lat": -38.00915,
+          "lng": 177.28706
+        },
+        {
+          "name": "Rotorua",
+          "lat": -38.13874,
+          "lng": 176.24516
+        },
+        {
+          "name": "Waihi Beach",
+          "lat": -37.4,
+          "lng": 175.93333
+        },
+        {
+          "name": "Whakatane",
+          "lat": -37.95855,
+          "lng": 176.98545
+        }
+      ]
+    },
+    {
+      "name": "Canterbury",
+      "lat": -43.4941762,
+      "lng": 171.8098448,
+      "districts": [
+        {
+          "name": "Christchurch",
+          "lat": -43.53333,
+          "lng": 172.63333
+        },
+        {
+          "name": "Amberley",
+          "lat": -43.15589,
+          "lng": 172.72975
+        },
+        {
+          "name": "Ashburton",
+          "lat": -43.89834,
+          "lng": 171.73011
+        },
+        {
+          "name": "Ashburton District",
+          "lat": -43.9,
+          "lng": 171.75
+        },
+        {
+          "name": "Burnham",
+          "lat": -43.61667,
+          "lng": 172.31667
+        },
+        {
+          "name": "Darfield",
+          "lat": -43.48333,
+          "lng": 172.11667
+        },
+        {
+          "name": "Geraldine",
+          "lat": -44.09061,
+          "lng": 171.24458
+        },
+        {
+          "name": "Kaiapoi",
+          "lat": -43.37832,
+          "lng": 172.64013
+        },
+        {
+          "name": "Leeston",
+          "lat": -43.76667,
+          "lng": 172.3
+        },
+        {
+          "name": "Lincoln",
+          "lat": -43.65,
+          "lng": 172.48333
+        },
+        {
+          "name": "Mackenzie",
+          "lat": -43.93987,
+          "lng": 170.51913
+        },
+        {
+          "name": "Methven",
+          "lat": -43.63333,
+          "lng": 171.65
+        },
+        {
+          "name": "Oxford",
+          "lat": -43.3,
+          "lng": 172.18333
+        },
+        {
+          "name": "Pleasant Point",
+          "lat": -44.26667,
+          "lng": 171.13333
+        },
+        {
+          "name": "Prebbleton",
+          "lat": -43.58333,
+          "lng": 172.51667
+        },
+        {
+          "name": "Rakaia",
+          "lat": -43.75,
+          "lng": 172.01667
+        },
+        {
+          "name": "Rolleston",
+          "lat": -43.58333,
+          "lng": 172.38333
+        },
+        {
+          "name": "Selwyn",
+          "lat": -43.32226,
+          "lng": 171.87064
+        },
+        {
+          "name": "Timaru",
+          "lat": -44.39672,
+          "lng": 171.25364
+        },
+        {
+          "name": "Timaru District",
+          "lat": -44.4,
+          "lng": 171.21667
+        },
+        {
+          "name": "Tinwald",
+          "lat": -43.91667,
+          "lng": 171.71667
+        },
+        {
+          "name": "Waimakariri",
+          "lat": -43.2075,
+          "lng": 172.33286
+        },
+        {
+          "name": "Woodend",
+          "lat": -43.31667,
+          "lng": 172.66667
+        }
+      ]
+    },
+    {
+      "name": "Chatham Islands",
+      "lat": -43.917534,
+      "lng": -176.18734,
+      "districts": [
+        {
+          "name": "Waitangi",
+          "lat": -43.95353,
+          "lng": -176.55973
+        }
+      ]
+    },
+    {
+      "name": "Gisborne",
+      "lat": -38.1532287,
+      "lng": 178.1367524,
+      "districts": [
+        {
+          "name": "Gisborne",
+          "lat": -38.65333,
+          "lng": 178.00417
+        }
+      ]
+    },
+    {
+      "name": "Hawke's Bay",
+      "lat": -39.5256512,
+      "lng": 176.7611457,
+      "districts": [
+        {
+          "name": "Hastings",
+          "lat": -39.6381,
+          "lng": 176.84918
+        },
+        {
+          "name": "Napier",
+          "lat": -39.4926,
+          "lng": 176.91233
+        },
+        {
+          "name": "Taradale",
+          "lat": -39.53333,
+          "lng": 176.85
+        },
+        {
+          "name": "Wairoa",
+          "lat": -39.03333,
+          "lng": 177.36667
+        }
+      ]
+    },
+    {
+      "name": "Manawatu-Whanganui",
+      "lat": -39.6407734,
+      "lng": 175.5713557,
+      "districts": [
+        {
+          "name": "Bulls",
+          "lat": -40.17487,
+          "lng": 175.38463
+        },
+        {
+          "name": "Foxton",
+          "lat": -40.46667,
+          "lng": 175.3
+        },
+        {
+          "name": "Horowhenua",
+          "lat": -40.57733,
+          "lng": 175.38071
+        },
+        {
+          "name": "Levin",
+          "lat": -40.63333,
+          "lng": 175.275
+        },
+        {
+          "name": "Manawatu",
+          "lat": -40.11979,
+          "lng": 175.67426
+        },
+        {
+          "name": "Palmerston North",
+          "lat": -40.35636,
+          "lng": 175.61113
+        },
+        {
+          "name": "Waiouru",
+          "lat": -39.47753,
+          "lng": 175.66834
+        },
+        {
+          "name": "Wanganui",
+          "lat": -39.93333,
+          "lng": 175.05
+        }
+      ]
+    },
+    {
+      "name": "Marlborough",
+      "lat": -41.4744747,
+      "lng": 173.8330263,
+      "districts": [
+        {
+          "name": "Blenheim",
+          "lat": -41.51603,
+          "lng": 173.9528
+        },
+        {
+          "name": "Picton",
+          "lat": -41.29067,
+          "lng": 174.00801
+        }
+      ]
+    },
+    {
+      "name": "Nelson",
+      "lat": -41.2710849,
+      "lng": 173.2836756,
+      "districts": [
+        {
+          "name": "Nelson",
+          "lat": -41.27078,
+          "lng": 173.28404
+        }
+      ]
+    },
+    {
+      "name": "Northland",
+      "lat": -35.3755091,
+      "lng": 173.9470106,
+      "districts": [
+        {
+          "name": "Ahipara",
+          "lat": -35.16667,
+          "lng": 173.16667
+        },
+        {
+          "name": "Dargaville",
+          "lat": -35.93333,
+          "lng": 173.88333
+        },
+        {
+          "name": "Far North",
+          "lat": -35.03359,
+          "lng": 173.48841
+        },
+        {
+          "name": "Kaipara",
+          "lat": -35.99546,
+          "lng": 174.04688
+        },
+        {
+          "name": "Kaitaia",
+          "lat": -35.11485,
+          "lng": 173.26366
+        },
+        {
+          "name": "Kawakawa",
+          "lat": -35.38333,
+          "lng": 174.06667
+        },
+        {
+          "name": "Kerikeri",
+          "lat": -35.22676,
+          "lng": 173.94739
+        },
+        {
+          "name": "Maungatapere",
+          "lat": -35.75,
+          "lng": 174.2
+        },
+        {
+          "name": "Moerewa",
+          "lat": -35.38333,
+          "lng": 174.03333
+        },
+        {
+          "name": "Ngunguru",
+          "lat": -35.61667,
+          "lng": 174.5
+        },
+        {
+          "name": "Paihia",
+          "lat": -35.28067,
+          "lng": 174.09103
+        },
+        {
+          "name": "Ruakaka",
+          "lat": -35.90818,
+          "lng": 174.45019
+        },
+        {
+          "name": "Taipa",
+          "lat": -34.99604,
+          "lng": 173.46665
+        },
+        {
+          "name": "Waimate North",
+          "lat": -35.31667,
+          "lng": 173.88333
+        },
+        {
+          "name": "Whangarei",
+          "lat": -35.73167,
+          "lng": 174.32391
+        }
+      ]
+    },
+    {
+      "name": "Otago",
+      "lat": -45.3975053,
+      "lng": 170.1778918,
+      "districts": [
+        {
+          "name": "Dunedin",
+          "lat": -45.87416,
+          "lng": 170.50361
+        },
+        {
+          "name": "Arrowtown",
+          "lat": -44.93837,
+          "lng": 168.81007
+        },
+        {
+          "name": "Balclutha",
+          "lat": -46.23389,
+          "lng": 169.75
+        },
+        {
+          "name": "Clutha",
+          "lat": -46.03883,
+          "lng": 169.60617
+        },
+        {
+          "name": "Cromwell",
+          "lat": -45.03837,
+          "lng": 169.20008
+        },
+        {
+          "name": "Kingston",
+          "lat": -45.33288,
+          "lng": 168.71476
+        },
+        {
+          "name": "Milton",
+          "lat": -46.12083,
+          "lng": 169.96944
+        },
+        {
+          "name": "Oamaru",
+          "lat": -45.09758,
+          "lng": 170.97087
+        },
+        {
+          "name": "Papatowai",
+          "lat": -46.56069,
+          "lng": 169.47068
+        },
+        {
+          "name": "Portobello",
+          "lat": -45.85,
+          "lng": 170.65
+        },
+        {
+          "name": "Queenstown",
+          "lat": -45.03023,
+          "lng": 168.66271
+        },
+        {
+          "name": "Wanaka",
+          "lat": -44.7,
+          "lng": 169.15
+        }
+      ]
+    },
+    {
+      "name": "Southland",
+      "lat": -45.9254266,
+      "lng": 167.6068483,
+      "districts": [
+        {
+          "name": "Bluff",
+          "lat": -46.6,
+          "lng": 168.33333
+        },
+        {
+          "name": "Gore",
+          "lat": -46.10282,
+          "lng": 168.94357
+        },
+        {
+          "name": "Invercargill",
+          "lat": -46.4,
+          "lng": 168.35
+        },
+        {
+          "name": "Riverton",
+          "lat": -46.35,
+          "lng": 168.01667
+        },
+        {
+          "name": "Southland",
+          "lat": -45.77256,
+          "lng": 167.85266
+        },
+        {
+          "name": "Te Anau",
+          "lat": -45.41667,
+          "lng": 167.71667
+        },
+        {
+          "name": "Winton",
+          "lat": -46.15,
+          "lng": 168.33333
+        }
+      ]
+    },
+    {
+      "name": "Taranaki",
+      "lat": -39.3848064,
+      "lng": 174.1973505,
+      "districts": [
+        {
+          "name": "Eltham",
+          "lat": -39.42917,
+          "lng": 174.3
+        },
+        {
+          "name": "Hawera",
+          "lat": -39.59167,
+          "lng": 174.28333
+        },
+        {
+          "name": "New Plymouth",
+          "lat": -39.06667,
+          "lng": 174.08333
+        },
+        {
+          "name": "New Plymouth District",
+          "lat": -39.05865,
+          "lng": 174.10309
+        },
+        {
+          "name": "Opunake",
+          "lat": -39.45556,
+          "lng": 173.85833
+        },
+        {
+          "name": "Patea",
+          "lat": -39.75833,
+          "lng": 174.48333
+        },
+        {
+          "name": "South Taranaki",
+          "lat": -39.52156,
+          "lng": 174.3716
+        },
+        {
+          "name": "Stratford",
+          "lat": -39.3221517,
+          "lng": 174.2629816
+        },
+        {
+          "name": "Waitara",
+          "lat": -39.00158,
+          "lng": 174.23836
+        }
+      ]
+    },
+    {
+      "name": "Tasman",
+      "lat": -41.302221,
+      "lng": 172.8945319,
+      "districts": [
+        {
+          "name": "Brightwater",
+          "lat": -41.38333,
+          "lng": 173.11667
+        },
+        {
+          "name": "Mapua",
+          "lat": -41.25,
+          "lng": 173.1
+        },
+        {
+          "name": "Motueka",
+          "lat": -41.13333,
+          "lng": 173.01667
+        },
+        {
+          "name": "Richmond",
+          "lat": -41.33333,
+          "lng": 173.18333
+        },
+        {
+          "name": "Takaka",
+          "lat": -40.85,
+          "lng": 172.8
+        },
+        {
+          "name": "Wakefield",
+          "lat": -41.4,
+          "lng": 173.05
+        }
+      ]
+    },
+    {
+      "name": "Waikato",
+      "lat": -37.7792272,
+      "lng": 175.2010324,
+      "districts": [
+        {
+          "name": "Hamilton",
+          "lat": -37.78333,
+          "lng": 175.28333
+        },
+        {
+          "name": "Cambridge",
+          "lat": -37.87822,
+          "lng": 175.4402
+        },
+        {
+          "name": "Coromandel",
+          "lat": -36.7611,
+          "lng": 175.49634
+        },
+        {
+          "name": "Matamata",
+          "lat": -37.8106,
+          "lng": 175.76237
+        },
+        {
+          "name": "Ngaruawahia",
+          "lat": -37.66738,
+          "lng": 175.15554
+        },
+        {
+          "name": "Ngatea",
+          "lat": -37.28333,
+          "lng": 175.5
+        },
+        {
+          "name": "Otorohanga",
+          "lat": -38.18333,
+          "lng": 175.2
+        },
+        {
+          "name": "Paeroa",
+          "lat": -37.36667,
+          "lng": 175.66667
+        },
+        {
+          "name": "Raglan",
+          "lat": -37.8,
+          "lng": 174.88333
+        },
+        {
+          "name": "South Waikato",
+          "lat": -38.16797,
+          "lng": 175.88624
+        },
+        {
+          "name": "Tairua",
+          "lat": -37.01667,
+          "lng": 175.85
+        },
+        {
+          "name": "Taupo",
+          "lat": -38.68333,
+          "lng": 176.08333
+        },
+        {
+          "name": "Te Kauwhata",
+          "lat": -37.4,
+          "lng": 175.15
+        },
+        {
+          "name": "Thames",
+          "lat": -37.13832,
+          "lng": 175.54011
+        },
+        {
+          "name": "Tokoroa",
+          "lat": -38.23333,
+          "lng": 175.86667
+        },
+        {
+          "name": "Turangi",
+          "lat": -38.99037,
+          "lng": 175.80837
+        },
+        {
+          "name": "Waihi",
+          "lat": -37.38333,
+          "lng": 175.83333
+        },
+        {
+          "name": "Whangamata",
+          "lat": -37.2,
+          "lng": 175.86667
+        },
+        {
+          "name": "Whitianga",
+          "lat": -36.83333,
+          "lng": 175.7
+        }
+      ]
+    },
+    {
+      "name": "Wellington",
+      "lat": -41.2235474,
+      "lng": 175.4157576,
+      "districts": [
+        {
+          "name": "Lower Hutt",
+          "lat": -41.21667,
+          "lng": 174.91667
+        },
+        {
+          "name": "Wellington",
+          "lat": -41.28664,
+          "lng": 174.77557,
+          "iscapital": true
+        },
+        {
+          "name": "Brooklyn",
+          "lat": -41.30586,
+          "lng": 174.76257
+        },
+        {
+          "name": "Castlepoint",
+          "lat": -40.9,
+          "lng": 176.21667
+        },
+        {
+          "name": "Kapiti Coast",
+          "lat": -40.85682,
+          "lng": 175.1469
+        },
+        {
+          "name": "Kelburn",
+          "lat": -41.28333,
+          "lng": 174.76667
+        },
+        {
+          "name": "Khandallah",
+          "lat": -41.245,
+          "lng": 174.79422
+        },
+        {
+          "name": "Masterton",
+          "lat": -40.95972,
+          "lng": 175.6575
+        },
+        {
+          "name": "Otaki",
+          "lat": -40.75833,
+          "lng": 175.15
+        },
+        {
+          "name": "Paraparaumu",
+          "lat": -40.91667,
+          "lng": 175.01667
+        },
+        {
+          "name": "Petone",
+          "lat": -41.22827,
+          "lng": 174.87019
+        },
+        {
+          "name": "Porirua",
+          "lat": -41.13333,
+          "lng": 174.85
+        },
+        {
+          "name": "South Wairarapa",
+          "lat": -41.26731,
+          "lng": 175.38442
+        },
+        {
+          "name": "Upper Hutt",
+          "lat": -41.13827,
+          "lng": 175.0502
+        },
+        {
+          "name": "Waipawa",
+          "lat": -41.41222,
+          "lng": 175.51528
+        }
+      ]
+    },
+    {
+      "name": "West Coast",
+      "lat": -42.5638896,
+      "lng": 171.452334,
+      "districts": [
+        {
+          "name": "Greymouth",
+          "lat": -42.46667,
+          "lng": 171.2
+        },
+        {
+          "name": "Hokitika",
+          "lat": -42.71667,
+          "lng": 170.96667
+        },
+        {
+          "name": "Westport",
+          "lat": -41.75262,
+          "lng": 171.6037
+        }
+      ]
+    }
+  ]
+}

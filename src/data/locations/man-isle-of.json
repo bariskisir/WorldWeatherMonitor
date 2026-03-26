@@ -1,0 +1,129 @@
+{
+  "name": "Man (Isle of)",
+  "lat": 54.25,
+  "lng": -4.5,
+  "cities": [
+    {
+      "name": "Ayre",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "Andreas",
+          "lat": 54.368414,
+          "lng": -4.5211463
+        },
+        {
+          "name": "Bride",
+          "lat": 54.3831657,
+          "lng": -4.4080356
+        },
+        {
+          "name": "Lezayre",
+          "lat": 54.2962193,
+          "lng": -4.5311015
+        }
+      ]
+    },
+    {
+      "name": "Garff",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "Lonan",
+          "lat": 54.2210452,
+          "lng": -4.5010306
+        },
+        {
+          "name": "Maughold",
+          "lat": 54.2549454,
+          "lng": -4.5122349
+        },
+        {
+          "name": "Onchan",
+          "lat": 54.1981508,
+          "lng": -4.5490898
+        }
+      ]
+    },
+    {
+      "name": "Glenfaba",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "German",
+          "lat": 54.2187145,
+          "lng": -4.7065273
+        }
+      ]
+    },
+    {
+      "name": "Michael",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "Ballaugh",
+          "lat": 54.3048121,
+          "lng": -4.6207526
+        },
+        {
+          "name": "Jurby",
+          "lat": 54.3590528,
+          "lng": -4.5406586
+        },
+        {
+          "name": "Michael",
+          "lat": 54.2742778,
+          "lng": -4.6427325
+        }
+      ]
+    },
+    {
+      "name": "Middle",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "Braddan",
+          "lat": 54.1632828,
+          "lng": -4.5258506
+        },
+        {
+          "name": "Marown",
+          "lat": 54.1846242,
+          "lng": -4.6495218
+        },
+        {
+          "name": "Santon",
+          "lat": 54.1205489,
+          "lng": -4.6493775
+        }
+      ]
+    },
+    {
+      "name": "Rushen",
+      "lat": 54.2359207,
+      "lng": -4.5147669,
+      "districts": [
+        {
+          "name": "Arbory",
+          "lat": 54.1087807,
+          "lng": -4.8356454
+        },
+        {
+          "name": "Malew",
+          "lat": 54.1118049,
+          "lng": -4.8013827
+        },
+        {
+          "name": "Rushen",
+          "lat": 54.0908492,
+          "lng": -4.8414982
+        }
+      ]
+    }
+  ]
+}

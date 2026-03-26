@@ -1,0 +1,4291 @@
+{
+  "name": "Jamaica",
+  "lat": 18.25,
+  "lng": -77.5,
+  "cities": [
+    {
+      "name": "Clarendon",
+      "lat": 17.9518525,
+      "lng": -77.2719277,
+      "districts": [
+        {
+          "name": "Aenon Town",
+          "lat": 18.21027,
+          "lng": -77.39851
+        },
+        {
+          "name": "Alley",
+          "lat": 17.79036,
+          "lng": -77.27085
+        },
+        {
+          "name": "Alston",
+          "lat": 18.17639,
+          "lng": -77.43468
+        },
+        {
+          "name": "Ashley",
+          "lat": 18.0144,
+          "lng": -77.34019
+        },
+        {
+          "name": "Banks",
+          "lat": 17.83222,
+          "lng": -77.30731
+        },
+        {
+          "name": "Beckford Kraal",
+          "lat": 18.08545,
+          "lng": -77.32399
+        },
+        {
+          "name": "Brandon Hill",
+          "lat": 18.1511,
+          "lng": -77.23663
+        },
+        {
+          "name": "Brixton Hill",
+          "lat": 18.02039,
+          "lng": -77.31744
+        },
+        {
+          "name": "Bucknor",
+          "lat": 18.00619,
+          "lng": -77.23749
+        },
+        {
+          "name": "Bucks Common",
+          "lat": 17.98228,
+          "lng": -77.23846
+        },
+        {
+          "name": "Bushy Park",
+          "lat": 17.98243,
+          "lng": -77.25135
+        },
+        {
+          "name": "Chapelton",
+          "lat": 18.08333,
+          "lng": -77.26667
+        },
+        {
+          "name": "Chateau",
+          "lat": 17.98972,
+          "lng": -77.18737
+        },
+        {
+          "name": "Cockpit",
+          "lat": 17.88872,
+          "lng": -77.15835
+        },
+        {
+          "name": "Coffee Piece",
+          "lat": 18.13835,
+          "lng": -77.40648
+        },
+        {
+          "name": "Colonels Ridge",
+          "lat": 18.13525,
+          "lng": -77.2555
+        },
+        {
+          "name": "Coxswain",
+          "lat": 18.10272,
+          "lng": -77.23444
+        },
+        {
+          "name": "Crofts Hill",
+          "lat": 18.13268,
+          "lng": -77.20507
+        },
+        {
+          "name": "Crooked River",
+          "lat": 18.14289,
+          "lng": -77.3
+        },
+        {
+          "name": "Cumberland",
+          "lat": 18.10522,
+          "lng": -77.41617
+        },
+        {
+          "name": "Curatoe Hill",
+          "lat": 17.93982,
+          "lng": -77.24836
+        },
+        {
+          "name": "Dawkins",
+          "lat": 18.0554,
+          "lng": -77.33303
+        },
+        {
+          "name": "Effortville",
+          "lat": 17.9927,
+          "lng": -77.2186
+        },
+        {
+          "name": "Four Paths",
+          "lat": 17.97089,
+          "lng": -77.29599
+        },
+        {
+          "name": "Frankfield",
+          "lat": 18.14971,
+          "lng": -77.36498
+        },
+        {
+          "name": "Freetown",
+          "lat": 17.92192,
+          "lng": -77.14781
+        },
+        {
+          "name": "Gimme-me-bit",
+          "lat": 17.88946,
+          "lng": -77.28469
+        },
+        {
+          "name": "Glenmuir",
+          "lat": 17.96801,
+          "lng": -77.25394
+        },
+        {
+          "name": "Grantham",
+          "lat": 18.15839,
+          "lng": -77.39643
+        },
+        {
+          "name": "Gravel Hill",
+          "lat": 17.90968,
+          "lng": -77.33354
+        },
+        {
+          "name": "Hayes",
+          "lat": 17.87569,
+          "lng": -77.23711
+        },
+        {
+          "name": "Hazard",
+          "lat": 17.95382,
+          "lng": -77.23147
+        },
+        {
+          "name": "Inverness",
+          "lat": 17.91195,
+          "lng": -77.19032
+        },
+        {
+          "name": "James Hill",
+          "lat": 18.1875,
+          "lng": -77.337
+        },
+        {
+          "name": "Johns Hall",
+          "lat": 18.18876,
+          "lng": -77.38063
+        },
+        {
+          "name": "Kellits",
+          "lat": 18.16184,
+          "lng": -77.27049
+        },
+        {
+          "name": "Limit",
+          "lat": 18.15287,
+          "lng": -77.47121
+        },
+        {
+          "name": "Lionel Town",
+          "lat": 17.81007,
+          "lng": -77.24061
+        },
+        {
+          "name": "Longville Park",
+          "lat": 17.91188,
+          "lng": -77.15983
+        },
+        {
+          "name": "Longwood",
+          "lat": 17.80754,
+          "lng": -77.28728
+        },
+        {
+          "name": "May Pen",
+          "lat": 17.96454,
+          "lng": -77.24515
+        },
+        {
+          "name": "May Pen Proper",
+          "lat": 17.97034,
+          "lng": -77.23911
+        },
+        {
+          "name": "Milk River",
+          "lat": 17.8756,
+          "lng": -77.35139
+        },
+        {
+          "name": "Mineral Heights",
+          "lat": 17.94183,
+          "lng": -77.23276
+        },
+        {
+          "name": "Mitchell Town",
+          "lat": 17.81281,
+          "lng": -77.20531
+        },
+        {
+          "name": "Moores",
+          "lat": 18.02926,
+          "lng": -77.1854
+        },
+        {
+          "name": "Morgans Forest",
+          "lat": 18.19088,
+          "lng": -77.41021
+        },
+        {
+          "name": "Morgans Pass",
+          "lat": 18.12123,
+          "lng": -77.27493
+        },
+        {
+          "name": "Mount Airy",
+          "lat": 18.01843,
+          "lng": -77.36357
+        },
+        {
+          "name": "New Denbigh",
+          "lat": 17.98563,
+          "lng": -77.27104
+        },
+        {
+          "name": "New Longsville",
+          "lat": 18.03072,
+          "lng": -77.23048
+        },
+        {
+          "name": "Old Denbigh",
+          "lat": 17.96116,
+          "lng": -77.26701
+        },
+        {
+          "name": "Orange Hill",
+          "lat": 18.11788,
+          "lng": -77.35942
+        },
+        {
+          "name": "Osbourne Store",
+          "lat": 17.95892,
+          "lng": -77.32827
+        },
+        {
+          "name": "Paisley",
+          "lat": 17.96293,
+          "lng": -77.22368
+        },
+        {
+          "name": "Palmers Cross",
+          "lat": 17.95,
+          "lng": -77.20338
+        },
+        {
+          "name": "Part of Banana Ground",
+          "lat": 18.08022,
+          "lng": -77.40971
+        },
+        {
+          "name": "Part of Douglas Castle",
+          "lat": 18.18703,
+          "lng": -77.27538
+        },
+        {
+          "name": "Part of Kellits",
+          "lat": 18.17159,
+          "lng": -77.2512
+        },
+        {
+          "name": "Peckham",
+          "lat": 18.17147,
+          "lng": -77.39766
+        },
+        {
+          "name": "Pennants",
+          "lat": 18.11025,
+          "lng": -77.31306
+        },
+        {
+          "name": "Pleasant Valley",
+          "lat": 18.01101,
+          "lng": -77.29027
+        },
+        {
+          "name": "Portland Cottage",
+          "lat": 17.7462,
+          "lng": -77.18772
+        },
+        {
+          "name": "Porus",
+          "lat": 18.05202,
+          "lng": -77.40007
+        },
+        {
+          "name": "Race Course",
+          "lat": 17.84019,
+          "lng": -77.28223
+        },
+        {
+          "name": "Richmond Park",
+          "lat": 18.05172,
+          "lng": -77.37642
+        },
+        {
+          "name": "Ritchies",
+          "lat": 18.13904,
+          "lng": -77.42893
+        },
+        {
+          "name": "Rock",
+          "lat": 17.99122,
+          "lng": -77.33702
+        },
+        {
+          "name": "Rock River",
+          "lat": 18.06548,
+          "lng": -77.19707
+        },
+        {
+          "name": "Rocky Point",
+          "lat": 17.77695,
+          "lng": -77.24816
+        },
+        {
+          "name": "Salt River",
+          "lat": 17.84143,
+          "lng": -77.17413
+        },
+        {
+          "name": "Sandy Bay",
+          "lat": 17.95105,
+          "lng": -77.16225
+        },
+        {
+          "name": "Sanguinetti",
+          "lat": 18.15585,
+          "lng": -77.42938
+        },
+        {
+          "name": "Sedgepond",
+          "lat": 17.84753,
+          "lng": -77.32638
+        },
+        {
+          "name": "Silent Hill",
+          "lat": 18.19152,
+          "lng": -77.45918
+        },
+        {
+          "name": "Smithville",
+          "lat": 18.11977,
+          "lng": -77.38561
+        },
+        {
+          "name": "Spaldings",
+          "lat": 18.16875,
+          "lng": -77.45798
+        },
+        {
+          "name": "Summerfield",
+          "lat": 18.09433,
+          "lng": -77.28429
+        },
+        {
+          "name": "Thompson Town",
+          "lat": 18.08968,
+          "lng": -77.37186
+        },
+        {
+          "name": "Tollgate",
+          "lat": 17.97195,
+          "lng": -77.36566
+        },
+        {
+          "name": "Treadlight",
+          "lat": 17.99264,
+          "lng": -77.25531
+        },
+        {
+          "name": "Trout Hall",
+          "lat": 18.13779,
+          "lng": -77.33299
+        },
+        {
+          "name": "Turners",
+          "lat": 18.06647,
+          "lng": -77.23523
+        },
+        {
+          "name": "Water Lane",
+          "lat": 17.82452,
+          "lng": -77.25946
+        },
+        {
+          "name": "Woodhall",
+          "lat": 18.04757,
+          "lng": -77.27575
+        },
+        {
+          "name": "York Town",
+          "lat": 17.92515,
+          "lng": -77.30002
+        }
+      ]
+    },
+    {
+      "name": "Hanover",
+      "lat": 18.3850653,
+      "lng": -78.130993,
+      "districts": [
+        {
+          "name": "Askenish",
+          "lat": 18.38492,
+          "lng": -78.1491
+        },
+        {
+          "name": "Cacoon",
+          "lat": 18.41642,
+          "lng": -78.2073
+        },
+        {
+          "name": "Cacoon Castle",
+          "lat": 18.40247,
+          "lng": -78.01336
+        },
+        {
+          "name": "Cascade",
+          "lat": 18.39747,
+          "lng": -78.10337
+        },
+        {
+          "name": "Cash Hill",
+          "lat": 18.3692,
+          "lng": -78.10938
+        },
+        {
+          "name": "Cauldwell",
+          "lat": 18.38583,
+          "lng": -78.2411
+        },
+        {
+          "name": "Chambers Pen",
+          "lat": 18.4052,
+          "lng": -78.15975
+        },
+        {
+          "name": "Chester Castle",
+          "lat": 18.33822,
+          "lng": -77.94722
+        },
+        {
+          "name": "Copse",
+          "lat": 18.39466,
+          "lng": -77.97678
+        },
+        {
+          "name": "Cousins Cove",
+          "lat": 18.42425,
+          "lng": -78.23752
+        },
+        {
+          "name": "Dias",
+          "lat": 18.39379,
+          "lng": -78.18562
+        },
+        {
+          "name": "Great Valley",
+          "lat": 18.41169,
+          "lng": -78.05023
+        },
+        {
+          "name": "Green Island",
+          "lat": 18.38399,
+          "lng": -78.27015
+        },
+        {
+          "name": "Haddington",
+          "lat": 18.42043,
+          "lng": -78.00383
+        },
+        {
+          "name": "Hopewell",
+          "lat": 18.44321,
+          "lng": -78.02636
+        },
+        {
+          "name": "Jericho",
+          "lat": 18.43744,
+          "lng": -78.13028
+        },
+        {
+          "name": "Kendal",
+          "lat": 18.36287,
+          "lng": -78.2272
+        },
+        {
+          "name": "Kingsvale",
+          "lat": 18.38087,
+          "lng": -78.20523
+        },
+        {
+          "name": "Lances Bay",
+          "lat": 18.43819,
+          "lng": -78.21442
+        },
+        {
+          "name": "Logwood",
+          "lat": 18.34878,
+          "lng": -78.2962
+        },
+        {
+          "name": "Lucea",
+          "lat": 18.45095,
+          "lng": -78.17356
+        },
+        {
+          "name": "Lucea East",
+          "lat": 18.42198,
+          "lng": -78.16675
+        },
+        {
+          "name": "Lucea West",
+          "lat": 18.44238,
+          "lng": -78.18663
+        },
+        {
+          "name": "March Town",
+          "lat": 18.32951,
+          "lng": -78.27656
+        },
+        {
+          "name": "Maryland",
+          "lat": 18.38679,
+          "lng": -78.12825
+        },
+        {
+          "name": "Mount Peto",
+          "lat": 18.35747,
+          "lng": -78.02289
+        },
+        {
+          "name": "Orange Bay",
+          "lat": 18.34266,
+          "lng": -78.32005
+        },
+        {
+          "name": "Pell River",
+          "lat": 18.37886,
+          "lng": -78.21904
+        },
+        {
+          "name": "Pondside",
+          "lat": 18.40222,
+          "lng": -78.07344
+        },
+        {
+          "name": "Ramble",
+          "lat": 18.34674,
+          "lng": -77.98802
+        },
+        {
+          "name": "Rock Spring",
+          "lat": 18.34797,
+          "lng": -78.24392
+        },
+        {
+          "name": "Sandy Bay",
+          "lat": 18.4375,
+          "lng": -78.08383
+        },
+        {
+          "name": "Santoy",
+          "lat": 18.35875,
+          "lng": -78.28386
+        },
+        {
+          "name": "Success",
+          "lat": 18.37729,
+          "lng": -78.05105
+        },
+        {
+          "name": "Woodlands",
+          "lat": 18.44555,
+          "lng": -77.99963
+        },
+        {
+          "name": "Woodsville",
+          "lat": 18.3695,
+          "lng": -78.07217
+        }
+      ]
+    },
+    {
+      "name": "Kingston",
+      "lat": 17.9712148,
+      "lng": -76.7928128,
+      "districts": [
+        {
+          "name": "Fletchers Land",
+          "lat": 17.97968,
+          "lng": -76.791,
+          "iscapital": true
+        },
+        {
+          "name": "Kingston",
+          "lat": 17.99702,
+          "lng": -76.79358
+        },
+        {
+          "name": "Allman Town",
+          "lat": 17.98297,
+          "lng": -76.78685
+        },
+        {
+          "name": "Bournemouth Gardens",
+          "lat": 17.97009,
+          "lng": -76.76266
+        },
+        {
+          "name": "Campbell Town",
+          "lat": 17.97914,
+          "lng": -76.78134
+        },
+        {
+          "name": "Central Down Town",
+          "lat": 17.96958,
+          "lng": -76.79264
+        },
+        {
+          "name": "D'Aguilar Town/ Rennock Lodge",
+          "lat": 17.97001,
+          "lng": -76.73701
+        },
+        {
+          "name": "Denham Town",
+          "lat": 17.97812,
+          "lng": -76.79984
+        },
+        {
+          "name": "East Down Town",
+          "lat": 17.97197,
+          "lng": -76.78471
+        },
+        {
+          "name": "Franklyn Town",
+          "lat": 17.97787,
+          "lng": -76.77339
+        },
+        {
+          "name": "Hannah Town/ Craig Town",
+          "lat": 17.97998,
+          "lng": -76.7943
+        },
+        {
+          "name": "Johnson Town",
+          "lat": 17.97771,
+          "lng": -76.75593
+        },
+        {
+          "name": "Kingston Gardens",
+          "lat": 17.97836,
+          "lng": -76.78681
+        },
+        {
+          "name": "Manley Meadows",
+          "lat": 17.96907,
+          "lng": -76.77116
+        },
+        {
+          "name": "Newport East",
+          "lat": 17.97421,
+          "lng": -76.80663
+        },
+        {
+          "name": "Newton Square",
+          "lat": 17.97352,
+          "lng": -76.77207
+        },
+        {
+          "name": "Norman Gardens",
+          "lat": 17.97803,
+          "lng": -76.7594
+        },
+        {
+          "name": "Passmore Town",
+          "lat": 17.97301,
+          "lng": -76.7765
+        },
+        {
+          "name": "Port Royal",
+          "lat": 17.93738,
+          "lng": -76.84062
+        },
+        {
+          "name": "Rae Town",
+          "lat": 17.96773,
+          "lng": -76.77965
+        },
+        {
+          "name": "Rollington Town",
+          "lat": 17.97687,
+          "lng": -76.76523
+        },
+        {
+          "name": "Southside",
+          "lat": 17.96569,
+          "lng": -76.78624
+        },
+        {
+          "name": "Springfield",
+          "lat": 17.97117,
+          "lng": -76.75607
+        },
+        {
+          "name": "Tivoli Gardens",
+          "lat": 17.97326,
+          "lng": -76.8009
+        },
+        {
+          "name": "West Down Town",
+          "lat": 17.97294,
+          "lng": -76.79704
+        }
+      ]
+    },
+    {
+      "name": "Manchester",
+      "lat": 18.0499257,
+      "lng": -77.5110143,
+      "districts": [
+        {
+          "name": "Alligator Pond",
+          "lat": 17.88369,
+          "lng": -77.56068
+        },
+        {
+          "name": "Asia/Pratville",
+          "lat": 17.91584,
+          "lng": -77.41563
+        },
+        {
+          "name": "Auchtembeddie",
+          "lat": 18.22543,
+          "lng": -77.60361
+        },
+        {
+          "name": "Bellefield",
+          "lat": 18.09266,
+          "lng": -77.44004
+        },
+        {
+          "name": "Bethany",
+          "lat": 18.15373,
+          "lng": -77.55032
+        },
+        {
+          "name": "Blue Mountain",
+          "lat": 18.07095,
+          "lng": -77.4284
+        },
+        {
+          "name": "Bombay",
+          "lat": 18.1178,
+          "lng": -77.4494
+        },
+        {
+          "name": "Butt-Up",
+          "lat": 17.97313,
+          "lng": -77.57777
+        },
+        {
+          "name": "Cedar Grove",
+          "lat": 18.01225,
+          "lng": -77.4963
+        },
+        {
+          "name": "Chantilly",
+          "lat": 18.10447,
+          "lng": -77.46625
+        },
+        {
+          "name": "Christiana",
+          "lat": 18.18015,
+          "lng": -77.49045
+        },
+        {
+          "name": "Chudleigh",
+          "lat": 18.15148,
+          "lng": -77.50707
+        },
+        {
+          "name": "Cobbla",
+          "lat": 18.1406,
+          "lng": -77.46998
+        },
+        {
+          "name": "Coleyville",
+          "lat": 18.19993,
+          "lng": -77.51924
+        },
+        {
+          "name": "Comfort",
+          "lat": 18.0539,
+          "lng": -77.42477
+        },
+        {
+          "name": "Comfort Hall",
+          "lat": 18.18789,
+          "lng": -77.61041
+        },
+        {
+          "name": "Content",
+          "lat": 18.07444,
+          "lng": -77.45116
+        },
+        {
+          "name": "Craig Head",
+          "lat": 18.23658,
+          "lng": -77.56295
+        },
+        {
+          "name": "Cross Keys",
+          "lat": 17.90727,
+          "lng": -77.50111
+        },
+        {
+          "name": "Devon",
+          "lat": 18.16595,
+          "lng": -77.52507
+        },
+        {
+          "name": "Downs",
+          "lat": 17.95004,
+          "lng": -77.57313
+        },
+        {
+          "name": "Ellen Street",
+          "lat": 17.96796,
+          "lng": -77.43931
+        },
+        {
+          "name": "Evergreen",
+          "lat": 18.15096,
+          "lng": -77.59965
+        },
+        {
+          "name": "Fairfield",
+          "lat": 18.03117,
+          "lng": -77.57535
+        },
+        {
+          "name": "French Park",
+          "lat": 17.95572,
+          "lng": -77.54471
+        },
+        {
+          "name": "George's Valley",
+          "lat": 18.03172,
+          "lng": -77.48081
+        },
+        {
+          "name": "Good Intent",
+          "lat": 18.20806,
+          "lng": -77.57086
+        },
+        {
+          "name": "Greenvale",
+          "lat": 18.03928,
+          "lng": -77.53239
+        },
+        {
+          "name": "Grove Place",
+          "lat": 18.10467,
+          "lng": -77.52923
+        },
+        {
+          "name": "Grove Town",
+          "lat": 17.88606,
+          "lng": -77.45882
+        },
+        {
+          "name": "Harmons",
+          "lat": 17.98171,
+          "lng": -77.41208
+        },
+        {
+          "name": "Harry Watch",
+          "lat": 18.17314,
+          "lng": -77.57611
+        },
+        {
+          "name": "Hatfield",
+          "lat": 18.01557,
+          "lng": -77.54009
+        },
+        {
+          "name": "Heartease",
+          "lat": 18.04878,
+          "lng": -77.48238
+        },
+        {
+          "name": "Hibernia",
+          "lat": 18.17575,
+          "lng": -77.5483
+        },
+        {
+          "name": "Huntley",
+          "lat": 18.06647,
+          "lng": -77.58171
+        },
+        {
+          "name": "Kendal",
+          "lat": 18.08318,
+          "lng": -77.5032
+        },
+        {
+          "name": "Knockpatrick",
+          "lat": 17.99027,
+          "lng": -77.4927
+        },
+        {
+          "name": "Lancaster",
+          "lat": 17.93603,
+          "lng": -77.46134
+        },
+        {
+          "name": "Litchfield",
+          "lat": 18.13502,
+          "lng": -77.52448
+        },
+        {
+          "name": "Maidstone",
+          "lat": 18.10165,
+          "lng": -77.57284
+        },
+        {
+          "name": "Mandeville",
+          "lat": 18.04168,
+          "lng": -77.50714
+        },
+        {
+          "name": "Mandeville Proper",
+          "lat": 18.04453,
+          "lng": -77.50574
+        },
+        {
+          "name": "Marlie Hill",
+          "lat": 17.86692,
+          "lng": -77.50835
+        },
+        {
+          "name": "May Day",
+          "lat": 18.00951,
+          "lng": -77.47606
+        },
+        {
+          "name": "Medina",
+          "lat": 18.12236,
+          "lng": -77.59643
+        },
+        {
+          "name": "Mike Town",
+          "lat": 18.04253,
+          "lng": -77.5549
+        },
+        {
+          "name": "Mile Gully",
+          "lat": 18.13395,
+          "lng": -77.56556
+        },
+        {
+          "name": "New Forest",
+          "lat": 17.9201,
+          "lng": -77.55867
+        },
+        {
+          "name": "New Green",
+          "lat": 18.07663,
+          "lng": -77.52569
+        },
+        {
+          "name": "Newport",
+          "lat": 17.96293,
+          "lng": -77.50486
+        },
+        {
+          "name": "Old England",
+          "lat": 17.98503,
+          "lng": -77.46017
+        },
+        {
+          "name": "Part Of Banana Ground",
+          "lat": 18.07912,
+          "lng": -77.42134
+        },
+        {
+          "name": "Part Of Gutters",
+          "lat": 18.00642,
+          "lng": -77.57903
+        },
+        {
+          "name": "Part of Spaldings",
+          "lat": 18.15819,
+          "lng": -77.46627
+        },
+        {
+          "name": "Pike",
+          "lat": 18.23229,
+          "lng": -77.5379
+        },
+        {
+          "name": "Plowden",
+          "lat": 17.89178,
+          "lng": -77.53846
+        },
+        {
+          "name": "Porus",
+          "lat": 18.03535,
+          "lng": -77.41166
+        },
+        {
+          "name": "Prospect",
+          "lat": 17.98244,
+          "lng": -77.56775
+        },
+        {
+          "name": "Richmond",
+          "lat": 18.0256,
+          "lng": -77.46337
+        },
+        {
+          "name": "Robins Hall",
+          "lat": 18.20405,
+          "lng": -77.55007
+        },
+        {
+          "name": "Rose Hill",
+          "lat": 17.92471,
+          "lng": -77.5234
+        },
+        {
+          "name": "Royal Flat",
+          "lat": 18.04965,
+          "lng": -77.4683
+        },
+        {
+          "name": "Scotts Pass",
+          "lat": 17.9992,
+          "lng": -77.3982
+        },
+        {
+          "name": "Snowdon",
+          "lat": 17.94198,
+          "lng": -77.49137
+        },
+        {
+          "name": "Somerset",
+          "lat": 18.08036,
+          "lng": -77.54306
+        },
+        {
+          "name": "Spring Ground",
+          "lat": 18.16233,
+          "lng": -77.47977
+        },
+        {
+          "name": "Spur Tree",
+          "lat": 18.0065,
+          "lng": -77.55664
+        },
+        {
+          "name": "St. Paul's",
+          "lat": 18.13144,
+          "lng": -77.612
+        },
+        {
+          "name": "Swaby's Hope",
+          "lat": 17.98608,
+          "lng": -77.53326
+        },
+        {
+          "name": "Top Hill",
+          "lat": 18.11622,
+          "lng": -77.50344
+        },
+        {
+          "name": "Victoria Town",
+          "lat": 17.90472,
+          "lng": -77.37795
+        },
+        {
+          "name": "Walderston",
+          "lat": 18.11637,
+          "lng": -77.48614
+        },
+        {
+          "name": "Watham",
+          "lat": 18.00675,
+          "lng": -77.51873
+        },
+        {
+          "name": "Williamsfield",
+          "lat": 18.06664,
+          "lng": -77.46582
+        }
+      ]
+    },
+    {
+      "name": "Portland",
+      "lat": 18.1268206,
+      "lng": -76.5374012,
+      "districts": [
+        {
+          "name": "Balcarres",
+          "lat": 18.16735,
+          "lng": -76.72061
+        },
+        {
+          "name": "Bangor Ridge",
+          "lat": 18.13637,
+          "lng": -76.68903
+        },
+        {
+          "name": "Belvedere",
+          "lat": 18.20772,
+          "lng": -76.69671
+        },
+        {
+          "name": "Black Hill",
+          "lat": 18.21786,
+          "lng": -76.59758
+        },
+        {
+          "name": "Boundbrook",
+          "lat": 18.17573,
+          "lng": -76.47079
+        },
+        {
+          "name": "Breastworks",
+          "lat": 18.16,
+          "lng": -76.46612
+        },
+        {
+          "name": "Buff Bay",
+          "lat": 18.23287,
+          "lng": -76.66118
+        },
+        {
+          "name": "Bybrook",
+          "lat": 18.14641,
+          "lng": -76.65726
+        },
+        {
+          "name": "Cascade",
+          "lat": 18.09377,
+          "lng": -76.71223
+        },
+        {
+          "name": "Castle Comfort",
+          "lat": 18.14217,
+          "lng": -76.34634
+        },
+        {
+          "name": "Central Port Antonio",
+          "lat": 18.18763,
+          "lng": -76.45343
+        },
+        {
+          "name": "Charles Town",
+          "lat": 18.20526,
+          "lng": -76.6639
+        },
+        {
+          "name": "Claverty Cottage",
+          "lat": 18.14876,
+          "lng": -76.63923
+        },
+        {
+          "name": "Comfort Castle",
+          "lat": 18.04833,
+          "lng": -76.41614
+        },
+        {
+          "name": "Drapers",
+          "lat": 18.17121,
+          "lng": -76.40612
+        },
+        {
+          "name": "Durham",
+          "lat": 18.08566,
+          "lng": -76.51562
+        },
+        {
+          "name": "Fairy Hill",
+          "lat": 18.16508,
+          "lng": -76.36595
+        },
+        {
+          "name": "Fellowship",
+          "lat": 18.12783,
+          "lng": -76.47202
+        },
+        {
+          "name": "Fruitfulvale",
+          "lat": 18.10891,
+          "lng": -76.58617
+        },
+        {
+          "name": "Hectors River",
+          "lat": 18.00089,
+          "lng": -76.27055
+        },
+        {
+          "name": "Hope Bay",
+          "lat": 18.18754,
+          "lng": -76.57579
+        },
+        {
+          "name": "Kensington",
+          "lat": 18.06765,
+          "lng": -76.30053
+        },
+        {
+          "name": "Long Bay",
+          "lat": 18.08581,
+          "lng": -76.32515
+        },
+        {
+          "name": "Long Road",
+          "lat": 18.00864,
+          "lng": -76.29482
+        },
+        {
+          "name": "Manchioneal",
+          "lat": 18.04444,
+          "lng": -76.27735
+        },
+        {
+          "name": "Moore Town",
+          "lat": 18.07767,
+          "lng": -76.42577
+        },
+        {
+          "name": "Mount Pleasant",
+          "lat": 18.16325,
+          "lng": -76.50472
+        },
+        {
+          "name": "Nonsuch",
+          "lat": 18.13819,
+          "lng": -76.40467
+        },
+        {
+          "name": "Norwich",
+          "lat": 18.18819,
+          "lng": -76.47705
+        },
+        {
+          "name": "Orange Bay",
+          "lat": 18.20306,
+          "lng": -76.6225
+        },
+        {
+          "name": "Port Antonio",
+          "lat": 18.17615,
+          "lng": -76.4509
+        },
+        {
+          "name": "Prospect",
+          "lat": 18.17481,
+          "lng": -76.4355
+        },
+        {
+          "name": "Rock Hall",
+          "lat": 18.1617,
+          "lng": -76.5305
+        },
+        {
+          "name": "Sherwood Forest",
+          "lat": 18.15428,
+          "lng": -76.37821
+        },
+        {
+          "name": "Shirley Castle",
+          "lat": 18.15657,
+          "lng": -76.61112
+        },
+        {
+          "name": "Skibo",
+          "lat": 18.17318,
+          "lng": -76.62752
+        },
+        {
+          "name": "Snow Hill",
+          "lat": 18.19474,
+          "lng": -76.4935
+        },
+        {
+          "name": "Spring Hill",
+          "lat": 18.12591,
+          "lng": -76.72909
+        },
+        {
+          "name": "St. Margaret's Bay",
+          "lat": 18.19084,
+          "lng": -76.52888
+        },
+        {
+          "name": "Swift River",
+          "lat": 18.1577,
+          "lng": -76.57869
+        },
+        {
+          "name": "Tranquility",
+          "lat": 18.18028,
+          "lng": -76.6815
+        },
+        {
+          "name": "Windsor",
+          "lat": 18.10673,
+          "lng": -76.44631
+        },
+        {
+          "name": "Windsor Castle",
+          "lat": 18.24888,
+          "lng": -76.69029
+        },
+        {
+          "name": "Windsor Forest",
+          "lat": 18.12057,
+          "lng": -76.33876
+        }
+      ]
+    },
+    {
+      "name": "Saint Andrew",
+      "lat": 18.0589648,
+      "lng": -76.7607767,
+      "districts": [
+        {
+          "name": "Arnett Gardens",
+          "lat": 17.9915,
+          "lng": -76.79829
+        },
+        {
+          "name": "Grants Pen",
+          "lat": 18.03258,
+          "lng": -76.78887
+        },
+        {
+          "name": "Jones Town",
+          "lat": 17.98422,
+          "lng": -76.79691
+        },
+        {
+          "name": "New Kingston",
+          "lat": 18.00747,
+          "lng": -76.78319
+        },
+        {
+          "name": "Oaklands",
+          "lat": 18.03558,
+          "lng": -76.79563
+        },
+        {
+          "name": "Arcadia",
+          "lat": 18.03737,
+          "lng": -76.78201
+        },
+        {
+          "name": "Arlene Gardens",
+          "lat": 18.03713,
+          "lng": -76.81791
+        },
+        {
+          "name": "August Town",
+          "lat": 17.99556,
+          "lng": -76.73673
+        },
+        {
+          "name": "Barbican",
+          "lat": 18.03549,
+          "lng": -76.76987
+        },
+        {
+          "name": "Beverley Hills",
+          "lat": 18.00833,
+          "lng": -76.76208
+        },
+        {
+          "name": "Bito",
+          "lat": 17.97363,
+          "lng": -76.66625
+        },
+        {
+          "name": "Bloxborough",
+          "lat": 17.99581,
+          "lng": -76.64767
+        },
+        {
+          "name": "Boucher Park",
+          "lat": 18.00344,
+          "lng": -76.81257
+        },
+        {
+          "name": "Brandon Hill",
+          "lat": 18.14822,
+          "lng": -76.80513
+        },
+        {
+          "name": "Bull Bay/ Seven Mile",
+          "lat": 17.95247,
+          "lng": -76.68404
+        },
+        {
+          "name": "Cane River",
+          "lat": 17.98098,
+          "lng": -76.68624
+        },
+        {
+          "name": "Cassia Park",
+          "lat": 18.02047,
+          "lng": -76.80665
+        },
+        {
+          "name": "Cavaliers",
+          "lat": 18.09677,
+          "lng": -76.84321
+        },
+        {
+          "name": "Cherry Gardens",
+          "lat": 18.04963,
+          "lng": -76.77867
+        },
+        {
+          "name": "Cockburn Gardens",
+          "lat": 18.00357,
+          "lng": -76.82435
+        },
+        {
+          "name": "Constant Spring",
+          "lat": 18.05078,
+          "lng": -76.79372
+        },
+        {
+          "name": "Constant Spring Gardens",
+          "lat": 18.02942,
+          "lng": -76.79956
+        },
+        {
+          "name": "Constitution Hill",
+          "lat": 18.01488,
+          "lng": -76.70515
+        },
+        {
+          "name": "Content Gap",
+          "lat": 18.04082,
+          "lng": -76.6907
+        },
+        {
+          "name": "Cooreville Gardens",
+          "lat": 18.02244,
+          "lng": -76.84852
+        },
+        {
+          "name": "Cross Roads",
+          "lat": 17.99454,
+          "lng": -76.7881
+        },
+        {
+          "name": "Dallas",
+          "lat": 17.98463,
+          "lng": -76.71256
+        },
+        {
+          "name": "Delacree Park/ Union Gardens",
+          "lat": 17.9921,
+          "lng": -76.8224
+        },
+        {
+          "name": "Delacree Pen",
+          "lat": 17.99579,
+          "lng": -76.81709
+        },
+        {
+          "name": "Drewsland",
+          "lat": 18.02381,
+          "lng": -76.82626
+        },
+        {
+          "name": "Drumblair",
+          "lat": 18.02354,
+          "lng": -76.78759
+        },
+        {
+          "name": "Duhaney Park",
+          "lat": 18.03086,
+          "lng": -76.84617
+        },
+        {
+          "name": "Eastwood Park Gardens",
+          "lat": 18.01891,
+          "lng": -76.80072
+        },
+        {
+          "name": "Elleston Flats/ Mona Commons",
+          "lat": 18.00945,
+          "lng": -76.74034
+        },
+        {
+          "name": "Ferry",
+          "lat": 18.02771,
+          "lng": -76.8672
+        },
+        {
+          "name": "Forest Hills Gardens",
+          "lat": 18.03848,
+          "lng": -76.82868
+        },
+        {
+          "name": "Forest Hills/ Plantation Height",
+          "lat": 18.043,
+          "lng": -76.8514
+        },
+        {
+          "name": "Golden Spring",
+          "lat": 18.09446,
+          "lng": -76.79727
+        },
+        {
+          "name": "Gordon Town",
+          "lat": 18.03762,
+          "lng": -76.72353
+        },
+        {
+          "name": "Greenwich Town/ Newport West",
+          "lat": 17.98438,
+          "lng": -76.82559
+        },
+        {
+          "name": "Half Way Tree",
+          "lat": 18.01248,
+          "lng": -76.79928
+        },
+        {
+          "name": "Harbour View",
+          "lat": 17.95146,
+          "lng": -76.71662
+        },
+        {
+          "name": "Havendale",
+          "lat": 18.05429,
+          "lng": -76.8087
+        },
+        {
+          "name": "Hermitage",
+          "lat": 17.98351,
+          "lng": -76.74102
+        },
+        {
+          "name": "Hope Pastures/ UTECH",
+          "lat": 18.02306,
+          "lng": -76.74987
+        },
+        {
+          "name": "Hope Tavern",
+          "lat": 18.01233,
+          "lng": -76.73202
+        },
+        {
+          "name": "Hughenden",
+          "lat": 18.03037,
+          "lng": -76.81728
+        },
+        {
+          "name": "Irish Town",
+          "lat": 18.06234,
+          "lng": -76.70262
+        },
+        {
+          "name": "Jacks Hill",
+          "lat": 18.03872,
+          "lng": -76.74892
+        },
+        {
+          "name": "Kencot",
+          "lat": 18.00041,
+          "lng": -76.79835
+        },
+        {
+          "name": "Kintyre",
+          "lat": 18.02133,
+          "lng": -76.72688
+        },
+        {
+          "name": "Lawrence Tavern",
+          "lat": 18.13742,
+          "lng": -76.84736
+        },
+        {
+          "name": "Liguanea",
+          "lat": 18.02097,
+          "lng": -76.76827
+        },
+        {
+          "name": "Majestic Gardens",
+          "lat": 18.00023,
+          "lng": -76.83295
+        },
+        {
+          "name": "Mannings Hill",
+          "lat": 18.07052,
+          "lng": -76.81288
+        },
+        {
+          "name": "Mannings Hill (Rural)",
+          "lat": 18.08169,
+          "lng": -76.82328
+        },
+        {
+          "name": "Marverley",
+          "lat": 18.02676,
+          "lng": -76.82652
+        },
+        {
+          "name": "Maryland",
+          "lat": 18.05166,
+          "lng": -76.7432
+        },
+        {
+          "name": "Mavis Bank",
+          "lat": 18.03333,
+          "lng": -76.66667
+        },
+        {
+          "name": "Maxfield Park",
+          "lat": 17.99937,
+          "lng": -76.808
+        },
+        {
+          "name": "Meadowbrook",
+          "lat": 18.04708,
+          "lng": -76.81553
+        },
+        {
+          "name": "Meadowbrook Estate",
+          "lat": 18.03738,
+          "lng": -76.82964
+        },
+        {
+          "name": "Molynes Four Roads",
+          "lat": 18.01035,
+          "lng": -76.81112
+        },
+        {
+          "name": "Molynes Gardens",
+          "lat": 18.0198,
+          "lng": -76.81621
+        },
+        {
+          "name": "Mona Heights",
+          "lat": 18.01331,
+          "lng": -76.75086
+        },
+        {
+          "name": "Mount James",
+          "lat": 18.12069,
+          "lng": -76.77394
+        },
+        {
+          "name": "Mountain View Gardens",
+          "lat": 17.99186,
+          "lng": -76.7607
+        },
+        {
+          "name": "Nannyville",
+          "lat": 17.99677,
+          "lng": -76.76949
+        },
+        {
+          "name": "New Haven",
+          "lat": 18.02953,
+          "lng": -76.85425
+        },
+        {
+          "name": "Norbrook",
+          "lat": 18.05483,
+          "lng": -76.78498
+        },
+        {
+          "name": "Papine",
+          "lat": 18.01536,
+          "lng": -76.73868
+        },
+        {
+          "name": "Parks Road",
+          "lat": 18.09802,
+          "lng": -76.85941
+        },
+        {
+          "name": "Patrick City",
+          "lat": 18.03185,
+          "lng": -76.83774
+        },
+        {
+          "name": "Pembroke Hall",
+          "lat": 18.03113,
+          "lng": -76.83003
+        },
+        {
+          "name": "Penwood",
+          "lat": 18.01952,
+          "lng": -76.83094
+        },
+        {
+          "name": "Queensborough/ Tunbridge",
+          "lat": 18.04289,
+          "lng": -76.82119
+        },
+        {
+          "name": "Red Hills (Rural)",
+          "lat": 18.06777,
+          "lng": -76.86093
+        },
+        {
+          "name": "Red Hills Gardens",
+          "lat": 18.03,
+          "lng": -76.80994
+        },
+        {
+          "name": "Red Hills/ Sterling Castle",
+          "lat": 18.05946,
+          "lng": -76.84028
+        },
+        {
+          "name": "Richmond Park",
+          "lat": 18.0056,
+          "lng": -76.80464
+        },
+        {
+          "name": "Riverton City",
+          "lat": 18.01443,
+          "lng": -76.84897
+        },
+        {
+          "name": "Roehampton",
+          "lat": 18.0432,
+          "lng": -76.80841
+        },
+        {
+          "name": "Rose Town",
+          "lat": 17.98697,
+          "lng": -76.80726
+        },
+        {
+          "name": "Seaview Gardens",
+          "lat": 18.00619,
+          "lng": -76.84106
+        },
+        {
+          "name": "Seaward Pen",
+          "lat": 18.019,
+          "lng": -76.82368
+        },
+        {
+          "name": "Seymour Lands",
+          "lat": 18.01291,
+          "lng": -76.77706
+        },
+        {
+          "name": "St. Peter's",
+          "lat": 18.07881,
+          "lng": -76.67202
+        },
+        {
+          "name": "Stadium Gardens",
+          "lat": 17.99501,
+          "lng": -76.77644
+        },
+        {
+          "name": "Stony Hill",
+          "lat": 18.07916,
+          "lng": -76.78473
+        },
+        {
+          "name": "Swallowfield",
+          "lat": 18.00486,
+          "lng": -76.77439
+        },
+        {
+          "name": "Temple Hall",
+          "lat": 18.10471,
+          "lng": -76.81818
+        },
+        {
+          "name": "Three Oaks/ Glendale",
+          "lat": 18.03128,
+          "lng": -76.82447
+        },
+        {
+          "name": "Tower Hill",
+          "lat": 18.01183,
+          "lng": -76.82807
+        },
+        {
+          "name": "Trafalgar Park",
+          "lat": 18.0128,
+          "lng": -76.78465
+        },
+        {
+          "name": "Trench Town",
+          "lat": 17.98743,
+          "lng": -76.80118
+        },
+        {
+          "name": "University",
+          "lat": 18.00094,
+          "lng": -76.74769
+        },
+        {
+          "name": "Vineyard Town",
+          "lat": 17.9869,
+          "lng": -76.77059
+        },
+        {
+          "name": "Waltham Gardens",
+          "lat": 18.01085,
+          "lng": -76.82049
+        },
+        {
+          "name": "Washington Gardens",
+          "lat": 18.02174,
+          "lng": -76.8402
+        },
+        {
+          "name": "Waterhouse",
+          "lat": 18.01231,
+          "lng": -76.83505
+        },
+        {
+          "name": "Whitehall",
+          "lat": 18.03838,
+          "lng": -76.80583
+        },
+        {
+          "name": "Whitfield Town",
+          "lat": 17.99212,
+          "lng": -76.8091
+        },
+        {
+          "name": "Wilton Gardens/ Rema",
+          "lat": 17.98287,
+          "lng": -76.80422
+        },
+        {
+          "name": "Woodford",
+          "lat": 18.07362,
+          "lng": -76.74632
+        },
+        {
+          "name": "Woodford Park",
+          "lat": 17.98712,
+          "lng": -76.78117
+        },
+        {
+          "name": "Zaidie Gardens",
+          "lat": 18.02566,
+          "lng": -76.80978
+        }
+      ]
+    },
+    {
+      "name": "Saint Ann",
+      "lat": 18.32993,
+      "lng": -77.2541816,
+      "districts": [
+        {
+          "name": "Aboukir",
+          "lat": 18.2509,
+          "lng": -77.34327
+        },
+        {
+          "name": "Alderton",
+          "lat": 18.28706,
+          "lng": -77.20832
+        },
+        {
+          "name": "Alexandria",
+          "lat": 18.30411,
+          "lng": -77.35311
+        },
+        {
+          "name": "Alva",
+          "lat": 18.29679,
+          "lng": -77.31717
+        },
+        {
+          "name": "Bamboo",
+          "lat": 18.39216,
+          "lng": -77.26429
+        },
+        {
+          "name": "Beecher Town",
+          "lat": 18.38465,
+          "lng": -77.11617
+        },
+        {
+          "name": "Bensonton",
+          "lat": 18.22315,
+          "lng": -77.20861
+        },
+        {
+          "name": "Blackstonedge",
+          "lat": 18.27357,
+          "lng": -77.04254
+        },
+        {
+          "name": "Bohemia",
+          "lat": 18.21239,
+          "lng": -77.46954
+        },
+        {
+          "name": "Borobridge",
+          "lat": 18.19779,
+          "lng": -77.42755
+        },
+        {
+          "name": "Browns Town",
+          "lat": 18.38464,
+          "lng": -77.35286
+        },
+        {
+          "name": "Calderwood",
+          "lat": 18.25641,
+          "lng": -77.27144
+        },
+        {
+          "name": "Cascade",
+          "lat": 18.23209,
+          "lng": -77.46255
+        },
+        {
+          "name": "Cave Valley",
+          "lat": 18.23268,
+          "lng": -77.36337
+        },
+        {
+          "name": "Chalky Hill",
+          "lat": 18.37964,
+          "lng": -77.1752
+        },
+        {
+          "name": "Chester",
+          "lat": 18.44786,
+          "lng": -77.26503
+        },
+        {
+          "name": "Claremont",
+          "lat": 18.32556,
+          "lng": -77.20643
+        },
+        {
+          "name": "Cole Gate",
+          "lat": 18.37967,
+          "lng": -77.08518
+        },
+        {
+          "name": "Content Garden",
+          "lat": 18.40977,
+          "lng": -77.0754
+        },
+        {
+          "name": "Cuffie Ridge",
+          "lat": 18.22793,
+          "lng": -77.42054
+        },
+        {
+          "name": "Discovery Bay",
+          "lat": 18.43725,
+          "lng": -77.41815
+        },
+        {
+          "name": "Epworth",
+          "lat": 18.36083,
+          "lng": -77.13342
+        },
+        {
+          "name": "Exchange",
+          "lat": 18.37265,
+          "lng": -77.06572
+        },
+        {
+          "name": "Faith's Pen",
+          "lat": 18.22963,
+          "lng": -77.08804
+        },
+        {
+          "name": "Gibraltar",
+          "lat": 18.35079,
+          "lng": -77.42142
+        },
+        {
+          "name": "Golden Grove",
+          "lat": 18.32956,
+          "lng": -77.12256
+        },
+        {
+          "name": "Great Pond",
+          "lat": 18.40227,
+          "lng": -77.08511
+        },
+        {
+          "name": "Higgin Land",
+          "lat": 18.34119,
+          "lng": -77.27072
+        },
+        {
+          "name": "Hinds Town",
+          "lat": 18.35425,
+          "lng": -77.09812
+        },
+        {
+          "name": "Inverness",
+          "lat": 18.27531,
+          "lng": -77.36862
+        },
+        {
+          "name": "Lime Hall",
+          "lat": 18.39742,
+          "lng": -77.21051
+        },
+        {
+          "name": "Lime Tree Gardens",
+          "lat": 18.34545,
+          "lng": -77.38645
+        },
+        {
+          "name": "Linton Park",
+          "lat": 18.26081,
+          "lng": -77.42221
+        },
+        {
+          "name": "Macknie",
+          "lat": 18.21191,
+          "lng": -77.28016
+        },
+        {
+          "name": "Madras",
+          "lat": 18.29112,
+          "lng": -77.44875
+        },
+        {
+          "name": "Mansfield",
+          "lat": 18.40265,
+          "lng": -77.09488
+        },
+        {
+          "name": "Moneague",
+          "lat": 18.28307,
+          "lng": -77.13855
+        },
+        {
+          "name": "Mount Moriah",
+          "lat": 18.20617,
+          "lng": -77.44094
+        },
+        {
+          "name": "Mount Zion",
+          "lat": 18.43377,
+          "lng": -77.28028
+        },
+        {
+          "name": "Ocho Rios",
+          "lat": 18.4076,
+          "lng": -77.10312
+        },
+        {
+          "name": "Parry Town",
+          "lat": 18.38359,
+          "lng": -77.10345
+        },
+        {
+          "name": "Philadelphia",
+          "lat": 18.40005,
+          "lng": -77.32735
+        },
+        {
+          "name": "Pimento Walk",
+          "lat": 18.39578,
+          "lng": -77.11383
+        },
+        {
+          "name": "Priory",
+          "lat": 18.4366,
+          "lng": -77.24551
+        },
+        {
+          "name": "River Head",
+          "lat": 18.2603,
+          "lng": -77.07782
+        },
+        {
+          "name": "Runaway Bay",
+          "lat": 18.45962,
+          "lng": -77.3357
+        },
+        {
+          "name": "Saint Ann’s Bay",
+          "lat": 18.43581,
+          "lng": -77.20098
+        },
+        {
+          "name": "St. Ann's Bay",
+          "lat": 18.42989,
+          "lng": -77.20775
+        },
+        {
+          "name": "St. D'Acre",
+          "lat": 18.333,
+          "lng": -77.36297
+        },
+        {
+          "name": "Steer Town",
+          "lat": 18.42852,
+          "lng": -77.17101
+        },
+        {
+          "name": "Sturge Town",
+          "lat": 18.41631,
+          "lng": -77.31988
+        },
+        {
+          "name": "Walkers Wood",
+          "lat": 18.31939,
+          "lng": -77.07082
+        },
+        {
+          "name": "Watt Town",
+          "lat": 18.29427,
+          "lng": -77.41466
+        },
+        {
+          "name": "York Castle",
+          "lat": 18.27515,
+          "lng": -77.22923
+        }
+      ]
+    },
+    {
+      "name": "Saint Catherine",
+      "lat": 18.0471737,
+      "lng": -77.0333852,
+      "districts": [
+        {
+          "name": "Braeton",
+          "lat": 17.94174,
+          "lng": -76.88635
+        },
+        {
+          "name": "Cumberland",
+          "lat": 17.9765,
+          "lng": -76.88208
+        },
+        {
+          "name": "Gregory Park",
+          "lat": 17.9949,
+          "lng": -76.88302
+        },
+        {
+          "name": "Naggo Head",
+          "lat": 17.96415,
+          "lng": -76.8882
+        },
+        {
+          "name": "Portmore",
+          "lat": 17.95032,
+          "lng": -76.88215
+        },
+        {
+          "name": "Spanish Town",
+          "lat": 17.99107,
+          "lng": -76.95742
+        },
+        {
+          "name": "Above Rocks",
+          "lat": 18.11432,
+          "lng": -76.8759
+        },
+        {
+          "name": "Bartons",
+          "lat": 18.02895,
+          "lng": -77.13322
+        },
+        {
+          "name": "Bellas Gate",
+          "lat": 18.04715,
+          "lng": -77.14906
+        },
+        {
+          "name": "Bog Walk",
+          "lat": 18.10205,
+          "lng": -77.00541
+        },
+        {
+          "name": "Bridgeport",
+          "lat": 17.96264,
+          "lng": -76.87809
+        },
+        {
+          "name": "Browns Hill",
+          "lat": 18.05358,
+          "lng": -77.11855
+        },
+        {
+          "name": "Caymanas",
+          "lat": 18.03824,
+          "lng": -76.89833
+        },
+        {
+          "name": "Central Village",
+          "lat": 17.99992,
+          "lng": -76.92393
+        },
+        {
+          "name": "Crescent",
+          "lat": 18.03621,
+          "lng": -76.97626
+        },
+        {
+          "name": "Cromarty",
+          "lat": 17.9584,
+          "lng": -76.98457
+        },
+        {
+          "name": "Edgewater",
+          "lat": 17.96448,
+          "lng": -76.86547
+        },
+        {
+          "name": "Ensom",
+          "lat": 18.01778,
+          "lng": -76.96221
+        },
+        {
+          "name": "Ewarton",
+          "lat": 18.18333,
+          "lng": -77.08536
+        },
+        {
+          "name": "Ginger Ridge",
+          "lat": 18.07688,
+          "lng": -77.16865
+        },
+        {
+          "name": "Glengoffe",
+          "lat": 18.15214,
+          "lng": -76.89057
+        },
+        {
+          "name": "Golden Acres",
+          "lat": 18.0195,
+          "lng": -76.9804
+        },
+        {
+          "name": "Greater Portmore",
+          "lat": 17.95228,
+          "lng": -76.91133
+        },
+        {
+          "name": "Greendale",
+          "lat": 18.01251,
+          "lng": -76.94831
+        },
+        {
+          "name": "Hampton Green",
+          "lat": 18.00544,
+          "lng": -76.96818
+        },
+        {
+          "name": "Harewood",
+          "lat": 18.17277,
+          "lng": -76.94395
+        },
+        {
+          "name": "Harkers Hall",
+          "lat": 18.13149,
+          "lng": -76.9135
+        },
+        {
+          "name": "Hellshire",
+          "lat": 17.89669,
+          "lng": -76.96187
+        },
+        {
+          "name": "Independence City",
+          "lat": 17.97783,
+          "lng": -76.87498
+        },
+        {
+          "name": "Keystone",
+          "lat": 18.01652,
+          "lng": -76.93525
+        },
+        {
+          "name": "Kitson Town",
+          "lat": 18.03487,
+          "lng": -77.04028
+        },
+        {
+          "name": "Linstead",
+          "lat": 18.13683,
+          "lng": -77.03171
+        },
+        {
+          "name": "Lluidas Vale",
+          "lat": 18.14977,
+          "lng": -77.16853
+        },
+        {
+          "name": "Old Harbour",
+          "lat": 17.94144,
+          "lng": -77.10898
+        },
+        {
+          "name": "Old Harbour Bay",
+          "lat": 17.90918,
+          "lng": -77.09718
+        },
+        {
+          "name": "Old Harbour Road",
+          "lat": 17.95797,
+          "lng": -77.0273
+        },
+        {
+          "name": "Part of Guys Hill",
+          "lat": 18.24525,
+          "lng": -76.99081
+        },
+        {
+          "name": "Part of Keystone",
+          "lat": 18.03965,
+          "lng": -76.95113
+        },
+        {
+          "name": "Part of Rock Hall",
+          "lat": 18.09119,
+          "lng": -76.88804
+        },
+        {
+          "name": "Passage Fort",
+          "lat": 17.97788,
+          "lng": -76.86793
+        },
+        {
+          "name": "Pear Tree Grove",
+          "lat": 18.22515,
+          "lng": -76.95293
+        },
+        {
+          "name": "Point Hill",
+          "lat": 18.09361,
+          "lng": -77.1048
+        },
+        {
+          "name": "Redwood",
+          "lat": 18.21026,
+          "lng": -76.98536
+        },
+        {
+          "name": "Riversdale",
+          "lat": 18.17802,
+          "lng": -76.96636
+        },
+        {
+          "name": "Sligoville",
+          "lat": 18.08203,
+          "lng": -76.93991
+        },
+        {
+          "name": "Spanish Town Central",
+          "lat": 17.98014,
+          "lng": -76.92294
+        },
+        {
+          "name": "St. John's East",
+          "lat": 18.0009,
+          "lng": -76.97466
+        },
+        {
+          "name": "St. John's West",
+          "lat": 18.00539,
+          "lng": -77.00755
+        },
+        {
+          "name": "Troja",
+          "lat": 18.20485,
+          "lng": -76.93196
+        },
+        {
+          "name": "Waterford",
+          "lat": 17.9934,
+          "lng": -76.8609
+        },
+        {
+          "name": "Watermount",
+          "lat": 18.06686,
+          "lng": -77.09112
+        },
+        {
+          "name": "West Cumberland",
+          "lat": 17.9789,
+          "lng": -76.88662
+        },
+        {
+          "name": "Willowdene",
+          "lat": 17.99189,
+          "lng": -76.98199
+        }
+      ]
+    },
+    {
+      "name": "Saint Elizabeth",
+      "lat": 18.053845,
+      "lng": -77.7828249,
+      "districts": [
+        {
+          "name": "Aberdeen",
+          "lat": 18.20508,
+          "lng": -77.67932
+        },
+        {
+          "name": "Accompong",
+          "lat": 18.22985,
+          "lng": -77.74816
+        },
+        {
+          "name": "Alligator Pond",
+          "lat": 17.86932,
+          "lng": -77.56769
+        },
+        {
+          "name": "Balaclava",
+          "lat": 18.17228,
+          "lng": -77.64375
+        },
+        {
+          "name": "Ballards Valley",
+          "lat": 17.87949,
+          "lng": -77.63086
+        },
+        {
+          "name": "Barbary Hall",
+          "lat": 17.968,
+          "lng": -77.77961
+        },
+        {
+          "name": "Bigwoods",
+          "lat": 17.93338,
+          "lng": -77.71897
+        },
+        {
+          "name": "Black River",
+          "lat": 18.02636,
+          "lng": -77.84873
+        },
+        {
+          "name": "Bogue",
+          "lat": 18.13619,
+          "lng": -77.6697
+        },
+        {
+          "name": "Braes River",
+          "lat": 18.09351,
+          "lng": -77.66487
+        },
+        {
+          "name": "Brighton",
+          "lat": 18.14836,
+          "lng": -77.85604
+        },
+        {
+          "name": "Brompton",
+          "lat": 18.06795,
+          "lng": -77.88821
+        },
+        {
+          "name": "Bull Savanna",
+          "lat": 17.88678,
+          "lng": -77.59022
+        },
+        {
+          "name": "Bull Savannah",
+          "lat": 17.88056,
+          "lng": -77.59
+        },
+        {
+          "name": "Burnt Savannah",
+          "lat": 18.03177,
+          "lng": -77.74936
+        },
+        {
+          "name": "Carisbrook",
+          "lat": 18.14742,
+          "lng": -77.77367
+        },
+        {
+          "name": "Cotterwood",
+          "lat": 18.09492,
+          "lng": -77.91553
+        },
+        {
+          "name": "Crawford",
+          "lat": 18.0506,
+          "lng": -77.91596
+        },
+        {
+          "name": "Elderslie",
+          "lat": 18.22416,
+          "lng": -77.79381
+        },
+        {
+          "name": "Fullerswood",
+          "lat": 18.01527,
+          "lng": -77.77572
+        },
+        {
+          "name": "Giddy Hall",
+          "lat": 18.09702,
+          "lng": -77.86764
+        },
+        {
+          "name": "Ginger Hill",
+          "lat": 18.1918,
+          "lng": -77.84867
+        },
+        {
+          "name": "Goshen",
+          "lat": 18.04964,
+          "lng": -77.64136
+        },
+        {
+          "name": "Holland",
+          "lat": 18.10358,
+          "lng": -77.80164
+        },
+        {
+          "name": "Hopeton",
+          "lat": 17.95626,
+          "lng": -77.66239
+        },
+        {
+          "name": "Junction",
+          "lat": 17.91467,
+          "lng": -77.59894
+        },
+        {
+          "name": "Lacovia",
+          "lat": 18.08844,
+          "lng": -77.7535
+        },
+        {
+          "name": "Leeds",
+          "lat": 18.01399,
+          "lng": -77.68374
+        },
+        {
+          "name": "Lititz",
+          "lat": 17.94033,
+          "lng": -77.59511
+        },
+        {
+          "name": "Maggotty",
+          "lat": 18.17343,
+          "lng": -77.76681
+        },
+        {
+          "name": "Malvern",
+          "lat": 17.96667,
+          "lng": -77.7
+        },
+        {
+          "name": "Merrywood",
+          "lat": 18.21793,
+          "lng": -77.83773
+        },
+        {
+          "name": "Middle Quarters",
+          "lat": 18.11455,
+          "lng": -77.83808
+        },
+        {
+          "name": "Mountainside",
+          "lat": 17.98077,
+          "lng": -77.74786
+        },
+        {
+          "name": "Mulgrave",
+          "lat": 18.21164,
+          "lng": -77.82018
+        },
+        {
+          "name": "Myersville",
+          "lat": 17.99699,
+          "lng": -77.62425
+        },
+        {
+          "name": "Nain",
+          "lat": 17.96526,
+          "lng": -77.60528
+        },
+        {
+          "name": "New Market",
+          "lat": 18.15362,
+          "lng": -77.90962
+        },
+        {
+          "name": "Newell",
+          "lat": 17.92103,
+          "lng": -77.74653
+        },
+        {
+          "name": "Newton",
+          "lat": 18.11095,
+          "lng": -77.72352
+        },
+        {
+          "name": "Parottee",
+          "lat": 17.96174,
+          "lng": -77.81774
+        },
+        {
+          "name": "Pedro Plains",
+          "lat": 17.88569,
+          "lng": -77.71337
+        },
+        {
+          "name": "Pepper",
+          "lat": 18.02105,
+          "lng": -77.61284
+        },
+        {
+          "name": "Pisgah",
+          "lat": 18.19605,
+          "lng": -77.88671
+        },
+        {
+          "name": "Pondside",
+          "lat": 17.98153,
+          "lng": -77.7945
+        },
+        {
+          "name": "Potsdam",
+          "lat": 17.91872,
+          "lng": -77.66869
+        },
+        {
+          "name": "Quick Step",
+          "lat": 18.23281,
+          "lng": -77.67831
+        },
+        {
+          "name": "Red Bank",
+          "lat": 17.93776,
+          "lng": -77.62585
+        },
+        {
+          "name": "Retirement",
+          "lat": 18.2074,
+          "lng": -77.76698
+        },
+        {
+          "name": "Rose Hall",
+          "lat": 17.92654,
+          "lng": -77.64153
+        },
+        {
+          "name": "Russels",
+          "lat": 17.98638,
+          "lng": -77.65065
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 18.05336,
+          "lng": -77.69836
+        },
+        {
+          "name": "Scholefield",
+          "lat": 18.02375,
+          "lng": -77.71884
+        },
+        {
+          "name": "Siloah",
+          "lat": 18.16334,
+          "lng": -77.71061
+        },
+        {
+          "name": "Slipe",
+          "lat": 18.0574,
+          "lng": -77.79687
+        },
+        {
+          "name": "Southfield",
+          "lat": 17.88212,
+          "lng": -77.66988
+        },
+        {
+          "name": "Springfield",
+          "lat": 18.17662,
+          "lng": -77.87392
+        },
+        {
+          "name": "Thornton",
+          "lat": 18.19564,
+          "lng": -77.72246
+        },
+        {
+          "name": "Top Hill",
+          "lat": 17.89317,
+          "lng": -77.63793
+        },
+        {
+          "name": "Treasure Beach",
+          "lat": 17.8955,
+          "lng": -77.76051
+        },
+        {
+          "name": "Warminister",
+          "lat": 17.96238,
+          "lng": -77.63956
+        },
+        {
+          "name": "Watchwell",
+          "lat": 17.93876,
+          "lng": -77.7725
+        },
+        {
+          "name": "White Hill",
+          "lat": 18.15646,
+          "lng": -77.81067
+        }
+      ]
+    },
+    {
+      "name": "Saint James",
+      "lat": 18.365809,
+      "lng": -77.8522037,
+      "districts": [
+        {
+          "name": "Adelphi",
+          "lat": 18.4506,
+          "lng": -77.7859
+        },
+        {
+          "name": "Albion",
+          "lat": 18.48471,
+          "lng": -77.91408
+        },
+        {
+          "name": "Anchovy",
+          "lat": 18.4103,
+          "lng": -77.93166
+        },
+        {
+          "name": "Arcadia",
+          "lat": 18.24993,
+          "lng": -77.79228
+        },
+        {
+          "name": "Barrett Town",
+          "lat": 18.50871,
+          "lng": -77.79625
+        },
+        {
+          "name": "Bickersteth",
+          "lat": 18.36335,
+          "lng": -77.93651
+        },
+        {
+          "name": "Bogue",
+          "lat": 18.43722,
+          "lng": -77.92022
+        },
+        {
+          "name": "Brandon Hill",
+          "lat": 18.47767,
+          "lng": -77.91117
+        },
+        {
+          "name": "Cambridge",
+          "lat": 18.31308,
+          "lng": -77.89546
+        },
+        {
+          "name": "Canterbury",
+          "lat": 18.47919,
+          "lng": -77.91655
+        },
+        {
+          "name": "Catadupa",
+          "lat": 18.28052,
+          "lng": -77.86579
+        },
+        {
+          "name": "Catherine Hall",
+          "lat": 18.46258,
+          "lng": -77.92286
+        },
+        {
+          "name": "Catherine Mount",
+          "lat": 18.45672,
+          "lng": -77.89691
+        },
+        {
+          "name": "Comfort Hall",
+          "lat": 18.4127,
+          "lng": -77.91814
+        },
+        {
+          "name": "Coral Gardens",
+          "lat": 18.50791,
+          "lng": -77.88034
+        },
+        {
+          "name": "Cornwall",
+          "lat": 18.4893,
+          "lng": -77.81016
+        },
+        {
+          "name": "Down Town Montego Bay",
+          "lat": 18.47726,
+          "lng": -77.92031
+        },
+        {
+          "name": "Dumfries",
+          "lat": 18.42973,
+          "lng": -77.75593
+        },
+        {
+          "name": "Fairfield",
+          "lat": 18.45079,
+          "lng": -77.91235
+        },
+        {
+          "name": "Farm Heights",
+          "lat": 18.46869,
+          "lng": -77.8776
+        },
+        {
+          "name": "Flagstaff",
+          "lat": 18.35412,
+          "lng": -77.77132
+        },
+        {
+          "name": "Flamstead",
+          "lat": 18.31409,
+          "lng": -77.81316
+        },
+        {
+          "name": "Flankers",
+          "lat": 18.50265,
+          "lng": -77.90831
+        },
+        {
+          "name": "Flower Hill",
+          "lat": 18.48426,
+          "lng": -77.83913
+        },
+        {
+          "name": "Friendship",
+          "lat": 18.4459,
+          "lng": -77.86242
+        },
+        {
+          "name": "Garlands",
+          "lat": 18.27811,
+          "lng": -77.78908
+        },
+        {
+          "name": "Glendevon",
+          "lat": 18.48488,
+          "lng": -77.8971
+        },
+        {
+          "name": "Goodwill",
+          "lat": 18.4695,
+          "lng": -77.75646
+        },
+        {
+          "name": "Granville",
+          "lat": 18.44191,
+          "lng": -77.89402
+        },
+        {
+          "name": "Green Pond",
+          "lat": 18.47361,
+          "lng": -77.87779
+        },
+        {
+          "name": "Greenwood",
+          "lat": 18.49768,
+          "lng": -77.75243
+        },
+        {
+          "name": "Hopeton",
+          "lat": 18.39858,
+          "lng": -77.86826
+        },
+        {
+          "name": "Ironshore",
+          "lat": 18.51323,
+          "lng": -77.85108
+        },
+        {
+          "name": "Irwin",
+          "lat": 18.44949,
+          "lng": -77.87722
+        },
+        {
+          "name": "John's Hall",
+          "lat": 18.42849,
+          "lng": -77.8501
+        },
+        {
+          "name": "Lilliput",
+          "lat": 18.50591,
+          "lng": -77.77686
+        },
+        {
+          "name": "Lottery",
+          "lat": 18.41499,
+          "lng": -77.80696
+        },
+        {
+          "name": "Maldon",
+          "lat": 18.33831,
+          "lng": -77.80998
+        },
+        {
+          "name": "Maroon Town",
+          "lat": 18.34464,
+          "lng": -77.79544
+        },
+        {
+          "name": "Mocho",
+          "lat": 18.29135,
+          "lng": -77.8258
+        },
+        {
+          "name": "Montego Bay",
+          "lat": 18.47116,
+          "lng": -77.91883
+        },
+        {
+          "name": "Montego Hill",
+          "lat": 18.48038,
+          "lng": -77.8815
+        },
+        {
+          "name": "Montpelier",
+          "lat": 18.37612,
+          "lng": -77.91357
+        },
+        {
+          "name": "Mount Carey",
+          "lat": 18.38888,
+          "lng": -77.94374
+        },
+        {
+          "name": "Mount Horeb",
+          "lat": 18.33322,
+          "lng": -77.86675
+        },
+        {
+          "name": "Mount Salem",
+          "lat": 18.46601,
+          "lng": -77.90793
+        },
+        {
+          "name": "Niagara",
+          "lat": 18.26534,
+          "lng": -77.81879
+        },
+        {
+          "name": "Norwood",
+          "lat": 18.49217,
+          "lng": -77.88634
+        },
+        {
+          "name": "Orange",
+          "lat": 18.45395,
+          "lng": -77.82779
+        },
+        {
+          "name": "Paradise",
+          "lat": 18.49401,
+          "lng": -77.90982
+        },
+        {
+          "name": "Pitfour",
+          "lat": 18.43206,
+          "lng": -77.89007
+        },
+        {
+          "name": "Porto Bello",
+          "lat": 18.46607,
+          "lng": -77.86989
+        },
+        {
+          "name": "Reading",
+          "lat": 18.43723,
+          "lng": -77.9473
+        },
+        {
+          "name": "Retirement",
+          "lat": 18.43742,
+          "lng": -77.88004
+        },
+        {
+          "name": "Retrieve",
+          "lat": 18.28901,
+          "lng": -77.90081
+        },
+        {
+          "name": "Roehampton",
+          "lat": 18.39897,
+          "lng": -77.89926
+        },
+        {
+          "name": "Rose Hall",
+          "lat": 18.51228,
+          "lng": -77.81833
+        },
+        {
+          "name": "Rose Heights",
+          "lat": 18.46945,
+          "lng": -77.89533
+        },
+        {
+          "name": "Rose Mount Garden",
+          "lat": 18.46394,
+          "lng": -77.89397
+        },
+        {
+          "name": "Rosemount",
+          "lat": 18.47484,
+          "lng": -77.89216
+        },
+        {
+          "name": "Salt Spring",
+          "lat": 18.48687,
+          "lng": -77.86554
+        },
+        {
+          "name": "Seven Rivers",
+          "lat": 18.34702,
+          "lng": -77.91378
+        },
+        {
+          "name": "Somerton",
+          "lat": 18.40496,
+          "lng": -77.77071
+        },
+        {
+          "name": "Spot Valley",
+          "lat": 18.47869,
+          "lng": -77.79106
+        },
+        {
+          "name": "Stonehenge",
+          "lat": 18.24231,
+          "lng": -77.85042
+        },
+        {
+          "name": "Summer Hill",
+          "lat": 18.3736,
+          "lng": -77.7935
+        },
+        {
+          "name": "Sunderland",
+          "lat": 18.39794,
+          "lng": -77.82734
+        },
+        {
+          "name": "Tangle River",
+          "lat": 18.34337,
+          "lng": -77.83621
+        },
+        {
+          "name": "Tower Hill/Moy Hall",
+          "lat": 18.44044,
+          "lng": -77.96022
+        },
+        {
+          "name": "Tucker",
+          "lat": 18.449,
+          "lng": -77.89438
+        },
+        {
+          "name": "Unity Hall",
+          "lat": 18.43304,
+          "lng": -77.97684
+        },
+        {
+          "name": "Vaughnsfield",
+          "lat": 18.32135,
+          "lng": -77.78051
+        },
+        {
+          "name": "Welcome Hall",
+          "lat": 18.36898,
+          "lng": -77.83673
+        },
+        {
+          "name": "West Green",
+          "lat": 18.46244,
+          "lng": -77.91757
+        }
+      ]
+    },
+    {
+      "name": "Saint Mary",
+      "lat": 18.2789179,
+      "lng": -76.9021868,
+      "districts": [
+        {
+          "name": "Amiel Town",
+          "lat": 18.34027,
+          "lng": -76.97612
+        },
+        {
+          "name": "Annotto Bay",
+          "lat": 18.2717,
+          "lng": -76.76523
+        },
+        {
+          "name": "Baileys Vale",
+          "lat": 18.34527,
+          "lng": -76.92593
+        },
+        {
+          "name": "Baxter Mountain",
+          "lat": 18.20405,
+          "lng": -76.77198
+        },
+        {
+          "name": "Belfield",
+          "lat": 18.27347,
+          "lng": -76.83574
+        },
+        {
+          "name": "Bonnygate",
+          "lat": 18.32869,
+          "lng": -76.94606
+        },
+        {
+          "name": "Brainerd",
+          "lat": 18.16988,
+          "lng": -76.8689
+        },
+        {
+          "name": "Broadgate",
+          "lat": 18.22847,
+          "lng": -76.80788
+        },
+        {
+          "name": "Camberwell",
+          "lat": 18.2393,
+          "lng": -76.78088
+        },
+        {
+          "name": "Carron Hall",
+          "lat": 18.27797,
+          "lng": -76.95246
+        },
+        {
+          "name": "Castleton",
+          "lat": 18.17618,
+          "lng": -76.7834
+        },
+        {
+          "name": "Charles Town",
+          "lat": 18.38918,
+          "lng": -77.03978
+        },
+        {
+          "name": "Clonmel",
+          "lat": 18.24281,
+          "lng": -76.83137
+        },
+        {
+          "name": "Devon Pen",
+          "lat": 18.21561,
+          "lng": -76.8244
+        },
+        {
+          "name": "Dover",
+          "lat": 18.25534,
+          "lng": -76.70811
+        },
+        {
+          "name": "Enfield",
+          "lat": 18.22036,
+          "lng": -76.73745
+        },
+        {
+          "name": "Epson",
+          "lat": 18.2522,
+          "lng": -76.72641
+        },
+        {
+          "name": "Flint River",
+          "lat": 18.2379,
+          "lng": -76.92173
+        },
+        {
+          "name": "Free Hill",
+          "lat": 18.35439,
+          "lng": -76.94317
+        },
+        {
+          "name": "Friendship Gap",
+          "lat": 18.19719,
+          "lng": -76.8196
+        },
+        {
+          "name": "Galina",
+          "lat": 18.40265,
+          "lng": -76.90041
+        },
+        {
+          "name": "Gayle",
+          "lat": 18.34278,
+          "lng": -77.00211
+        },
+        {
+          "name": "Guys Hill",
+          "lat": 18.26243,
+          "lng": -76.99561
+        },
+        {
+          "name": "Hampstead",
+          "lat": 18.32051,
+          "lng": -76.90477
+        },
+        {
+          "name": "Highgate",
+          "lat": 18.27739,
+          "lng": -76.89554
+        },
+        {
+          "name": "Islington",
+          "lat": 18.3216,
+          "lng": -76.84102
+        },
+        {
+          "name": "Jacks River",
+          "lat": 18.3722,
+          "lng": -76.94101
+        },
+        {
+          "name": "Jeffery Town",
+          "lat": 18.28956,
+          "lng": -77.00343
+        },
+        {
+          "name": "Labyrinth",
+          "lat": 18.34419,
+          "lng": -77.03227
+        },
+        {
+          "name": "Long Road",
+          "lat": 18.21337,
+          "lng": -76.75009
+        },
+        {
+          "name": "Lucky Hill",
+          "lat": 18.30252,
+          "lng": -77.01678
+        },
+        {
+          "name": "Mango Valley",
+          "lat": 18.37481,
+          "lng": -76.97694
+        },
+        {
+          "name": "Martin",
+          "lat": 18.30118,
+          "lng": -76.87257
+        },
+        {
+          "name": "Mason Hall",
+          "lat": 18.39662,
+          "lng": -76.92063
+        },
+        {
+          "name": "Mile Gully",
+          "lat": 18.31801,
+          "lng": -76.96051
+        },
+        {
+          "name": "Oracabessa",
+          "lat": 18.40319,
+          "lng": -76.94641
+        },
+        {
+          "name": "Port Maria",
+          "lat": 18.36849,
+          "lng": -76.88946
+        },
+        {
+          "name": "Prospect",
+          "lat": 18.41273,
+          "lng": -77.04119
+        },
+        {
+          "name": "Retreat",
+          "lat": 18.37865,
+          "lng": -77.0159
+        },
+        {
+          "name": "Richmond",
+          "lat": 18.21113,
+          "lng": -76.88301
+        },
+        {
+          "name": "Robins Bay",
+          "lat": 18.31236,
+          "lng": -76.81783
+        },
+        {
+          "name": "Sandside",
+          "lat": 18.33888,
+          "lng": -76.89551
+        },
+        {
+          "name": "Scotts Hall",
+          "lat": 18.19083,
+          "lng": -76.83942
+        },
+        {
+          "name": "Woodpark",
+          "lat": 18.29734,
+          "lng": -76.98114
+        },
+        {
+          "name": "Woodside",
+          "lat": 18.25258,
+          "lng": -76.92679
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas",
+      "lat": 17.9716306,
+      "lng": -76.4414306,
+      "districts": [
+        {
+          "name": "Airy Castle",
+          "lat": 17.92506,
+          "lng": -76.34216
+        },
+        {
+          "name": "Albion",
+          "lat": 17.90119,
+          "lng": -76.60761
+        },
+        {
+          "name": "Amity Hall",
+          "lat": 17.96759,
+          "lng": -76.25698
+        },
+        {
+          "name": "Arcadia",
+          "lat": 17.9223,
+          "lng": -76.3003
+        },
+        {
+          "name": "Baptist",
+          "lat": 17.87666,
+          "lng": -76.57837
+        },
+        {
+          "name": "Barking Lodge",
+          "lat": 17.89279,
+          "lng": -76.28922
+        },
+        {
+          "name": "Bath",
+          "lat": 17.9482,
+          "lng": -76.34916
+        },
+        {
+          "name": "Bethel",
+          "lat": 17.98527,
+          "lng": -76.5805
+        },
+        {
+          "name": "Cedar Valley",
+          "lat": 18.02815,
+          "lng": -76.59556
+        },
+        {
+          "name": "Church Corner",
+          "lat": 17.88718,
+          "lng": -76.41898
+        },
+        {
+          "name": "Dalvey",
+          "lat": 17.90241,
+          "lng": -76.25001
+        },
+        {
+          "name": "Danvers Pen",
+          "lat": 17.9288,
+          "lng": -76.47586
+        },
+        {
+          "name": "Duckenfield",
+          "lat": 17.92205,
+          "lng": -76.22657
+        },
+        {
+          "name": "Duhaney Pen",
+          "lat": 17.89402,
+          "lng": -76.43193
+        },
+        {
+          "name": "Easington",
+          "lat": 17.92397,
+          "lng": -76.58824
+        },
+        {
+          "name": "Eleven Miles",
+          "lat": 17.93745,
+          "lng": -76.64337
+        },
+        {
+          "name": "Font Hill",
+          "lat": 17.94055,
+          "lng": -76.51169
+        },
+        {
+          "name": "Golden Grove",
+          "lat": 17.93361,
+          "lng": -76.27254
+        },
+        {
+          "name": "Hagley Gap",
+          "lat": 18.04845,
+          "lng": -76.62777
+        },
+        {
+          "name": "Hampton Court",
+          "lat": 17.91782,
+          "lng": -76.26131
+        },
+        {
+          "name": "Hayfield",
+          "lat": 17.98199,
+          "lng": -76.36841
+        },
+        {
+          "name": "Hillside",
+          "lat": 17.99619,
+          "lng": -76.49082
+        },
+        {
+          "name": "Johns Town",
+          "lat": 17.89659,
+          "lng": -76.36136
+        },
+        {
+          "name": "Johnson Mountain",
+          "lat": 17.98091,
+          "lng": -76.31986
+        },
+        {
+          "name": "Jones Pen",
+          "lat": 17.95068,
+          "lng": -76.54775
+        },
+        {
+          "name": "Leith Hall",
+          "lat": 17.87973,
+          "lng": -76.34331
+        },
+        {
+          "name": "Llandewey",
+          "lat": 17.94477,
+          "lng": -76.62245
+        },
+        {
+          "name": "Lloyds",
+          "lat": 17.91504,
+          "lng": -76.54085
+        },
+        {
+          "name": "Lyssons",
+          "lat": 17.88708,
+          "lng": -76.37961
+        },
+        {
+          "name": "Middleton",
+          "lat": 17.93971,
+          "lng": -76.43558
+        },
+        {
+          "name": "Morant Bay",
+          "lat": 17.88145,
+          "lng": -76.40927
+        },
+        {
+          "name": "Mount Lebanus",
+          "lat": 17.97544,
+          "lng": -76.53891
+        },
+        {
+          "name": "New Monkland",
+          "lat": 17.99158,
+          "lng": -76.57333
+        },
+        {
+          "name": "Pamphret",
+          "lat": 17.8757,
+          "lng": -76.51736
+        },
+        {
+          "name": "Pear Tree",
+          "lat": 17.91162,
+          "lng": -76.31676
+        },
+        {
+          "name": "Poormans Corner",
+          "lat": 17.89152,
+          "lng": -76.58351
+        },
+        {
+          "name": "Port Morant",
+          "lat": 17.89947,
+          "lng": -76.34286
+        },
+        {
+          "name": "Prospect",
+          "lat": 17.87404,
+          "lng": -76.34956
+        },
+        {
+          "name": "Ramble",
+          "lat": 17.96791,
+          "lng": -76.6263
+        },
+        {
+          "name": "Retreat",
+          "lat": 17.8776,
+          "lng": -76.36795
+        },
+        {
+          "name": "Richmond Vale",
+          "lat": 17.97435,
+          "lng": -76.59044
+        },
+        {
+          "name": "River Head",
+          "lat": 17.99237,
+          "lng": -76.61082
+        },
+        {
+          "name": "Rowlandsfield",
+          "lat": 17.97355,
+          "lng": -76.28781
+        },
+        {
+          "name": "Seaforth",
+          "lat": 17.94421,
+          "lng": -76.45661
+        },
+        {
+          "name": "Somerset",
+          "lat": 18.00976,
+          "lng": -76.54595
+        },
+        {
+          "name": "Spring Bank",
+          "lat": 17.95995,
+          "lng": -76.32596
+        },
+        {
+          "name": "Spring Garden",
+          "lat": 17.91749,
+          "lng": -76.42978
+        },
+        {
+          "name": "Sunning Hill",
+          "lat": 17.95612,
+          "lng": -76.40931
+        },
+        {
+          "name": "Trinity Ville",
+          "lat": 17.96076,
+          "lng": -76.51427
+        },
+        {
+          "name": "Wheelerfield",
+          "lat": 17.95874,
+          "lng": -76.29623
+        },
+        {
+          "name": "White Hall",
+          "lat": 17.99805,
+          "lng": -76.43105
+        },
+        {
+          "name": "White Horses",
+          "lat": 17.8962,
+          "lng": -76.47076
+        },
+        {
+          "name": "Wilmington",
+          "lat": 17.92856,
+          "lng": -76.38962
+        },
+        {
+          "name": "Winchester",
+          "lat": 17.94177,
+          "lng": -76.29823
+        },
+        {
+          "name": "Yallahs",
+          "lat": 17.8748,
+          "lng": -76.56245
+        },
+        {
+          "name": "York",
+          "lat": 17.92849,
+          "lng": -76.43983
+        }
+      ]
+    },
+    {
+      "name": "Trelawny",
+      "lat": 18.3682128,
+      "lng": -77.6043615,
+      "districts": [
+        {
+          "name": "Albert Town",
+          "lat": 18.29434,
+          "lng": -77.54239
+        },
+        {
+          "name": "Alps",
+          "lat": 18.35498,
+          "lng": -77.50897
+        },
+        {
+          "name": "Bounty Hall",
+          "lat": 18.45801,
+          "lng": -77.71663
+        },
+        {
+          "name": "Brampton",
+          "lat": 18.44262,
+          "lng": -77.46424
+        },
+        {
+          "name": "Bunkers Hill",
+          "lat": 18.36198,
+          "lng": -77.68612
+        },
+        {
+          "name": "Clarks Town",
+          "lat": 18.42244,
+          "lng": -77.53328
+        },
+        {
+          "name": "Daniel Town",
+          "lat": 18.46395,
+          "lng": -77.61592
+        },
+        {
+          "name": "Deeside",
+          "lat": 18.35976,
+          "lng": -77.73721
+        },
+        {
+          "name": "Duanvale",
+          "lat": 18.40267,
+          "lng": -77.59615
+        },
+        {
+          "name": "Duncans",
+          "lat": 18.468,
+          "lng": -77.53633
+        },
+        {
+          "name": "Falmouth",
+          "lat": 18.49358,
+          "lng": -77.65587
+        },
+        {
+          "name": "Freemans Hall",
+          "lat": 18.28384,
+          "lng": -77.5018
+        },
+        {
+          "name": "Granville",
+          "lat": 18.45053,
+          "lng": -77.68847
+        },
+        {
+          "name": "Hampden",
+          "lat": 18.44217,
+          "lng": -77.73203
+        },
+        {
+          "name": "Jackson Town",
+          "lat": 18.41781,
+          "lng": -77.48458
+        },
+        {
+          "name": "Joe Hut",
+          "lat": 18.26742,
+          "lng": -77.49616
+        },
+        {
+          "name": "Kinloss",
+          "lat": 18.39641,
+          "lng": -77.56968
+        },
+        {
+          "name": "Lorrimers",
+          "lat": 18.23026,
+          "lng": -77.49207
+        },
+        {
+          "name": "Martha Brae",
+          "lat": 18.4696,
+          "lng": -77.65909
+        },
+        {
+          "name": "Perth Town",
+          "lat": 18.43106,
+          "lng": -77.62583
+        },
+        {
+          "name": "Refuge",
+          "lat": 18.45101,
+          "lng": -77.57751
+        },
+        {
+          "name": "Rio Bueno",
+          "lat": 18.46406,
+          "lng": -77.48042
+        },
+        {
+          "name": "Salt Marsh",
+          "lat": 18.48423,
+          "lng": -77.71184
+        },
+        {
+          "name": "Samuels Prospect",
+          "lat": 18.45103,
+          "lng": -77.5144
+        },
+        {
+          "name": "Sawyers",
+          "lat": 18.3788,
+          "lng": -77.49689
+        },
+        {
+          "name": "Sherwood Content",
+          "lat": 18.38227,
+          "lng": -77.63643
+        },
+        {
+          "name": "Spicy Hill",
+          "lat": 18.45763,
+          "lng": -77.54751
+        },
+        {
+          "name": "Spring Garden",
+          "lat": 18.29368,
+          "lng": -77.56698
+        },
+        {
+          "name": "St. Vincent",
+          "lat": 18.33424,
+          "lng": -77.5479
+        },
+        {
+          "name": "Stettin",
+          "lat": 18.28224,
+          "lng": -77.54095
+        },
+        {
+          "name": "Stewart Town",
+          "lat": 18.39887,
+          "lng": -77.45187
+        },
+        {
+          "name": "Troy",
+          "lat": 18.24924,
+          "lng": -77.60978
+        },
+        {
+          "name": "Ulster Spring",
+          "lat": 18.32113,
+          "lng": -77.49681
+        },
+        {
+          "name": "Wait-A-Bit",
+          "lat": 18.25332,
+          "lng": -77.50837
+        },
+        {
+          "name": "Wakefield",
+          "lat": 18.4146,
+          "lng": -77.70908
+        },
+        {
+          "name": "Warsop",
+          "lat": 18.26178,
+          "lng": -77.56774
+        },
+        {
+          "name": "Wilson's Run",
+          "lat": 18.28468,
+          "lng": -77.69323
+        },
+        {
+          "name": "Wirefence",
+          "lat": 18.2531,
+          "lng": -77.53276
+        }
+      ]
+    },
+    {
+      "name": "Westmoreland",
+      "lat": 18.2104026,
+      "lng": -77.9793211,
+      "districts": [
+        {
+          "name": "12th Street",
+          "lat": 18.21097,
+          "lng": -78.13603
+        },
+        {
+          "name": "Amity",
+          "lat": 18.27361,
+          "lng": -77.89805
+        },
+        {
+          "name": "Ashton",
+          "lat": 18.23139,
+          "lng": -77.92074
+        },
+        {
+          "name": "Barneyside",
+          "lat": 18.2767,
+          "lng": -77.96964
+        },
+        {
+          "name": "Bath",
+          "lat": 18.25734,
+          "lng": -78.11751
+        },
+        {
+          "name": "Bath Mountain",
+          "lat": 18.34428,
+          "lng": -78.09928
+        },
+        {
+          "name": "Beaufort",
+          "lat": 18.23417,
+          "lng": -77.95007
+        },
+        {
+          "name": "Beeston Spring",
+          "lat": 18.16012,
+          "lng": -77.97545
+        },
+        {
+          "name": "Belvedere",
+          "lat": 18.25219,
+          "lng": -77.93208
+        },
+        {
+          "name": "Berkshire",
+          "lat": 18.21293,
+          "lng": -77.90373
+        },
+        {
+          "name": "Bethel Town",
+          "lat": 18.29503,
+          "lng": -77.95112
+        },
+        {
+          "name": "Big Bridge",
+          "lat": 18.23318,
+          "lng": -78.16717
+        },
+        {
+          "name": "Bluefields",
+          "lat": 18.16602,
+          "lng": -78.02702
+        },
+        {
+          "name": "Bog",
+          "lat": 18.15631,
+          "lng": -77.94364
+        },
+        {
+          "name": "Broughton",
+          "lat": 18.21747,
+          "lng": -78.22894
+        },
+        {
+          "name": "Burnt Savannah",
+          "lat": 18.31676,
+          "lng": -78.12628
+        },
+        {
+          "name": "Cairn Curran",
+          "lat": 18.2284,
+          "lng": -78.0113
+        },
+        {
+          "name": "Caledonia",
+          "lat": 18.25866,
+          "lng": -78.01173
+        },
+        {
+          "name": "Carmel",
+          "lat": 18.17326,
+          "lng": -77.93929
+        },
+        {
+          "name": "Cave",
+          "lat": 18.21019,
+          "lng": -78.0407
+        },
+        {
+          "name": "Chantilly",
+          "lat": 18.23059,
+          "lng": -78.12462
+        },
+        {
+          "name": "Content",
+          "lat": 18.18288,
+          "lng": -77.99915
+        },
+        {
+          "name": "Cornwall Mountian",
+          "lat": 18.28722,
+          "lng": -77.98674
+        },
+        {
+          "name": "Darliston",
+          "lat": 18.23731,
+          "lng": -77.97626
+        },
+        {
+          "name": "Delveland",
+          "lat": 18.29709,
+          "lng": -78.23962
+        },
+        {
+          "name": "Dillion Bigwoods",
+          "lat": 18.20944,
+          "lng": -77.99078
+        },
+        {
+          "name": "Dundee",
+          "lat": 18.23679,
+          "lng": -77.88698
+        },
+        {
+          "name": "Enfield",
+          "lat": 18.21404,
+          "lng": -77.9527
+        },
+        {
+          "name": "Ferris",
+          "lat": 18.22265,
+          "lng": -78.05588
+        },
+        {
+          "name": "Fort Williams",
+          "lat": 18.29834,
+          "lng": -78.06331
+        },
+        {
+          "name": "Frome",
+          "lat": 18.27974,
+          "lng": -78.14903
+        },
+        {
+          "name": "Fullersfield",
+          "lat": 18.2989,
+          "lng": -78.19976
+        },
+        {
+          "name": "Georges Plain",
+          "lat": 18.2765,
+          "lng": -78.13118
+        },
+        {
+          "name": "Gooden's River",
+          "lat": 18.24223,
+          "lng": -78.1284
+        },
+        {
+          "name": "Grange",
+          "lat": 18.33161,
+          "lng": -78.08036
+        },
+        {
+          "name": "Grange Hill",
+          "lat": 18.33083,
+          "lng": -78.18398
+        },
+        {
+          "name": "Haddo",
+          "lat": 18.28606,
+          "lng": -78.01893
+        },
+        {
+          "name": "Harmony Town",
+          "lat": 18.21987,
+          "lng": -78.13687
+        },
+        {
+          "name": "Hertford",
+          "lat": 18.27181,
+          "lng": -78.09078
+        },
+        {
+          "name": "Jerusalem",
+          "lat": 18.32458,
+          "lng": -78.21563
+        },
+        {
+          "name": "Kentucky",
+          "lat": 18.19931,
+          "lng": -78.01767
+        },
+        {
+          "name": "Kilmarnoch",
+          "lat": 18.12407,
+          "lng": -77.92774
+        },
+        {
+          "name": "Lambs River",
+          "lat": 18.26823,
+          "lng": -77.91414
+        },
+        {
+          "name": "Leamington",
+          "lat": 18.21352,
+          "lng": -77.92743
+        },
+        {
+          "name": "Lenox Bigwoods",
+          "lat": 18.21392,
+          "lng": -77.97214
+        },
+        {
+          "name": "Little London",
+          "lat": 18.24523,
+          "lng": -78.22653
+        },
+        {
+          "name": "Llandilo",
+          "lat": 18.23439,
+          "lng": -78.13895
+        },
+        {
+          "name": "Mackfield",
+          "lat": 18.31163,
+          "lng": -78.02471
+        },
+        {
+          "name": "Mearnsville",
+          "lat": 18.18856,
+          "lng": -78.0287
+        },
+        {
+          "name": "Mount Airy",
+          "lat": 18.24738,
+          "lng": -78.32279
+        },
+        {
+          "name": "Mount Stewart",
+          "lat": 18.30411,
+          "lng": -77.99274
+        },
+        {
+          "name": "Negril",
+          "lat": 18.26844,
+          "lng": -78.3481
+        },
+        {
+          "name": "New Market Oval",
+          "lat": 18.2137,
+          "lng": -78.13813
+        },
+        {
+          "name": "New Roads",
+          "lat": 18.19124,
+          "lng": -77.93608
+        },
+        {
+          "name": "New Works",
+          "lat": 18.17248,
+          "lng": -77.96645
+        },
+        {
+          "name": "Orange Hill",
+          "lat": 18.23418,
+          "lng": -78.30277
+        },
+        {
+          "name": "Paul Island",
+          "lat": 18.272,
+          "lng": -78.18614
+        },
+        {
+          "name": "Petersfield",
+          "lat": 18.26588,
+          "lng": -78.05755
+        },
+        {
+          "name": "Petersville",
+          "lat": 18.137,
+          "lng": -77.95046
+        },
+        {
+          "name": "Porters Mountain",
+          "lat": 18.32909,
+          "lng": -78.0491
+        },
+        {
+          "name": "Red Hills",
+          "lat": 18.3055,
+          "lng": -78.1128
+        },
+        {
+          "name": "Revival",
+          "lat": 18.24255,
+          "lng": -78.28437
+        },
+        {
+          "name": "Roaring River",
+          "lat": 18.30118,
+          "lng": -78.04324
+        },
+        {
+          "name": "Russia",
+          "lat": 18.21649,
+          "lng": -78.12361
+        },
+        {
+          "name": "Savanna-la-Mar",
+          "lat": 18.21895,
+          "lng": -78.1332
+        },
+        {
+          "name": "Savannah-la-mar Business Dist.",
+          "lat": 18.21962,
+          "lng": -78.13034
+        },
+        {
+          "name": "Seaford Town",
+          "lat": 18.24339,
+          "lng": -77.90504
+        },
+        {
+          "name": "Seaton Crescent",
+          "lat": 18.21675,
+          "lng": -78.13603
+        },
+        {
+          "name": "Shefield",
+          "lat": 18.28412,
+          "lng": -78.29169
+        },
+        {
+          "name": "Shoalin Grotto",
+          "lat": 18.22059,
+          "lng": -78.14019
+        },
+        {
+          "name": "Smithfield",
+          "lat": 18.22275,
+          "lng": -78.08785
+        },
+        {
+          "name": "St. Leonards",
+          "lat": 18.25533,
+          "lng": -77.88889
+        },
+        {
+          "name": "Strathbogie",
+          "lat": 18.23855,
+          "lng": -78.11714
+        },
+        {
+          "name": "Strawberry",
+          "lat": 18.30676,
+          "lng": -78.08945
+        },
+        {
+          "name": "Struie",
+          "lat": 18.25317,
+          "lng": -77.95656
+        },
+        {
+          "name": "Three Mile River",
+          "lat": 18.25706,
+          "lng": -78.14275
+        },
+        {
+          "name": "Town Head",
+          "lat": 18.33898,
+          "lng": -78.13569
+        },
+        {
+          "name": "Truro",
+          "lat": 18.31301,
+          "lng": -78.15489
+        },
+        {
+          "name": "Water Works",
+          "lat": 18.23319,
+          "lng": -78.04296
+        },
+        {
+          "name": "Whitehouse",
+          "lat": 18.10275,
+          "lng": -77.95697
+        },
+        {
+          "name": "Whithorn",
+          "lat": 18.27111,
+          "lng": -78.03811
+        },
+        {
+          "name": "Williamsfield",
+          "lat": 18.33393,
+          "lng": -78.06957
+        }
+      ]
+    }
+  ]
+}

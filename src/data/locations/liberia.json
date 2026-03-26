@@ -1,0 +1,203 @@
+{
+  "name": "Liberia",
+  "lat": 6.5,
+  "lng": -9.5,
+  "cities": [
+    {
+      "name": "Bomi",
+      "lat": 6.7177856,
+      "lng": -10.7881766,
+      "districts": [
+        {
+          "name": "Tubmanburg",
+          "lat": 6.87064,
+          "lng": -10.8211
+        }
+      ]
+    },
+    {
+      "name": "Bong",
+      "lat": 6.9622195,
+      "lng": -9.7134459,
+      "districts": [
+        {
+          "name": "Gbarnga",
+          "lat": 6.99543,
+          "lng": -9.47122
+        }
+      ]
+    },
+    {
+      "name": "Gbarpolu",
+      "lat": 7.2681564,
+      "lng": -10.3814771,
+      "districts": [
+        {
+          "name": "Bopolu",
+          "lat": 7.06667,
+          "lng": -10.4875
+        }
+      ]
+    },
+    {
+      "name": "Grand Bassa",
+      "lat": 6.1640621,
+      "lng": -9.895669,
+      "districts": [
+        {
+          "name": "Buchanan",
+          "lat": 5.87693,
+          "lng": -10.04964
+        }
+      ]
+    },
+    {
+      "name": "Grand Cape Mount",
+      "lat": 7.0496206,
+      "lng": -11.129843,
+      "districts": [
+        {
+          "name": "Robertsport",
+          "lat": 6.75329,
+          "lng": -11.3671
+        }
+      ]
+    },
+    {
+      "name": "Grand Gedeh",
+      "lat": 5.8161533,
+      "lng": -8.0995537,
+      "districts": [
+        {
+          "name": "Zwedru",
+          "lat": 6.06846,
+          "lng": -8.13559
+        }
+      ]
+    },
+    {
+      "name": "Grand Kru",
+      "lat": 4.84932,
+      "lng": -8.3308845,
+      "districts": [
+        {
+          "name": "Barclayville",
+          "lat": 4.67443,
+          "lng": -8.23306
+        }
+      ]
+    },
+    {
+      "name": "Lofa",
+      "lat": 7.8824046,
+      "lng": -9.9760297,
+      "districts": [
+        {
+          "name": "Voinjama",
+          "lat": 8.42194,
+          "lng": -9.74778
+        }
+      ]
+    },
+    {
+      "name": "Margibi",
+      "lat": 6.6053676,
+      "lng": -10.1758429,
+      "districts": [
+        {
+          "name": "Kakata",
+          "lat": 6.53104,
+          "lng": -10.35368
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "lat": 4.6355376,
+      "lng": -7.7281669,
+      "districts": [
+        {
+          "name": "Harper",
+          "lat": 4.3782,
+          "lng": -7.71081
+        }
+      ]
+    },
+    {
+      "name": "Montserrado",
+      "lat": 6.4095537,
+      "lng": -10.6059403,
+      "districts": [
+        {
+          "name": "Monrovia",
+          "lat": 6.30054,
+          "lng": -10.7969,
+          "iscapital": true
+        },
+        {
+          "name": "Bensonville",
+          "lat": 6.44716,
+          "lng": -10.61283
+        }
+      ]
+    },
+    {
+      "name": "Nimba",
+      "lat": 6.8088813,
+      "lng": -8.7461448,
+      "districts": [
+        {
+          "name": "Ganta",
+          "lat": 7.30222,
+          "lng": -8.53083
+        },
+        {
+          "name": "New Yekepa",
+          "lat": 7.57944,
+          "lng": -8.53778
+        },
+        {
+          "name": "Sanniquellie",
+          "lat": 7.36215,
+          "lng": -8.71326
+        }
+      ]
+    },
+    {
+      "name": "River Cess",
+      "lat": 5.9087331,
+      "lng": -9.3938267,
+      "districts": [
+        {
+          "name": "Cestos City",
+          "lat": 5.45683,
+          "lng": -9.58167
+        }
+      ]
+    },
+    {
+      "name": "River Gee",
+      "lat": 5.2653903,
+      "lng": -7.8856203,
+      "districts": [
+        {
+          "name": "Fish Town",
+          "lat": 5.19739,
+          "lng": -7.87579
+        }
+      ]
+    },
+    {
+      "name": "Sinoe",
+      "lat": 5.3232693,
+      "lng": -8.8435955,
+      "districts": [
+        {
+          "name": "Greenville",
+          "lat": 5.01133,
+          "lng": -9.0388
+        }
+      ]
+    }
+  ]
+}

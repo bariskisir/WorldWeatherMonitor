@@ -1,0 +1,184 @@
+{
+  "name": "Faroe Islands",
+  "lat": 62,
+  "lng": -7,
+  "cities": [
+    {
+      "name": "Eysturoy",
+      "lat": 62.1988704,
+      "lng": -6.8178451,
+      "districts": [
+        {
+          "name": "Eiði",
+          "lat": 62.2789,
+          "lng": -7.0123
+        },
+        {
+          "name": "Eystur",
+          "lat": 62.1567,
+          "lng": -6.8233
+        },
+        {
+          "name": "Fuglafjørður",
+          "lat": 62.2101,
+          "lng": -6.8123
+        },
+        {
+          "name": "Nes",
+          "lat": 62.0987,
+          "lng": -6.7654
+        },
+        {
+          "name": "Runavík",
+          "lat": 62.1323,
+          "lng": -6.789
+        },
+        {
+          "name": "Sjóvar",
+          "lat": 62.1234,
+          "lng": -6.8765
+        }
+      ]
+    },
+    {
+      "name": "Northern Isles",
+      "lat": 62.2805689,
+      "lng": 6.7017061,
+      "districts": [
+        {
+          "name": "Hvannasund",
+          "lat": 62.3456,
+          "lng": -6.789
+        },
+        {
+          "name": "Klaksvík",
+          "lat": 62.221,
+          "lng": -6.58
+        },
+        {
+          "name": "Kunoy",
+          "lat": 62.3456,
+          "lng": -6.8901
+        }
+      ]
+    },
+    {
+      "name": "Sandoy",
+      "lat": 61.8333877,
+      "lng": -6.7239899,
+      "districts": [
+        {
+          "name": "Húsavík",
+          "lat": 61.8096495,
+          "lng": -6.6794956
+        },
+        {
+          "name": "Sandur",
+          "lat": 61.8348155,
+          "lng": -6.8175826
+        },
+        {
+          "name": "Skálavík",
+          "lat": 61.8302676,
+          "lng": -6.664032
+        },
+        {
+          "name": "Skopun",
+          "lat": 62.0123,
+          "lng": -6.9876
+        },
+        {
+          "name": "Skúvoy",
+          "lat": 61.7664432,
+          "lng": -6.826962
+        }
+      ]
+    },
+    {
+      "name": "Streymoy",
+      "lat": 62.1237192,
+      "lng": -7.0158828,
+      "districts": [
+        {
+          "name": "Kvívík",
+          "lat": 62.1456,
+          "lng": -7.2098
+        },
+        {
+          "name": "Sunda",
+          "lat": 62.1345,
+          "lng": -7.0987
+        },
+        {
+          "name": "Tórshavn",
+          "lat": 62,
+          "lng": -7
+        },
+        {
+          "name": "Vestmanna",
+          "lat": 62.1567,
+          "lng": -7.2345
+        }
+      ]
+    },
+    {
+      "name": "Suðuroy",
+      "lat": 61.5210651,
+      "lng": -6.8141866,
+      "districts": [
+        {
+          "name": "Fámjin",
+          "lat": 61.5246866,
+          "lng": -6.8792705
+        },
+        {
+          "name": "Hov",
+          "lat": 61.5069357,
+          "lng": -6.7557422
+        },
+        {
+          "name": "Hvalba",
+          "lat": 61.5987,
+          "lng": -6.9876
+        },
+        {
+          "name": "Porkeri",
+          "lat": 61.5432,
+          "lng": -6.9876
+        },
+        {
+          "name": "Sumba",
+          "lat": 61.4033267,
+          "lng": -6.7117361
+        },
+        {
+          "name": "Tvøroyri",
+          "lat": 61.5623,
+          "lng": -6.778
+        },
+        {
+          "name": "Vágur",
+          "lat": 61.4789,
+          "lng": -6.8101
+        }
+      ]
+    },
+    {
+      "name": "Vágar",
+      "lat": 62.0898985,
+      "lng": -7.2345841,
+      "districts": [
+        {
+          "name": "Sørvágur",
+          "lat": 62.0654,
+          "lng": -7.3787
+        },
+        {
+          "name": "Vágar",
+          "lat": 62.0667,
+          "lng": -7.1
+        }
+      ]
+    }
+  ]
+}

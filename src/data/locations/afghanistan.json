@@ -1,0 +1,746 @@
+{
+  "name": "Afghanistan",
+  "lat": 33,
+  "lng": 65,
+  "cities": [
+    {
+      "name": "Badakhshan",
+      "lat": 36.8040254,
+      "lng": 71.367658,
+      "districts": [
+        {
+          "name": "Ashkāsham",
+          "lat": 36.68333,
+          "lng": 71.53333
+        },
+        {
+          "name": "Fayzabad",
+          "lat": 37.11664,
+          "lng": 70.58002
+        },
+        {
+          "name": "Jurm",
+          "lat": 36.86477,
+          "lng": 70.83421
+        },
+        {
+          "name": "Khandūd",
+          "lat": 36.95127,
+          "lng": 72.318
+        },
+        {
+          "name": "Rāghistān",
+          "lat": 37.66079,
+          "lng": 70.67346
+        },
+        {
+          "name": "Wākhān",
+          "lat": 37.0571,
+          "lng": 73.34928
+        }
+      ]
+    },
+    {
+      "name": "Badghis",
+      "lat": 35,
+      "lng": 63.75,
+      "districts": [
+        {
+          "name": "Ghormach",
+          "lat": 35.73062,
+          "lng": 63.78264
+        },
+        {
+          "name": "Qala i Naw",
+          "lat": 34.98735,
+          "lng": 63.12891
+        }
+      ]
+    },
+    {
+      "name": "Baghlan",
+      "lat": 36.1789026,
+      "lng": 68.7453064,
+      "districts": [
+        {
+          "name": "Baghlān",
+          "lat": 36.13068,
+          "lng": 68.70829
+        },
+        {
+          "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+          "lat": 35.90617,
+          "lng": 68.48869
+        },
+        {
+          "name": "Nahrīn",
+          "lat": 36.0649,
+          "lng": 69.13343
+        },
+        {
+          "name": "Pul-e Khumrī",
+          "lat": 35.94458,
+          "lng": 68.71512
+        }
+      ]
+    },
+    {
+      "name": "Balkh",
+      "lat": 36.7550603,
+      "lng": 66.8975372,
+      "districts": [
+        {
+          "name": "Balkh",
+          "lat": 36.75635,
+          "lng": 66.8972
+        },
+        {
+          "name": "Mazār-e Sharīf",
+          "lat": 36.70904,
+          "lng": 67.11087
+        },
+        {
+          "name": "Dowlatābād",
+          "lat": 36.98821,
+          "lng": 66.82069
+        },
+        {
+          "name": "Khulm",
+          "lat": 36.69736,
+          "lng": 67.69826
+        },
+        {
+          "name": "Lab-Sar",
+          "lat": 36.02634,
+          "lng": 66.83799
+        },
+        {
+          "name": "Qarchī Gak",
+          "lat": 37.03999,
+          "lng": 66.78891
+        }
+      ]
+    },
+    {
+      "name": "Bamyan",
+      "lat": 34.794631,
+      "lng": 67.684334,
+      "districts": [
+        {
+          "name": "Bāmyān",
+          "lat": 34.82156,
+          "lng": 67.82734
+        },
+        {
+          "name": "Panjāb",
+          "lat": 34.38795,
+          "lng": 67.02327
+        }
+      ]
+    },
+    {
+      "name": "Daykundi",
+      "lat": 33.725113,
+      "lng": 66.2196554,
+      "districts": [
+        {
+          "name": "Nīlī",
+          "lat": 33.76329,
+          "lng": 66.07617
+        }
+      ]
+    },
+    {
+      "name": "Farah",
+      "lat": 32.3740907,
+      "lng": 62.1146266,
+      "districts": [
+        {
+          "name": "Farah",
+          "lat": 32.37451,
+          "lng": 62.11638
+        }
+      ]
+    },
+    {
+      "name": "Faryab",
+      "lat": 35.9261784,
+      "lng": 64.6237758,
+      "districts": [
+        {
+          "name": "Andkhoy",
+          "lat": 36.95293,
+          "lng": 65.12376
+        },
+        {
+          "name": "Maymana",
+          "lat": 35.92139,
+          "lng": 64.78361
+        }
+      ]
+    },
+    {
+      "name": "Ghazni",
+      "lat": 33.5450587,
+      "lng": 68.4173972,
+      "districts": [
+        {
+          "name": "Ghazni",
+          "lat": 33.55391,
+          "lng": 68.42096
+        }
+      ]
+    },
+    {
+      "name": "Ghōr",
+      "lat": 34.1605257,
+      "lng": 64.9201949,
+      "districts": [
+        {
+          "name": "Fayrōz Kōh",
+          "lat": 34.51952,
+          "lng": 65.25093
+        },
+        {
+          "name": "Shahrak",
+          "lat": 34.10737,
+          "lng": 64.3052
+        }
+      ]
+    },
+    {
+      "name": "Helmand",
+      "lat": 31,
+      "lng": 64,
+      "districts": [
+        {
+          "name": "‘Alāqahdārī Dīshū",
+          "lat": 30.43206,
+          "lng": 63.29802
+        },
+        {
+          "name": "Gereshk",
+          "lat": 31.82089,
+          "lng": 64.57005
+        },
+        {
+          "name": "Lashkar Gāh",
+          "lat": 31.59382,
+          "lng": 64.37161
+        },
+        {
+          "name": "Markaz-e Ḩukūmat-e Darwēshān",
+          "lat": 31.13231,
+          "lng": 64.1934
+        },
+        {
+          "name": "Sangīn",
+          "lat": 32.07275,
+          "lng": 64.8359
+        }
+      ]
+    },
+    {
+      "name": "Herat",
+      "lat": 34.3491443,
+      "lng": 62.2163252,
+      "districts": [
+        {
+          "name": "Herāt",
+          "lat": 34.34817,
+          "lng": 62.19967
+        },
+        {
+          "name": "Chahār Burj",
+          "lat": 34.24475,
+          "lng": 62.19165
+        },
+        {
+          "name": "Ghōriyān",
+          "lat": 34.3448,
+          "lng": 61.49321
+        },
+        {
+          "name": "Kafir Qala",
+          "lat": 34.66667,
+          "lng": 61.06667
+        },
+        {
+          "name": "Karukh",
+          "lat": 34.48108,
+          "lng": 62.5863
+        },
+        {
+          "name": "Kuhsān",
+          "lat": 34.65389,
+          "lng": 61.19778
+        },
+        {
+          "name": "Kushk",
+          "lat": 33.29565,
+          "lng": 61.95221
+        },
+        {
+          "name": "Qarah Bāgh",
+          "lat": 34.94023,
+          "lng": 61.77589
+        },
+        {
+          "name": "Shīnḏanḏ",
+          "lat": 33.30294,
+          "lng": 62.1474
+        },
+        {
+          "name": "Tīr Pul",
+          "lat": 34.59431,
+          "lng": 61.26895
+        },
+        {
+          "name": "Zindah Jān",
+          "lat": 34.34264,
+          "lng": 61.74675
+        }
+      ]
+    },
+    {
+      "name": "Jowzjan",
+      "lat": 36.9665706,
+      "lng": 65.9560232,
+      "districts": [
+        {
+          "name": "Āqchah",
+          "lat": 36.905,
+          "lng": 66.18341
+        },
+        {
+          "name": "Darzāb",
+          "lat": 35.97744,
+          "lng": 65.37828
+        },
+        {
+          "name": "Qarqīn",
+          "lat": 37.41853,
+          "lng": 66.04358
+        },
+        {
+          "name": "Shibirghān",
+          "lat": 36.66757,
+          "lng": 65.7529
+        }
+      ]
+    },
+    {
+      "name": "Kabul",
+      "lat": 34.5266431,
+      "lng": 69.1849082,
+      "districts": [
+        {
+          "name": "Kabul",
+          "lat": 34.52813,
+          "lng": 69.17233,
+          "iscapital": true
+        },
+        {
+          "name": "Mīr Bachah Kōṯ",
+          "lat": 34.74999,
+          "lng": 69.11899
+        },
+        {
+          "name": "Paghmān",
+          "lat": 34.58787,
+          "lng": 68.95091
+        }
+      ]
+    },
+    {
+      "name": "Kandahar",
+      "lat": 31.6205738,
+      "lng": 65.7157573,
+      "districts": [
+        {
+          "name": "Kandahār",
+          "lat": 31.61332,
+          "lng": 65.71013
+        }
+      ]
+    },
+    {
+      "name": "Kapisa",
+      "lat": 34.905556,
+      "lng": 69.741667,
+      "districts": [
+        {
+          "name": "Sidqābād",
+          "lat": 35.02298,
+          "lng": 69.35112
+        }
+      ]
+    },
+    {
+      "name": "Khost",
+      "lat": 33.3391402,
+      "lng": 69.9206359,
+      "districts": [
+        {
+          "name": "Khōst",
+          "lat": 33.33951,
+          "lng": 69.92041
+        }
+      ]
+    },
+    {
+      "name": "Kunar",
+      "lat": 34.95,
+      "lng": 71.133333,
+      "districts": [
+        {
+          "name": "Asadabad",
+          "lat": 34.87311,
+          "lng": 71.14697
+        },
+        {
+          "name": "Āsmār",
+          "lat": 35.03333,
+          "lng": 71.35809
+        }
+      ]
+    },
+    {
+      "name": "Kunduz Province",
+      "lat": 36.8707187,
+      "lng": 68.7563528,
+      "districts": [
+        {
+          "name": "Kunduz",
+          "lat": 36.72895,
+          "lng": 68.857
+        },
+        {
+          "name": "Dasht-e Archī",
+          "lat": 37.13333,
+          "lng": 69.16667
+        },
+        {
+          "name": "Imām Şāḩib",
+          "lat": 37.18897,
+          "lng": 68.93644
+        },
+        {
+          "name": "Khanabad",
+          "lat": 36.6825,
+          "lng": 69.11556
+        },
+        {
+          "name": "Qarāwul",
+          "lat": 37.21959,
+          "lng": 68.7802
+        }
+      ]
+    },
+    {
+      "name": "Laghman",
+      "lat": 34.783333,
+      "lng": 70.183333,
+      "districts": [
+        {
+          "name": "Mehtar Lām",
+          "lat": 34.67139,
+          "lng": 70.20944
+        }
+      ]
+    },
+    {
+      "name": "Logar",
+      "lat": 34.0653595,
+      "lng": 69.160172,
+      "districts": [
+        {
+          "name": "Baraki Barak",
+          "lat": 33.96744,
+          "lng": 68.9492
+        },
+        {
+          "name": "Ḩukūmatī Azrah",
+          "lat": 34.17355,
+          "lng": 69.64573
+        },
+        {
+          "name": "Pul-e ‘Alam",
+          "lat": 33.99529,
+          "lng": 69.02274
+        }
+      ]
+    },
+    {
+      "name": "Nangarhar",
+      "lat": 34.220389,
+      "lng": 70.3800314,
+      "districts": [
+        {
+          "name": "Jalālābād",
+          "lat": 34.42647,
+          "lng": 70.45153
+        },
+        {
+          "name": "Bāsawul",
+          "lat": 34.24749,
+          "lng": 70.87218
+        }
+      ]
+    },
+    {
+      "name": "Nimruz",
+      "lat": 30.7753811,
+      "lng": 62.4793088,
+      "districts": [
+        {
+          "name": "Khāsh",
+          "lat": 31.52919,
+          "lng": 62.79055
+        },
+        {
+          "name": "Mīrābād",
+          "lat": 30.43624,
+          "lng": 61.8383
+        },
+        {
+          "name": "Rūdbār",
+          "lat": 30.15,
+          "lng": 62.6
+        },
+        {
+          "name": "Zaranj",
+          "lat": 30.95962,
+          "lng": 61.86037
+        }
+      ]
+    },
+    {
+      "name": "Nuristan",
+      "lat": 35.3,
+      "lng": 70.833333,
+      "districts": [
+        {
+          "name": "Pārūn",
+          "lat": 35.42064,
+          "lng": 70.92261
+        }
+      ]
+    },
+    {
+      "name": "Paktia",
+      "lat": 33.705724,
+      "lng": 69.4083555,
+      "districts": [
+        {
+          "name": "Gardez",
+          "lat": 33.59744,
+          "lng": 69.22592
+        }
+      ]
+    },
+    {
+      "name": "Paktika",
+      "lat": 32.3936231,
+      "lng": 68.7036514,
+      "districts": [
+        {
+          "name": "Saṟōbī",
+          "lat": 32.75221,
+          "lng": 69.04587
+        },
+        {
+          "name": "Zaṟah Sharan",
+          "lat": 33.14641,
+          "lng": 68.79213
+        },
+        {
+          "name": "Zarghūn Shahr",
+          "lat": 32.84734,
+          "lng": 68.44573
+        }
+      ]
+    },
+    {
+      "name": "Panjshir",
+      "lat": 35.6973556,
+      "lng": 70.0999604,
+      "districts": [
+        {
+          "name": "Bāzārak",
+          "lat": 35.31292,
+          "lng": 69.51519
+        }
+      ]
+    },
+    {
+      "name": "Parwan",
+      "lat": 34.9797014,
+      "lng": 68.9146703,
+      "districts": [
+        {
+          "name": "Charikar",
+          "lat": 35.01361,
+          "lng": 69.17139
+        },
+        {
+          "name": "Jabal os Saraj",
+          "lat": 35.11833,
+          "lng": 69.23778
+        }
+      ]
+    },
+    {
+      "name": "Samangan",
+      "lat": 36.2674938,
+      "lng": 68.0215374,
+      "districts": [
+        {
+          "name": "Aībak",
+          "lat": 36.26468,
+          "lng": 68.01551
+        }
+      ]
+    },
+    {
+      "name": "Sar-e Pol",
+      "lat": 36.216628,
+      "lng": 65.93336,
+      "districts": [
+        {
+          "name": "Chīras",
+          "lat": 35.41674,
+          "lng": 65.98234
+        },
+        {
+          "name": "Larkird",
+          "lat": 35.48936,
+          "lng": 66.66409
+        },
+        {
+          "name": "Qal‘ah-ye Shahr",
+          "lat": 35.54729,
+          "lng": 65.5676
+        },
+        {
+          "name": "Sang-e Chārak",
+          "lat": 35.84972,
+          "lng": 66.43694
+        },
+        {
+          "name": "Sar-e Pul",
+          "lat": 36.21544,
+          "lng": 65.93249
+        },
+        {
+          "name": "Tagāw-Bāy",
+          "lat": 35.69941,
+          "lng": 66.06164
+        },
+        {
+          "name": "Tukzār",
+          "lat": 35.94831,
+          "lng": 66.42132
+        }
+      ]
+    },
+    {
+      "name": "Takhar",
+      "lat": 36.5940732,
+      "lng": 69.7938996,
+      "districts": [
+        {
+          "name": "Ārt Khwājah",
+          "lat": 37.08571,
+          "lng": 69.47958
+        },
+        {
+          "name": "Taloqan",
+          "lat": 36.73605,
+          "lng": 69.53451
+        }
+      ]
+    },
+    {
+      "name": "Urozgan",
+      "lat": 32.8129681,
+      "lng": 66.0183185,
+      "districts": [
+        {
+          "name": "Tarinkot",
+          "lat": 32.62998,
+          "lng": 65.87806
+        },
+        {
+          "name": "Uruzgān",
+          "lat": 32.92775,
+          "lng": 66.63253
+        }
+      ]
+    },
+    {
+      "name": "Wardak",
+      "lat": 34.3,
+      "lng": 68.5,
+      "districts": [
+        {
+          "name": "Chaki Wardak",
+          "lat": 34.29,
+          "lng": 68.58
+        },
+        {
+          "name": "Day Mirdad",
+          "lat": 34.5,
+          "lng": 69
+        },
+        {
+          "name": "Hisa-i-Awali Bihsud",
+          "lat": 34.65,
+          "lng": 68.18
+        },
+        {
+          "name": "Jaghatu",
+          "lat": 34.08,
+          "lng": 68.45
+        },
+        {
+          "name": "Jalrez",
+          "lat": 34.52,
+          "lng": 68.78
+        },
+        {
+          "name": "Maidan Shahr",
+          "lat": 34.38,
+          "lng": 68.54
+        },
+        {
+          "name": "Markaz-i-Bihsud",
+          "lat": 34.55,
+          "lng": 67.8
+        },
+        {
+          "name": "Nerkh",
+          "lat": 34.49,
+          "lng": 68.51
+        },
+        {
+          "name": "Sayed Abad",
+          "lat": 34,
+          "lng": 68.63
+        }
+      ]
+    },
+    {
+      "name": "Zabul",
+      "lat": 32.3068942,
+      "lng": 67.129904,
+      "districts": [
+        {
+          "name": "Qalāt",
+          "lat": 32.10575,
+          "lng": 66.90833
+        }
+      ]
+    }
+  ]
+}

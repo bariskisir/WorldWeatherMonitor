@@ -1,0 +1,807 @@
+{
+  "name": "Albania",
+  "lat": 41,
+  "lng": 20,
+  "cities": [
+    {
+      "name": "Berat",
+      "lat": 40.7018636,
+      "lng": 19.9580758,
+      "districts": [
+        {
+          "name": "Banaj",
+          "lat": 40.82492,
+          "lng": 19.84074
+        },
+        {
+          "name": "Bashkia Berat",
+          "lat": 40.69997,
+          "lng": 19.94983
+        },
+        {
+          "name": "Bashkia Kuçovë",
+          "lat": 40.82489,
+          "lng": 19.9535
+        },
+        {
+          "name": "Bashkia Poliçan",
+          "lat": 40.58608,
+          "lng": 20.04535
+        },
+        {
+          "name": "Bashkia Skrapar",
+          "lat": 40.56036,
+          "lng": 20.25477
+        },
+        {
+          "name": "Berat",
+          "lat": 40.70583,
+          "lng": 19.95222
+        },
+        {
+          "name": "Çorovodë",
+          "lat": 40.50417,
+          "lng": 20.22722
+        },
+        {
+          "name": "Kuçovë",
+          "lat": 40.80028,
+          "lng": 19.91667
+        },
+        {
+          "name": "Poliçan",
+          "lat": 40.61222,
+          "lng": 20.09806
+        },
+        {
+          "name": "Rrethi i Beratit",
+          "lat": 40.66667,
+          "lng": 20
+        },
+        {
+          "name": "Rrethi i Kuçovës",
+          "lat": 40.83333,
+          "lng": 19.91667
+        },
+        {
+          "name": "Rrethi i Skraparit",
+          "lat": 40.55,
+          "lng": 20.26667
+        },
+        {
+          "name": "Skrapar",
+          "lat": 40.5407139,
+          "lng": 20.101884
+        },
+        {
+          "name": "Ura Vajgurore",
+          "lat": 40.76889,
+          "lng": 19.87778
+        }
+      ]
+    },
+    {
+      "name": "Dibër",
+      "lat": 41.622192,
+      "lng": 20.180816,
+      "districts": [
+        {
+          "name": "Bashkia Bulqizë",
+          "lat": 41.47152,
+          "lng": 20.33192
+        },
+        {
+          "name": "Bashkia Klos",
+          "lat": 41.50826,
+          "lng": 20.07107
+        },
+        {
+          "name": "Bashkia Mat",
+          "lat": 41.63317,
+          "lng": 20.01228
+        },
+        {
+          "name": "Bulqizë",
+          "lat": 41.49167,
+          "lng": 20.22194
+        },
+        {
+          "name": "Burrel",
+          "lat": 41.61028,
+          "lng": 20.00889
+        },
+        {
+          "name": "Dibër",
+          "lat": 41.7309909,
+          "lng": 20.1890858
+        },
+        {
+          "name": "Klos",
+          "lat": 41.50694,
+          "lng": 20.08667
+        },
+        {
+          "name": "Mat",
+          "lat": 41.6364812,
+          "lng": 19.840556
+        },
+        {
+          "name": "Peshkopi",
+          "lat": 41.685,
+          "lng": 20.42889
+        },
+        {
+          "name": "Rrethi i Bulqizës",
+          "lat": 41.5,
+          "lng": 20.33333
+        },
+        {
+          "name": "Rrethi i Dibrës",
+          "lat": 41.75,
+          "lng": 20.33333
+        },
+        {
+          "name": "Rrethi i Matit",
+          "lat": 41.58333,
+          "lng": 20.08333
+        },
+        {
+          "name": "Ulëz",
+          "lat": 41.68278,
+          "lng": 19.89333
+        }
+      ]
+    },
+    {
+      "name": "Durrës",
+      "lat": 41.4279863,
+      "lng": 19.5373372,
+      "districts": [
+        {
+          "name": "Durrës",
+          "lat": 41.3313929,
+          "lng": 19.4251579
+        },
+        {
+          "name": "Bashkia Durrës",
+          "lat": 41.42743,
+          "lng": 19.4869
+        },
+        {
+          "name": "Bashkia Krujë",
+          "lat": 41.50091,
+          "lng": 19.72571
+        },
+        {
+          "name": "Bashkia Shijak",
+          "lat": 41.33558,
+          "lng": 19.58977
+        },
+        {
+          "name": "Durrës District",
+          "lat": 41.3166,
+          "lng": 19.45
+        },
+        {
+          "name": "Fushë-Krujë",
+          "lat": 41.47833,
+          "lng": 19.71778
+        },
+        {
+          "name": "Krujë",
+          "lat": 41.50917,
+          "lng": 19.79278
+        },
+        {
+          "name": "Rrethi i Krujës",
+          "lat": 41.55,
+          "lng": 19.75
+        },
+        {
+          "name": "Shijak",
+          "lat": 41.34556,
+          "lng": 19.56722
+        },
+        {
+          "name": "Sukth",
+          "lat": 41.38056,
+          "lng": 19.53778
+        }
+      ]
+    },
+    {
+      "name": "Elbasan",
+      "lat": 41.0510829,
+      "lng": 20.1398526,
+      "districts": [
+        {
+          "name": "Gramsh",
+          "lat": 40.8661446,
+          "lng": 20.1763701
+        },
+        {
+          "name": "Librazhd",
+          "lat": 41.1832398,
+          "lng": 20.3036248
+        },
+        {
+          "name": "Peqin",
+          "lat": 41.0464103,
+          "lng": 19.7405004
+        }
+      ]
+    },
+    {
+      "name": "Fier",
+      "lat": 40.9191392,
+      "lng": 19.6639309,
+      "districts": [
+        {
+          "name": "Ballsh",
+          "lat": 40.59889,
+          "lng": 19.73472
+        },
+        {
+          "name": "Bashkia Divjakë",
+          "lat": 40.95716,
+          "lng": 19.52364
+        },
+        {
+          "name": "Bashkia Fier",
+          "lat": 40.72937,
+          "lng": 19.4869
+        },
+        {
+          "name": "Bashkia Mallakastër",
+          "lat": 40.55669,
+          "lng": 19.77347
+        },
+        {
+          "name": "Bashkia Patos",
+          "lat": 40.67793,
+          "lng": 19.65591
+        },
+        {
+          "name": "Divjakë",
+          "lat": 40.99667,
+          "lng": 19.52944
+        },
+        {
+          "name": "Fier",
+          "lat": 40.72389,
+          "lng": 19.55611
+        },
+        {
+          "name": "Fier-Çifçi",
+          "lat": 40.71667,
+          "lng": 19.56667
+        },
+        {
+          "name": "Lushnjë",
+          "lat": 40.94194,
+          "lng": 19.705
+        },
+        {
+          "name": "Mallakastër",
+          "lat": 40.5433544,
+          "lng": 19.6248073
+        },
+        {
+          "name": "Patos",
+          "lat": 40.68333,
+          "lng": 19.61944
+        },
+        {
+          "name": "Patos Fshat",
+          "lat": 40.64278,
+          "lng": 19.65083
+        },
+        {
+          "name": "Roskovec",
+          "lat": 40.7375,
+          "lng": 19.70222
+        },
+        {
+          "name": "Rrethi i Mallakastrës",
+          "lat": 40.55,
+          "lng": 19.78333
+        }
+      ]
+    },
+    {
+      "name": "Gjirokastër",
+      "lat": 40.0770871,
+      "lng": 20.1393359,
+      "districts": [
+        {
+          "name": "Bashkia Kelcyrë",
+          "lat": 40.36196,
+          "lng": 20.16476
+        },
+        {
+          "name": "Bashkia Libohovë",
+          "lat": 40.10754,
+          "lng": 20.25753
+        },
+        {
+          "name": "Bashkia Memaliaj",
+          "lat": 40.41524,
+          "lng": 19.96911
+        },
+        {
+          "name": "Bashkia Përmet",
+          "lat": 40.23246,
+          "lng": 20.41091
+        },
+        {
+          "name": "Bashkia Tepelenë",
+          "lat": 40.26736,
+          "lng": 19.97003
+        },
+        {
+          "name": "Dropull",
+          "lat": 39.98584,
+          "lng": 20.30529
+        },
+        {
+          "name": "Gjinkar",
+          "lat": 40.19944,
+          "lng": 20.40611
+        },
+        {
+          "name": "Gjirokastër",
+          "lat": 40.07583,
+          "lng": 20.13889
+        },
+        {
+          "name": "Këlcyrë",
+          "lat": 40.31306,
+          "lng": 20.18944
+        },
+        {
+          "name": "Lazarat",
+          "lat": 40.04667,
+          "lng": 20.1475
+        },
+        {
+          "name": "Libohovë",
+          "lat": 40.03111,
+          "lng": 20.26306
+        },
+        {
+          "name": "Memaliaj",
+          "lat": 40.35167,
+          "lng": 19.98028
+        },
+        {
+          "name": "Përmet",
+          "lat": 40.23361,
+          "lng": 20.35167
+        },
+        {
+          "name": "Tepelenë",
+          "lat": 40.29583,
+          "lng": 20.01917
+        }
+      ]
+    },
+    {
+      "name": "Korçë",
+      "lat": 40.5858753,
+      "lng": 20.7361315,
+      "districts": [
+        {
+          "name": "Bashkia Devoll",
+          "lat": 40.60078,
+          "lng": 20.93814
+        },
+        {
+          "name": "Bashkia Kolonjë",
+          "lat": 40.3142,
+          "lng": 20.61482
+        },
+        {
+          "name": "Bashkia Maliq",
+          "lat": 40.75508,
+          "lng": 20.60748
+        },
+        {
+          "name": "Bilisht",
+          "lat": 40.6275,
+          "lng": 20.99
+        },
+        {
+          "name": "Devoll",
+          "lat": 40.589983,
+          "lng": 20.7481313
+        },
+        {
+          "name": "Ersekë",
+          "lat": 40.33778,
+          "lng": 20.67889
+        },
+        {
+          "name": "Kolonjë",
+          "lat": 40.2830545,
+          "lng": 20.4564726
+        },
+        {
+          "name": "Korçë",
+          "lat": 40.61861,
+          "lng": 20.78083
+        },
+        {
+          "name": "Leskovik",
+          "lat": 40.15139,
+          "lng": 20.59722
+        },
+        {
+          "name": "Libonik",
+          "lat": 40.70444,
+          "lng": 20.70861
+        },
+        {
+          "name": "Maliq",
+          "lat": 40.70583,
+          "lng": 20.69972
+        },
+        {
+          "name": "Mborje",
+          "lat": 40.60333,
+          "lng": 20.80306
+        },
+        {
+          "name": "Pogradec",
+          "lat": 40.9025,
+          "lng": 20.6525
+        },
+        {
+          "name": "Pustec",
+          "lat": 40.83591,
+          "lng": 20.89405
+        },
+        {
+          "name": "Rrethi i Devollit",
+          "lat": 40.58333,
+          "lng": 20.91667
+        },
+        {
+          "name": "Rrethi i Kolonjës",
+          "lat": 40.25,
+          "lng": 20.66667
+        },
+        {
+          "name": "Velçan",
+          "lat": 40.95472,
+          "lng": 20.46222
+        },
+        {
+          "name": "Voskopojë",
+          "lat": 40.63306,
+          "lng": 20.58889
+        }
+      ]
+    },
+    {
+      "name": "Kukës",
+      "lat": 42.1885664,
+      "lng": 20.3769633,
+      "districts": [
+        {
+          "name": "Bajram Curri",
+          "lat": 42.35734,
+          "lng": 20.07679
+        },
+        {
+          "name": "Krumë",
+          "lat": 42.19694,
+          "lng": 20.41333
+        },
+        {
+          "name": "Kukës",
+          "lat": 42.07694,
+          "lng": 20.42194
+        },
+        {
+          "name": "Rrethi i Hasit",
+          "lat": 42.16667,
+          "lng": 20.33333
+        },
+        {
+          "name": "Rrethi i Kukësit",
+          "lat": 42,
+          "lng": 20.33333
+        },
+        {
+          "name": "Tropojë",
+          "lat": 42.37624,
+          "lng": 19.7453929
+        }
+      ]
+    },
+    {
+      "name": "Lezhë",
+      "lat": 41.7813759,
+      "lng": 19.8067916,
+      "districts": [
+        {
+          "name": "Bashkia Kurbin",
+          "lat": 41.62215,
+          "lng": 19.70734
+        },
+        {
+          "name": "Bashkia Lezhë",
+          "lat": 41.8132,
+          "lng": 19.64121
+        },
+        {
+          "name": "Bashkia Mirditë",
+          "lat": 41.80953,
+          "lng": 19.99024
+        },
+        {
+          "name": "Kurbin",
+          "lat": 41.6389189,
+          "lng": 19.6933363
+        },
+        {
+          "name": "Kurbnesh",
+          "lat": 41.77972,
+          "lng": 20.08361
+        },
+        {
+          "name": "Laç",
+          "lat": 41.63556,
+          "lng": 19.71306
+        },
+        {
+          "name": "Lezhë",
+          "lat": 41.78361,
+          "lng": 19.64361
+        },
+        {
+          "name": "Mamurras",
+          "lat": 41.5775,
+          "lng": 19.69222
+        },
+        {
+          "name": "Milot",
+          "lat": 41.68389,
+          "lng": 19.71556
+        },
+        {
+          "name": "Mirditë",
+          "lat": 41.860728,
+          "lng": 19.6675722
+        },
+        {
+          "name": "Rrëshen",
+          "lat": 41.7675,
+          "lng": 19.87556
+        },
+        {
+          "name": "Rrethi i Kurbinit",
+          "lat": 41.63333,
+          "lng": 19.71667
+        },
+        {
+          "name": "Rubik",
+          "lat": 41.77444,
+          "lng": 19.78611
+        },
+        {
+          "name": "Shëngjin",
+          "lat": 41.81361,
+          "lng": 19.59389
+        }
+      ]
+    },
+    {
+      "name": "Shkodër",
+      "lat": 42.2507677,
+      "lng": 19.5959723,
+      "districts": [
+        {
+          "name": "Bashkia Malësi e Madhe",
+          "lat": 42.36798,
+          "lng": 19.58977
+        },
+        {
+          "name": "Bashkia Pukë",
+          "lat": 42.02997,
+          "lng": 19.92778
+        },
+        {
+          "name": "Bashkia Vau i Dejës",
+          "lat": 42.04834,
+          "lng": 19.69999
+        },
+        {
+          "name": "Fushë-Arrëz",
+          "lat": 42.06222,
+          "lng": 20.01667
+        },
+        {
+          "name": "Koplik",
+          "lat": 42.21361,
+          "lng": 19.43639
+        },
+        {
+          "name": "Malësi e Madhe",
+          "lat": 42.3901631,
+          "lng": 19.1991842
+        },
+        {
+          "name": "Pukë",
+          "lat": 42.04444,
+          "lng": 19.89972
+        },
+        {
+          "name": "Rrethi i Malësia e Madhe",
+          "lat": 42.33333,
+          "lng": 19.58333
+        },
+        {
+          "name": "Rrethi i Shkodrës",
+          "lat": 42.06917,
+          "lng": 19.53506
+        },
+        {
+          "name": "Shkodër",
+          "lat": 42.06828,
+          "lng": 19.51258
+        },
+        {
+          "name": "Vau i Dejës",
+          "lat": 42.01,
+          "lng": 19.62472
+        },
+        {
+          "name": "Vukatanë",
+          "lat": 42.02806,
+          "lng": 19.54778
+        }
+      ]
+    },
+    {
+      "name": "Tirana",
+      "lat": 41.2584478,
+      "lng": 19.8302656,
+      "districts": [
+        {
+          "name": "Tirana",
+          "lat": 41.3275,
+          "lng": 19.81889,
+          "iscapital": true
+        },
+        {
+          "name": "Bashkia Kavajë",
+          "lat": 41.18127,
+          "lng": 19.55579
+        },
+        {
+          "name": "Bashkia Vorë",
+          "lat": 41.39804,
+          "lng": 19.67703
+        },
+        {
+          "name": "Kamëz",
+          "lat": 41.38167,
+          "lng": 19.76028
+        },
+        {
+          "name": "Kavajë",
+          "lat": 41.18556,
+          "lng": 19.55694
+        },
+        {
+          "name": "Krrabë",
+          "lat": 41.21556,
+          "lng": 19.97139
+        },
+        {
+          "name": "Rrethi i Kavajës",
+          "lat": 41.16667,
+          "lng": 19.58333
+        },
+        {
+          "name": "Rrethi i Tiranës",
+          "lat": 41.33333,
+          "lng": 19.91667
+        },
+        {
+          "name": "Rrogozhinë",
+          "lat": 41.07639,
+          "lng": 19.66528
+        },
+        {
+          "name": "Sinaballaj",
+          "lat": 41.06889,
+          "lng": 19.69944
+        },
+        {
+          "name": "Vorë",
+          "lat": 41.39083,
+          "lng": 19.655
+        }
+      ]
+    },
+    {
+      "name": "Vlorë",
+      "lat": 40.150096,
+      "lng": 19.8067916,
+      "districts": [
+        {
+          "name": "Vlorë",
+          "lat": 40.4686,
+          "lng": 19.48318
+        },
+        {
+          "name": "Bashkia Himarë",
+          "lat": 40.11581,
+          "lng": 19.81389
+        },
+        {
+          "name": "Bashkia Konispol",
+          "lat": 39.70064,
+          "lng": 20.13353
+        },
+        {
+          "name": "Bashkia Selenicë",
+          "lat": 40.39503,
+          "lng": 19.65958
+        },
+        {
+          "name": "Bashkia Vlorë",
+          "lat": 40.4134,
+          "lng": 19.49792
+        },
+        {
+          "name": "Delvinë",
+          "lat": 39.95111,
+          "lng": 20.09778
+        },
+        {
+          "name": "Finiq",
+          "lat": 39.84393,
+          "lng": 20.16659
+        },
+        {
+          "name": "Himarë",
+          "lat": 40.10167,
+          "lng": 19.74472
+        },
+        {
+          "name": "Konispol",
+          "lat": 39.65889,
+          "lng": 20.18139
+        },
+        {
+          "name": "Ksamil",
+          "lat": 39.76889,
+          "lng": 19.99972
+        },
+        {
+          "name": "Orikum",
+          "lat": 40.32528,
+          "lng": 19.47139
+        },
+        {
+          "name": "Rrethi i Delvinës",
+          "lat": 39.91667,
+          "lng": 20.08333
+        },
+        {
+          "name": "Sarandë",
+          "lat": 39.87534,
+          "lng": 20.00477
+        },
+        {
+          "name": "Selenicë",
+          "lat": 40.53056,
+          "lng": 19.63583
+        }
+      ]
+    }
+  ]
+}

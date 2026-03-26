@@ -1,0 +1,156 @@
+{
+  "name": "Reunion",
+  "lat": -21.15,
+  "lng": 55.5,
+  "cities": [
+    {
+      "name": "Saint-Benoît",
+      "lat": -21.0810433,
+      "lng": 55.6028127,
+      "districts": [
+        {
+          "name": "Bras-Panon",
+          "lat": -21.0315816,
+          "lng": 55.5441634
+        },
+        {
+          "name": "La Plaine-des-Palmistes",
+          "lat": -21.1529507,
+          "lng": 55.5618014
+        },
+        {
+          "name": "Saint-André",
+          "lat": -20.9567727,
+          "lng": 55.5548674
+        },
+        {
+          "name": "Saint-Benoît",
+          "lat": -21.0885946,
+          "lng": 55.4664076
+        },
+        {
+          "name": "Sainte-Rose",
+          "lat": -21.1778289,
+          "lng": 55.6593981
+        },
+        {
+          "name": "Salazie",
+          "lat": -21.0524097,
+          "lng": 55.4321337
+        }
+      ]
+    },
+    {
+      "name": "Saint-Denis",
+      "lat": -20.8799889,
+      "lng": 55.448137,
+      "districts": [
+        {
+          "name": "Saint-Denis",
+          "lat": -20.9645672,
+          "lng": 55.418353,
+          "iscapital": true
+        },
+        {
+          "name": "Sainte-Marie",
+          "lat": -20.9462842,
+          "lng": 55.4409587
+        },
+        {
+          "name": "Sainte-Suzanne",
+          "lat": -20.9506379,
+          "lng": 55.5111475
+        }
+      ]
+    },
+    {
+      "name": "Saint-Paul",
+      "lat": -21.0006099,
+      "lng": 55.2771585,
+      "districts": [
+        {
+          "name": "La Possession",
+          "lat": -20.9966715,
+          "lng": 55.3094196
+        },
+        {
+          "name": "Le Port",
+          "lat": -20.9459981,
+          "lng": 55.2625839
+        },
+        {
+          "name": "Les Trois-Bassins",
+          "lat": -21.1138065,
+          "lng": 55.2553467
+        },
+        {
+          "name": "Saint-Leu",
+          "lat": -21.1815374,
+          "lng": 55.2607553
+        },
+        {
+          "name": "Saint-Paul",
+          "lat": -21.0365634,
+          "lng": 55.1754223
+        }
+      ]
+    },
+    {
+      "name": "Saint-Pierre",
+      "lat": -21.2377437,
+      "lng": 55.4899764,
+      "districts": [
+        {
+          "name": "Cilaos",
+          "lat": -21.1402675,
+          "lng": 55.3731415
+        },
+        {
+          "name": "Entre-Deux",
+          "lat": -21.2107387,
+          "lng": 55.4112594
+        },
+        {
+          "name": "L'Étang-Salé",
+          "lat": -21.2347408,
+          "lng": 55.3163686
+        },
+        {
+          "name": "Le Tampon",
+          "lat": -21.2250092,
+          "lng": 55.4876541
+        },
+        {
+          "name": "Les Avirons",
+          "lat": -21.2018683,
+          "lng": 55.3216609
+        },
+        {
+          "name": "Petite-Île",
+          "lat": -21.3329678,
+          "lng": 55.5294205
+        },
+        {
+          "name": "Saint-Joseph",
+          "lat": -21.2921186,
+          "lng": 55.5616173
+        },
+        {
+          "name": "Saint-Louis",
+          "lat": -21.2254829,
+          "lng": 55.340044
+        },
+        {
+          "name": "Saint-Philippe",
+          "lat": -21.308375,
+          "lng": 55.6611834
+        },
+        {
+          "name": "Saint-Pierre",
+          "lat": -21.3089303,
+          "lng": 55.3395313
+        }
+      ]
+    }
+  ]
+}

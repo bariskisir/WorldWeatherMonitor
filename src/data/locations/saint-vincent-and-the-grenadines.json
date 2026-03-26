@@ -1,0 +1,95 @@
+{
+  "name": "Saint Vincent and the Grenadines",
+  "lat": 13.25,
+  "lng": -61.2,
+  "cities": [
+    {
+      "name": "Charlotte",
+      "lat": 13.2750872,
+      "lng": -61.1462327,
+      "districts": [
+        {
+          "name": "Biabou",
+          "lat": 13.1943,
+          "lng": -61.13904
+        },
+        {
+          "name": "Byera Village",
+          "lat": 13.25636,
+          "lng": -61.11954
+        },
+        {
+          "name": "Georgetown",
+          "lat": 13.28054,
+          "lng": -61.1185
+        }
+      ]
+    },
+    {
+      "name": "Grenadines",
+      "lat": 12.90447,
+      "lng": -61.2765569,
+      "districts": [
+        {
+          "name": "Port Elizabeth",
+          "lat": 13.01102,
+          "lng": -61.23548
+        }
+      ]
+    },
+    {
+      "name": "Saint Andrew",
+      "lat": 13.1942695,
+      "lng": -61.2399866,
+      "districts": [
+        {
+          "name": "Layou",
+          "lat": 13.20175,
+          "lng": -61.27014
+        }
+      ]
+    },
+    {
+      "name": "Saint David",
+      "lat": 13.318364,
+      "lng": -61.2008786,
+      "districts": [
+        {
+          "name": "Chateaubelair",
+          "lat": 13.29069,
+          "lng": -61.24043
+        }
+      ]
+    },
+    {
+      "name": "Saint George",
+      "lat": 13.166295,
+      "lng": -61.1878512,
+      "districts": [
+        {
+          "name": "Kingstown",
+          "lat": 13.15527,
+          "lng": -61.22742,
+          "iscapital": true
+        },
+        {
+          "name": "Kingstown Park",
+          "lat": 13.15924,
+          "lng": -61.23161
+        }
+      ]
+    },
+    {
+      "name": "Saint Patrick",
+      "lat": 13.2380793,
+      "lng": -61.2364184,
+      "districts": [
+        {
+          "name": "Barrouallie",
+          "lat": 13.23676,
+          "lng": -61.27275
+        }
+      ]
+    }
+  ]
+}

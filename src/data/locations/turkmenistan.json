@@ -1,0 +1,200 @@
+{
+  "name": "Turkmenistan",
+  "lat": 40,
+  "lng": 60,
+  "cities": [
+    {
+      "name": "Ahal",
+      "lat": 38.8395548,
+      "lng": 58.8610186,
+      "districts": [
+        {
+          "name": "Abadan",
+          "lat": 38.05415,
+          "lng": 58.19721
+        },
+        {
+          "name": "Annau",
+          "lat": 37.88754,
+          "lng": 58.51596
+        },
+        {
+          "name": "Arçabil",
+          "lat": 37.915,
+          "lng": 58.08987
+        },
+        {
+          "name": "Baharly",
+          "lat": 38.43624,
+          "lng": 57.43158
+        },
+        {
+          "name": "Kaka",
+          "lat": 37.34821,
+          "lng": 59.61431
+        },
+        {
+          "name": "Tejen",
+          "lat": 37.38338,
+          "lng": 60.50545
+        }
+      ]
+    },
+    {
+      "name": "Ashgabat",
+      "lat": 37.9404648,
+      "lng": 58.3823487,
+      "districts": [
+        {
+          "name": "Ashgabat",
+          "lat": 37.95,
+          "lng": 58.38333,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Balkan",
+      "lat": 39.9353714,
+      "lng": 54.9120055,
+      "districts": [
+        {
+          "name": "Balkanabat",
+          "lat": 39.51075,
+          "lng": 54.36713
+        },
+        {
+          "name": "Bereket",
+          "lat": 39.24463,
+          "lng": 55.51536
+        },
+        {
+          "name": "Gumdag",
+          "lat": 39.20611,
+          "lng": 54.59056
+        },
+        {
+          "name": "Magtymguly",
+          "lat": 38.43749,
+          "lng": 56.28081
+        },
+        {
+          "name": "Serdar",
+          "lat": 38.97644,
+          "lng": 56.27575
+        },
+        {
+          "name": "Türkmenbaşy",
+          "lat": 40.02216,
+          "lng": 52.95517
+        }
+      ]
+    },
+    {
+      "name": "Daşoguz",
+      "lat": 41.8368737,
+      "lng": 59.9651904,
+      "districts": [
+        {
+          "name": "Daşoguz",
+          "lat": 41.83625,
+          "lng": 59.96661
+        },
+        {
+          "name": "Akdepe",
+          "lat": 42.05513,
+          "lng": 59.37877
+        },
+        {
+          "name": "Boldumsaz",
+          "lat": 42.12824,
+          "lng": 59.67101
+        },
+        {
+          "name": "Köneürgench",
+          "lat": 42.32773,
+          "lng": 59.15442
+        },
+        {
+          "name": "Tagta",
+          "lat": 41.65041,
+          "lng": 59.9164
+        },
+        {
+          "name": "Yylanly",
+          "lat": 41.83333,
+          "lng": 59.65
+        }
+      ]
+    },
+    {
+      "name": "Lebap",
+      "lat": 38.8131139,
+      "lng": 63.0513218,
+      "districts": [
+        {
+          "name": "Türkmenabat",
+          "lat": 39.07328,
+          "lng": 63.57861
+        },
+        {
+          "name": "Atamyrat",
+          "lat": 37.83573,
+          "lng": 65.21058
+        },
+        {
+          "name": "Farap",
+          "lat": 39.17037,
+          "lng": 63.61165
+        },
+        {
+          "name": "Gazojak",
+          "lat": 41.18746,
+          "lng": 61.4036
+        },
+        {
+          "name": "Gowurdak",
+          "lat": 37.81244,
+          "lng": 66.04656
+        },
+        {
+          "name": "Saýat",
+          "lat": 38.78393,
+          "lng": 63.88035
+        }
+      ]
+    },
+    {
+      "name": "Mary",
+      "lat": 37.1302916,
+      "lng": 62.4019513,
+      "districts": [
+        {
+          "name": "Mary",
+          "lat": 37.59378,
+          "lng": 61.83031
+        },
+        {
+          "name": "Bayramaly",
+          "lat": 37.61852,
+          "lng": 62.16715
+        },
+        {
+          "name": "Serhetabat",
+          "lat": 35.27992,
+          "lng": 62.34383
+        },
+        {
+          "name": "Seydi",
+          "lat": 39.4816,
+          "lng": 62.91374
+        },
+        {
+          "name": "Yolöten",
+          "lat": 37.29886,
+          "lng": 62.35975
+        }
+      ]
+    }
+  ]
+}

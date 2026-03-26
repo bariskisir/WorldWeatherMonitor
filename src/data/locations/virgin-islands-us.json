@@ -1,0 +1,129 @@
+{
+  "name": "Virgin Islands (US)",
+  "lat": 18.34,
+  "lng": -64.93,
+  "cities": [
+    {
+      "name": "Saint Croix",
+      "lat": 17.729124,
+      "lng": -64.7589156,
+      "districts": [
+        {
+          "name": "Christiansted",
+          "lat": 17.7440364,
+          "lng": -64.7106086
+        },
+        {
+          "name": "East End",
+          "lat": 17.7523882,
+          "lng": -64.670301
+        },
+        {
+          "name": "Frederiksted",
+          "lat": 17.7124691,
+          "lng": -64.8867192
+        },
+        {
+          "name": "Good Hope",
+          "lat": 17.7223442,
+          "lng": -64.7172494
+        },
+        {
+          "name": "Northcentral",
+          "lat": 17.7501145,
+          "lng": -64.8238491
+        },
+        {
+          "name": "Northwest",
+          "lat": 17.7382782,
+          "lng": -64.8906347
+        },
+        {
+          "name": "Sion Farm",
+          "lat": 17.7543276,
+          "lng": -64.7794611
+        },
+        {
+          "name": "Southcentral",
+          "lat": 17.7064917,
+          "lng": -64.8144865
+        },
+        {
+          "name": "Southwest",
+          "lat": 17.6917787,
+          "lng": -64.9355939
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "lat": 18.3356013,
+      "lng": -64.7550406,
+      "districts": [
+        {
+          "name": "Central",
+          "lat": 18.3356838,
+          "lng": -64.7947078
+        },
+        {
+          "name": "Coral Bay",
+          "lat": 18.3480089,
+          "lng": -64.7219682
+        },
+        {
+          "name": "Cruz Bay",
+          "lat": 18.3182037,
+          "lng": -64.8024211
+        },
+        {
+          "name": "East End",
+          "lat": 18.3403647,
+          "lng": -64.6806266
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas",
+      "lat": 18.3429081,
+      "lng": -64.9188997,
+      "districts": [
+        {
+          "name": "Charlotte Amalie",
+          "lat": 18.3412761,
+          "lng": -64.9483869,
+          "iscapital": true
+        },
+        {
+          "name": "East End",
+          "lat": 18.3290162,
+          "lng": -64.8704731
+        },
+        {
+          "name": "Northside",
+          "lat": 18.3738081,
+          "lng": -64.9558909
+        },
+        {
+          "name": "Southside",
+          "lat": 18.3052912,
+          "lng": -64.9172445
+        },
+        {
+          "name": "Tutu",
+          "lat": 18.3388427,
+          "lng": -64.8953072
+        },
+        {
+          "name": "Water Island",
+          "lat": 18.3208653,
+          "lng": -64.9693263
+        },
+        {
+          "name": "West End",
+          "lat": 18.3724367,
+          "lng": -65.0649013
+        }
+      ]
+    }
+  ]
+}

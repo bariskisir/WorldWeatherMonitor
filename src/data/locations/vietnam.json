@@ -1,0 +1,2686 @@
+{
+  "name": "Vietnam",
+  "lat": 16.16666666,
+  "lng": 107.83333333,
+  "cities": [
+    {
+      "name": "An Giang",
+      "lat": 10.3188672,
+      "lng": 105.0432488,
+      "districts": [
+        {
+          "name": "Hà Tiên",
+          "lat": 10.3831,
+          "lng": 104.48753
+        },
+        {
+          "name": "Huyện Phú Quốc",
+          "lat": 10.25516,
+          "lng": 104.01455
+        },
+        {
+          "name": "Long Xuyên",
+          "lat": 10.38639,
+          "lng": 105.43518
+        },
+        {
+          "name": "Rạch Giá",
+          "lat": 10.01245,
+          "lng": 105.08091
+        },
+        {
+          "name": "Cho Dok",
+          "lat": 10.7,
+          "lng": 105.11667
+        },
+        {
+          "name": "Dương Đông",
+          "lat": 10.21716,
+          "lng": 103.95929
+        },
+        {
+          "name": "Huyện An Biên",
+          "lat": 9.81291,
+          "lng": 105.0523
+        },
+        {
+          "name": "Huyện An Minh",
+          "lat": 9.66704,
+          "lng": 104.94848
+        },
+        {
+          "name": "Huyện An Phú",
+          "lat": 10.84274,
+          "lng": 105.0899
+        },
+        {
+          "name": "Huyện Châu Phú",
+          "lat": 10.57166,
+          "lng": 105.16991
+        },
+        {
+          "name": "Huyện Châu Thành",
+          "lat": 9.94372,
+          "lng": 105.16868
+        },
+        {
+          "name": "Huyện Chợ Mới",
+          "lat": 10.4773,
+          "lng": 105.49092
+        },
+        {
+          "name": "Huyện Giồng Riềng",
+          "lat": 9.91224,
+          "lng": 105.37311
+        },
+        {
+          "name": "Huyện Gò Quao",
+          "lat": 9.74027,
+          "lng": 105.29766
+        },
+        {
+          "name": "Huyện Hòn Đất",
+          "lat": 10.22908,
+          "lng": 104.9528
+        },
+        {
+          "name": "Huyện Kiên Hải",
+          "lat": 9.83971,
+          "lng": 104.6156
+        },
+        {
+          "name": "Huyện Phú Tân",
+          "lat": 10.65716,
+          "lng": 105.28459
+        },
+        {
+          "name": "Huyện Tân Hiệp",
+          "lat": 10.0954,
+          "lng": 105.25936
+        },
+        {
+          "name": "Huyện Tri Tôn",
+          "lat": 10.41416,
+          "lng": 104.96136
+        },
+        {
+          "name": "Huyện Vĩnh Thuận",
+          "lat": 9.53306,
+          "lng": 105.2449
+        },
+        {
+          "name": "Kien Luong Town",
+          "lat": 10.24892,
+          "lng": 104.59
+        }
+      ]
+    },
+    {
+      "name": "Bắc Ninh",
+      "lat": 21.1781515,
+      "lng": 106.0710078,
+      "districts": [
+        {
+          "name": "Bắc Giang",
+          "lat": 21.27307,
+          "lng": 106.1946
+        },
+        {
+          "name": "Bắc Ninh",
+          "lat": 21.18608,
+          "lng": 106.07631
+        },
+        {
+          "name": "Huyện Thuận Thành",
+          "lat": 21.04085,
+          "lng": 106.07515
+        },
+        {
+          "name": "Cung Kiệm",
+          "lat": 21.18697,
+          "lng": 106.16076
+        },
+        {
+          "name": "Huyện Gia Bình",
+          "lat": 21.07795,
+          "lng": 106.20903
+        },
+        {
+          "name": "Huyện Lục Nam",
+          "lat": 21.27548,
+          "lng": 106.46519
+        },
+        {
+          "name": "Huyện Lục Ngạn",
+          "lat": 21.43719,
+          "lng": 106.65845
+        },
+        {
+          "name": "Huyện Tiên Du",
+          "lat": 21.12195,
+          "lng": 106.03995
+        },
+        {
+          "name": "Huyện Yên Phong",
+          "lat": 21.20676,
+          "lng": 105.99427
+        },
+        {
+          "name": "Huyện Yên Thế",
+          "lat": 21.51667,
+          "lng": 106.11689
+        }
+      ]
+    },
+    {
+      "name": "Cà Mau",
+      "lat": 9.1762003,
+      "lng": 105.1508415,
+      "districts": [
+        {
+          "name": "Bạc Liêu",
+          "lat": 9.29414,
+          "lng": 105.72776
+        },
+        {
+          "name": "Cà Mau",
+          "lat": 9.17682,
+          "lng": 105.15242
+        },
+        {
+          "name": "Huyện Cái Nước",
+          "lat": 9.00094,
+          "lng": 105.04201
+        },
+        {
+          "name": "Huyện Đầm Dơi",
+          "lat": 8.96029,
+          "lng": 105.24107
+        },
+        {
+          "name": "Huyện Giá Rai",
+          "lat": 9.27162,
+          "lng": 105.40017
+        },
+        {
+          "name": "Huyện Hồng Dân",
+          "lat": 9.53822,
+          "lng": 105.42242
+        },
+        {
+          "name": "Huyen Nam Can",
+          "lat": 8.81531,
+          "lng": 105.05574
+        },
+        {
+          "name": "Huyện Thới Bình",
+          "lat": 9.3579,
+          "lng": 105.16023
+        }
+      ]
+    },
+    {
+      "name": "Cần Thơ",
+      "lat": 10.0364634,
+      "lng": 105.7875821,
+      "districts": [
+        {
+          "name": "Cần Thơ",
+          "lat": 10.11667,
+          "lng": 105.5
+        },
+        {
+          "name": "Cờ Đỏ",
+          "lat": 10.09472222,
+          "lng": 105.43194444
+        },
+        {
+          "name": "Sóc Trăng",
+          "lat": 9.59995,
+          "lng": 105.97193
+        },
+        {
+          "name": "Thới Lai",
+          "lat": 10.06305556,
+          "lng": 105.56083333
+        },
+        {
+          "name": "Huyện Châu Thành A",
+          "lat": 9.93056,
+          "lng": 105.64194
+        },
+        {
+          "name": "Huyện Kế Sách",
+          "lat": 9.81771,
+          "lng": 105.9419
+        },
+        {
+          "name": "Huyện Long Phú",
+          "lat": 9.63715,
+          "lng": 106.08226
+        },
+        {
+          "name": "Huyện Mỹ Tú",
+          "lat": 9.60849,
+          "lng": 105.80681
+        },
+        {
+          "name": "Huyện Mỹ Xuyên",
+          "lat": 9.442,
+          "lng": 105.88546
+        },
+        {
+          "name": "Huyen Nga Nam",
+          "lat": 9.56127,
+          "lng": 105.59476
+        },
+        {
+          "name": "Huyện Thạnh Trị",
+          "lat": 9.46939,
+          "lng": 105.71196
+        },
+        {
+          "name": "Vị Thanh",
+          "lat": 9.78449,
+          "lng": 105.47012
+        },
+        {
+          "name": "Vĩnh Thạnh",
+          "lat": 10.21916667,
+          "lng": 105.40111111
+        }
+      ]
+    },
+    {
+      "name": "Cao Bằng",
+      "lat": 22.665781,
+      "lng": 106.2587824,
+      "districts": [
+        {
+          "name": "Cao Bằng",
+          "lat": 22.66568,
+          "lng": 106.25786
+        },
+        {
+          "name": "Huyện Bảo Lac",
+          "lat": 22.90085,
+          "lng": 105.73332
+        },
+        {
+          "name": "Huyện Bảo Lâm",
+          "lat": 22.87041,
+          "lng": 105.4878
+        },
+        {
+          "name": "Huyện Hạ Lang",
+          "lat": 22.70933,
+          "lng": 106.67657
+        },
+        {
+          "name": "Huyện Hà Quảng",
+          "lat": 22.90763,
+          "lng": 106.12487
+        },
+        {
+          "name": "Huyện Nguyên Bình",
+          "lat": 22.624,
+          "lng": 105.93248
+        },
+        {
+          "name": "Huyen Phuc Hoa",
+          "lat": 22.5384,
+          "lng": 106.51039
+        },
+        {
+          "name": "Huyện Thạch An",
+          "lat": 22.47654,
+          "lng": 106.34237
+        },
+        {
+          "name": "Huyện Thông Nông",
+          "lat": 22.80735,
+          "lng": 105.95846
+        },
+        {
+          "name": "Huyện Trà Lĩnh",
+          "lat": 22.80961,
+          "lng": 106.32543
+        },
+        {
+          "name": "Huyện Trùng Khánh",
+          "lat": 22.83333,
+          "lng": 106.56074
+        }
+      ]
+    },
+    {
+      "name": "Đà Nẵng",
+      "lat": 16.068,
+      "lng": 108.212,
+      "districts": [
+        {
+          "name": "Da Nang",
+          "lat": 16.06778,
+          "lng": 108.22083
+        },
+        {
+          "name": "Tam Kỳ",
+          "lat": 15.57364,
+          "lng": 108.47403
+        },
+        {
+          "name": "Hội An",
+          "lat": 15.87944,
+          "lng": 108.335
+        },
+        {
+          "name": "Huyện Duy Xuyên",
+          "lat": 15.7897,
+          "lng": 108.20247
+        },
+        {
+          "name": "Huyện Đại Lộc",
+          "lat": 15.83721,
+          "lng": 107.97894
+        },
+        {
+          "name": "Huyện Điện Bàn",
+          "lat": 15.89917,
+          "lng": 108.2247
+        },
+        {
+          "name": "Huyện Hiệp Đức",
+          "lat": 15.53857,
+          "lng": 108.09539
+        },
+        {
+          "name": "Huyện Nam Giang",
+          "lat": 15.63201,
+          "lng": 107.60267
+        },
+        {
+          "name": "Huyện Núi Thành",
+          "lat": 15.43345,
+          "lng": 108.57438
+        },
+        {
+          "name": "Huyện Phước Sơn",
+          "lat": 15.38806,
+          "lng": 107.85766
+        },
+        {
+          "name": "Huyện Tiên Phước",
+          "lat": 15.4709,
+          "lng": 108.28257
+        },
+        {
+          "name": "Huyện Trà My",
+          "lat": 15.25,
+          "lng": 108.08333
+        }
+      ]
+    },
+    {
+      "name": "Đắk Lắk",
+      "lat": 12.8741856,
+      "lng": 108.7979302,
+      "districts": [
+        {
+          "name": "Buôn Ma Thuột",
+          "lat": 12.66747,
+          "lng": 108.03775
+        },
+        {
+          "name": "Tuy Hòa",
+          "lat": 13.09546,
+          "lng": 109.32094
+        },
+        {
+          "name": "Huyện Buôn Đôn",
+          "lat": 12.90396,
+          "lng": 107.7387
+        },
+        {
+          "name": "Huyện Ea H'Leo",
+          "lat": 13.31814,
+          "lng": 108.07148
+        },
+        {
+          "name": "Huyện Ea Súp",
+          "lat": 13.18279,
+          "lng": 107.79954
+        },
+        {
+          "name": "Huyện Sơn Hòa",
+          "lat": 13.15868,
+          "lng": 108.97281
+        },
+        {
+          "name": "Huyện Sông Hinh",
+          "lat": 12.91667,
+          "lng": 108.91667
+        },
+        {
+          "name": "Sông Cầu",
+          "lat": 13.4556,
+          "lng": 109.22348
+        }
+      ]
+    },
+    {
+      "name": "Điện Biên",
+      "lat": 21.6546566,
+      "lng": 103.2168632,
+      "districts": [
+        {
+          "name": "Dien Bien Phu",
+          "lat": 21.38602,
+          "lng": 103.02301
+        },
+        {
+          "name": "Huyện Điện Biên Đông",
+          "lat": 21.25266,
+          "lng": 103.269
+        },
+        {
+          "name": "Huyện Mường Nhé",
+          "lat": 22.10353,
+          "lng": 102.58465
+        },
+        {
+          "name": "Huyện Tủa Chùa",
+          "lat": 21.95357,
+          "lng": 103.37332
+        },
+        {
+          "name": "Huyện Tuần Giáo",
+          "lat": 21.69481,
+          "lng": 103.41758
+        },
+        {
+          "name": "Thị Xã Mưòng Lay",
+          "lat": 22.03374,
+          "lng": 103.12331
+        }
+      ]
+    },
+    {
+      "name": "Đồng Nai",
+      "lat": 11.4285446,
+      "lng": 107.1624245,
+      "districts": [
+        {
+          "name": "Biên Hòa",
+          "lat": 10.94469,
+          "lng": 106.82432
+        },
+        {
+          "name": "Don Luan",
+          "lat": 11.53495,
+          "lng": 106.88324
+        },
+        {
+          "name": "Huyện Trảng Bom",
+          "lat": 10.96624,
+          "lng": 107.03614
+        },
+        {
+          "name": "Bình Long",
+          "lat": 11.64711,
+          "lng": 106.60586
+        },
+        {
+          "name": "Huyện Bù Đốp",
+          "lat": 12.00374,
+          "lng": 106.81545
+        },
+        {
+          "name": "Huyện Chơn Thành",
+          "lat": 11.46283,
+          "lng": 106.66655
+        },
+        {
+          "name": "Huyện Định Quán",
+          "lat": 11.21866,
+          "lng": 107.33959
+        },
+        {
+          "name": "Huyện Đồng Phú",
+          "lat": 11.50071,
+          "lng": 107.01192
+        },
+        {
+          "name": "Huyện Hớn Quản",
+          "lat": 11.59718,
+          "lng": 106.62739
+        },
+        {
+          "name": "Huyện Long Thành",
+          "lat": 10.76162,
+          "lng": 107.02688
+        },
+        {
+          "name": "Huyện Tân Phú",
+          "lat": 11.39867,
+          "lng": 107.39976
+        },
+        {
+          "name": "Huyện Thống Nhất",
+          "lat": 10.97764,
+          "lng": 107.15909
+        },
+        {
+          "name": "Huyện Vĩnh Cửu",
+          "lat": 11.25725,
+          "lng": 107.02773
+        },
+        {
+          "name": "Thị Xã Phước Long",
+          "lat": 11.81142,
+          "lng": 106.9967
+        }
+      ]
+    },
+    {
+      "name": "Đồng Tháp",
+      "lat": 10.425183,
+      "lng": 105.9271362,
+      "districts": [
+        {
+          "name": "Cao Lãnh",
+          "lat": 10.46017,
+          "lng": 105.63294
+        },
+        {
+          "name": "Mỹ Tho",
+          "lat": 10.36004,
+          "lng": 106.35996
+        },
+        {
+          "name": "Sa Dec",
+          "lat": 10.29085,
+          "lng": 105.75635
+        },
+        {
+          "name": "Thành Phố Mỹ Tho",
+          "lat": 10.36221,
+          "lng": 106.36824
+        },
+        {
+          "name": "Huyện Cái Bè",
+          "lat": 10.38824,
+          "lng": 105.9462
+        },
+        {
+          "name": "Huyện Cai Lậy",
+          "lat": 10.38943,
+          "lng": 106.06774
+        },
+        {
+          "name": "Huyện Châu Thành",
+          "lat": 10.386,
+          "lng": 106.27311
+        },
+        {
+          "name": "Huyện Chợ Gạo",
+          "lat": 10.37373,
+          "lng": 106.44341
+        },
+        {
+          "name": "Huyện Gò Công Đông",
+          "lat": 10.36784,
+          "lng": 106.74592
+        },
+        {
+          "name": "Huyện Gò Công Tây",
+          "lat": 10.34527,
+          "lng": 106.59851
+        },
+        {
+          "name": "Huyện Lai Vung",
+          "lat": 10.24051,
+          "lng": 105.66327
+        },
+        {
+          "name": "Huyện Lấp Vò",
+          "lat": 10.35918,
+          "lng": 105.60611
+        },
+        {
+          "name": "Huyện Tam Nông",
+          "lat": 10.72761,
+          "lng": 105.52522
+        },
+        {
+          "name": "Huyện Tân Hồng",
+          "lat": 10.87089,
+          "lng": 105.49104
+        },
+        {
+          "name": "Huyện Tân Phước",
+          "lat": 10.51489,
+          "lng": 106.23312
+        },
+        {
+          "name": "Huyện Thanh Bình",
+          "lat": 10.60137,
+          "lng": 105.47811
+        },
+        {
+          "name": "Huyện Tháp Mười",
+          "lat": 10.54398,
+          "lng": 105.81875
+        },
+        {
+          "name": "Thị Trấn Tân Thành",
+          "lat": 10.25616,
+          "lng": 105.5928
+        },
+        {
+          "name": "Thị Xã Gò Công",
+          "lat": 10.40005,
+          "lng": 106.65847
+        }
+      ]
+    },
+    {
+      "name": "Gia Lai",
+      "lat": 14.0201373,
+      "lng": 108.6354524,
+      "districts": [
+        {
+          "name": "Pleiku",
+          "lat": 13.98333,
+          "lng": 108
+        },
+        {
+          "name": "Qui Nhon",
+          "lat": 13.77648,
+          "lng": 109.22367
+        },
+        {
+          "name": "Huyện An Lão",
+          "lat": 14.55676,
+          "lng": 108.801
+        },
+        {
+          "name": "Huyện Chư Păh",
+          "lat": 14.15941,
+          "lng": 107.98411
+        },
+        {
+          "name": "Huyện Chư Prông",
+          "lat": 13.59976,
+          "lng": 107.81099
+        },
+        {
+          "name": "Huyện Chư Sê",
+          "lat": 13.74254,
+          "lng": 108.08663
+        },
+        {
+          "name": "Huyện Đức Cơ",
+          "lat": 13.78454,
+          "lng": 107.6697
+        },
+        {
+          "name": "Huyện Hoài Nhơn",
+          "lat": 14.50535,
+          "lng": 109.02315
+        },
+        {
+          "name": "Huyện Ia Grai",
+          "lat": 13.98937,
+          "lng": 107.7374
+        },
+        {
+          "name": "Huyện KBang",
+          "lat": 14.30506,
+          "lng": 108.49779
+        },
+        {
+          "name": "Huyện Kông Chro",
+          "lat": 13.73519,
+          "lng": 108.59697
+        },
+        {
+          "name": "Huyện Krông Pa",
+          "lat": 13.23152,
+          "lng": 108.65494
+        },
+        {
+          "name": "Huyện Mang Yang",
+          "lat": 13.9284,
+          "lng": 108.30246
+        },
+        {
+          "name": "Huyện Phù Mỹ",
+          "lat": 14.22304,
+          "lng": 109.08611
+        },
+        {
+          "name": "Huyện Tây Sơn",
+          "lat": 13.94306,
+          "lng": 108.87999
+        },
+        {
+          "name": "Huyện Tuy Phước",
+          "lat": 13.84564,
+          "lng": 109.15275
+        },
+        {
+          "name": "Huyện Vĩnh Thạnh",
+          "lat": 14.211,
+          "lng": 108.74389
+        }
+      ]
+    },
+    {
+      "name": "Hà Nội",
+      "lat": 21.0283334,
+      "lng": 105.854041,
+      "districts": [
+        {
+          "name": "Ba Đình",
+          "lat": 21.0348233,
+          "lng": 105.808547
+        },
+        {
+          "name": "Đông Anh",
+          "lat": 21.1368331,
+          "lng": 105.7475324
+        },
+        {
+          "name": "Hai Bà Trưng",
+          "lat": 21.0067597,
+          "lng": 105.8412663,
+          "iscapital": true
+        },
+        {
+          "name": "Long Biên",
+          "lat": 21.0380317,
+          "lng": 105.8490984
+        },
+        {
+          "name": "Nam Từ Liêm",
+          "lat": 21.0178909,
+          "lng": 105.7210868
+        },
+        {
+          "name": "Thanh Xuân",
+          "lat": 20.9948255,
+          "lng": 105.7969604
+        },
+        {
+          "name": "Ba Vì",
+          "lat": 21.1559059,
+          "lng": 105.2146361
+        },
+        {
+          "name": "Bắc Từ Liêm",
+          "lat": 21.0714868,
+          "lng": 105.7199226
+        },
+        {
+          "name": "Cầu Giấy",
+          "lat": 21.0302216,
+          "lng": 105.7494733
+        },
+        {
+          "name": "Chương Mỹ",
+          "lat": 20.8786344,
+          "lng": 105.5731324
+        },
+        {
+          "name": "Đan Phượng",
+          "lat": 21.1207337,
+          "lng": 105.5991076
+        },
+        {
+          "name": "Đống Đa",
+          "lat": 21.0146601,
+          "lng": 105.7995514
+        },
+        {
+          "name": "Gia Lâm",
+          "lat": 21.0240579,
+          "lng": 105.7853473
+        },
+        {
+          "name": "Hà Đông",
+          "lat": 20.9539496,
+          "lng": 105.7136901
+        },
+        {
+          "name": "Hoài Đức",
+          "lat": 21.0230026,
+          "lng": 105.6121945
+        },
+        {
+          "name": "Hoàn Kiếm",
+          "lat": 21.0304457,
+          "lng": 105.8335861
+        },
+        {
+          "name": "Hoàng Mai",
+          "lat": 20.9740471,
+          "lng": 105.817047
+        },
+        {
+          "name": "Mê Linh",
+          "lat": 21.1807846,
+          "lng": 105.6211298
+        },
+        {
+          "name": "Mỹ Đức",
+          "lat": 20.6974544,
+          "lng": 105.5658285
+        },
+        {
+          "name": "Phú Xuyên",
+          "lat": 20.7290054,
+          "lng": 105.8149112
+        },
+        {
+          "name": "Phúc Thọ",
+          "lat": 21.109931,
+          "lng": 105.5005913
+        },
+        {
+          "name": "Quốc Oai",
+          "lat": 20.978456,
+          "lng": 105.4380093
+        },
+        {
+          "name": "Sóc Sơn",
+          "lat": 21.2813931,
+          "lng": 105.6661888
+        },
+        {
+          "name": "Sơn Tây",
+          "lat": 21.0968334,
+          "lng": 105.3938595
+        },
+        {
+          "name": "Tây Hồ",
+          "lat": 21.0688219,
+          "lng": 105.7792043
+        },
+        {
+          "name": "Thạch Thất",
+          "lat": 21.0240883,
+          "lng": 105.351025
+        },
+        {
+          "name": "Thanh Oai",
+          "lat": 20.860027,
+          "lng": 105.7015836
+        },
+        {
+          "name": "Thanh Trì",
+          "lat": 20.9417602,
+          "lng": 105.7682179
+        },
+        {
+          "name": "Thường Tín",
+          "lat": 20.8322342,
+          "lng": 105.7919213
+        },
+        {
+          "name": "Ứng Hòa",
+          "lat": 20.7109791,
+          "lng": 105.6364852
+        }
+      ]
+    },
+    {
+      "name": "Hà Tĩnh",
+      "lat": 18.338181,
+      "lng": 105.8958971,
+      "districts": [
+        {
+          "name": "Hà Tĩnh",
+          "lat": 18.34282,
+          "lng": 105.90569
+        },
+        {
+          "name": "Huyện Cẩm Xuyên",
+          "lat": 18.19059,
+          "lng": 106.00186
+        },
+        {
+          "name": "Huyện Can Lộc",
+          "lat": 18.44414,
+          "lng": 105.7635
+        },
+        {
+          "name": "Huyện Ðức Thọ",
+          "lat": 18.49699,
+          "lng": 105.61016
+        },
+        {
+          "name": "Huyện Kỳ Anh",
+          "lat": 18.05805,
+          "lng": 106.2458
+        },
+        {
+          "name": "Huyện Nghi Xuân",
+          "lat": 18.62419,
+          "lng": 105.76829
+        },
+        {
+          "name": "Huyện Thạch Hà",
+          "lat": 18.35091,
+          "lng": 105.81123
+        }
+      ]
+    },
+    {
+      "name": "Hải Phòng",
+      "lat": 20.8623278,
+      "lng": 106.6799266,
+      "districts": [
+        {
+          "name": "Hải Dương",
+          "lat": 20.94099,
+          "lng": 106.33302
+        },
+        {
+          "name": "Haiphong",
+          "lat": 20.86481,
+          "lng": 106.68345
+        },
+        {
+          "name": "Cát Bà",
+          "lat": 20.72779,
+          "lng": 107.04819
+        },
+        {
+          "name": "Huyện Bình Giang",
+          "lat": 20.87586,
+          "lng": 106.19138
+        },
+        {
+          "name": "Huyện Cẩm Giàng",
+          "lat": 20.95,
+          "lng": 106.21667
+        },
+        {
+          "name": "Huyện Gia Lộc",
+          "lat": 20.85164,
+          "lng": 106.2913
+        },
+        {
+          "name": "Huyện Kinh Môn",
+          "lat": 21.01634,
+          "lng": 106.50384
+        },
+        {
+          "name": "Huyện Nam Sách",
+          "lat": 21.00484,
+          "lng": 106.34042
+        },
+        {
+          "name": "Huyện Thanh Miện",
+          "lat": 20.77953,
+          "lng": 106.22218
+        },
+        {
+          "name": "Thị Xã Chí Linh",
+          "lat": 21.13722,
+          "lng": 106.39638
+        }
+      ]
+    },
+    {
+      "name": "Hồ Chí Minh",
+      "lat": 10.7763897,
+      "lng": 106.7011391,
+      "districts": [
+        {
+          "name": "Dĩ An",
+          "lat": 10.90682,
+          "lng": 106.7694
+        },
+        {
+          "name": "Ho Chi Minh City",
+          "lat": 10.82302,
+          "lng": 106.62965
+        },
+        {
+          "name": "Thủ Dầu Một",
+          "lat": 10.9804,
+          "lng": 106.6519
+        },
+        {
+          "name": "Vũng Tàu",
+          "lat": 10.34599,
+          "lng": 107.08426
+        },
+        {
+          "name": "Cần Giờ",
+          "lat": 10.41115,
+          "lng": 106.95474
+        },
+        {
+          "name": "Côn Sơn",
+          "lat": 8.68641,
+          "lng": 106.60824
+        },
+        {
+          "name": "Củ Chi",
+          "lat": 10.97333,
+          "lng": 106.49325
+        },
+        {
+          "name": "Huyện Châu Đức",
+          "lat": 10.65805,
+          "lng": 107.25098
+        },
+        {
+          "name": "Huyện Đất Đỏ",
+          "lat": 10.48025,
+          "lng": 107.27879
+        },
+        {
+          "name": "Huyện Tân Thành",
+          "lat": 10.57381,
+          "lng": 107.10189
+        },
+        {
+          "name": "Huyện Xuyên Mộc",
+          "lat": 10.63048,
+          "lng": 107.46568
+        },
+        {
+          "name": "Thành Phố Vũng Tàu",
+          "lat": 10.40239,
+          "lng": 107.14239
+        },
+        {
+          "name": "Thị Xã Phú Mỹ",
+          "lat": 10.56815,
+          "lng": 107.12999
+        }
+      ]
+    },
+    {
+      "name": "Hưng Yên",
+      "lat": 20.6568406,
+      "lng": 106.054036,
+      "districts": [
+        {
+          "name": "Hưng Yên",
+          "lat": 20.64637,
+          "lng": 106.05112
+        },
+        {
+          "name": "Huyện Ân Thi",
+          "lat": 20.81086,
+          "lng": 106.09995
+        },
+        {
+          "name": "Huyện Ðông Hưng",
+          "lat": 20.54388,
+          "lng": 106.3409
+        },
+        {
+          "name": "Huyện Hưng Hà",
+          "lat": 20.59464,
+          "lng": 106.2123
+        },
+        {
+          "name": "Huyện Khoái Châu",
+          "lat": 20.8217,
+          "lng": 105.97455
+        },
+        {
+          "name": "Huyện Kiến Xương",
+          "lat": 20.40081,
+          "lng": 106.42032
+        },
+        {
+          "name": "Huyện Kim Động",
+          "lat": 20.74645,
+          "lng": 106.03632
+        },
+        {
+          "name": "Huyện Mỹ Hào",
+          "lat": 20.9321,
+          "lng": 106.1063
+        },
+        {
+          "name": "Huyện Phù Cừ",
+          "lat": 20.70997,
+          "lng": 106.19744
+        },
+        {
+          "name": "Huyện Quỳnh Phụ",
+          "lat": 20.65095,
+          "lng": 106.36359
+        },
+        {
+          "name": "Huyện Thái Thụy",
+          "lat": 20.53916,
+          "lng": 106.51688
+        },
+        {
+          "name": "Huyện Tiền Hải",
+          "lat": 20.38465,
+          "lng": 106.52882
+        },
+        {
+          "name": "Huyện Tiên Lữ",
+          "lat": 20.6849,
+          "lng": 106.12513
+        },
+        {
+          "name": "Huyện Vũ Thư",
+          "lat": 20.43732,
+          "lng": 106.26529
+        },
+        {
+          "name": "Thái Bình",
+          "lat": 20.45,
+          "lng": 106.34002
+        }
+      ]
+    },
+    {
+      "name": "Khánh Hòa",
+      "lat": 12.2980751,
+      "lng": 108.9950386,
+      "districts": [
+        {
+          "name": "Cam Ranh",
+          "lat": 11.92144,
+          "lng": 109.15913
+        },
+        {
+          "name": "Nha Trang",
+          "lat": 12.24507,
+          "lng": 109.19432
+        },
+        {
+          "name": "Phan Rang-Tháp Chàm",
+          "lat": 11.56432,
+          "lng": 108.98858
+        },
+        {
+          "name": "Thành Phố Cam Ranh",
+          "lat": 11.90707,
+          "lng": 109.14861
+        },
+        {
+          "name": "Thành Phố Nha Trang",
+          "lat": 12.25458,
+          "lng": 109.16655
+        },
+        {
+          "name": "Huyện Diên Khánh",
+          "lat": 12.27341,
+          "lng": 109.0389
+        },
+        {
+          "name": "Huyện Khánh Sơn",
+          "lat": 12.02858,
+          "lng": 108.90814
+        },
+        {
+          "name": "Huyện Khánh Vĩnh",
+          "lat": 12.30593,
+          "lng": 108.83073
+        },
+        {
+          "name": "Huyện Vạn Ninh",
+          "lat": 12.72344,
+          "lng": 109.24586
+        },
+        {
+          "name": "Thị Xã Ninh Hòa",
+          "lat": 12.53796,
+          "lng": 109.06057
+        }
+      ]
+    },
+    {
+      "name": "Lai Châu",
+      "lat": 22.3996612,
+      "lng": 103.4516882,
+      "districts": [
+        {
+          "name": "Huyện Mưòng Tè",
+          "lat": 22.37443,
+          "lng": 102.73835
+        },
+        {
+          "name": "Huyện Tam Đường",
+          "lat": 22.35391,
+          "lng": 103.59342
+        },
+        {
+          "name": "Huyện Than Uyên",
+          "lat": 21.91424,
+          "lng": 103.82857
+        }
+      ]
+    },
+    {
+      "name": "Lâm Đồng",
+      "lat": 11.6614957,
+      "lng": 108.1335279,
+      "districts": [
+        {
+          "name": "Bảo Lộc",
+          "lat": 11.54798,
+          "lng": 107.80772
+        },
+        {
+          "name": "Đưc Trọng",
+          "lat": 11.73559,
+          "lng": 108.3733
+        },
+        {
+          "name": "Ðà Lạt",
+          "lat": 11.94646,
+          "lng": 108.44193
+        },
+        {
+          "name": "Huyện Lâm Hà",
+          "lat": 11.8189,
+          "lng": 108.21215
+        },
+        {
+          "name": "La Gi",
+          "lat": 10.65993,
+          "lng": 107.77206
+        },
+        {
+          "name": "Phan Thiết",
+          "lat": 10.92889,
+          "lng": 108.10208
+        },
+        {
+          "name": "Đam Rong",
+          "lat": 12.05409,
+          "lng": 108.14941
+        },
+        {
+          "name": "Đinh Văn",
+          "lat": 11.78624,
+          "lng": 108.24282
+        },
+        {
+          "name": "Huyện Bắc Bình",
+          "lat": 11.27571,
+          "lng": 108.38506
+        },
+        {
+          "name": "Huyện Bảo Lâm",
+          "lat": 11.71163,
+          "lng": 107.75338
+        },
+        {
+          "name": "Huyện Cư Jút",
+          "lat": 12.69591,
+          "lng": 107.76316
+        },
+        {
+          "name": "Huyện Đạ Huoai",
+          "lat": 11.42465,
+          "lng": 107.63825
+        },
+        {
+          "name": "Huyện Đạ Tẻh",
+          "lat": 11.58446,
+          "lng": 107.52792
+        },
+        {
+          "name": "Huyện Đắk R’Lấp",
+          "lat": 11.8799,
+          "lng": 107.52244
+        },
+        {
+          "name": "Huyện Đơn Dương",
+          "lat": 11.75308,
+          "lng": 108.55397
+        },
+        {
+          "name": "Huyện Đức Trọng",
+          "lat": 11.62686,
+          "lng": 108.3533
+        },
+        {
+          "name": "Huyện Hàm Tân",
+          "lat": 10.76856,
+          "lng": 107.64233
+        },
+        {
+          "name": "Huyện Hàm Thuận Bắc",
+          "lat": 11.14703,
+          "lng": 108.08172
+        },
+        {
+          "name": "Huyện Hàm Thuận Nam",
+          "lat": 10.92101,
+          "lng": 107.93325
+        },
+        {
+          "name": "Huyện Krông Nô",
+          "lat": 12.36285,
+          "lng": 107.83445
+        },
+        {
+          "name": "Huyện Tánh Linh",
+          "lat": 11.11367,
+          "lng": 107.68427
+        },
+        {
+          "name": "Huyện Tuy Phong",
+          "lat": 11.34746,
+          "lng": 108.70466
+        },
+        {
+          "name": "Thành Phố Phan Thiết",
+          "lat": 10.937,
+          "lng": 108.15778
+        }
+      ]
+    },
+    {
+      "name": "Lạng Sơn",
+      "lat": 21.853708,
+      "lng": 106.761519,
+      "districts": [
+        {
+          "name": "Lạng Sơn",
+          "lat": 21.85264,
+          "lng": 106.76101
+        },
+        {
+          "name": "Huyện Bắc Sơn",
+          "lat": 21.83801,
+          "lng": 106.2769
+        },
+        {
+          "name": "Huyện Bình Gia",
+          "lat": 22.07281,
+          "lng": 106.3041
+        },
+        {
+          "name": "Huyện Cao Lộc",
+          "lat": 21.89857,
+          "lng": 106.85435
+        },
+        {
+          "name": "Huyện Chi Lăng",
+          "lat": 21.67602,
+          "lng": 106.62925
+        },
+        {
+          "name": "Huyện Đình Lập",
+          "lat": 21.5421,
+          "lng": 107.12925
+        },
+        {
+          "name": "Huyện Hũu Lũng",
+          "lat": 21.54474,
+          "lng": 106.34386
+        },
+        {
+          "name": "Huyện Vặn Quan",
+          "lat": 21.83333,
+          "lng": 106.54942
+        }
+      ]
+    },
+    {
+      "name": "Lào Cai",
+      "lat": 22.5003944,
+      "lng": 103.96562,
+      "districts": [
+        {
+          "name": "Lào Cai",
+          "lat": 22.48556,
+          "lng": 103.97066
+        },
+        {
+          "name": "Yên Bái",
+          "lat": 21.72288,
+          "lng": 104.9113
+        },
+        {
+          "name": "Huyện Bắc Hà",
+          "lat": 22.50998,
+          "lng": 104.30769
+        },
+        {
+          "name": "Huyện Bảo Yên",
+          "lat": 22.26109,
+          "lng": 104.46424
+        },
+        {
+          "name": "Huyện Bát Xát",
+          "lat": 22.56767,
+          "lng": 103.71339
+        },
+        {
+          "name": "Huyện Lục Yên",
+          "lat": 22.10235,
+          "lng": 104.72538
+        },
+        {
+          "name": "Huyện Mù Cang Chải",
+          "lat": 21.78815,
+          "lng": 104.11998
+        },
+        {
+          "name": "Huyện Mường Khương",
+          "lat": 22.67111,
+          "lng": 104.11772
+        },
+        {
+          "name": "Huyện Sa Pa",
+          "lat": 22.33769,
+          "lng": 103.84037
+        },
+        {
+          "name": "Huyện Si Ma Cai",
+          "lat": 22.67161,
+          "lng": 104.27326
+        },
+        {
+          "name": "Huyện Trạm Tấu",
+          "lat": 21.48553,
+          "lng": 104.42756
+        },
+        {
+          "name": "Huyện Trấn Yên",
+          "lat": 21.66586,
+          "lng": 104.79702
+        },
+        {
+          "name": "Huyện Văn Bàn",
+          "lat": 22.07002,
+          "lng": 104.18122
+        },
+        {
+          "name": "Huyện Văn Chấn",
+          "lat": 21.55722,
+          "lng": 104.64038
+        },
+        {
+          "name": "Huyện Văn Yên",
+          "lat": 21.90022,
+          "lng": 104.56669
+        },
+        {
+          "name": "Lao Chải",
+          "lat": 22.31377,
+          "lng": 103.86844
+        },
+        {
+          "name": "Sa Pa",
+          "lat": 22.34023,
+          "lng": 103.84415
+        }
+      ]
+    },
+    {
+      "name": "Nghệ An",
+      "lat": 19.1976001,
+      "lng": 105.060676,
+      "districts": [
+        {
+          "name": "Vinh",
+          "lat": 18.67337,
+          "lng": 105.69232
+        },
+        {
+          "name": "Yên Vinh",
+          "lat": 18.66667,
+          "lng": 105.66667
+        },
+        {
+          "name": "Huyện Anh Sơn",
+          "lat": 18.92902,
+          "lng": 105.08294
+        },
+        {
+          "name": "Huyện Con Cuông",
+          "lat": 19.03898,
+          "lng": 104.80353
+        },
+        {
+          "name": "Huyện Diễn Châu",
+          "lat": 18.98892,
+          "lng": 105.57625
+        },
+        {
+          "name": "Huyện Đô Lương",
+          "lat": 18.89259,
+          "lng": 105.34027
+        },
+        {
+          "name": "Huyện Hưng Nguyên",
+          "lat": 18.67811,
+          "lng": 105.62523
+        },
+        {
+          "name": "Huyện Kỳ Sơn",
+          "lat": 19.42397,
+          "lng": 104.22199
+        },
+        {
+          "name": "Huyện Nam Đàn",
+          "lat": 18.67041,
+          "lng": 105.52575
+        },
+        {
+          "name": "Huyện Nghi Lộc",
+          "lat": 18.83131,
+          "lng": 105.62411
+        },
+        {
+          "name": "Huyện Nghĩa Đàn",
+          "lat": 19.38234,
+          "lng": 105.44072
+        },
+        {
+          "name": "Huyện Quế Phong",
+          "lat": 19.70177,
+          "lng": 104.87913
+        },
+        {
+          "name": "Huyện Quỳ Châu",
+          "lat": 19.55707,
+          "lng": 105.09173
+        },
+        {
+          "name": "Huyện Quỳ Hợp",
+          "lat": 19.32514,
+          "lng": 105.16009
+        },
+        {
+          "name": "Huyện Quỳnh Lưu",
+          "lat": 19.22717,
+          "lng": 105.64354
+        },
+        {
+          "name": "Huyện Thanh Chương",
+          "lat": 18.73929,
+          "lng": 105.24053
+        },
+        {
+          "name": "Huyện Tương Dương",
+          "lat": 19.30979,
+          "lng": 104.57788
+        },
+        {
+          "name": "Huyện Yên Thành",
+          "lat": 19.02724,
+          "lng": 105.43649
+        }
+      ]
+    },
+    {
+      "name": "Ninh Bình",
+      "lat": 20.2506149,
+      "lng": 105.9744536,
+      "districts": [
+        {
+          "name": "Nam Định",
+          "lat": 20.43389,
+          "lng": 106.17729
+        },
+        {
+          "name": "Phủ Lý",
+          "lat": 20.54531,
+          "lng": 105.91221
+        },
+        {
+          "name": "Huyện Bình Lục",
+          "lat": 20.50126,
+          "lng": 106.02959
+        },
+        {
+          "name": "Huyện Duy Tiên",
+          "lat": 20.62803,
+          "lng": 105.96193
+        },
+        {
+          "name": "Huyện Giao Thủy",
+          "lat": 20.25706,
+          "lng": 106.46245
+        },
+        {
+          "name": "Huyện Hải Hậu",
+          "lat": 20.15057,
+          "lng": 106.27161
+        },
+        {
+          "name": "Huyện Hoa Lư",
+          "lat": 20.25391,
+          "lng": 105.90789
+        },
+        {
+          "name": "Huyện Kim Bảng",
+          "lat": 20.57254,
+          "lng": 105.85043
+        },
+        {
+          "name": "Huyện Kim Sơn",
+          "lat": 20.06034,
+          "lng": 106.09863
+        },
+        {
+          "name": "Huyện Lý Nhân",
+          "lat": 20.56422,
+          "lng": 106.09455
+        },
+        {
+          "name": "Huyện Mỹ Lộc",
+          "lat": 20.46079,
+          "lng": 106.12319
+        },
+        {
+          "name": "Huyện Nam Trực",
+          "lat": 20.34106,
+          "lng": 106.20821
+        },
+        {
+          "name": "Huyện Nghĩa Hưng",
+          "lat": 20.10598,
+          "lng": 106.17345
+        },
+        {
+          "name": "Huyện Nho Quan",
+          "lat": 20.27606,
+          "lng": 105.75442
+        },
+        {
+          "name": "Huyện Thanh Liêm",
+          "lat": 20.46249,
+          "lng": 105.921
+        },
+        {
+          "name": "Huyện Trực Ninh",
+          "lat": 20.2569,
+          "lng": 106.24582
+        },
+        {
+          "name": "Huyện Vụ Bản",
+          "lat": 20.37705,
+          "lng": 106.09707
+        },
+        {
+          "name": "Huyện Ý Yên",
+          "lat": 20.31669,
+          "lng": 106.02327
+        },
+        {
+          "name": "Huyện Yên Khánh",
+          "lat": 20.19017,
+          "lng": 106.09605
+        },
+        {
+          "name": "Huyện Yên Mô",
+          "lat": 20.12984,
+          "lng": 106.00199
+        },
+        {
+          "name": "Ninh Bình",
+          "lat": 20.25809,
+          "lng": 105.97965
+        }
+      ]
+    },
+    {
+      "name": "Phú Thọ",
+      "lat": 21.3007538,
+      "lng": 105.1349604,
+      "districts": [
+        {
+          "name": "Hòa Bình",
+          "lat": 20.81717,
+          "lng": 105.33759
+        },
+        {
+          "name": "Thành Phố Việt Trì",
+          "lat": 21.32958,
+          "lng": 105.39217
+        },
+        {
+          "name": "Việt Trì",
+          "lat": 21.32274,
+          "lng": 105.40198
+        },
+        {
+          "name": "Vĩnh Yên",
+          "lat": 21.30891,
+          "lng": 105.60489
+        },
+        {
+          "name": "Huyện Bình Xuyên",
+          "lat": 21.30561,
+          "lng": 105.66225
+        },
+        {
+          "name": "Huyện Cẩm Khê",
+          "lat": 21.40683,
+          "lng": 105.09845
+        },
+        {
+          "name": "Huyện Cao Phong",
+          "lat": 20.69532,
+          "lng": 105.33559
+        },
+        {
+          "name": "Huyện Đoan Hùng",
+          "lat": 21.61776,
+          "lng": 105.1611
+        },
+        {
+          "name": "Huyện Hạ Hòa",
+          "lat": 21.57763,
+          "lng": 104.99464
+        },
+        {
+          "name": "Huyện Kỳ Sơn",
+          "lat": 20.89631,
+          "lng": 105.39659
+        },
+        {
+          "name": "Huyện Lạc Thủy",
+          "lat": 20.49794,
+          "lng": 105.74092
+        },
+        {
+          "name": "Huyen Lam Thao",
+          "lat": 21.29971,
+          "lng": 105.31119
+        },
+        {
+          "name": "Huyện Lương Sơn",
+          "lat": 20.8765,
+          "lng": 105.51219
+        },
+        {
+          "name": "Huyện Tam Dương",
+          "lat": 21.36189,
+          "lng": 105.5569
+        },
+        {
+          "name": "Huyện Tam Đảo",
+          "lat": 21.4569,
+          "lng": 105.5946
+        },
+        {
+          "name": "Huyện Tân Lạc",
+          "lat": 20.60557,
+          "lng": 105.23399
+        },
+        {
+          "name": "Huyện Thanh Ba",
+          "lat": 21.47816,
+          "lng": 105.15881
+        },
+        {
+          "name": "Huyện Yên Lạc",
+          "lat": 21.21845,
+          "lng": 105.57586
+        },
+        {
+          "name": "Huyện Yên Lập",
+          "lat": 21.35569,
+          "lng": 105.00493
+        },
+        {
+          "name": "Thị xã Phú Thọ",
+          "lat": 21.41664,
+          "lng": 105.23636
+        }
+      ]
+    },
+    {
+      "name": "Quảng Ngãi",
+      "lat": 15.1213873,
+      "lng": 108.8044145,
+      "districts": [
+        {
+          "name": "Kon Tum",
+          "lat": 14.35451,
+          "lng": 108.00759
+        },
+        {
+          "name": "Quảng Ngãi",
+          "lat": 15.12047,
+          "lng": 108.79232
+        },
+        {
+          "name": "Huyện Ba Tơ",
+          "lat": 14.73973,
+          "lng": 108.69326
+        },
+        {
+          "name": "Huyện Bình Sơn",
+          "lat": 15.31899,
+          "lng": 108.76383
+        },
+        {
+          "name": "Huyện Đắk Glei",
+          "lat": 15.11358,
+          "lng": 107.75093
+        },
+        {
+          "name": "Huyện Đắk Hà",
+          "lat": 14.60326,
+          "lng": 107.98547
+        },
+        {
+          "name": "Huyện Đắk Tô",
+          "lat": 14.70087,
+          "lng": 107.80816
+        },
+        {
+          "name": "Huyện Đức Phổ",
+          "lat": 14.78,
+          "lng": 108.97857
+        },
+        {
+          "name": "Huyện Ia H'Drai",
+          "lat": 14.06032,
+          "lng": 107.46243
+        },
+        {
+          "name": "Huyện Kon Plông",
+          "lat": 14.7562,
+          "lng": 108.32057
+        },
+        {
+          "name": "Huyện Lý Sơn",
+          "lat": 15.40608,
+          "lng": 109.09707
+        },
+        {
+          "name": "Huyện Minh Long",
+          "lat": 14.95375,
+          "lng": 108.67724
+        },
+        {
+          "name": "Huyện Mộ Đức",
+          "lat": 14.95515,
+          "lng": 108.88841
+        },
+        {
+          "name": "Huyện Nghĩa Hành",
+          "lat": 14.98712,
+          "lng": 108.80036
+        },
+        {
+          "name": "Huyện Ngọc Hồi",
+          "lat": 14.7194,
+          "lng": 107.62636
+        },
+        {
+          "name": "Huyện Sa Thầy",
+          "lat": 14.3205,
+          "lng": 107.59862
+        },
+        {
+          "name": "Huyện Sơn Hà",
+          "lat": 14.98427,
+          "lng": 108.53643
+        },
+        {
+          "name": "Huyện Sơn Tây",
+          "lat": 14.96392,
+          "lng": 108.36419
+        },
+        {
+          "name": "Huyện Sơn Tịnh",
+          "lat": 15.1909,
+          "lng": 108.74295
+        },
+        {
+          "name": "Huyện Trà Bồng",
+          "lat": 15.23752,
+          "lng": 108.52633
+        },
+        {
+          "name": "Huyện Tư Nghĩa",
+          "lat": 15.09499,
+          "lng": 108.77053
+        }
+      ]
+    },
+    {
+      "name": "Quảng Ninh",
+      "lat": 21.1718046,
+      "lng": 107.2012742,
+      "districts": [
+        {
+          "name": "Cẩm Phả",
+          "lat": 21.01004,
+          "lng": 107.27345
+        },
+        {
+          "name": "Cẩm Phả Mines",
+          "lat": 21.01667,
+          "lng": 107.3
+        },
+        {
+          "name": "Hạ Long",
+          "lat": 20.95045,
+          "lng": 107.07336
+        },
+        {
+          "name": "Móng Cái",
+          "lat": 21.52471,
+          "lng": 107.96619
+        },
+        {
+          "name": "Huyện Ba Chẽ",
+          "lat": 21.29503,
+          "lng": 107.19298
+        },
+        {
+          "name": "Huyện Bình Liêu",
+          "lat": 21.54389,
+          "lng": 107.44047
+        },
+        {
+          "name": "Huyện Cô Tô",
+          "lat": 21.05418,
+          "lng": 107.80698
+        },
+        {
+          "name": "Huyện Đầm Hà",
+          "lat": 21.39689,
+          "lng": 107.56175
+        },
+        {
+          "name": "Huyện Đông Triều",
+          "lat": 21.11043,
+          "lng": 106.59662
+        },
+        {
+          "name": "Huyện Hải Hà",
+          "lat": 21.49537,
+          "lng": 107.6679
+        },
+        {
+          "name": "Huyện Hoành Bồ",
+          "lat": 21.11888,
+          "lng": 107.03149
+        },
+        {
+          "name": "Huyện Tiên Yên",
+          "lat": 21.37571,
+          "lng": 107.37468
+        },
+        {
+          "name": "Huyện Vân Đồn",
+          "lat": 21.04921,
+          "lng": 107.50971
+        },
+        {
+          "name": "Thành Phố Uông Bí",
+          "lat": 21.03433,
+          "lng": 106.77049
+        }
+      ]
+    },
+    {
+      "name": "Quảng Trị",
+      "lat": 17.3024666,
+      "lng": 106.6624287,
+      "districts": [
+        {
+          "name": "Ðông Hà",
+          "lat": 16.81625,
+          "lng": 107.10031
+        },
+        {
+          "name": "Huyện Cam Lộ",
+          "lat": 16.79335,
+          "lng": 106.96175
+        },
+        {
+          "name": "Huyện Đa Krông",
+          "lat": 16.55543,
+          "lng": 106.97208
+        },
+        {
+          "name": "Huyện Gio Linh",
+          "lat": 16.91667,
+          "lng": 107
+        },
+        {
+          "name": "Huyện Hải Lăng",
+          "lat": 16.67574,
+          "lng": 107.23388
+        },
+        {
+          "name": "Huyện Hướng Hóa",
+          "lat": 16.70132,
+          "lng": 106.67036
+        },
+        {
+          "name": "Huyện Lệ Thủy",
+          "lat": 17.11239,
+          "lng": 106.70471
+        },
+        {
+          "name": "Huyện Quảng Ninh",
+          "lat": 17.27067,
+          "lng": 106.51387
+        },
+        {
+          "name": "Huyện Quảng Trạch",
+          "lat": 17.83447,
+          "lng": 106.36705
+        },
+        {
+          "name": "Huyện Triệu Phong",
+          "lat": 16.78132,
+          "lng": 107.16034
+        },
+        {
+          "name": "Huyện Tuyên Hóa",
+          "lat": 17.91323,
+          "lng": 106.02678
+        },
+        {
+          "name": "Huyện Vĩnh Linh",
+          "lat": 17.016,
+          "lng": 106.93384
+        },
+        {
+          "name": "Kwang Binh",
+          "lat": 17.46885,
+          "lng": 106.62226
+        }
+      ]
+    },
+    {
+      "name": "Sơn La",
+      "lat": 21.3269601,
+      "lng": 103.9143842,
+      "districts": [
+        {
+          "name": "Sơn La",
+          "lat": 21.3256,
+          "lng": 103.91882
+        },
+        {
+          "name": "Huyện Bắc Yên",
+          "lat": 21.25042,
+          "lng": 104.38501
+        },
+        {
+          "name": "Huyện Mai Sơn",
+          "lat": 21.15884,
+          "lng": 104.04821
+        },
+        {
+          "name": "Huyện Mộc Châu",
+          "lat": 21.83333,
+          "lng": 104.75
+        },
+        {
+          "name": "Huyện Mường La",
+          "lat": 21.5296,
+          "lng": 104.11113
+        },
+        {
+          "name": "Huyện Phù Yên",
+          "lat": 21.21412,
+          "lng": 104.68993
+        },
+        {
+          "name": "Huyện Quỳnh Nhai",
+          "lat": 21.77224,
+          "lng": 103.6492
+        },
+        {
+          "name": "Huyện Sông Mã",
+          "lat": 21.06971,
+          "lng": 103.68727
+        },
+        {
+          "name": "Huyện Thuận Châu",
+          "lat": 21.42319,
+          "lng": 103.64408
+        },
+        {
+          "name": "Huyện Yên Châu",
+          "lat": 21.005,
+          "lng": 104.33264
+        }
+      ]
+    },
+    {
+      "name": "Tây Ninh",
+      "lat": 11.3136555,
+      "lng": 106.0966969,
+      "districts": [
+        {
+          "name": "Cần Giuộc",
+          "lat": 10.60857,
+          "lng": 106.67135
+        },
+        {
+          "name": "Huyện Cần Giuộc",
+          "lat": 10.57742,
+          "lng": 106.67279
+        },
+        {
+          "name": "Tân An",
+          "lat": 10.53589,
+          "lng": 106.41366
+        },
+        {
+          "name": "Tây Ninh",
+          "lat": 11.31004,
+          "lng": 106.09828
+        },
+        {
+          "name": "Huyện Bến Cầu",
+          "lat": 11.12889,
+          "lng": 106.14296
+        },
+        {
+          "name": "Huyện Bến Lức",
+          "lat": 10.68858,
+          "lng": 106.45484
+        },
+        {
+          "name": "Huyện Cần Đước",
+          "lat": 10.54148,
+          "lng": 106.59636
+        },
+        {
+          "name": "Huyện Châu Thành",
+          "lat": 10.45214,
+          "lng": 106.49015
+        },
+        {
+          "name": "Huyện Dương Minh Châu",
+          "lat": 11.31833,
+          "lng": 106.25697
+        },
+        {
+          "name": "Huyện Đức Hòa",
+          "lat": 10.87838,
+          "lng": 106.42422
+        },
+        {
+          "name": "Huyện Đức Huệ",
+          "lat": 10.86473,
+          "lng": 106.25914
+        },
+        {
+          "name": "Huyện Gò Dầu",
+          "lat": 11.15737,
+          "lng": 106.27307
+        },
+        {
+          "name": "Huyện Hòa Thành",
+          "lat": 11.26706,
+          "lng": 106.14486
+        },
+        {
+          "name": "Huyện Mộc Hóa",
+          "lat": 10.75166,
+          "lng": 106.01729
+        },
+        {
+          "name": "Huyện Tân Châu",
+          "lat": 11.58739,
+          "lng": 106.2827
+        },
+        {
+          "name": "Huyện Tân Hưng",
+          "lat": 10.8338,
+          "lng": 105.68848
+        },
+        {
+          "name": "Huyện Tân Thạnh",
+          "lat": 10.60351,
+          "lng": 105.96576
+        },
+        {
+          "name": "Huyện Tân Trụ",
+          "lat": 10.53182,
+          "lng": 106.51644
+        },
+        {
+          "name": "Huyện Thạnh Hóa",
+          "lat": 10.66667,
+          "lng": 106.16667
+        },
+        {
+          "name": "Huyện Thủ Thừa",
+          "lat": 10.65639,
+          "lng": 106.3458
+        },
+        {
+          "name": "Huyện Trảng Bàng",
+          "lat": 11.0572,
+          "lng": 106.37539
+        },
+        {
+          "name": "Huyện Vĩnh Hưng",
+          "lat": 10.88299,
+          "lng": 105.80364
+        },
+        {
+          "name": "Phú Khương",
+          "lat": 11.28333,
+          "lng": 106.13333
+        }
+      ]
+    },
+    {
+      "name": "Thái Nguyên",
+      "lat": 21.5954448,
+      "lng": 105.8386957,
+      "districts": [
+        {
+          "name": "Thái Nguyên",
+          "lat": 21.59422,
+          "lng": 105.84817
+        },
+        {
+          "name": "Bắc Kạn",
+          "lat": 22.14701,
+          "lng": 105.83481
+        },
+        {
+          "name": "Huyện Ba Bể",
+          "lat": 22.41667,
+          "lng": 105.75
+        },
+        {
+          "name": "Huyện Bạch Thông",
+          "lat": 22.25758,
+          "lng": 105.83295
+        },
+        {
+          "name": "Huyện Chợ Đồn",
+          "lat": 22.18681,
+          "lng": 105.5728
+        },
+        {
+          "name": "Huyện Na Rì",
+          "lat": 22.17883,
+          "lng": 106.11221
+        },
+        {
+          "name": "Huyện Ngân Sơn",
+          "lat": 22.42962,
+          "lng": 106.0103
+        },
+        {
+          "name": "Thị Xã Bắc Kạn",
+          "lat": 22.1413,
+          "lng": 105.83867
+        }
+      ]
+    },
+    {
+      "name": "Thanh Hóa",
+      "lat": 19.806692,
+      "lng": 105.7851816,
+      "districts": [
+        {
+          "name": "Thanh Hóa",
+          "lat": 19.8,
+          "lng": 105.76667
+        },
+        {
+          "name": "Bỉm Sơn",
+          "lat": 20.07806,
+          "lng": 105.86028
+        },
+        {
+          "name": "Huyện Bá Thước",
+          "lat": 20.35767,
+          "lng": 105.25301
+        },
+        {
+          "name": "Huyện Cẩm Thủy",
+          "lat": 20.19586,
+          "lng": 105.46817
+        },
+        {
+          "name": "Huyện Đông Sơn",
+          "lat": 19.79742,
+          "lng": 105.72465
+        },
+        {
+          "name": "Huyện Hà Trung",
+          "lat": 20.02654,
+          "lng": 105.81931
+        },
+        {
+          "name": "Huyện Hậu Lộc",
+          "lat": 19.93337,
+          "lng": 105.88894
+        },
+        {
+          "name": "Huyện Lang Chánh",
+          "lat": 20.15926,
+          "lng": 105.15071
+        },
+        {
+          "name": "Huyện Mường Lát",
+          "lat": 20.52763,
+          "lng": 104.62941
+        },
+        {
+          "name": "Huyện Nga Sơn",
+          "lat": 20.01561,
+          "lng": 105.98975
+        },
+        {
+          "name": "Huyện Ngọc Lặc",
+          "lat": 20.06777,
+          "lng": 105.37386
+        },
+        {
+          "name": "Huyện Như Thanh",
+          "lat": 19.57798,
+          "lng": 105.55616
+        },
+        {
+          "name": "Huyện Như Xuân",
+          "lat": 19.62527,
+          "lng": 105.38856
+        },
+        {
+          "name": "Huyện Nông Cống",
+          "lat": 19.61376,
+          "lng": 105.68279
+        },
+        {
+          "name": "Huyện Quan Hóa",
+          "lat": 20.47565,
+          "lng": 104.95335
+        },
+        {
+          "name": "Huyện Quan Sơn",
+          "lat": 20.25758,
+          "lng": 104.83416
+        },
+        {
+          "name": "Huyện Quảng Xương",
+          "lat": 19.70252,
+          "lng": 105.79298
+        },
+        {
+          "name": "Huyện Thiệu Hóa",
+          "lat": 19.89713,
+          "lng": 105.68144
+        },
+        {
+          "name": "Huyện Thọ Xuân",
+          "lat": 19.93114,
+          "lng": 105.48284
+        },
+        {
+          "name": "Huyện Thường Xuân",
+          "lat": 19.93684,
+          "lng": 105.24109
+        },
+        {
+          "name": "Huyện Triệu Sơn",
+          "lat": 19.82578,
+          "lng": 105.58293
+        },
+        {
+          "name": "Huyện Vĩnh Lộc",
+          "lat": 20.03482,
+          "lng": 105.65755
+        },
+        {
+          "name": "Huyện Yên Định",
+          "lat": 19.98666,
+          "lng": 105.61482
+        }
+      ]
+    },
+    {
+      "name": "Thừa Thiên-Huế",
+      "lat": 16.5530473,
+      "lng": 107.6900375,
+      "districts": [
+        {
+          "name": "Huế",
+          "lat": 16.4619,
+          "lng": 107.59546
+        },
+        {
+          "name": "Huyện A Lưới",
+          "lat": 16.23422,
+          "lng": 107.3065
+        },
+        {
+          "name": "Huyện Nam Đông",
+          "lat": 16.12396,
+          "lng": 107.6927
+        },
+        {
+          "name": "Huyện Phong Điền",
+          "lat": 16.48769,
+          "lng": 107.28889
+        },
+        {
+          "name": "Huyện Phú Lộc",
+          "lat": 16.27066,
+          "lng": 107.88545
+        },
+        {
+          "name": "Huyện Phú Vang",
+          "lat": 16.47007,
+          "lng": 107.71458
+        },
+        {
+          "name": "Huyện Quảng Ðiền",
+          "lat": 16.57941,
+          "lng": 107.4937
+        }
+      ]
+    },
+    {
+      "name": "Tuyên Quang",
+      "lat": 21.8192281,
+      "lng": 105.2149355,
+      "districts": [
+        {
+          "name": "Tuyên Quang",
+          "lat": 21.82356,
+          "lng": 105.21424
+        },
+        {
+          "name": "Hà Giang",
+          "lat": 22.82333,
+          "lng": 104.98357
+        },
+        {
+          "name": "Huyện Bắc Mê",
+          "lat": 22.75477,
+          "lng": 105.29023
+        },
+        {
+          "name": "Huyện Bắc Quang",
+          "lat": 22.42301,
+          "lng": 104.91831
+        },
+        {
+          "name": "Huyện Chiêm Hóa",
+          "lat": 22.17895,
+          "lng": 105.27671
+        },
+        {
+          "name": "Huyện Đồng Văn",
+          "lat": 23.25449,
+          "lng": 105.27626
+        },
+        {
+          "name": "Huyện Hàm Yên",
+          "lat": 22.10935,
+          "lng": 105.0163
+        },
+        {
+          "name": "Huyện Lâm Bình",
+          "lat": 22.46411,
+          "lng": 105.21903
+        },
+        {
+          "name": "Huyện Na Hang",
+          "lat": 22.47522,
+          "lng": 105.4838
+        },
+        {
+          "name": "Huyện Quang Bình",
+          "lat": 22.41507,
+          "lng": 104.66018
+        },
+        {
+          "name": "Huyện Sơn Dương",
+          "lat": 21.63623,
+          "lng": 105.38901
+        },
+        {
+          "name": "Huyện Vị Xuyên",
+          "lat": 22.73096,
+          "lng": 104.90827
+        },
+        {
+          "name": "Huyện Xín Mần",
+          "lat": 22.64148,
+          "lng": 104.52089
+        },
+        {
+          "name": "Huyện Yên Minh",
+          "lat": 23.06992,
+          "lng": 105.17865
+        },
+        {
+          "name": "Huyện Yên Sơn",
+          "lat": 21.88363,
+          "lng": 105.27656
+        }
+      ]
+    },
+    {
+      "name": "Vĩnh Long",
+      "lat": 10.254809,
+      "lng": 105.9714673,
+      "districts": [
+        {
+          "name": "Bến Tre",
+          "lat": 10.24147,
+          "lng": 106.37585
+        },
+        {
+          "name": "Trà Vinh",
+          "lat": 9.94719,
+          "lng": 106.34225
+        },
+        {
+          "name": "Vĩnh Long",
+          "lat": 10.25369,
+          "lng": 105.9722
+        },
+        {
+          "name": "Ấp Tân Ngãi",
+          "lat": 10.23333,
+          "lng": 106.28333
+        },
+        {
+          "name": "Huyện Ba Tri",
+          "lat": 10.06627,
+          "lng": 106.60554
+        },
+        {
+          "name": "Huyện Bình Đại",
+          "lat": 10.19354,
+          "lng": 106.64455
+        },
+        {
+          "name": "Huyện Càng Long",
+          "lat": 9.95883,
+          "lng": 106.21395
+        },
+        {
+          "name": "Huyện Cầu Kè",
+          "lat": 9.86738,
+          "lng": 106.07916
+        },
+        {
+          "name": "Huyện Cầu Ngang",
+          "lat": 9.77186,
+          "lng": 106.43654
+        },
+        {
+          "name": "Huyện Châu Thành",
+          "lat": 10.29212,
+          "lng": 106.30827
+        },
+        {
+          "name": "Huyện Chợ Lách",
+          "lat": 10.22674,
+          "lng": 106.17077
+        },
+        {
+          "name": "Huyện Giồng Trôm",
+          "lat": 10.15909,
+          "lng": 106.47004
+        },
+        {
+          "name": "Huyện Long Hồ",
+          "lat": 10.2164,
+          "lng": 105.98483
+        },
+        {
+          "name": "Huyện Mang Thít",
+          "lat": 10.18731,
+          "lng": 106.07472
+        },
+        {
+          "name": "Huyện Tam Bình",
+          "lat": 10.08127,
+          "lng": 105.95352
+        },
+        {
+          "name": "Huyện Thạnh Phú",
+          "lat": 9.92993,
+          "lng": 106.54316
+        },
+        {
+          "name": "Huyện Tiểu Cần",
+          "lat": 9.8035,
+          "lng": 106.20594
+        },
+        {
+          "name": "Huyện Trà Cú",
+          "lat": 9.69706,
+          "lng": 106.29423
+        },
+        {
+          "name": "Huyện Trà Ôn",
+          "lat": 9.97522,
+          "lng": 106.00957
+        },
+        {
+          "name": "Huyện Vũng Liêm",
+          "lat": 10.08717,
+          "lng": 106.16038
+        }
+      ]
+    }
+  ]
+}

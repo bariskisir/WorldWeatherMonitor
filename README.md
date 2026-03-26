@@ -11,6 +11,7 @@ An interactive world weather map that displays real-time weather conditions for 
 ```bash
 git clone https://github.com/bariskisir/WorldWeatherMonitor.git
 cd WorldWeatherMonitor
+npm install
 npm run dev
 ```
 

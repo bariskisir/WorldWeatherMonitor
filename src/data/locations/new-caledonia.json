@@ -1,0 +1,78 @@
+{
+  "name": "New Caledonia",
+  "lat": -21.5,
+  "lng": 165.5,
+  "cities": [
+    {
+      "name": "Loyalty Islands Province",
+      "lat": -20.972966,
+      "lng": 167.2884295,
+      "districts": [
+        {
+          "name": "Lifou",
+          "lat": -20.9667,
+          "lng": 167.2333
+        },
+        {
+          "name": "Maré",
+          "lat": -21.5167,
+          "lng": 167.9833
+        }
+      ]
+    },
+    {
+      "name": "North Province",
+      "lat": -20.1472512,
+      "lng": 164.1237568,
+      "districts": [
+        {
+          "name": "Houaïlou",
+          "lat": -21.2909,
+          "lng": 165.6217
+        },
+        {
+          "name": "Koné",
+          "lat": -21.059,
+          "lng": 164.8518
+        },
+        {
+          "name": "Poindimié",
+          "lat": -20.9496,
+          "lng": 165.3293
+        }
+      ]
+    },
+    {
+      "name": "South Province",
+      "lat": -22.2758421,
+      "lng": 166.6417946,
+      "districts": [
+        {
+          "name": "Bourail",
+          "lat": -21.5701,
+          "lng": 165.4804
+        },
+        {
+          "name": "Dumbéa",
+          "lat": -22.15,
+          "lng": 166.45
+        },
+        {
+          "name": "Le Mont-Dore",
+          "lat": -22.2157,
+          "lng": 166.4665
+        },
+        {
+          "name": "Nouméa",
+          "lat": -22.2758,
+          "lng": 166.458
+        },
+        {
+          "name": "Païta",
+          "lat": -22.1337,
+          "lng": 166.3505
+        }
+      ]
+    }
+  ]
+}

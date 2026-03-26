@@ -1,0 +1,717 @@
+{
+  "name": "Cambodia",
+  "lat": 13,
+  "lng": 105,
+  "cities": [
+    {
+      "name": "Banteay Meanchey",
+      "lat": 13.7989147,
+      "lng": 102.8862666,
+      "districts": [
+        {
+          "name": "Mongkol Borei",
+          "lat": 13.45531,
+          "lng": 102.99186
+        },
+        {
+          "name": "Paoy Paet",
+          "lat": 13.65805,
+          "lng": 102.56365
+        },
+        {
+          "name": "Sisophon",
+          "lat": 13.58588,
+          "lng": 102.97369
+        },
+        {
+          "name": "Srŏk Malai",
+          "lat": 13.49902,
+          "lng": 102.60164
+        },
+        {
+          "name": "Srŏk Svay Chék",
+          "lat": 13.81305,
+          "lng": 102.95269
+        }
+      ]
+    },
+    {
+      "name": "Battambang",
+      "lat": 13.0998526,
+      "lng": 103.1966659,
+      "districts": [
+        {
+          "name": "Battambang",
+          "lat": 13.10271,
+          "lng": 103.19822
+        },
+        {
+          "name": "Srŏk Âk Phnŭm",
+          "lat": 13.23621,
+          "lng": 103.45894
+        },
+        {
+          "name": "Srŏk Banăn",
+          "lat": 12.97067,
+          "lng": 103.04742
+        },
+        {
+          "name": "Srŏk Bâvĭl",
+          "lat": 13.23601,
+          "lng": 102.8291
+        },
+        {
+          "name": "Srŏk Rotanak Mondol",
+          "lat": 12.84048,
+          "lng": 102.887
+        }
+      ]
+    },
+    {
+      "name": "Kampong Cham",
+      "lat": 12.1174857,
+      "lng": 105.2080022,
+      "districts": [
+        {
+          "name": "Cheung Prey",
+          "lat": 12.1,
+          "lng": 105.07
+        },
+        {
+          "name": "Kampong Cham",
+          "lat": 11.98,
+          "lng": 105.445
+        },
+        {
+          "name": "Srŏk Bathéay",
+          "lat": 12.02986,
+          "lng": 104.93171
+        }
+      ]
+    },
+    {
+      "name": "Kampong Chhnang",
+      "lat": 12.2536026,
+      "lng": 104.6658389,
+      "districts": [
+        {
+          "name": "Baribour",
+          "lat": 12.43,
+          "lng": 104.47
+        },
+        {
+          "name": "Kampong Chhnang",
+          "lat": 12.26,
+          "lng": 104.67
+        },
+        {
+          "name": "Rolea B'ier",
+          "lat": 12.21,
+          "lng": 104.61
+        },
+        {
+          "name": "Srŏk Chol Kiri",
+          "lat": 12.15861,
+          "lng": 104.82287
+        },
+        {
+          "name": "Srŏk Sameakki Mean Chey",
+          "lat": 11.86788,
+          "lng": 104.55549
+        }
+      ]
+    },
+    {
+      "name": "Kampong Speu",
+      "lat": 11.5775368,
+      "lng": 104.2714023,
+      "districts": [
+        {
+          "name": "Kampong Speu",
+          "lat": 11.45332,
+          "lng": 104.52085
+        },
+        {
+          "name": "Krŏng Chbar Mon",
+          "lat": 11.47091,
+          "lng": 104.50655
+        },
+        {
+          "name": "Srŏk Basedth",
+          "lat": 11.18432,
+          "lng": 104.53584
+        },
+        {
+          "name": "Srŏk Kông Pĭsei",
+          "lat": 11.31648,
+          "lng": 104.65992
+        },
+        {
+          "name": "Srŏk Ŏdŏngk",
+          "lat": 11.66845,
+          "lng": 104.61224
+        }
+      ]
+    },
+    {
+      "name": "Kampong Thom",
+      "lat": 12.6687923,
+      "lng": 104.8879197,
+      "districts": []
+    },
+    {
+      "name": "Kampot",
+      "lat": 10.6116906,
+      "lng": 104.1827542,
+      "districts": [
+        {
+          "name": "Angkor Chey",
+          "lat": 10.76667,
+          "lng": 104.65
+        },
+        {
+          "name": "Banteay Meas",
+          "lat": 10.61667,
+          "lng": 104.53333
+        },
+        {
+          "name": "Chhouk",
+          "lat": 10.81667,
+          "lng": 104.45
+        },
+        {
+          "name": "Kampong Bay",
+          "lat": 10.59554,
+          "lng": 104.17136
+        },
+        {
+          "name": "Kampong Tranch",
+          "lat": 10.55,
+          "lng": 104.46667
+        },
+        {
+          "name": "Kampot",
+          "lat": 10.61041,
+          "lng": 104.18145
+        },
+        {
+          "name": "Srŏk Chŭm Kiri",
+          "lat": 11.0054,
+          "lng": 104.44207
+        },
+        {
+          "name": "Srŏk Dângtóng",
+          "lat": 10.70733,
+          "lng": 104.42229
+        },
+        {
+          "name": "Srok Tuek Chhou",
+          "lat": 10.74557,
+          "lng": 104.11013
+        }
+      ]
+    },
+    {
+      "name": "Kandal",
+      "lat": 11.3962625,
+      "lng": 105.0207869,
+      "districts": [
+        {
+          "name": "Krŏng Ta Khmau",
+          "lat": 11.45474,
+          "lng": 104.9435
+        },
+        {
+          "name": "Srŏk Khsăch Kândal",
+          "lat": 11.69224,
+          "lng": 105.03732
+        },
+        {
+          "name": "Ta Khmau",
+          "lat": 11.48333,
+          "lng": 104.95
+        }
+      ]
+    },
+    {
+      "name": "Kep",
+      "lat": 10.4846391,
+      "lng": 104.3144082,
+      "districts": [
+        {
+          "name": "Krong Kep",
+          "lat": 10.48291,
+          "lng": 104.31672
+        },
+        {
+          "name": "Srŏk Dâmnăk Châng’aeur",
+          "lat": 10.53394,
+          "lng": 104.34855
+        }
+      ]
+    },
+    {
+      "name": "Koh Kong",
+      "lat": 11.6813417,
+      "lng": 103.0258043,
+      "districts": [
+        {
+          "name": "Koh Kong",
+          "lat": 11.61531,
+          "lng": 102.9838
+        },
+        {
+          "name": "Smach Mean Chey",
+          "lat": 11.54665,
+          "lng": 103.03569
+        },
+        {
+          "name": "Srae Ambel",
+          "lat": 11.10968,
+          "lng": 103.76226
+        },
+        {
+          "name": "Srŏk Batum Sakôr",
+          "lat": 11.11465,
+          "lng": 103.38993
+        },
+        {
+          "name": "Srŏk Môndôl Seima",
+          "lat": 11.81292,
+          "lng": 103.01159
+        }
+      ]
+    },
+    {
+      "name": "Kratie",
+      "lat": 12.6783017,
+      "lng": 106.0581733,
+      "districts": [
+        {
+          "name": "Kracheh",
+          "lat": 12.57,
+          "lng": 106.2
+        },
+        {
+          "name": "Kratié",
+          "lat": 12.48811,
+          "lng": 106.01879
+        },
+        {
+          "name": "Snuol",
+          "lat": 12.19373,
+          "lng": 106.47361
+        }
+      ]
+    },
+    {
+      "name": "Mondulkiri",
+      "lat": 12.7396075,
+      "lng": 107.0087987,
+      "districts": [
+        {
+          "name": "Krŏng Sênmônoŭrôm",
+          "lat": 12.5048,
+          "lng": 107.15525
+        },
+        {
+          "name": "Sen Monorom",
+          "lat": 12.45583,
+          "lng": 107.18811
+        },
+        {
+          "name": "Srŏk Kaev Seima",
+          "lat": 12.41722,
+          "lng": 106.77025
+        },
+        {
+          "name": "Srŏk Pech Chreada",
+          "lat": 12.7278,
+          "lng": 107.0948
+        }
+      ]
+    },
+    {
+      "name": "Oddar Meanchey",
+      "lat": 14.1585631,
+      "lng": 103.782796,
+      "districts": [
+        {
+          "name": "Samraong",
+          "lat": 14.18175,
+          "lng": 103.51761
+        },
+        {
+          "name": "Srŏk Bântéay Âmpĭl",
+          "lat": 14.1859,
+          "lng": 103.25925
+        },
+        {
+          "name": "Srŏk Sâmraông",
+          "lat": 14.25039,
+          "lng": 103.62739
+        },
+        {
+          "name": "Srŏk Trâpeăng Prasat",
+          "lat": 14.25809,
+          "lng": 104.30835
+        }
+      ]
+    },
+    {
+      "name": "Pailin",
+      "lat": 12.8905328,
+      "lng": 102.6294604,
+      "districts": [
+        {
+          "name": "Khan Sala Krau",
+          "lat": 12.97984,
+          "lng": 102.63957
+        },
+        {
+          "name": "Pailin",
+          "lat": 12.84895,
+          "lng": 102.60928
+        }
+      ]
+    },
+    {
+      "name": "Phnom Penh",
+      "lat": 11.568271,
+      "lng": 104.9224426,
+      "districts": [
+        {
+          "name": "Khan 7 Makara",
+          "lat": 11.56254,
+          "lng": 104.91405,
+          "iscapital": true
+        },
+        {
+          "name": "Khan Châmkar Mon",
+          "lat": 11.5439,
+          "lng": 104.92175
+        },
+        {
+          "name": "Khan Duŏn Pénh",
+          "lat": 11.57561,
+          "lng": 104.92025
+        },
+        {
+          "name": "Phnom Penh",
+          "lat": 11.56245,
+          "lng": 104.91601
+        },
+        {
+          "name": "Khan Dângkaô",
+          "lat": 11.52457,
+          "lng": 104.83944
+        },
+        {
+          "name": "Khan Méan Chey",
+          "lat": 11.51976,
+          "lng": 104.95467
+        },
+        {
+          "name": "Khan Russey Keo",
+          "lat": 11.61946,
+          "lng": 104.9099
+        },
+        {
+          "name": "Khan Saen Sokh",
+          "lat": 11.61289,
+          "lng": 104.86078
+        }
+      ]
+    },
+    {
+      "name": "Preah Vihear",
+      "lat": 13.7462982,
+      "lng": 104.97403,
+      "districts": [
+        {
+          "name": "Sangkom Thmei",
+          "lat": 13.47395,
+          "lng": 104.77051
+        },
+        {
+          "name": "Srŏk Ch’êh Sên",
+          "lat": 13.58215,
+          "lng": 105.34533
+        },
+        {
+          "name": "Srŏk Chhêb",
+          "lat": 13.91077,
+          "lng": 105.4618
+        },
+        {
+          "name": "Srŏk Kulén",
+          "lat": 13.78597,
+          "lng": 104.61052
+        },
+        {
+          "name": "Srŏk Rôviĕng",
+          "lat": 13.35105,
+          "lng": 105.09956
+        },
+        {
+          "name": "Srŏk Tbêng Méanchey",
+          "lat": 13.78622,
+          "lng": 105.01586
+        },
+        {
+          "name": "Tbeng Meanchey",
+          "lat": 13.80731,
+          "lng": 104.98046
+        }
+      ]
+    },
+    {
+      "name": "Prey Veng",
+      "lat": 11.3659597,
+      "lng": 105.4557277,
+      "districts": [
+        {
+          "name": "Prey Veng",
+          "lat": 11.48682,
+          "lng": 105.32533
+        },
+        {
+          "name": "Srŏk Kâmpóng Léav",
+          "lat": 11.5097,
+          "lng": 105.3011
+        },
+        {
+          "name": "Srŏk Mésang",
+          "lat": 11.35528,
+          "lng": 105.57235
+        },
+        {
+          "name": "Srŏk Preăh Sdéch",
+          "lat": 11.0869,
+          "lng": 105.37497
+        }
+      ]
+    },
+    {
+      "name": "Pursat",
+      "lat": 12.4662592,
+      "lng": 103.742683,
+      "districts": [
+        {
+          "name": "Bakan",
+          "lat": 12.78,
+          "lng": 103.79
+        },
+        {
+          "name": "Krakor",
+          "lat": 12.48,
+          "lng": 104.19
+        },
+        {
+          "name": "Pursat",
+          "lat": 12.53878,
+          "lng": 103.9192
+        },
+        {
+          "name": "Sampov Meas",
+          "lat": 12.47055,
+          "lng": 103.91817
+        },
+        {
+          "name": "Srŏk Kândiĕng",
+          "lat": 12.71245,
+          "lng": 104.02592
+        },
+        {
+          "name": "Srŏk Véal Vêng",
+          "lat": 12.2423,
+          "lng": 103.13444
+        }
+      ]
+    },
+    {
+      "name": "Ratanakiri",
+      "lat": 13.9312399,
+      "lng": 107.0391088,
+      "districts": [
+        {
+          "name": "Banlung",
+          "lat": 13.73939,
+          "lng": 106.98727
+        },
+        {
+          "name": "Lumphat",
+          "lat": 13.49146,
+          "lng": 106.98022
+        },
+        {
+          "name": "Srŏk Ândong Méas",
+          "lat": 13.93352,
+          "lng": 107.31155
+        },
+        {
+          "name": "Srŏk Bâ Kêv",
+          "lat": 13.70749,
+          "lng": 107.19442
+        },
+        {
+          "name": "Srŏk Ban Lŭng",
+          "lat": 13.682,
+          "lng": 107.03025
+        },
+        {
+          "name": "Srŏk Koun Mom",
+          "lat": 13.51772,
+          "lng": 106.75142
+        },
+        {
+          "name": "Srŏk Ou Chum",
+          "lat": 13.84069,
+          "lng": 107.03469
+        },
+        {
+          "name": "Srŏk Ou Ya Dav",
+          "lat": 13.54328,
+          "lng": 107.44636
+        },
+        {
+          "name": "Srŏk Ta Vêng",
+          "lat": 14.29192,
+          "lng": 107.24031
+        }
+      ]
+    },
+    {
+      "name": "Siem Reap",
+      "lat": 13.3617562,
+      "lng": 103.8590321,
+      "districts": [
+        {
+          "name": "Siem Reap",
+          "lat": 13.36179,
+          "lng": 103.86056
+        },
+        {
+          "name": "Srŏk Ângkôr Thum",
+          "lat": 13.57881,
+          "lng": 103.85645
+        },
+        {
+          "name": "Srŏk Prasat Bakong",
+          "lat": 13.21031,
+          "lng": 103.97689
+        },
+        {
+          "name": "Svay Leu",
+          "lat": 13.69168,
+          "lng": 104.27446
+        },
+        {
+          "name": "Varin",
+          "lat": 13.83574,
+          "lng": 103.89968
+        }
+      ]
+    },
+    {
+      "name": "Sihanoukville",
+      "lat": 10.7321989,
+      "lng": 103.7595806,
+      "districts": [
+        {
+          "name": "Sihanoukville",
+          "lat": 10.60932,
+          "lng": 103.52958
+        },
+        {
+          "name": "Srok Stueng Hav",
+          "lat": 10.85249,
+          "lng": 103.74016
+        }
+      ]
+    },
+    {
+      "name": "Stung Treng",
+      "lat": 13.5271207,
+      "lng": 105.9686727,
+      "districts": [
+        {
+          "name": "Srŏk Srêsén",
+          "lat": 13.6053,
+          "lng": 106.35819
+        },
+        {
+          "name": "Stueng Traeng",
+          "lat": 13.65,
+          "lng": 106.07
+        },
+        {
+          "name": "Stung Treng",
+          "lat": 13.52586,
+          "lng": 105.9683
+        }
+      ]
+    },
+    {
+      "name": "Svay Rieng",
+      "lat": 11.091615,
+      "lng": 105.8034577,
+      "districts": [
+        {
+          "name": "Srŏk Svay Chrŭm",
+          "lat": 11.1116,
+          "lng": 105.69814
+        },
+        {
+          "name": "Svay Rieng",
+          "lat": 11.08785,
+          "lng": 105.79935
+        }
+      ]
+    },
+    {
+      "name": "Takeo",
+      "lat": 10.9358547,
+      "lng": 104.7796413,
+      "districts": [
+        {
+          "name": "Takeo",
+          "lat": 10.99081,
+          "lng": 104.78498
+        },
+        {
+          "name": "Krŏng Doun Kaev",
+          "lat": 10.99459,
+          "lng": 104.7955
+        },
+        {
+          "name": "Phumĭ Véal Srê",
+          "lat": 10.98081,
+          "lng": 104.77828
+        },
+        {
+          "name": "Srŏk Ângkôr Borei",
+          "lat": 10.99291,
+          "lng": 104.95177
+        },
+        {
+          "name": "Srŏk Borei Cholsar",
+          "lat": 10.81414,
+          "lng": 104.98994
+        }
+      ]
+    },
+    {
+      "name": "Tboung Khmum",
+      "lat": 11.98333333,
+      "lng": 105.45,
+      "districts": [
+        {
+          "name": "Suong",
+          "lat": 11.91666667,
+          "lng": 105.65
+        }
+      ]
+    }
+  ]
+}

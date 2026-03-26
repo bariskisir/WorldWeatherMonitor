@@ -1,0 +1,108 @@
+{
+  "name": "Guernsey",
+  "lat": 49.46666666,
+  "lng": -2.58333333,
+  "cities": [
+    {
+      "name": "Alderney",
+      "lat": 49.7168911,
+      "lng": -2.1971694,
+      "districts": []
+    },
+    {
+      "name": "Castel",
+      "lat": 49.4677402,
+      "lng": -2.5913459,
+      "districts": []
+    },
+    {
+      "name": "Forest",
+      "lat": 49.4312917,
+      "lng": -2.5927968,
+      "districts": [
+        {
+          "name": "Forest Parish",
+          "lat": 49.42983,
+          "lng": -2.60168
+        }
+      ]
+    },
+    {
+      "name": "Sark",
+      "lat": 49.4283373,
+      "lng": -2.3599394,
+      "districts": []
+    },
+    {
+      "name": "St Andrew",
+      "lat": 49.4499006,
+      "lng": -2.5688225,
+      "districts": []
+    },
+    {
+      "name": "St Martin",
+      "lat": 49.4373488,
+      "lng": -2.555524,
+      "districts": []
+    },
+    {
+      "name": "St Peter Port",
+      "lat": 49.4568142,
+      "lng": -2.5389979,
+      "districts": [
+        {
+          "name": "Saint Peter Port",
+          "lat": 49.45981,
+          "lng": -2.53527
+        }
+      ]
+    },
+    {
+      "name": "St Pierre du Bois",
+      "lat": 49.4395995,
+      "lng": -2.6408963,
+      "districts": [
+        {
+          "name": "Saint Pierre du Bois Parish",
+          "lat": 49.45399,
+          "lng": -2.63808
+        },
+        {
+          "name": "Vale Parish",
+          "lat": 49.4944,
+          "lng": -2.5179
+        }
+      ]
+    },
+    {
+      "name": "St Sampson",
+      "lat": 49.4817273,
+      "lng": -2.5388395,
+      "districts": [
+        {
+          "name": "Saint Sampson",
+          "lat": 49.48389,
+          "lng": -2.52333
+        }
+      ]
+    },
+    {
+      "name": "St Saviour",
+      "lat": 49.4491648,
+      "lng": -2.6213557,
+      "districts": []
+    },
+    {
+      "name": "Torteval",
+      "lat": 49.4302321,
+      "lng": -2.6638621,
+      "districts": []
+    },
+    {
+      "name": "Vale",
+      "lat": 49.495456,
+      "lng": -2.5225087,
+      "districts": []
+    }
+  ]
+}

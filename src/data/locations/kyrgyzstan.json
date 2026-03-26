@@ -1,0 +1,335 @@
+{
+  "name": "Kyrgyzstan",
+  "lat": 41,
+  "lng": 75,
+  "cities": [
+    {
+      "name": "Batken",
+      "lat": 40.0611852,
+      "lng": 70.8200964,
+      "districts": [
+        {
+          "name": "Aydarken",
+          "lat": 39.94319,
+          "lng": 71.34184
+        },
+        {
+          "name": "Batken",
+          "lat": 40.06259,
+          "lng": 70.81939
+        },
+        {
+          "name": "Iradan",
+          "lat": 40.26667,
+          "lng": 72.1
+        },
+        {
+          "name": "Isfana",
+          "lat": 39.83895,
+          "lng": 69.5276
+        },
+        {
+          "name": "Karavan",
+          "lat": 40.29513,
+          "lng": 72.18627
+        },
+        {
+          "name": "Kyzyl-Kyya",
+          "lat": 40.25684,
+          "lng": 72.12793
+        },
+        {
+          "name": "Suluktu",
+          "lat": 39.93652,
+          "lng": 69.56779
+        }
+      ]
+    },
+    {
+      "name": "Bishkek",
+      "lat": 42.8761424,
+      "lng": 74.6036724,
+      "districts": [
+        {
+          "name": "Bishkek",
+          "lat": 42.87,
+          "lng": 74.59,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Chuy",
+      "lat": 42.5550236,
+      "lng": 74.621991,
+      "districts": [
+        {
+          "name": "Ysyk-Ata",
+          "lat": 42.72665,
+          "lng": 75.07444
+        },
+        {
+          "name": "Alamudunskiy Rayon",
+          "lat": 42.81985,
+          "lng": 74.59398
+        },
+        {
+          "name": "Belovodskoye",
+          "lat": 42.82944,
+          "lng": 74.1083
+        },
+        {
+          "name": "Chuyskiy Rayon",
+          "lat": 42.66667,
+          "lng": 75.33333
+        },
+        {
+          "name": "Ivanovka",
+          "lat": 42.88778,
+          "lng": 75.085
+        },
+        {
+          "name": "Kaindy",
+          "lat": 42.82469,
+          "lng": 73.67585
+        },
+        {
+          "name": "Kant",
+          "lat": 42.89106,
+          "lng": 74.85077
+        },
+        {
+          "name": "Kara-Balta",
+          "lat": 42.81423,
+          "lng": 73.84813
+        },
+        {
+          "name": "Kemin",
+          "lat": 42.78611,
+          "lng": 75.69167
+        },
+        {
+          "name": "Lebedinovka",
+          "lat": 42.88454,
+          "lng": 74.67819
+        },
+        {
+          "name": "Sokulukskiy Rayon",
+          "lat": 42.83333,
+          "lng": 74.33333
+        },
+        {
+          "name": "Sosnovka",
+          "lat": 42.63707,
+          "lng": 73.89608
+        },
+        {
+          "name": "Tokmok",
+          "lat": 42.84194,
+          "lng": 75.30149
+        }
+      ]
+    },
+    {
+      "name": "Issyk-Kul",
+      "lat": 42.4620398,
+      "lng": 77.0789862,
+      "districts": [
+        {
+          "name": "Ak-Suu",
+          "lat": 42.49948,
+          "lng": 78.52702
+        },
+        {
+          "name": "Balykchy",
+          "lat": 42.46017,
+          "lng": 76.18709
+        },
+        {
+          "name": "Cholpon-Ata",
+          "lat": 42.64944,
+          "lng": 77.08225
+        },
+        {
+          "name": "Kadzhi-Say",
+          "lat": 42.14107,
+          "lng": 77.17848
+        },
+        {
+          "name": "Karakol",
+          "lat": 42.49068,
+          "lng": 78.39362
+        },
+        {
+          "name": "Kyzyl-Suu",
+          "lat": 42.34211,
+          "lng": 78.00644
+        },
+        {
+          "name": "Tyup",
+          "lat": 42.7276,
+          "lng": 78.36476
+        }
+      ]
+    },
+    {
+      "name": "Jalal-Abad",
+      "lat": 40.9298182,
+      "lng": 73.00119,
+      "districts": [
+        {
+          "name": "Ala-Buka",
+          "lat": 41.40806,
+          "lng": 71.46306
+        },
+        {
+          "name": "Bazar-Korgon",
+          "lat": 41.0376,
+          "lng": 72.74586
+        },
+        {
+          "name": "Jalal-Abad",
+          "lat": 40.93333,
+          "lng": 73
+        },
+        {
+          "name": "Kazarman",
+          "lat": 41.405,
+          "lng": 74.037
+        },
+        {
+          "name": "Kerben",
+          "lat": 41.49399,
+          "lng": 71.75826
+        },
+        {
+          "name": "Kochkor-Ata",
+          "lat": 41.03709,
+          "lng": 72.4832
+        },
+        {
+          "name": "Suzak",
+          "lat": 40.8982,
+          "lng": 72.90481
+        },
+        {
+          "name": "Tash-Kumyr",
+          "lat": 41.34612,
+          "lng": 72.21707
+        },
+        {
+          "name": "Toktogul",
+          "lat": 41.87442,
+          "lng": 72.94192
+        },
+        {
+          "name": "Toktogul District",
+          "lat": 41.75,
+          "lng": 73
+        }
+      ]
+    },
+    {
+      "name": "Naryn",
+      "lat": 41.3670658,
+      "lng": 75.9931838,
+      "districts": [
+        {
+          "name": "At-Bashi",
+          "lat": 41.16951,
+          "lng": 75.80099
+        },
+        {
+          "name": "Jumgal",
+          "lat": 41.94924,
+          "lng": 74.40566
+        },
+        {
+          "name": "Naryn",
+          "lat": 41.42866,
+          "lng": 75.99111
+        }
+      ]
+    },
+    {
+      "name": "Osh",
+      "lat": 40.5172678,
+      "lng": 72.8049894,
+      "districts": []
+    },
+    {
+      "name": "Osh",
+      "lat": 40.5172678,
+      "lng": 72.8049894,
+      "districts": [
+        {
+          "name": "Osh",
+          "lat": 40.52828,
+          "lng": 72.7985
+        },
+        {
+          "name": "Chong-Alay",
+          "lat": 39.47614,
+          "lng": 72.33017
+        },
+        {
+          "name": "Daroot-Korgon",
+          "lat": 39.55274,
+          "lng": 72.20518
+        },
+        {
+          "name": "Kara Kulja",
+          "lat": 40.64095,
+          "lng": 73.49411
+        },
+        {
+          "name": "Kara Suu",
+          "lat": 40.7046,
+          "lng": 72.86666
+        },
+        {
+          "name": "Kyzyl-Eshme",
+          "lat": 39.56559,
+          "lng": 72.27153
+        },
+        {
+          "name": "Nookat",
+          "lat": 40.26597,
+          "lng": 72.61834
+        },
+        {
+          "name": "Uzgen",
+          "lat": 40.76994,
+          "lng": 73.30068
+        },
+        {
+          "name": "Uzgen District",
+          "lat": 40.55,
+          "lng": 73.3
+        }
+      ]
+    },
+    {
+      "name": "Talas",
+      "lat": 42.521995,
+      "lng": 72.247693,
+      "districts": [
+        {
+          "name": "Kara-Buurinskiy Rayon",
+          "lat": 42.5,
+          "lng": 71.41667
+        },
+        {
+          "name": "Talas",
+          "lat": 42.52277,
+          "lng": 72.24274
+        },
+        {
+          "name": "Talasskiy Rayon",
+          "lat": 42.18647,
+          "lng": 72.69408
+        }
+      ]
+    }
+  ]
+}

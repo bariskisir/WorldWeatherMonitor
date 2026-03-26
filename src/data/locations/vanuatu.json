@@ -1,0 +1,84 @@
+{
+  "name": "Vanuatu",
+  "lat": -16,
+  "lng": 167,
+  "cities": [
+    {
+      "name": "Malampa",
+      "lat": -16.2975,
+      "lng": 167.8103716,
+      "districts": [
+        {
+          "name": "Lakatoro",
+          "lat": -16.09992,
+          "lng": 167.41636
+        },
+        {
+          "name": "Norsup",
+          "lat": -16.06536,
+          "lng": 167.39714
+        }
+      ]
+    },
+    {
+      "name": "Penama",
+      "lat": -15.2116666,
+      "lng": 167.9360319,
+      "districts": []
+    },
+    {
+      "name": "Sanma",
+      "lat": -15.158134,
+      "lng": 166.9393865,
+      "districts": [
+        {
+          "name": "Luganville",
+          "lat": -15.51989,
+          "lng": 167.16235
+        },
+        {
+          "name": "Port-Olry",
+          "lat": -15.04175,
+          "lng": 167.07265
+        }
+      ]
+    },
+    {
+      "name": "Shefa",
+      "lat": -17.3283967,
+      "lng": 168.2547316,
+      "districts": [
+        {
+          "name": "Port-Vila",
+          "lat": -17.73648,
+          "lng": 168.31366,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Tafea",
+      "lat": -19.3706034,
+      "lng": 169.6752428,
+      "districts": [
+        {
+          "name": "Isangel",
+          "lat": -19.54167,
+          "lng": 169.28167
+        }
+      ]
+    },
+    {
+      "name": "Torba",
+      "lat": -13.6644135,
+      "lng": 167.1741636,
+      "districts": [
+        {
+          "name": "Sola",
+          "lat": -13.87611,
+          "lng": 167.55167
+        }
+      ]
+    }
+  ]
+}

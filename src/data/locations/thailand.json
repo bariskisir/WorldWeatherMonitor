@@ -1,0 +1,6758 @@
+{
+  "name": "Thailand",
+  "lat": 15,
+  "lng": 100,
+  "cities": [
+    {
+      "name": "Amnat Charoen",
+      "lat": 15.8656783,
+      "lng": 104.6257774,
+      "districts": [
+        {
+          "name": "Amnat Charoen",
+          "lat": 15.85851,
+          "lng": 104.62883
+        },
+        {
+          "name": "Chanuman",
+          "lat": 16.12553,
+          "lng": 104.92279
+        },
+        {
+          "name": "Hua Taphan",
+          "lat": 15.67594,
+          "lng": 104.52702
+        },
+        {
+          "name": "Lue Amnat",
+          "lat": 15.70781,
+          "lng": 104.71118
+        },
+        {
+          "name": "Mueang Amnat Charoen",
+          "lat": 15.87864,
+          "lng": 104.64284
+        },
+        {
+          "name": "Pathum Ratchawongsa",
+          "lat": 15.89542,
+          "lng": 104.89611
+        },
+        {
+          "name": "Phana",
+          "lat": 15.66895,
+          "lng": 104.85675
+        },
+        {
+          "name": "Senangkhanikhom",
+          "lat": 16.0513,
+          "lng": 104.68441
+        }
+      ]
+    },
+    {
+      "name": "Ang Thong",
+      "lat": 14.5896054,
+      "lng": 100.455052,
+      "districts": [
+        {
+          "name": "Amphoe Chaiyo",
+          "lat": 14.67225,
+          "lng": 100.46786
+        },
+        {
+          "name": "Amphoe Pho Thong",
+          "lat": 14.67344,
+          "lng": 100.34569
+        },
+        {
+          "name": "Ang Thong",
+          "lat": 14.58839,
+          "lng": 100.45283
+        },
+        {
+          "name": "Ban Thai Tan",
+          "lat": 14.62161,
+          "lng": 100.48739
+        },
+        {
+          "name": "Chaiyo",
+          "lat": 14.67639,
+          "lng": 100.46861
+        },
+        {
+          "name": "Mueang Ang Thong",
+          "lat": 14.57815,
+          "lng": 100.44393
+        },
+        {
+          "name": "Pa Mok",
+          "lat": 14.4862,
+          "lng": 100.4573
+        },
+        {
+          "name": "Pho Thong",
+          "lat": 14.66731,
+          "lng": 100.40878
+        },
+        {
+          "name": "Sawaeng Ha",
+          "lat": 14.74635,
+          "lng": 100.28963
+        },
+        {
+          "name": "Wiset Chai Chan",
+          "lat": 14.5499,
+          "lng": 100.31743
+        },
+        {
+          "name": "Wiset Chaichan",
+          "lat": 14.5945,
+          "lng": 100.33825
+        }
+      ]
+    },
+    {
+      "name": "Bangkok",
+      "lat": 13.7563309,
+      "lng": 100.5017651,
+      "districts": [
+        {
+          "name": "Bang Kapi",
+          "lat": 13.77258,
+          "lng": 100.63847
+        },
+        {
+          "name": "Bang Sue",
+          "lat": 13.81921,
+          "lng": 100.5279
+        },
+        {
+          "name": "Bangkok",
+          "lat": 13.75398,
+          "lng": 100.50144,
+          "iscapital": true
+        },
+        {
+          "name": "Chatu Chak",
+          "lat": 13.82888,
+          "lng": 100.56374
+        },
+        {
+          "name": "Chom Thong",
+          "lat": 13.6891,
+          "lng": 100.46175
+        },
+        {
+          "name": "Dusit",
+          "lat": 13.78235,
+          "lng": 100.51677
+        },
+        {
+          "name": "Khlong Sam Wa",
+          "lat": 13.87633,
+          "lng": 100.73805
+        },
+        {
+          "name": "Lak Si",
+          "lat": 13.8821,
+          "lng": 100.56889
+        },
+        {
+          "name": "Lat Krabang",
+          "lat": 13.745,
+          "lng": 100.79224
+        },
+        {
+          "name": "Min Buri",
+          "lat": 13.81254,
+          "lng": 100.75334
+        },
+        {
+          "name": "Nong Chok",
+          "lat": 13.8528,
+          "lng": 100.85788
+        },
+        {
+          "name": "Nong Khaem",
+          "lat": 13.69979,
+          "lng": 100.35364
+        },
+        {
+          "name": "Phasi Charoen",
+          "lat": 13.72597,
+          "lng": 100.44103
+        },
+        {
+          "name": "Phra Nakhon",
+          "lat": 13.75831,
+          "lng": 100.49613
+        },
+        {
+          "name": "Sai Mai",
+          "lat": 13.90727,
+          "lng": 100.65181
+        },
+        {
+          "name": "Thon buri",
+          "lat": 13.71874,
+          "lng": 100.48367
+        },
+        {
+          "name": "Wang Thong Lang",
+          "lat": 13.78188,
+          "lng": 100.60804
+        },
+        {
+          "name": "Bang Bon",
+          "lat": 13.6592,
+          "lng": 100.38801
+        },
+        {
+          "name": "Bang Khae",
+          "lat": 13.71927,
+          "lng": 100.39278
+        },
+        {
+          "name": "Bang Khen",
+          "lat": 13.86901,
+          "lng": 100.62769
+        },
+        {
+          "name": "Bang Kho laen",
+          "lat": 13.70025,
+          "lng": 100.50971
+        },
+        {
+          "name": "Bang Khun thain",
+          "lat": 13.59482,
+          "lng": 100.42694
+        },
+        {
+          "name": "Bang Na",
+          "lat": 13.67252,
+          "lng": 100.62089
+        },
+        {
+          "name": "Bang Phlat",
+          "lat": 13.78668,
+          "lng": 100.49152
+        },
+        {
+          "name": "Bang Rak",
+          "lat": 13.73058,
+          "lng": 100.52388
+        },
+        {
+          "name": "Bangkok Noi",
+          "lat": 13.76551,
+          "lng": 100.46988
+        },
+        {
+          "name": "Bangkok Yai",
+          "lat": 13.73748,
+          "lng": 100.47428
+        },
+        {
+          "name": "Bueng Kum",
+          "lat": 13.81023,
+          "lng": 100.6514
+        },
+        {
+          "name": "Din Daeng",
+          "lat": 13.77728,
+          "lng": 100.56235
+        },
+        {
+          "name": "Don Mueang",
+          "lat": 13.92601,
+          "lng": 100.59365
+        },
+        {
+          "name": "Huai Khwang",
+          "lat": 13.7706,
+          "lng": 100.58119
+        },
+        {
+          "name": "Khan Na Yao",
+          "lat": 13.8238,
+          "lng": 100.67649
+        },
+        {
+          "name": "Khlong San",
+          "lat": 13.72602,
+          "lng": 100.50071
+        },
+        {
+          "name": "Khlong Toei",
+          "lat": 13.71806,
+          "lng": 100.57065
+        },
+        {
+          "name": "Lat Phrao",
+          "lat": 13.82779,
+          "lng": 100.60672
+        },
+        {
+          "name": "Parthum Wan",
+          "lat": 13.74265,
+          "lng": 100.53398
+        },
+        {
+          "name": "Phaya Thai",
+          "lat": 13.78442,
+          "lng": 100.54306
+        },
+        {
+          "name": "Phra Khanong",
+          "lat": 13.69705,
+          "lng": 100.61234
+        },
+        {
+          "name": "Pom Prap Sattru Phai",
+          "lat": 13.7548,
+          "lng": 100.50995
+        },
+        {
+          "name": "Pra Wet",
+          "lat": 13.71735,
+          "lng": 100.69452
+        },
+        {
+          "name": "Rat Burana",
+          "lat": 13.67633,
+          "lng": 100.49881
+        },
+        {
+          "name": "Ratchathewi",
+          "lat": 13.76029,
+          "lng": 100.53724
+        },
+        {
+          "name": "Samphanthawong",
+          "lat": 13.74233,
+          "lng": 100.50765
+        },
+        {
+          "name": "Saphan Sung",
+          "lat": 13.76531,
+          "lng": 100.69001
+        },
+        {
+          "name": "Sathon",
+          "lat": 13.71745,
+          "lng": 100.52999
+        },
+        {
+          "name": "Suanluang",
+          "lat": 13.72989,
+          "lng": 100.62677
+        },
+        {
+          "name": "Taling Chan",
+          "lat": 13.77271,
+          "lng": 100.43289
+        },
+        {
+          "name": "Thawi Watthana",
+          "lat": 13.77637,
+          "lng": 100.3662
+        },
+        {
+          "name": "Thung khru",
+          "lat": 13.63387,
+          "lng": 100.49641
+        },
+        {
+          "name": "Vadhana",
+          "lat": 13.73501,
+          "lng": 100.5828
+        },
+        {
+          "name": "Yan na wa",
+          "lat": 13.69177,
+          "lng": 100.5395
+        }
+      ]
+    },
+    {
+      "name": "Bueng Kan",
+      "lat": 18.3609104,
+      "lng": 103.6464463,
+      "districts": [
+        {
+          "name": "Amphoe Seka",
+          "lat": 17.98734,
+          "lng": 103.89616
+        },
+        {
+          "name": "Bueng Kan",
+          "lat": 18.36303,
+          "lng": 103.65194
+        },
+        {
+          "name": "Bueng Khong Long",
+          "lat": 18.00899,
+          "lng": 104.07302
+        },
+        {
+          "name": "Bung Khla",
+          "lat": 18.24726,
+          "lng": 103.99427
+        },
+        {
+          "name": "Mueang Bueng Kan",
+          "lat": 18.2995,
+          "lng": 103.64016
+        },
+        {
+          "name": "Pak Khat",
+          "lat": 18.27738,
+          "lng": 103.3414
+        },
+        {
+          "name": "Phon Charoen",
+          "lat": 18.07967,
+          "lng": 103.65453
+        },
+        {
+          "name": "Seka",
+          "lat": 17.92851,
+          "lng": 103.95519
+        },
+        {
+          "name": "Si Wilai",
+          "lat": 18.15528,
+          "lng": 103.77975
+        },
+        {
+          "name": "So Phisai",
+          "lat": 18.14176,
+          "lng": 103.44923
+        }
+      ]
+    },
+    {
+      "name": "Buri Ram",
+      "lat": 14.9951003,
+      "lng": 103.1115915,
+      "districts": [
+        {
+          "name": "Amphoe Nang Rong",
+          "lat": 14.63333,
+          "lng": 102.76667
+        },
+        {
+          "name": "Amphoe Nong Ki",
+          "lat": 14.72696,
+          "lng": 102.55798
+        },
+        {
+          "name": "Amphoe Prakhon Chai",
+          "lat": 14.61041,
+          "lng": 103.06054
+        },
+        {
+          "name": "Amphoe Satuek",
+          "lat": 15.22699,
+          "lng": 103.33006
+        },
+        {
+          "name": "Ban Dan",
+          "lat": 15.12363,
+          "lng": 103.18937
+        },
+        {
+          "name": "Ban Kruat",
+          "lat": 14.39205,
+          "lng": 103.11494
+        },
+        {
+          "name": "Ban Mai Chaiyaphot",
+          "lat": 15.57857,
+          "lng": 102.84394
+        },
+        {
+          "name": "Buri Ram",
+          "lat": 14.99433,
+          "lng": 103.10392
+        },
+        {
+          "name": "Chaloem Phra Kiat",
+          "lat": 14.55725,
+          "lng": 102.89878
+        },
+        {
+          "name": "Chamni",
+          "lat": 14.78636,
+          "lng": 102.85386
+        },
+        {
+          "name": "Huai Rat",
+          "lat": 15.00896,
+          "lng": 103.23499
+        },
+        {
+          "name": "Khaen Dong",
+          "lat": 15.3062,
+          "lng": 103.13286
+        },
+        {
+          "name": "Khu Mueang",
+          "lat": 15.26844,
+          "lng": 103.02717
+        },
+        {
+          "name": "Krasang",
+          "lat": 14.94167,
+          "lng": 103.31898
+        },
+        {
+          "name": "Lahan Sai",
+          "lat": 14.32194,
+          "lng": 102.87994
+        },
+        {
+          "name": "Lam Plai Mat",
+          "lat": 15.01688,
+          "lng": 102.87479
+        },
+        {
+          "name": "Mueang Buriram",
+          "lat": 14.94078,
+          "lng": 103.06244
+        },
+        {
+          "name": "Na Pho",
+          "lat": 15.69565,
+          "lng": 102.93857
+        },
+        {
+          "name": "Nang Rong",
+          "lat": 14.6377,
+          "lng": 102.79138
+        },
+        {
+          "name": "Non Din Daeng",
+          "lat": 14.2201,
+          "lng": 102.68233
+        },
+        {
+          "name": "Non Suwan",
+          "lat": 14.55511,
+          "lng": 102.58339
+        },
+        {
+          "name": "Nong Hong",
+          "lat": 14.86149,
+          "lng": 102.6708
+        },
+        {
+          "name": "Nong Ki",
+          "lat": 14.68679,
+          "lng": 102.538
+        },
+        {
+          "name": "Pa Kham",
+          "lat": 14.4,
+          "lng": 102.66667
+        },
+        {
+          "name": "Phlapphla Chai",
+          "lat": 14.73299,
+          "lng": 103.17015
+        },
+        {
+          "name": "Phutthaisong",
+          "lat": 15.53249,
+          "lng": 102.98701
+        },
+        {
+          "name": "Prakhon Chai",
+          "lat": 14.60592,
+          "lng": 103.12081
+        },
+        {
+          "name": "Satuek",
+          "lat": 15.29703,
+          "lng": 103.29192
+        }
+      ]
+    },
+    {
+      "name": "Chachoengsao",
+      "lat": 13.6904194,
+      "lng": 101.0779596,
+      "districts": [
+        {
+          "name": "Amphoe Bang Khla",
+          "lat": 13.74186,
+          "lng": 101.20754
+        },
+        {
+          "name": "Amphoe Bang Nam Priao",
+          "lat": 13.88034,
+          "lng": 101.03232
+        },
+        {
+          "name": "Amphoe Bang Pakong",
+          "lat": 13.53241,
+          "lng": 100.96045
+        },
+        {
+          "name": "Amphoe Khlong Khuean",
+          "lat": 13.77961,
+          "lng": 101.15633
+        },
+        {
+          "name": "Amphoe Phanom Sarakham",
+          "lat": 13.73806,
+          "lng": 101.41202
+        },
+        {
+          "name": "Ban Pho",
+          "lat": 13.61,
+          "lng": 101.07838
+        },
+        {
+          "name": "Bang Khla",
+          "lat": 13.72144,
+          "lng": 101.20814
+        },
+        {
+          "name": "Bang Nam Priao",
+          "lat": 13.84739,
+          "lng": 101.05306
+        },
+        {
+          "name": "Bang Pakong",
+          "lat": 13.54297,
+          "lng": 100.99333
+        },
+        {
+          "name": "Chachoengsao",
+          "lat": 13.6882,
+          "lng": 101.07156
+        },
+        {
+          "name": "Khlong Khuean",
+          "lat": 13.79131,
+          "lng": 101.16353
+        },
+        {
+          "name": "Mueang Chachoengsao",
+          "lat": 13.71758,
+          "lng": 101.02152
+        },
+        {
+          "name": "Phanom Sarakham",
+          "lat": 13.74872,
+          "lng": 101.34888
+        },
+        {
+          "name": "Plaeng Yao",
+          "lat": 13.56381,
+          "lng": 101.33972
+        },
+        {
+          "name": "Ratchasan",
+          "lat": 13.7866,
+          "lng": 101.28136
+        },
+        {
+          "name": "Sanam Chai Khet",
+          "lat": 13.62612,
+          "lng": 101.65475
+        },
+        {
+          "name": "Tha Takiap",
+          "lat": 13.3951,
+          "lng": 101.73457
+        }
+      ]
+    },
+    {
+      "name": "Chai Nat",
+      "lat": 15.1851971,
+      "lng": 100.125125,
+      "districts": [
+        {
+          "name": "Chai Nat",
+          "lat": 15.18636,
+          "lng": 100.12353
+        },
+        {
+          "name": "Hankha",
+          "lat": 15.05048,
+          "lng": 99.9609
+        },
+        {
+          "name": "Manorom",
+          "lat": 15.31894,
+          "lng": 100.15677
+        },
+        {
+          "name": "Mueang Chainat",
+          "lat": 15.19104,
+          "lng": 100.1354
+        },
+        {
+          "name": "Noen Kham",
+          "lat": 14.98254,
+          "lng": 99.8459
+        },
+        {
+          "name": "Nong Mamong",
+          "lat": 15.23372,
+          "lng": 99.81087
+        },
+        {
+          "name": "Sankhaburi",
+          "lat": 15.02105,
+          "lng": 100.17038
+        },
+        {
+          "name": "Sapphaya",
+          "lat": 15.14873,
+          "lng": 100.25506
+        },
+        {
+          "name": "Wat Sing",
+          "lat": 15.21574,
+          "lng": 99.9668
+        }
+      ]
+    },
+    {
+      "name": "Chaiyaphum",
+      "lat": 16.2720349,
+      "lng": 101.7153824,
+      "districts": [
+        {
+          "name": "Bamnet Narong",
+          "lat": 15.50189,
+          "lng": 101.68982
+        },
+        {
+          "name": "Chaiyaphum",
+          "lat": 15.81047,
+          "lng": 102.02881
+        },
+        {
+          "name": "Kaeng Khro",
+          "lat": 16.10861111,
+          "lng": 102.25805556
+        },
+        {
+          "name": "Kaset Sombun",
+          "lat": 16.28053,
+          "lng": 101.95422
+        },
+        {
+          "name": "Nakhon Nayok",
+          "lat": 14.203056,
+          "lng": 101.215
+        },
+        {
+          "name": "Phu Khiao",
+          "lat": 16.3765,
+          "lng": 102.12853
+        }
+      ]
+    },
+    {
+      "name": "Chanthaburi",
+      "lat": 12.6112485,
+      "lng": 102.1037806,
+      "districts": [
+        {
+          "name": "Amphoe Khlung",
+          "lat": 12.57246,
+          "lng": 102.30783
+        },
+        {
+          "name": "Amphoe Laem Sing",
+          "lat": 12.45689,
+          "lng": 102.14262
+        },
+        {
+          "name": "Amphoe Pong Nam Ron",
+          "lat": 12.93467,
+          "lng": 102.37189
+        },
+        {
+          "name": "Amphoe Tha Mai",
+          "lat": 12.73848,
+          "lng": 101.97696
+        },
+        {
+          "name": "Chanthaburi",
+          "lat": 12.60961,
+          "lng": 102.10447
+        },
+        {
+          "name": "Kaeng Hang Maeo",
+          "lat": 13.0969,
+          "lng": 101.88543
+        },
+        {
+          "name": "Khao Khitchakut",
+          "lat": 12.93726,
+          "lng": 102.09762
+        },
+        {
+          "name": "Khlung",
+          "lat": 12.45467,
+          "lng": 102.22142
+        },
+        {
+          "name": "Laem Sing",
+          "lat": 12.48164,
+          "lng": 102.07375
+        },
+        {
+          "name": "Makham",
+          "lat": 12.73333,
+          "lng": 102.21667
+        },
+        {
+          "name": "Mueang Chanthaburi",
+          "lat": 12.59542,
+          "lng": 102.12263
+        },
+        {
+          "name": "Na Yai Am",
+          "lat": 12.73833,
+          "lng": 101.87502
+        },
+        {
+          "name": "Pong Nam Ron",
+          "lat": 12.90575,
+          "lng": 102.26225
+        },
+        {
+          "name": "Soi Dao",
+          "lat": 13.17034,
+          "lng": 102.22796
+        },
+        {
+          "name": "Tha Mai",
+          "lat": 12.62137,
+          "lng": 102.00481
+        }
+      ]
+    },
+    {
+      "name": "Chiang Mai",
+      "lat": 18.7883439,
+      "lng": 98.9853008,
+      "districts": [
+        {
+          "name": "Chiang Mai",
+          "lat": 18.79038,
+          "lng": 98.98468
+        },
+        {
+          "name": "Amphoe Chai Prakan",
+          "lat": 19.674,
+          "lng": 99.17478
+        },
+        {
+          "name": "Amphoe Chom Thong",
+          "lat": 18.39242,
+          "lng": 98.59761
+        },
+        {
+          "name": "Amphoe Fang",
+          "lat": 19.8755,
+          "lng": 99.16345
+        },
+        {
+          "name": "Amphoe Hang Dong",
+          "lat": 18.73869,
+          "lng": 98.88439
+        },
+        {
+          "name": "Amphoe San Kamphaeng",
+          "lat": 18.73497,
+          "lng": 99.18609
+        },
+        {
+          "name": "Amphoe San Pa Tong",
+          "lat": 18.60567,
+          "lng": 98.88531
+        },
+        {
+          "name": "Chai Prakan",
+          "lat": 19.73136,
+          "lng": 99.13997
+        },
+        {
+          "name": "Chiang Dao",
+          "lat": 19.51279,
+          "lng": 98.9418
+        },
+        {
+          "name": "Chom Thong",
+          "lat": 18.41742,
+          "lng": 98.67428
+        },
+        {
+          "name": "Doi Lo",
+          "lat": 18.5333,
+          "lng": 98.76843
+        },
+        {
+          "name": "Doi Saket",
+          "lat": 18.92372,
+          "lng": 99.21272
+        },
+        {
+          "name": "Doi Tao",
+          "lat": 17.89703,
+          "lng": 98.66292
+        },
+        {
+          "name": "Fang",
+          "lat": 19.91689,
+          "lng": 99.2145
+        },
+        {
+          "name": "Galyani Vadhana",
+          "lat": 18.94439,
+          "lng": 98.30329
+        },
+        {
+          "name": "Hang Dong",
+          "lat": 18.68703,
+          "lng": 98.91939
+        },
+        {
+          "name": "Hot",
+          "lat": 18.11581,
+          "lng": 98.46377
+        },
+        {
+          "name": "Mae Ai",
+          "lat": 19.99136,
+          "lng": 99.33976
+        },
+        {
+          "name": "Mae Chaem",
+          "lat": 18.66694,
+          "lng": 98.3245
+        },
+        {
+          "name": "Mae On",
+          "lat": 18.73496,
+          "lng": 99.30378
+        },
+        {
+          "name": "Mae Rim",
+          "lat": 18.94139,
+          "lng": 98.88667
+        },
+        {
+          "name": "Mae Taeng",
+          "lat": 19.16667,
+          "lng": 98.83333
+        },
+        {
+          "name": "Mae Wang",
+          "lat": 18.67457,
+          "lng": 98.68714
+        },
+        {
+          "name": "Mueang Chiang Mai",
+          "lat": 18.79008,
+          "lng": 98.96869
+        },
+        {
+          "name": "Om Koi",
+          "lat": 17.69842,
+          "lng": 98.35433
+        },
+        {
+          "name": "Pai",
+          "lat": 19.36168,
+          "lng": 98.43973
+        },
+        {
+          "name": "Phrao",
+          "lat": 19.2846,
+          "lng": 99.22277
+        },
+        {
+          "name": "Samoeng",
+          "lat": 18.90027,
+          "lng": 98.6565
+        },
+        {
+          "name": "San Kamphaeng",
+          "lat": 18.74486,
+          "lng": 99.11953
+        },
+        {
+          "name": "San Pa Tong",
+          "lat": 18.62828,
+          "lng": 98.89572
+        },
+        {
+          "name": "San Sai",
+          "lat": 18.94101,
+          "lng": 99.04048
+        },
+        {
+          "name": "Saraphi",
+          "lat": 18.70511,
+          "lng": 99.02989
+        },
+        {
+          "name": "Wiang Haeng",
+          "lat": 19.59188,
+          "lng": 98.65845
+        }
+      ]
+    },
+    {
+      "name": "Chiang Rai",
+      "lat": 19.9104798,
+      "lng": 99.840576,
+      "districts": [
+        {
+          "name": "Amphoe Chiang Khong",
+          "lat": 20.13587,
+          "lng": 100.36527
+        },
+        {
+          "name": "Amphoe Chiang Saen",
+          "lat": 20.23572,
+          "lng": 100.15537
+        },
+        {
+          "name": "Amphoe Mae Chan",
+          "lat": 20.1991,
+          "lng": 99.88468
+        },
+        {
+          "name": "Amphoe Mae Sai",
+          "lat": 20.365,
+          "lng": 99.92604
+        },
+        {
+          "name": "Amphoe Pa Daet",
+          "lat": 19.50643,
+          "lng": 99.97615
+        },
+        {
+          "name": "Chiang Khong",
+          "lat": 20.26125,
+          "lng": 100.40461
+        },
+        {
+          "name": "Chiang Rai",
+          "lat": 19.90858,
+          "lng": 99.8325
+        },
+        {
+          "name": "Chiang Saen",
+          "lat": 20.27511,
+          "lng": 100.08689
+        },
+        {
+          "name": "Doi Luang",
+          "lat": 20.14496,
+          "lng": 100.15712
+        },
+        {
+          "name": "Khun Tan",
+          "lat": 19.86481,
+          "lng": 100.28731
+        },
+        {
+          "name": "Mae Chan",
+          "lat": 20.14675,
+          "lng": 99.85256
+        },
+        {
+          "name": "Mae Fa Luang",
+          "lat": 20.22228,
+          "lng": 99.64147
+        },
+        {
+          "name": "Mae Lao",
+          "lat": 19.77223,
+          "lng": 99.71128
+        },
+        {
+          "name": "Mae Sai",
+          "lat": 20.43353,
+          "lng": 99.87617
+        },
+        {
+          "name": "Mae Suai",
+          "lat": 19.69037,
+          "lng": 99.48459
+        },
+        {
+          "name": "Mueang Chiang Rai",
+          "lat": 19.90824,
+          "lng": 99.77299
+        },
+        {
+          "name": "Pa Daet",
+          "lat": 19.50489,
+          "lng": 99.99241
+        },
+        {
+          "name": "Phan",
+          "lat": 19.5745,
+          "lng": 99.77299
+        },
+        {
+          "name": "Phaya Mengrai",
+          "lat": 19.8732,
+          "lng": 100.16257
+        },
+        {
+          "name": "Thoeng",
+          "lat": 19.6765,
+          "lng": 100.20095
+        },
+        {
+          "name": "Wiang Chai",
+          "lat": 19.8636,
+          "lng": 100.00065
+        },
+        {
+          "name": "Wiang Chiang Rung",
+          "lat": 20.02208,
+          "lng": 100.07472
+        },
+        {
+          "name": "Wiang Kaen",
+          "lat": 20.00874,
+          "lng": 100.48641
+        },
+        {
+          "name": "Wiang Pa Pao",
+          "lat": 19.3046,
+          "lng": 99.44925
+        }
+      ]
+    },
+    {
+      "name": "Chon Buri",
+      "lat": 13.1857117,
+      "lng": 101.1210777,
+      "districts": [
+        {
+          "name": "Chon Buri",
+          "lat": 13.3622,
+          "lng": 100.98345
+        },
+        {
+          "name": "Pattaya",
+          "lat": 12.93333,
+          "lng": 100.88333
+        },
+        {
+          "name": "Si Racha",
+          "lat": 13.17372,
+          "lng": 100.93111
+        },
+        {
+          "name": "Amphoe Ban Bueng",
+          "lat": 13.2528,
+          "lng": 101.18151
+        },
+        {
+          "name": "Amphoe Ko Si Chang",
+          "lat": 13.15286,
+          "lng": 100.81156
+        },
+        {
+          "name": "Amphoe Phan Thong",
+          "lat": 13.463,
+          "lng": 101.09131
+        },
+        {
+          "name": "Amphoe Phanat Nikhom",
+          "lat": 13.46434,
+          "lng": 101.21428
+        },
+        {
+          "name": "Amphoe Sattahip",
+          "lat": 12.71743,
+          "lng": 100.92754
+        },
+        {
+          "name": "Amphoe Si Racha",
+          "lat": 13.12976,
+          "lng": 101.04008
+        },
+        {
+          "name": "Ban Bueng",
+          "lat": 13.311,
+          "lng": 101.11214
+        },
+        {
+          "name": "Ban Ko Lan",
+          "lat": 12.92419,
+          "lng": 100.78794
+        },
+        {
+          "name": "Ban Talat Bueng",
+          "lat": 13.07147,
+          "lng": 101.00314
+        },
+        {
+          "name": "Bang Lamung",
+          "lat": 13.04704,
+          "lng": 100.92891
+        },
+        {
+          "name": "Bang Lamung District",
+          "lat": 12.92579,
+          "lng": 100.89243
+        },
+        {
+          "name": "Bo Thong",
+          "lat": 13.24227,
+          "lng": 101.50864
+        },
+        {
+          "name": "Ko Chan",
+          "lat": 13.40253,
+          "lng": 101.388
+        },
+        {
+          "name": "Ko Si Chang",
+          "lat": 13.16389,
+          "lng": 100.80547
+        },
+        {
+          "name": "Mueang Chonburi",
+          "lat": 13.34271,
+          "lng": 101.00111
+        },
+        {
+          "name": "Nong Yai",
+          "lat": 13.11772,
+          "lng": 101.37471
+        },
+        {
+          "name": "Phan Thong",
+          "lat": 13.46804,
+          "lng": 101.09532
+        },
+        {
+          "name": "Phanat Nikhom",
+          "lat": 13.44581,
+          "lng": 101.18445
+        },
+        {
+          "name": "Sattahip",
+          "lat": 12.66644,
+          "lng": 100.90073
+        }
+      ]
+    },
+    {
+      "name": "Chumphon",
+      "lat": 10.4930496,
+      "lng": 99.1800199,
+      "districts": [
+        {
+          "name": "Amphoe Lang Suan",
+          "lat": 9.93386,
+          "lng": 99.05292
+        },
+        {
+          "name": "Ban Nam Yuen",
+          "lat": 9.87686,
+          "lng": 98.86592
+        },
+        {
+          "name": "Chumphon",
+          "lat": 10.4957,
+          "lng": 99.17971
+        },
+        {
+          "name": "Lamae",
+          "lat": 9.75567,
+          "lng": 99.04378
+        },
+        {
+          "name": "Lang Suan",
+          "lat": 9.94561,
+          "lng": 99.07847
+        },
+        {
+          "name": "Mueang Chumphon",
+          "lat": 10.46077,
+          "lng": 99.10608
+        },
+        {
+          "name": "Pathio",
+          "lat": 10.81008,
+          "lng": 99.33938
+        },
+        {
+          "name": "Phato",
+          "lat": 9.81066,
+          "lng": 98.80178
+        },
+        {
+          "name": "Sawi",
+          "lat": 10.24008,
+          "lng": 99.01865
+        },
+        {
+          "name": "Tha Sae",
+          "lat": 10.76864,
+          "lng": 99.09878
+        },
+        {
+          "name": "Thung Tako",
+          "lat": 10.09223,
+          "lng": 99.05337
+        }
+      ]
+    },
+    {
+      "name": "Kalasin",
+      "lat": 16.438508,
+      "lng": 103.5060994,
+      "districts": [
+        {
+          "name": "Amphoe Huai Mek",
+          "lat": 16.58868,
+          "lng": 103.24098
+        },
+        {
+          "name": "Amphoe Kamalasai",
+          "lat": 16.27999,
+          "lng": 103.6001
+        },
+        {
+          "name": "Amphoe Khao Wong",
+          "lat": 16.67959,
+          "lng": 104.1003
+        },
+        {
+          "name": "Amphoe Kuchinarai",
+          "lat": 16.51977,
+          "lng": 104.05097
+        },
+        {
+          "name": "Amphoe Nong Kung Si",
+          "lat": 16.71932,
+          "lng": 103.31922
+        },
+        {
+          "name": "Amphoe Yang Talat",
+          "lat": 16.43961,
+          "lng": 103.34085
+        },
+        {
+          "name": "Don Chan",
+          "lat": 16.46667,
+          "lng": 103.71667
+        },
+        {
+          "name": "Huai Mek",
+          "lat": 16.58975,
+          "lng": 103.23547
+        },
+        {
+          "name": "Huai Phueng",
+          "lat": 16.66972,
+          "lng": 103.87997
+        },
+        {
+          "name": "Kalasin",
+          "lat": 16.43281,
+          "lng": 103.50658
+        },
+        {
+          "name": "Kamalasai",
+          "lat": 16.33839,
+          "lng": 103.57564
+        },
+        {
+          "name": "Kham Muang",
+          "lat": 16.93884,
+          "lng": 103.6398
+        },
+        {
+          "name": "Khao Wong",
+          "lat": 16.70008,
+          "lng": 104.09019
+        },
+        {
+          "name": "Khong Chai",
+          "lat": 16.25845,
+          "lng": 103.48167
+        },
+        {
+          "name": "Kuchinarai",
+          "lat": 16.541,
+          "lng": 104.05004
+        },
+        {
+          "name": "Mueang Kalasin",
+          "lat": 16.50918,
+          "lng": 103.54984
+        },
+        {
+          "name": "Na Khu",
+          "lat": 16.75018,
+          "lng": 104.00062
+        },
+        {
+          "name": "Na Mon",
+          "lat": 16.56994,
+          "lng": 103.78015
+        },
+        {
+          "name": "Nong Kung Si",
+          "lat": 16.65,
+          "lng": 103.3
+        },
+        {
+          "name": "Rong Kham",
+          "lat": 16.27925,
+          "lng": 103.71238
+        },
+        {
+          "name": "Sahatsakhan",
+          "lat": 16.70987,
+          "lng": 103.57909
+        },
+        {
+          "name": "Sam Chai",
+          "lat": 16.86909,
+          "lng": 103.52243
+        },
+        {
+          "name": "Somdet",
+          "lat": 16.76973,
+          "lng": 103.75012
+        },
+        {
+          "name": "Tha Khantho",
+          "lat": 16.88333,
+          "lng": 103.25
+        },
+        {
+          "name": "Yang Talat",
+          "lat": 16.39982,
+          "lng": 103.36785
+        }
+      ]
+    },
+    {
+      "name": "Kamphaeng Phet",
+      "lat": 16.4748045,
+      "lng": 99.5280072,
+      "districts": [
+        {
+          "name": "Amphoe Khanu Woralaksaburi",
+          "lat": 16.00233,
+          "lng": 99.67618
+        },
+        {
+          "name": "Amphoe Lan Krabue",
+          "lat": 16.60348,
+          "lng": 99.86521
+        },
+        {
+          "name": "Bueng Samakkhi",
+          "lat": 16.21262,
+          "lng": 99.9672
+        },
+        {
+          "name": "Kamphaeng Phet",
+          "lat": 16.48344,
+          "lng": 99.52153
+        },
+        {
+          "name": "Khanu Woralaksaburi",
+          "lat": 16.0617,
+          "lng": 99.86058
+        },
+        {
+          "name": "Khlong Khlung",
+          "lat": 16.22191,
+          "lng": 99.67654
+        },
+        {
+          "name": "Khlong Lan",
+          "lat": 16.25992,
+          "lng": 99.21806
+        },
+        {
+          "name": "Kosamphi Nakhon",
+          "lat": 16.60702,
+          "lng": 99.34795
+        },
+        {
+          "name": "Lan Krabue",
+          "lat": 16.60003,
+          "lng": 99.84889
+        },
+        {
+          "name": "Mueang Kamphaeng Phet",
+          "lat": 16.43254,
+          "lng": 99.48831
+        },
+        {
+          "name": "Pang Sila Thong",
+          "lat": 16.02525,
+          "lng": 99.35593
+        },
+        {
+          "name": "Phran Kratai",
+          "lat": 16.70541,
+          "lng": 99.53704
+        },
+        {
+          "name": "Sai Ngam",
+          "lat": 16.43956,
+          "lng": 99.87457
+        },
+        {
+          "name": "Sai Thong Watthana",
+          "lat": 16.30859,
+          "lng": 99.87854
+        }
+      ]
+    },
+    {
+      "name": "Kanchanaburi",
+      "lat": 14.0342066,
+      "lng": 99.5256113,
+      "districts": [
+        {
+          "name": "Amphoe Bo Phloi",
+          "lat": 14.38723,
+          "lng": 99.4499
+        },
+        {
+          "name": "Amphoe Phanom Thuan",
+          "lat": 14.15941,
+          "lng": 99.66904
+        },
+        {
+          "name": "Amphoe Sangkhla Buri",
+          "lat": 15.19337,
+          "lng": 98.52791
+        },
+        {
+          "name": "Amphoe Tha Maka",
+          "lat": 13.94665,
+          "lng": 99.779
+        },
+        {
+          "name": "Amphoe Tha Muang",
+          "lat": 13.90947,
+          "lng": 99.6154
+        },
+        {
+          "name": "Bo Phloi",
+          "lat": 14.32517,
+          "lng": 99.51467
+        },
+        {
+          "name": "Dan Makham Tia",
+          "lat": 13.83422,
+          "lng": 99.34125
+        },
+        {
+          "name": "Huai Krachao",
+          "lat": 14.34056,
+          "lng": 99.67633
+        },
+        {
+          "name": "Kanchanaburi",
+          "lat": 14.00412,
+          "lng": 99.54832
+        },
+        {
+          "name": "Lao Khwan",
+          "lat": 14.59488,
+          "lng": 99.68338
+        },
+        {
+          "name": "Mueang Kanchanaburi",
+          "lat": 14.06987,
+          "lng": 99.32769
+        },
+        {
+          "name": "Nong Prue",
+          "lat": 14.67801,
+          "lng": 99.41075
+        },
+        {
+          "name": "Phanom Thuan",
+          "lat": 14.13031,
+          "lng": 99.69858
+        },
+        {
+          "name": "Sai Yok",
+          "lat": 14.25652,
+          "lng": 98.93372
+        },
+        {
+          "name": "Sangkhla Buri",
+          "lat": 15.15553,
+          "lng": 98.45361
+        },
+        {
+          "name": "Si Sawat",
+          "lat": 14.67254,
+          "lng": 99.12992
+        },
+        {
+          "name": "Tha Maka",
+          "lat": 13.9,
+          "lng": 99.76667
+        },
+        {
+          "name": "Tha Muang",
+          "lat": 13.96118,
+          "lng": 99.64122
+        },
+        {
+          "name": "Thong Pha Phum",
+          "lat": 14.83277,
+          "lng": 98.69233
+        }
+      ]
+    },
+    {
+      "name": "Khon Kaen",
+      "lat": 16.4303916,
+      "lng": 102.8355904,
+      "districts": [
+        {
+          "name": "Khon Kaen",
+          "lat": 16.44671,
+          "lng": 102.833
+        },
+        {
+          "name": "Amphoe Ban Phai",
+          "lat": 16.04603,
+          "lng": 102.77755
+        },
+        {
+          "name": "Amphoe Chum Phae",
+          "lat": 16.61591,
+          "lng": 102.09619
+        },
+        {
+          "name": "Amphoe Kranuan",
+          "lat": 16.75261,
+          "lng": 103.08044
+        },
+        {
+          "name": "Amphoe Phon",
+          "lat": 15.80672,
+          "lng": 102.59111
+        },
+        {
+          "name": "Amphoe Pueai Noi",
+          "lat": 15.88867,
+          "lng": 102.87618
+        },
+        {
+          "name": "Ban Fang",
+          "lat": 16.49162,
+          "lng": 102.61669
+        },
+        {
+          "name": "Ban Haet",
+          "lat": 16.20067,
+          "lng": 102.77465
+        },
+        {
+          "name": "Ban Phai",
+          "lat": 16.05997,
+          "lng": 102.73097
+        },
+        {
+          "name": "Chonnabot",
+          "lat": 16.02249,
+          "lng": 102.55946
+        },
+        {
+          "name": "Chum Phae",
+          "lat": 16.5443,
+          "lng": 102.09924
+        },
+        {
+          "name": "Khao Suan Kwang",
+          "lat": 16.91682,
+          "lng": 102.78206
+        },
+        {
+          "name": "Khok Pho Chai",
+          "lat": 16.07194,
+          "lng": 102.38428
+        },
+        {
+          "name": "Kranuan",
+          "lat": 16.70672,
+          "lng": 103.07878
+        },
+        {
+          "name": "Mancha Khiri",
+          "lat": 16.21242,
+          "lng": 102.51973
+        },
+        {
+          "name": "Mueang Khon Kaen",
+          "lat": 16.46048,
+          "lng": 102.80873
+        },
+        {
+          "name": "Nam Phong",
+          "lat": 16.69946,
+          "lng": 102.88125
+        },
+        {
+          "name": "Non Sila",
+          "lat": 15.9642,
+          "lng": 102.69074
+        },
+        {
+          "name": "Nong Na Kham",
+          "lat": 16.8101,
+          "lng": 102.328
+        },
+        {
+          "name": "Nong Ruea",
+          "lat": 16.49166,
+          "lng": 102.44572
+        },
+        {
+          "name": "Nong Song Hong",
+          "lat": 15.76419,
+          "lng": 102.79174
+        },
+        {
+          "name": "Phon",
+          "lat": 15.816,
+          "lng": 102.59981
+        },
+        {
+          "name": "Phra Yuen",
+          "lat": 16.30823,
+          "lng": 102.67108
+        },
+        {
+          "name": "Phu Pha Man",
+          "lat": 16.71864,
+          "lng": 101.87081
+        },
+        {
+          "name": "Phu Wiang",
+          "lat": 16.6791,
+          "lng": 102.39893
+        },
+        {
+          "name": "Pueai Noi",
+          "lat": 15.86978,
+          "lng": 102.90767
+        },
+        {
+          "name": "Sam Sung",
+          "lat": 16.56208,
+          "lng": 103.05473
+        },
+        {
+          "name": "Si Chom Phu",
+          "lat": 16.76258,
+          "lng": 102.13078
+        },
+        {
+          "name": "Ubolratana",
+          "lat": 16.77766,
+          "lng": 102.67536
+        },
+        {
+          "name": "Waeng Noi",
+          "lat": 15.80631,
+          "lng": 102.42358
+        },
+        {
+          "name": "Waeng Yai",
+          "lat": 15.92532,
+          "lng": 102.46221
+        },
+        {
+          "name": "Wiang Kao",
+          "lat": 16.70138,
+          "lng": 102.29186
+        }
+      ]
+    },
+    {
+      "name": "Krabi",
+      "lat": 8.0634637,
+      "lng": 98.9162345,
+      "districts": [
+        {
+          "name": "Amphoe Ao Luek",
+          "lat": 8.38526,
+          "lng": 98.75378
+        },
+        {
+          "name": "Amphoe Ko Lanta",
+          "lat": 7.71267,
+          "lng": 99.07813
+        },
+        {
+          "name": "Amphoe Nuea Khlong",
+          "lat": 8.06058,
+          "lng": 99.04039
+        },
+        {
+          "name": "Ao Luek",
+          "lat": 8.37803,
+          "lng": 98.72117
+        },
+        {
+          "name": "Khao Phanom",
+          "lat": 8.26953,
+          "lng": 99.11813
+        },
+        {
+          "name": "Khlong Thom",
+          "lat": 7.9147,
+          "lng": 99.19935
+        },
+        {
+          "name": "Ko Lanta",
+          "lat": 7.53362,
+          "lng": 99.08647
+        },
+        {
+          "name": "Krabi",
+          "lat": 8.07257,
+          "lng": 98.91052
+        },
+        {
+          "name": "Lam Thap",
+          "lat": 8.04799,
+          "lng": 99.33543
+        },
+        {
+          "name": "Mueang Krabi",
+          "lat": 8.15947,
+          "lng": 98.86661
+        },
+        {
+          "name": "Nuea Khlong",
+          "lat": 8.07143,
+          "lng": 98.99933
+        },
+        {
+          "name": "Plai Phraya",
+          "lat": 8.54087,
+          "lng": 98.83671
+        },
+        {
+          "name": "Saladan",
+          "lat": 7.61342,
+          "lng": 99.03651
+        }
+      ]
+    },
+    {
+      "name": "Lampang",
+      "lat": 18.2899489,
+      "lng": 99.4958526,
+      "districts": [
+        {
+          "name": "Lampang",
+          "lat": 18.29232,
+          "lng": 99.49277
+        },
+        {
+          "name": "Amphoe Mae Tha",
+          "lat": 18.11122,
+          "lng": 99.57826
+        },
+        {
+          "name": "Amphoe Thoen",
+          "lat": 17.58128,
+          "lng": 99.28836
+        },
+        {
+          "name": "Amphoe Wang Nuea",
+          "lat": 19.16011,
+          "lng": 99.64767
+        },
+        {
+          "name": "Chae Hom",
+          "lat": 18.75404,
+          "lng": 99.66822
+        },
+        {
+          "name": "Hang Chat",
+          "lat": 18.35497,
+          "lng": 99.27978
+        },
+        {
+          "name": "Ko Kha",
+          "lat": 18.14408,
+          "lng": 99.35229
+        },
+        {
+          "name": "Mae Mo",
+          "lat": 18.40244,
+          "lng": 99.82135
+        },
+        {
+          "name": "Mae Phrik",
+          "lat": 17.5045,
+          "lng": 99.05847
+        },
+        {
+          "name": "Mueang Lampang",
+          "lat": 18.38901,
+          "lng": 99.54388
+        },
+        {
+          "name": "Mueang Pan",
+          "lat": 18.79093,
+          "lng": 99.45408
+        },
+        {
+          "name": "Ngao",
+          "lat": 18.75948,
+          "lng": 99.95295
+        },
+        {
+          "name": "Soem Ngam",
+          "lat": 18.09406,
+          "lng": 99.17297
+        },
+        {
+          "name": "Sop Prap",
+          "lat": 17.89861,
+          "lng": 99.34081
+        },
+        {
+          "name": "Thoen",
+          "lat": 17.61289,
+          "lng": 99.21612
+        },
+        {
+          "name": "Wang Nuea",
+          "lat": 19.14678,
+          "lng": 99.61933
+        }
+      ]
+    },
+    {
+      "name": "Lamphun",
+      "lat": 18.5744606,
+      "lng": 99.0087221,
+      "districts": [
+        {
+          "name": "Amphoe Mae Tha",
+          "lat": 18.3954,
+          "lng": 99.09233
+        },
+        {
+          "name": "Amphoe Pa Sang",
+          "lat": 18.41397,
+          "lng": 98.88281
+        },
+        {
+          "name": "Ban Hong",
+          "lat": 18.27422,
+          "lng": 98.83794
+        },
+        {
+          "name": "Ban Thi",
+          "lat": 18.65894,
+          "lng": 99.15883
+        },
+        {
+          "name": "Lamphun",
+          "lat": 18.58054,
+          "lng": 99.00745
+        },
+        {
+          "name": "Li",
+          "lat": 17.78639,
+          "lng": 98.88674
+        },
+        {
+          "name": "Mae Tha",
+          "lat": 18.46456,
+          "lng": 99.14026
+        },
+        {
+          "name": "Mueang Lamphun",
+          "lat": 18.55217,
+          "lng": 99.05905
+        },
+        {
+          "name": "Pa Sang",
+          "lat": 18.52617,
+          "lng": 98.93936
+        },
+        {
+          "name": "Thung Hua Chang",
+          "lat": 17.98333,
+          "lng": 99.05
+        },
+        {
+          "name": "Wiang Nong Long",
+          "lat": 18.41844,
+          "lng": 98.75856
+        }
+      ]
+    },
+    {
+      "name": "Loei",
+      "lat": 17.4860232,
+      "lng": 101.7223002,
+      "districts": [
+        {
+          "name": "Amphoe Phu Kradueng",
+          "lat": 16.9019,
+          "lng": 101.84562
+        },
+        {
+          "name": "Amphoe Wang Saphung",
+          "lat": 17.28028,
+          "lng": 101.73342
+        },
+        {
+          "name": "Chiang Khan",
+          "lat": 17.82441,
+          "lng": 101.73424
+        },
+        {
+          "name": "Dan Sai",
+          "lat": 17.22101,
+          "lng": 101.22373
+        },
+        {
+          "name": "Erawan",
+          "lat": 17.28823,
+          "lng": 101.97443
+        },
+        {
+          "name": "Loei",
+          "lat": 17.49052,
+          "lng": 101.72749
+        },
+        {
+          "name": "Mueang Loei",
+          "lat": 17.54211,
+          "lng": 101.71932
+        },
+        {
+          "name": "Na Duang",
+          "lat": 17.53833,
+          "lng": 101.99639
+        },
+        {
+          "name": "Na Haeo",
+          "lat": 17.43942,
+          "lng": 100.99654
+        },
+        {
+          "name": "Nong Hin",
+          "lat": 17.08087,
+          "lng": 101.82643
+        },
+        {
+          "name": "Pak Chom",
+          "lat": 17.911,
+          "lng": 101.95777
+        },
+        {
+          "name": "Pha Khao",
+          "lat": 17.05638,
+          "lng": 102.01575
+        },
+        {
+          "name": "Phu Kradueng",
+          "lat": 16.88425,
+          "lng": 101.88467
+        },
+        {
+          "name": "Phu Luang",
+          "lat": 17.09782,
+          "lng": 101.64413
+        },
+        {
+          "name": "Phu Ruea",
+          "lat": 17.35076,
+          "lng": 101.41329
+        },
+        {
+          "name": "Tha Li",
+          "lat": 17.61279,
+          "lng": 101.44141
+        },
+        {
+          "name": "Wang Saphung",
+          "lat": 17.30097,
+          "lng": 101.7685
+        }
+      ]
+    },
+    {
+      "name": "Lop Buri",
+      "lat": 14.8023289,
+      "lng": 100.6146858,
+      "districts": [
+        {
+          "name": "Amphoe Chai Badan",
+          "lat": 15.18944,
+          "lng": 101.12682
+        },
+        {
+          "name": "Ban Mi",
+          "lat": 15.06154,
+          "lng": 100.552
+        },
+        {
+          "name": "Chai Badan",
+          "lat": 15.2,
+          "lng": 101.13333
+        },
+        {
+          "name": "Khok Charoen",
+          "lat": 15.40384,
+          "lng": 100.84968
+        },
+        {
+          "name": "Khok Samrong",
+          "lat": 15.04303,
+          "lng": 100.77151
+        },
+        {
+          "name": "Lam Sonthi",
+          "lat": 15.32833,
+          "lng": 101.34783
+        },
+        {
+          "name": "Lop Buri",
+          "lat": 14.79808,
+          "lng": 100.65397
+        },
+        {
+          "name": "Muang Lop Buri",
+          "lat": 14.82334,
+          "lng": 100.67557
+        },
+        {
+          "name": "Nong Muang",
+          "lat": 15.2774,
+          "lng": 100.70413
+        },
+        {
+          "name": "Phatthana Nikhom",
+          "lat": 14.90917,
+          "lng": 101.02673
+        },
+        {
+          "name": "Sa Bot",
+          "lat": 15.23832,
+          "lng": 100.88318
+        },
+        {
+          "name": "Tha Luang",
+          "lat": 15.04786,
+          "lng": 101.19986
+        },
+        {
+          "name": "Tha Wung",
+          "lat": 14.82506,
+          "lng": 100.50921
+        }
+      ]
+    },
+    {
+      "name": "Mae Hong Son",
+      "lat": 19.3020296,
+      "lng": 97.9654368,
+      "districts": [
+        {
+          "name": "Khun Yuam",
+          "lat": 18.82643,
+          "lng": 97.93303
+        },
+        {
+          "name": "Mae Hong Son",
+          "lat": 19.30029,
+          "lng": 97.96852
+        },
+        {
+          "name": "Mae La Noi",
+          "lat": 18.47823,
+          "lng": 97.98295
+        },
+        {
+          "name": "Mae Sariang",
+          "lat": 18.26474,
+          "lng": 97.77057
+        },
+        {
+          "name": "Mueang Mae Hong Son",
+          "lat": 19.28862,
+          "lng": 98.00607
+        },
+        {
+          "name": "Pai",
+          "lat": 19.36036,
+          "lng": 98.40638
+        },
+        {
+          "name": "Pang Mapha",
+          "lat": 19.60451,
+          "lng": 98.2056
+        },
+        {
+          "name": "Sop Moei",
+          "lat": 17.96333,
+          "lng": 97.93149
+        }
+      ]
+    },
+    {
+      "name": "Maha Sarakham",
+      "lat": 15.9041448,
+      "lng": 103.0840638,
+      "districts": [
+        {
+          "name": "Amphoe Kosum Phisai",
+          "lat": 16.23882,
+          "lng": 102.99081
+        },
+        {
+          "name": "Amphoe Phayakkhaphum Phisai",
+          "lat": 15.51963,
+          "lng": 103.23268
+        },
+        {
+          "name": "Amphoe Wapi Pathum",
+          "lat": 15.85953,
+          "lng": 103.34091
+        },
+        {
+          "name": "Borabue",
+          "lat": 15.98881,
+          "lng": 103.12521
+        },
+        {
+          "name": "Chiang Yuen",
+          "lat": 16.40942,
+          "lng": 103.07005
+        },
+        {
+          "name": "Chuen Chom",
+          "lat": 16.54801,
+          "lng": 103.14796
+        },
+        {
+          "name": "Kae Dam",
+          "lat": 16.04961,
+          "lng": 103.38953
+        },
+        {
+          "name": "Kantharawichai",
+          "lat": 16.27992,
+          "lng": 103.25892
+        },
+        {
+          "name": "Kosum Phisai",
+          "lat": 16.24858,
+          "lng": 103.06739
+        },
+        {
+          "name": "Kut Rang",
+          "lat": 16.0297,
+          "lng": 102.95059
+        },
+        {
+          "name": "Maha Sarakham",
+          "lat": 16.18483,
+          "lng": 103.30067
+        },
+        {
+          "name": "Mueang Maha Sarakham",
+          "lat": 16.11882,
+          "lng": 103.3116
+        },
+        {
+          "name": "Na Chueak",
+          "lat": 15.8018,
+          "lng": 103.05725
+        },
+        {
+          "name": "Na Dun",
+          "lat": 15.71952,
+          "lng": 103.23004
+        },
+        {
+          "name": "Phayakkhaphum Phisai",
+          "lat": 15.51631,
+          "lng": 103.19367
+        },
+        {
+          "name": "Wapi Pathum",
+          "lat": 15.84523,
+          "lng": 103.37678
+        },
+        {
+          "name": "Yang Si Surat",
+          "lat": 15.64953,
+          "lng": 103.08916
+        }
+      ]
+    },
+    {
+      "name": "Mukdahan",
+      "lat": 16.5414065,
+      "lng": 104.7290699,
+      "districts": [
+        {
+          "name": "Don Tan",
+          "lat": 16.28796,
+          "lng": 104.82231
+        },
+        {
+          "name": "Dong Luang",
+          "lat": 16.79649,
+          "lng": 104.35562
+        },
+        {
+          "name": "Khamcha-i",
+          "lat": 16.61452,
+          "lng": 104.35929
+        },
+        {
+          "name": "Mueang Mukdahan",
+          "lat": 16.5511,
+          "lng": 104.64605
+        },
+        {
+          "name": "Mukdahan",
+          "lat": 16.54531,
+          "lng": 104.72351
+        },
+        {
+          "name": "Nikhom Kham Soi",
+          "lat": 16.35375,
+          "lng": 104.55864
+        },
+        {
+          "name": "Nong Sung",
+          "lat": 16.44759,
+          "lng": 104.33649
+        },
+        {
+          "name": "Wan Yai",
+          "lat": 16.7203,
+          "lng": 104.72865
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Nayok",
+      "lat": 14.2069466,
+      "lng": 101.2130511,
+      "districts": [
+        {
+          "name": "Ban Na",
+          "lat": 14.26799,
+          "lng": 101.06445
+        },
+        {
+          "name": "Mueang Nakhon Nayok",
+          "lat": 14.2773,
+          "lng": 101.23379
+        },
+        {
+          "name": "Nakhon Nayok",
+          "lat": 14.20463,
+          "lng": 101.21295
+        },
+        {
+          "name": "Ongkharak",
+          "lat": 14.07554,
+          "lng": 101.00891
+        },
+        {
+          "name": "Pak Phli",
+          "lat": 14.22499,
+          "lng": 101.34482
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Pathom",
+      "lat": 13.8341476,
+      "lng": 100.0502775,
+      "districts": [
+        {
+          "name": "Nakhon Pathom",
+          "lat": 13.8196,
+          "lng": 100.04427
+        },
+        {
+          "name": "Amphoe Bang Len",
+          "lat": 14.05,
+          "lng": 100.18333
+        },
+        {
+          "name": "Amphoe Sam Phran",
+          "lat": 13.72035,
+          "lng": 100.21071
+        },
+        {
+          "name": "Bang Len",
+          "lat": 14.02188,
+          "lng": 100.17183
+        },
+        {
+          "name": "Don Tum",
+          "lat": 13.94499,
+          "lng": 100.09003
+        },
+        {
+          "name": "Kamphaeng Saen",
+          "lat": 14.02823,
+          "lng": 99.96152
+        },
+        {
+          "name": "Mueang Nakhon Pathom",
+          "lat": 13.81944,
+          "lng": 100.02375
+        },
+        {
+          "name": "Nakhon Chai Si",
+          "lat": 13.81173,
+          "lng": 100.18157
+        },
+        {
+          "name": "Phutthamonthon",
+          "lat": 13.82559,
+          "lng": 100.29239
+        },
+        {
+          "name": "Sam Phran",
+          "lat": 13.72698,
+          "lng": 100.21526
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Phanom",
+      "lat": 17.4032326,
+      "lng": 104.7853098,
+      "districts": [
+        {
+          "name": "Amphoe Na Wa",
+          "lat": 17.49922,
+          "lng": 104.11833
+        },
+        {
+          "name": "Amphoe That Phanom",
+          "lat": 16.96457,
+          "lng": 104.70277
+        },
+        {
+          "name": "Ban Phaeng",
+          "lat": 17.86955,
+          "lng": 104.22744
+        },
+        {
+          "name": "Mueang Nakhon Phanom",
+          "lat": 17.31965,
+          "lng": 104.68232
+        },
+        {
+          "name": "Na Kae",
+          "lat": 16.95737,
+          "lng": 104.49349
+        },
+        {
+          "name": "Na Thom",
+          "lat": 17.82134,
+          "lng": 104.10871
+        },
+        {
+          "name": "Na Wa",
+          "lat": 17.4897,
+          "lng": 104.10056
+        },
+        {
+          "name": "Nakhon Phanom",
+          "lat": 17.41081,
+          "lng": 104.77856
+        },
+        {
+          "name": "Phon Sawan",
+          "lat": 17.46868,
+          "lng": 104.42234
+        },
+        {
+          "name": "Pla Pak",
+          "lat": 17.20133,
+          "lng": 104.54674
+        },
+        {
+          "name": "Renu Nakhon",
+          "lat": 17.0508,
+          "lng": 104.65664
+        },
+        {
+          "name": "Si Songkhram",
+          "lat": 17.62989,
+          "lng": 104.24495
+        },
+        {
+          "name": "Tha Uthen",
+          "lat": 17.59263,
+          "lng": 104.49884
+        },
+        {
+          "name": "That Phanom",
+          "lat": 16.93636,
+          "lng": 104.71039
+        },
+        {
+          "name": "Wangyang",
+          "lat": 17.07189,
+          "lng": 104.45373
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "lat": 14.9747339,
+      "lng": 102.0981161,
+      "districts": [
+        {
+          "name": "Nakhon Ratchasima",
+          "lat": 14.97066,
+          "lng": 102.10196
+        },
+        {
+          "name": "Amphoe Bua Yai",
+          "lat": 15.58488,
+          "lng": 102.38738
+        },
+        {
+          "name": "Amphoe Chok Chai",
+          "lat": 14.76341,
+          "lng": 102.20338
+        },
+        {
+          "name": "Amphoe Dan Khun Thot",
+          "lat": 15.21835,
+          "lng": 101.6979
+        },
+        {
+          "name": "Amphoe Kham Sakae Saeng",
+          "lat": 15.38042,
+          "lng": 102.16636
+        },
+        {
+          "name": "Amphoe Khon Buri",
+          "lat": 14.37634,
+          "lng": 102.21746
+        },
+        {
+          "name": "Amphoe Non Sung",
+          "lat": 15.20892,
+          "lng": 102.284
+        },
+        {
+          "name": "Amphoe Non Thai",
+          "lat": 15.18106,
+          "lng": 102.03001
+        },
+        {
+          "name": "Amphoe Pak Chong",
+          "lat": 14.61923,
+          "lng": 101.44814
+        },
+        {
+          "name": "Amphoe Pak Thong Chai",
+          "lat": 14.66228,
+          "lng": 101.94227
+        },
+        {
+          "name": "Amphoe Phimai",
+          "lat": 15.24622,
+          "lng": 102.54217
+        },
+        {
+          "name": "Amphoe Soeng Sang",
+          "lat": 14.34456,
+          "lng": 102.49297
+        },
+        {
+          "name": "Amphoe Sung Noen",
+          "lat": 14.85623,
+          "lng": 101.83049
+        },
+        {
+          "name": "Ban Huai Thalaeng",
+          "lat": 14.98333,
+          "lng": 102.65
+        },
+        {
+          "name": "Ban Lueam",
+          "lat": 15.57431,
+          "lng": 102.14204
+        },
+        {
+          "name": "Bua Lai",
+          "lat": 15.66917,
+          "lng": 102.51761
+        },
+        {
+          "name": "Bua Yai",
+          "lat": 15.58552,
+          "lng": 102.42587
+        },
+        {
+          "name": "Chakkarat",
+          "lat": 14.95686,
+          "lng": 102.43718
+        },
+        {
+          "name": "Chaloem Phra Kiat",
+          "lat": 14.9754,
+          "lng": 102.29372
+        },
+        {
+          "name": "Chok Chai",
+          "lat": 14.72844,
+          "lng": 102.16524
+        },
+        {
+          "name": "Chum Phuang",
+          "lat": 15.2599,
+          "lng": 102.75756
+        },
+        {
+          "name": "Dan Khun Thot",
+          "lat": 15.2085,
+          "lng": 101.77138
+        },
+        {
+          "name": "Huai Thalaeng",
+          "lat": 15.04244,
+          "lng": 102.63535
+        },
+        {
+          "name": "Kaeng Sanam Nang",
+          "lat": 15.69561,
+          "lng": 102.25366
+        },
+        {
+          "name": "Kham Sakae Saeng",
+          "lat": 15.33221,
+          "lng": 102.17278
+        },
+        {
+          "name": "Kham Thale So",
+          "lat": 15.03639,
+          "lng": 101.9317
+        },
+        {
+          "name": "Khon Buri",
+          "lat": 14.52541,
+          "lng": 102.24591
+        },
+        {
+          "name": "Khong",
+          "lat": 15.43311,
+          "lng": 102.29617
+        },
+        {
+          "name": "Lam Thamen Chai",
+          "lat": 15.28424,
+          "lng": 102.90723
+        },
+        {
+          "name": "Mueang Nakhon Ratchasima",
+          "lat": 14.95678,
+          "lng": 102.08933
+        },
+        {
+          "name": "Mueang Yang",
+          "lat": 15.43842,
+          "lng": 102.89331
+        },
+        {
+          "name": "Non Daeng",
+          "lat": 15.44479,
+          "lng": 102.54565
+        },
+        {
+          "name": "Non Sung",
+          "lat": 15.18014,
+          "lng": 102.25695
+        },
+        {
+          "name": "Non Thai",
+          "lat": 15.1958,
+          "lng": 102.07145
+        },
+        {
+          "name": "Nong Bun Mak",
+          "lat": 14.71295,
+          "lng": 102.37447
+        },
+        {
+          "name": "Pak Chong",
+          "lat": 14.70802,
+          "lng": 101.41614
+        },
+        {
+          "name": "Pak Thong Chai",
+          "lat": 14.7226,
+          "lng": 102.02512
+        },
+        {
+          "name": "Phimai",
+          "lat": 15.22324,
+          "lng": 102.49473
+        },
+        {
+          "name": "Phra Thong Kham",
+          "lat": 15.35114,
+          "lng": 101.99355
+        },
+        {
+          "name": "Prathai",
+          "lat": 15.55911,
+          "lng": 102.69786
+        },
+        {
+          "name": "Sida",
+          "lat": 15.56406,
+          "lng": 102.55823
+        },
+        {
+          "name": "Sikhio",
+          "lat": 14.94275,
+          "lng": 101.60672
+        },
+        {
+          "name": "Sikhiu",
+          "lat": 14.89944,
+          "lng": 101.70833
+        },
+        {
+          "name": "Soeng Sang",
+          "lat": 14.42642,
+          "lng": 102.46058
+        },
+        {
+          "name": "Sung Noen",
+          "lat": 14.8992,
+          "lng": 101.82075
+        },
+        {
+          "name": "Thepharak",
+          "lat": 15.28639,
+          "lng": 101.50373
+        },
+        {
+          "name": "Wang Nam Khiao",
+          "lat": 14.44786,
+          "lng": 101.85533
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Sawan",
+      "lat": 15.705783,
+      "lng": 100.1330046,
+      "districts": [
+        {
+          "name": "Amphoe Kao Liao",
+          "lat": 15.88778,
+          "lng": 100.09647
+        },
+        {
+          "name": "Amphoe Lat Yao",
+          "lat": 15.77526,
+          "lng": 99.80046
+        },
+        {
+          "name": "Amphoe Nong Bua",
+          "lat": 15.86591,
+          "lng": 100.6286
+        },
+        {
+          "name": "Amphoe Phai Sali",
+          "lat": 15.58723,
+          "lng": 100.6853
+        },
+        {
+          "name": "Amphoe Phayuha Khiri",
+          "lat": 15.50783,
+          "lng": 100.21226
+        },
+        {
+          "name": "Amphoe Takhli",
+          "lat": 15.25928,
+          "lng": 100.38058
+        },
+        {
+          "name": "Banphot Phisai",
+          "lat": 15.99714,
+          "lng": 99.99409
+        },
+        {
+          "name": "Chum Ta Bong",
+          "lat": 15.68311,
+          "lng": 99.56908
+        },
+        {
+          "name": "Chumsaeng",
+          "lat": 15.84745,
+          "lng": 100.28971
+        },
+        {
+          "name": "Kao Liao",
+          "lat": 15.85053,
+          "lng": 100.07914
+        },
+        {
+          "name": "Krok Phra",
+          "lat": 15.58638,
+          "lng": 100.01815
+        },
+        {
+          "name": "Lat Yao",
+          "lat": 15.751,
+          "lng": 99.78925
+        },
+        {
+          "name": "Mae Poen",
+          "lat": 15.70656,
+          "lng": 99.34827
+        },
+        {
+          "name": "Mae Wong",
+          "lat": 15.83538,
+          "lng": 99.40785
+        },
+        {
+          "name": "Mueang Nakhon Sawan",
+          "lat": 15.71991,
+          "lng": 100.10067
+        },
+        {
+          "name": "Nakhon Sawan",
+          "lat": 15.70472,
+          "lng": 100.13717
+        },
+        {
+          "name": "Nong Bua",
+          "lat": 15.86458,
+          "lng": 100.58581
+        },
+        {
+          "name": "Phai Sali",
+          "lat": 15.60003,
+          "lng": 100.64937
+        },
+        {
+          "name": "Phayuha Khiri",
+          "lat": 15.45525,
+          "lng": 100.13533
+        },
+        {
+          "name": "Tak Fa",
+          "lat": 15.38249,
+          "lng": 100.46693
+        },
+        {
+          "name": "Takhli",
+          "lat": 15.26336,
+          "lng": 100.34378
+        },
+        {
+          "name": "Tha Tako",
+          "lat": 15.65434,
+          "lng": 100.45939
+        }
+      ]
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "lat": 8.4324831,
+      "lng": 99.9599033,
+      "districts": [
+        {
+          "name": "Nakhon Si Thammarat",
+          "lat": 8.43333,
+          "lng": 99.96667
+        },
+        {
+          "name": "Amphoe Chawang",
+          "lat": 8.46322,
+          "lng": 99.51107
+        },
+        {
+          "name": "Amphoe Pak Phanang",
+          "lat": 8.30711,
+          "lng": 100.17361
+        },
+        {
+          "name": "Amphoe Ron Phibun",
+          "lat": 8.17997,
+          "lng": 99.89248
+        },
+        {
+          "name": "Amphoe Tham Phannara",
+          "lat": 8.45822,
+          "lng": 99.37718
+        },
+        {
+          "name": "Amphoe Thung Song",
+          "lat": 8.11757,
+          "lng": 99.66907
+        },
+        {
+          "name": "Bang Khan",
+          "lat": 8.01208,
+          "lng": 99.48449
+        },
+        {
+          "name": "Cha-uat",
+          "lat": 7.95645,
+          "lng": 99.98929
+        },
+        {
+          "name": "Chaloem Phra Kiat",
+          "lat": 8.18333,
+          "lng": 100.05
+        },
+        {
+          "name": "Chang Klang",
+          "lat": 8.35697,
+          "lng": 99.64592
+        },
+        {
+          "name": "Chawang",
+          "lat": 8.42614,
+          "lng": 99.50472
+        },
+        {
+          "name": "Chian Yai",
+          "lat": 8.11719,
+          "lng": 100.15819
+        },
+        {
+          "name": "Chulabhorn",
+          "lat": 8.07591,
+          "lng": 99.85365
+        },
+        {
+          "name": "Hua Sai",
+          "lat": 8.01181,
+          "lng": 100.24614
+        },
+        {
+          "name": "Khanom",
+          "lat": 9.18317,
+          "lng": 99.80192
+        },
+        {
+          "name": "Lan Saka",
+          "lat": 8.37799,
+          "lng": 99.78328
+        },
+        {
+          "name": "Mueang Nakhon Si Thammarat",
+          "lat": 8.44013,
+          "lng": 99.98537
+        },
+        {
+          "name": "Na Bon",
+          "lat": 8.26976,
+          "lng": 99.55694
+        },
+        {
+          "name": "Nopphitam",
+          "lat": 8.75166,
+          "lng": 99.67087
+        },
+        {
+          "name": "Pak Phanang",
+          "lat": 8.35109,
+          "lng": 100.20195
+        },
+        {
+          "name": "Phipun",
+          "lat": 8.60289,
+          "lng": 99.59528
+        },
+        {
+          "name": "Phra Phrom",
+          "lat": 8.32652,
+          "lng": 99.9324
+        },
+        {
+          "name": "Phrom Khiri",
+          "lat": 8.54242,
+          "lng": 99.79229
+        },
+        {
+          "name": "Ron Phibun",
+          "lat": 8.17911,
+          "lng": 99.85425
+        },
+        {
+          "name": "Sichon",
+          "lat": 8.94981,
+          "lng": 99.81322
+        },
+        {
+          "name": "Tha Sala",
+          "lat": 8.69367,
+          "lng": 99.88539
+        },
+        {
+          "name": "Tham Phannara",
+          "lat": 8.42045,
+          "lng": 99.39517
+        },
+        {
+          "name": "Thung Song",
+          "lat": 8.16453,
+          "lng": 99.68039
+        },
+        {
+          "name": "Thung Yai",
+          "lat": 8.28708,
+          "lng": 99.37196
+        }
+      ]
+    },
+    {
+      "name": "Nan",
+      "lat": 18.7778874,
+      "lng": 100.773732,
+      "districts": [
+        {
+          "name": "Amphoe Chiang Klang",
+          "lat": 19.30637,
+          "lng": 100.87878
+        },
+        {
+          "name": "Amphoe Wiang Sa",
+          "lat": 18.55088,
+          "lng": 100.72754
+        },
+        {
+          "name": "Ban Luang",
+          "lat": 18.88375,
+          "lng": 100.46014
+        },
+        {
+          "name": "Bo Kluea",
+          "lat": 19.08994,
+          "lng": 101.18952
+        },
+        {
+          "name": "Chaloem Phra Kiat",
+          "lat": 19.50618,
+          "lng": 101.14249
+        },
+        {
+          "name": "Chiang Klang",
+          "lat": 19.29378,
+          "lng": 100.86169
+        },
+        {
+          "name": "Mae Charim",
+          "lat": 18.71336,
+          "lng": 101.11011
+        },
+        {
+          "name": "Mueang Nan",
+          "lat": 18.89008,
+          "lng": 100.67472
+        },
+        {
+          "name": "Na Muen",
+          "lat": 18.12524,
+          "lng": 100.6027
+        },
+        {
+          "name": "Na Noi",
+          "lat": 18.30269,
+          "lng": 100.72393
+        },
+        {
+          "name": "Nan",
+          "lat": 18.78378,
+          "lng": 100.77899
+        },
+        {
+          "name": "Phu Phiang",
+          "lat": 18.7803,
+          "lng": 100.87497
+        },
+        {
+          "name": "Pua",
+          "lat": 19.16306,
+          "lng": 101.02796
+        },
+        {
+          "name": "Santi Suk",
+          "lat": 18.9119,
+          "lng": 101.00016
+        },
+        {
+          "name": "Song Khwae",
+          "lat": 19.40911,
+          "lng": 100.66174
+        },
+        {
+          "name": "Tha Wang Pha",
+          "lat": 19.13148,
+          "lng": 100.76117
+        },
+        {
+          "name": "Thung Chang",
+          "lat": 19.46342,
+          "lng": 100.91937
+        }
+      ]
+    },
+    {
+      "name": "Narathiwat",
+      "lat": 6.4350352,
+      "lng": 101.8228923,
+      "districts": [
+        {
+          "name": "Amphoe Ra-ngae",
+          "lat": 6.25504,
+          "lng": 101.70496
+        },
+        {
+          "name": "Amphoe Su-ngai Kolok",
+          "lat": 6.07674,
+          "lng": 101.99818
+        },
+        {
+          "name": "Amphoe Tak Bai",
+          "lat": 6.23748,
+          "lng": 102.00238
+        },
+        {
+          "name": "Ba Cho",
+          "lat": 6.54591,
+          "lng": 101.64923
+        },
+        {
+          "name": "Ban Su-ngai Pa Di",
+          "lat": 6.07239,
+          "lng": 101.87172
+        },
+        {
+          "name": "Chanae",
+          "lat": 6.04591,
+          "lng": 101.61765
+        },
+        {
+          "name": "Cho-airong",
+          "lat": 6.23011,
+          "lng": 101.84721
+        },
+        {
+          "name": "Mueang Narathiwat",
+          "lat": 6.39391,
+          "lng": 101.81316
+        },
+        {
+          "name": "Narathiwat",
+          "lat": 6.42639,
+          "lng": 101.82308
+        },
+        {
+          "name": "Ra-ngae",
+          "lat": 6.29678,
+          "lng": 101.72844
+        },
+        {
+          "name": "Rueso",
+          "lat": 6.3745,
+          "lng": 101.51491
+        },
+        {
+          "name": "Si Sakhon",
+          "lat": 6.1936,
+          "lng": 101.51257
+        },
+        {
+          "name": "Su-ngai Kolok",
+          "lat": 6.02977,
+          "lng": 101.96586
+        },
+        {
+          "name": "Su-ngai Padi",
+          "lat": 6.10425,
+          "lng": 101.89333
+        },
+        {
+          "name": "Sukhirin",
+          "lat": 5.91513,
+          "lng": 101.73811
+        },
+        {
+          "name": "Tak Bai",
+          "lat": 6.25947,
+          "lng": 102.05461
+        },
+        {
+          "name": "Waeng",
+          "lat": 5.90042,
+          "lng": 101.86195
+        },
+        {
+          "name": "Yi-ngo",
+          "lat": 6.41655,
+          "lng": 101.70035
+        }
+      ]
+    },
+    {
+      "name": "Nong Bua Lam Phu",
+      "lat": 17.2022252,
+      "lng": 102.440702,
+      "districts": [
+        {
+          "name": "Amphoe Na Klang",
+          "lat": 17.32466,
+          "lng": 102.21456
+        },
+        {
+          "name": "Amphoe Non Sang",
+          "lat": 16.9022,
+          "lng": 102.53084
+        },
+        {
+          "name": "Amphoe Si Bun Rueang",
+          "lat": 16.99775,
+          "lng": 102.22528
+        },
+        {
+          "name": "Mueang Nong Bua Lamphu",
+          "lat": 17.15818,
+          "lng": 102.3986
+        },
+        {
+          "name": "Na Klang",
+          "lat": 17.3072,
+          "lng": 102.18886
+        },
+        {
+          "name": "Na Wang",
+          "lat": 17.3429,
+          "lng": 102.07157
+        },
+        {
+          "name": "Non Sang",
+          "lat": 16.8687,
+          "lng": 102.56642
+        },
+        {
+          "name": "Nong Bua Lamphu",
+          "lat": 17.20406,
+          "lng": 102.44068
+        },
+        {
+          "name": "Si Bun Rueang",
+          "lat": 16.96705,
+          "lng": 102.27607
+        },
+        {
+          "name": "Suwannakhuha",
+          "lat": 17.54605,
+          "lng": 102.24852
+        }
+      ]
+    },
+    {
+      "name": "Nong Khai",
+      "lat": 17.8782803,
+      "lng": 102.7412638,
+      "districts": [
+        {
+          "name": "Amphoe Sangkhom",
+          "lat": 18.05392,
+          "lng": 102.22677
+        },
+        {
+          "name": "Amphoe Si Chiang Mai",
+          "lat": 17.93574,
+          "lng": 102.50306
+        },
+        {
+          "name": "Amphoe Tha Bo",
+          "lat": 17.79499,
+          "lng": 102.56608
+        },
+        {
+          "name": "Fao Rai",
+          "lat": 18.00275,
+          "lng": 103.2964
+        },
+        {
+          "name": "Mueang Nong Khai",
+          "lat": 17.84661,
+          "lng": 102.78911
+        },
+        {
+          "name": "Nong Khai",
+          "lat": 17.87847,
+          "lng": 102.742
+        },
+        {
+          "name": "Pho Tak",
+          "lat": 17.88819,
+          "lng": 102.43023
+        },
+        {
+          "name": "Phon Charoen",
+          "lat": 18.03333,
+          "lng": 103.16667
+        },
+        {
+          "name": "Phonphisai",
+          "lat": 17.95443,
+          "lng": 103.12279
+        },
+        {
+          "name": "Rattanawapi",
+          "lat": 18.19255,
+          "lng": 103.2376
+        },
+        {
+          "name": "Sa Khrai",
+          "lat": 17.65985,
+          "lng": 102.70847
+        },
+        {
+          "name": "Sangkhom",
+          "lat": 18.06389,
+          "lng": 102.27364
+        },
+        {
+          "name": "Si Chiang Mai",
+          "lat": 17.95639,
+          "lng": 102.58667
+        },
+        {
+          "name": "Tha Bo",
+          "lat": 17.85003,
+          "lng": 102.58139
+        }
+      ]
+    },
+    {
+      "name": "Nonthaburi",
+      "lat": 13.8428962,
+      "lng": 100.4937886,
+      "districts": [
+        {
+          "name": "Amphoe Mueang Nonthaburi",
+          "lat": 13.85581,
+          "lng": 100.49264
+        },
+        {
+          "name": "Amphoe Pak Kret",
+          "lat": 13.91626,
+          "lng": 100.50397
+        },
+        {
+          "name": "Mueang Nonthaburi",
+          "lat": 13.86075,
+          "lng": 100.51477
+        },
+        {
+          "name": "Pak Kret",
+          "lat": 13.91301,
+          "lng": 100.49883
+        },
+        {
+          "name": "Amphoe Bang Bua Thong",
+          "lat": 13.92641,
+          "lng": 100.3936
+        },
+        {
+          "name": "Amphoe Bang Kruai",
+          "lat": 13.80249,
+          "lng": 100.41525
+        },
+        {
+          "name": "Amphoe Bang Yai",
+          "lat": 13.85385,
+          "lng": 100.37318
+        },
+        {
+          "name": "Bang Bua Thong",
+          "lat": 13.91783,
+          "lng": 100.42403
+        },
+        {
+          "name": "Bang Kruai",
+          "lat": 13.805,
+          "lng": 100.47283
+        },
+        {
+          "name": "Bang Yai",
+          "lat": 13.84341,
+          "lng": 100.36251
+        },
+        {
+          "name": "Sai Noi",
+          "lat": 14.00627,
+          "lng": 100.31072
+        }
+      ]
+    },
+    {
+      "name": "Pathum Thani",
+      "lat": 14.0208391,
+      "lng": 100.5250276,
+      "districts": [
+        {
+          "name": "Khlong Luang",
+          "lat": 14.06467,
+          "lng": 100.64578
+        },
+        {
+          "name": "Amphoe Khlong Luang",
+          "lat": 14.09323,
+          "lng": 100.68106
+        },
+        {
+          "name": "Ban Lam Luk Ka",
+          "lat": 13.97738,
+          "lng": 100.77776
+        },
+        {
+          "name": "Lam Luk Ka",
+          "lat": 13.97744,
+          "lng": 100.79244
+        },
+        {
+          "name": "Lat Lum Kaeo",
+          "lat": 14.04459,
+          "lng": 100.40948
+        },
+        {
+          "name": "Mueang Pathum Thani",
+          "lat": 13.99105,
+          "lng": 100.53554
+        },
+        {
+          "name": "Nong Suea",
+          "lat": 14.1603,
+          "lng": 100.83929
+        },
+        {
+          "name": "Pathum Thani",
+          "lat": 14.01346,
+          "lng": 100.53049
+        },
+        {
+          "name": "Thanyaburi",
+          "lat": 14.02852,
+          "lng": 100.76291
+        }
+      ]
+    },
+    {
+      "name": "Pattani",
+      "lat": 6.6997443,
+      "lng": 101.3989917,
+      "districts": [
+        {
+          "name": "Amphoe Nong Chik",
+          "lat": 6.80011,
+          "lng": 101.17057
+        },
+        {
+          "name": "Amphoe Sai Buri",
+          "lat": 6.7,
+          "lng": 101.58333
+        },
+        {
+          "name": "Amphoe Yaring",
+          "lat": 6.83507,
+          "lng": 101.39073
+        },
+        {
+          "name": "Kapho",
+          "lat": 6.60264,
+          "lng": 101.54327
+        },
+        {
+          "name": "Khok Pho",
+          "lat": 6.70858,
+          "lng": 101.11693
+        },
+        {
+          "name": "Mae Lan",
+          "lat": 6.66833,
+          "lng": 101.23149
+        },
+        {
+          "name": "Mai Kaen",
+          "lat": 6.61603,
+          "lng": 101.67864
+        },
+        {
+          "name": "Mayo",
+          "lat": 6.70764,
+          "lng": 101.40359
+        },
+        {
+          "name": "Mueang Pattani",
+          "lat": 6.85581,
+          "lng": 101.26761
+        },
+        {
+          "name": "Nong Chik",
+          "lat": 6.84356,
+          "lng": 101.17803
+        },
+        {
+          "name": "Panare",
+          "lat": 6.81211,
+          "lng": 101.51247
+        },
+        {
+          "name": "Pattani",
+          "lat": 6.86814,
+          "lng": 101.25009
+        },
+        {
+          "name": "Sai Buri",
+          "lat": 6.70131,
+          "lng": 101.61675
+        },
+        {
+          "name": "Thung Yang Daeng",
+          "lat": 6.6416,
+          "lng": 101.44652
+        },
+        {
+          "name": "Yarang",
+          "lat": 6.6924,
+          "lng": 101.31408
+        },
+        {
+          "name": "Yaring",
+          "lat": 6.86617,
+          "lng": 101.36894
+        }
+      ]
+    },
+    {
+      "name": "Pattaya",
+      "lat": 12.9366924,
+      "lng": 100.8865002,
+      "districts": []
+    },
+    {
+      "name": "Phangnga",
+      "lat": 8.5010944,
+      "lng": 98.5068054,
+      "districts": [
+        {
+          "name": "Ban Ao Nang",
+          "lat": 8.0458,
+          "lng": 98.81035
+        },
+        {
+          "name": "Ban Khao Lak",
+          "lat": 8.61501,
+          "lng": 98.23994
+        },
+        {
+          "name": "Ban Phru Nai",
+          "lat": 7.95458,
+          "lng": 98.58989
+        },
+        {
+          "name": "Kapong",
+          "lat": 8.74139,
+          "lng": 98.47542
+        },
+        {
+          "name": "Khura Buri",
+          "lat": 9.18972,
+          "lng": 98.40806
+        },
+        {
+          "name": "Ko Yao",
+          "lat": 8.06549,
+          "lng": 98.57851
+        },
+        {
+          "name": "Mueang Phangnga",
+          "lat": 8.4935,
+          "lng": 98.50775
+        },
+        {
+          "name": "Phang Nga",
+          "lat": 8.45091,
+          "lng": 98.52985
+        },
+        {
+          "name": "Takua Pa",
+          "lat": 8.86883,
+          "lng": 98.33892
+        },
+        {
+          "name": "Takua Thung",
+          "lat": 8.28433,
+          "lng": 98.3895
+        },
+        {
+          "name": "Thai Mueang",
+          "lat": 8.48995,
+          "lng": 98.31292
+        },
+        {
+          "name": "Thap Put",
+          "lat": 8.53768,
+          "lng": 98.63208
+        }
+      ]
+    },
+    {
+      "name": "Phatthalung",
+      "lat": 7.6166823,
+      "lng": 100.0740231,
+      "districts": [
+        {
+          "name": "Bang Kaeo",
+          "lat": 7.41775,
+          "lng": 100.17164
+        },
+        {
+          "name": "Khao Chaison",
+          "lat": 7.46305,
+          "lng": 100.09055
+        },
+        {
+          "name": "Khuan Khanun",
+          "lat": 7.76438,
+          "lng": 100.04349
+        },
+        {
+          "name": "Kong Ra",
+          "lat": 7.41674,
+          "lng": 99.95719
+        },
+        {
+          "name": "Mueang Phatthalung",
+          "lat": 7.6025,
+          "lng": 100.07425
+        },
+        {
+          "name": "Pa Bon",
+          "lat": 7.21994,
+          "lng": 100.13078
+        },
+        {
+          "name": "Pa Phayom",
+          "lat": 7.83154,
+          "lng": 99.87448
+        },
+        {
+          "name": "Pak Phayun",
+          "lat": 7.29622,
+          "lng": 100.29542
+        },
+        {
+          "name": "Phatthalung",
+          "lat": 7.61786,
+          "lng": 100.07792
+        },
+        {
+          "name": "Si Banphot",
+          "lat": 7.69259,
+          "lng": 99.87322
+        },
+        {
+          "name": "Srinagarindra",
+          "lat": 7.57574,
+          "lng": 99.91053
+        },
+        {
+          "name": "Tamot",
+          "lat": 7.28783,
+          "lng": 100.04358
+        }
+      ]
+    },
+    {
+      "name": "Phayao",
+      "lat": 19.341673,
+      "lng": 100.1854539,
+      "districts": [
+        {
+          "name": "Amphoe Chiang Kham",
+          "lat": 19.47061,
+          "lng": 100.33868
+        },
+        {
+          "name": "Amphoe Dok Kham Tai",
+          "lat": 19.10813,
+          "lng": 100.05657
+        },
+        {
+          "name": "Amphoe Mae Chai",
+          "lat": 19.37925,
+          "lng": 99.80141
+        },
+        {
+          "name": "Amphoe Pong",
+          "lat": 19.185,
+          "lng": 100.3878
+        },
+        {
+          "name": "Chiang Kham",
+          "lat": 19.52331,
+          "lng": 100.3
+        },
+        {
+          "name": "Chiang Muan",
+          "lat": 18.90385,
+          "lng": 100.31792
+        },
+        {
+          "name": "Chun",
+          "lat": 19.36803,
+          "lng": 100.14492
+        },
+        {
+          "name": "Dok Kham Tai",
+          "lat": 19.16242,
+          "lng": 99.99342
+        },
+        {
+          "name": "Mae Chai",
+          "lat": 19.34597,
+          "lng": 99.814
+        },
+        {
+          "name": "Mueang Phayao",
+          "lat": 19.14857,
+          "lng": 99.87325
+        },
+        {
+          "name": "Phayao",
+          "lat": 19.19203,
+          "lng": 99.87883
+        },
+        {
+          "name": "Phu Kam Yao",
+          "lat": 19.3117,
+          "lng": 99.96614
+        },
+        {
+          "name": "Phu Sang",
+          "lat": 19.62372,
+          "lng": 100.37246
+        },
+        {
+          "name": "Pong",
+          "lat": 19.14931,
+          "lng": 100.27522
+        }
+      ]
+    },
+    {
+      "name": "Phetchabun",
+      "lat": 16.418027,
+      "lng": 101.1556825,
+      "districts": [
+        {
+          "name": "Amphoe Chon Daen",
+          "lat": 16.10735,
+          "lng": 100.83572
+        },
+        {
+          "name": "Amphoe Lom Sak",
+          "lat": 16.72837,
+          "lng": 101.31139
+        },
+        {
+          "name": "Amphoe Nong Phai",
+          "lat": 16.01162,
+          "lng": 101.15042
+        },
+        {
+          "name": "Amphoe Wichian Buri",
+          "lat": 15.65,
+          "lng": 101.1
+        },
+        {
+          "name": "Bueng Sam Phan",
+          "lat": 15.8165,
+          "lng": 101.00399
+        },
+        {
+          "name": "Chon Daen",
+          "lat": 16.18953,
+          "lng": 100.85958
+        },
+        {
+          "name": "Khao Kho",
+          "lat": 16.66313,
+          "lng": 100.9945
+        },
+        {
+          "name": "Lom Kao",
+          "lat": 16.97209,
+          "lng": 101.26185
+        },
+        {
+          "name": "Lom Sak",
+          "lat": 16.77983,
+          "lng": 101.24225
+        },
+        {
+          "name": "Mueang Phetchabun",
+          "lat": 16.38215,
+          "lng": 101.17652
+        },
+        {
+          "name": "Nam Nao",
+          "lat": 16.84489,
+          "lng": 101.6008
+        },
+        {
+          "name": "Nong Phai",
+          "lat": 15.99025,
+          "lng": 101.06183
+        },
+        {
+          "name": "Phetchabun",
+          "lat": 16.41904,
+          "lng": 101.16056
+        },
+        {
+          "name": "Si Thep",
+          "lat": 15.44253,
+          "lng": 101.14767
+        },
+        {
+          "name": "Wang Pong",
+          "lat": 16.35049,
+          "lng": 100.80772
+        },
+        {
+          "name": "Wichian Buri",
+          "lat": 15.65778,
+          "lng": 101.10603
+        }
+      ]
+    },
+    {
+      "name": "Phetchaburi",
+      "lat": 13.0692869,
+      "lng": 99.6044376,
+      "districts": [
+        {
+          "name": "Amphoe Cha-am",
+          "lat": 12.75374,
+          "lng": 99.89828
+        },
+        {
+          "name": "Amphoe Khao Yoi",
+          "lat": 13.2424,
+          "lng": 99.80753
+        },
+        {
+          "name": "Amphoe Tha Yang",
+          "lat": 12.81743,
+          "lng": 99.78738
+        },
+        {
+          "name": "Ban Laem",
+          "lat": 13.16968,
+          "lng": 99.98771
+        },
+        {
+          "name": "Ban Lat",
+          "lat": 13.04533,
+          "lng": 99.83788
+        },
+        {
+          "name": "Cha-am",
+          "lat": 12.8,
+          "lng": 99.96667
+        },
+        {
+          "name": "Kaeng Krachan",
+          "lat": 12.85919,
+          "lng": 99.46339
+        },
+        {
+          "name": "Khao Yoi",
+          "lat": 13.24025,
+          "lng": 99.82428
+        },
+        {
+          "name": "Mueang Phetchaburi",
+          "lat": 13.08173,
+          "lng": 99.96721
+        },
+        {
+          "name": "Nong Ya Plong",
+          "lat": 13.1259,
+          "lng": 99.4688
+        },
+        {
+          "name": "Phetchaburi",
+          "lat": 13.11189,
+          "lng": 99.94467
+        },
+        {
+          "name": "Tha Yang",
+          "lat": 12.95772,
+          "lng": 99.90555
+        }
+      ]
+    },
+    {
+      "name": "Phichit",
+      "lat": 16.4428085,
+      "lng": 100.3438228,
+      "districts": [
+        {
+          "name": "Amphoe Bang Mun Nak",
+          "lat": 16.02656,
+          "lng": 100.43194
+        },
+        {
+          "name": "Amphoe Bueng Na Rang",
+          "lat": 16.18642,
+          "lng": 100.14293
+        },
+        {
+          "name": "Amphoe Taphan Hin",
+          "lat": 16.21103,
+          "lng": 100.41739
+        },
+        {
+          "name": "Amphoe Thap Khlo",
+          "lat": 16.19167,
+          "lng": 100.60082
+        },
+        {
+          "name": "Amphoe Wang Sai Phun",
+          "lat": 16.37922,
+          "lng": 100.53668
+        },
+        {
+          "name": "Bang Mun Nak",
+          "lat": 16.02781,
+          "lng": 100.37917
+        },
+        {
+          "name": "Bueng Na Rang",
+          "lat": 16.1712,
+          "lng": 100.12531
+        },
+        {
+          "name": "Dong Charoen",
+          "lat": 15.99848,
+          "lng": 100.59572
+        },
+        {
+          "name": "Mueang Phichit",
+          "lat": 16.40986,
+          "lng": 100.34578
+        },
+        {
+          "name": "Phichit",
+          "lat": 16.44184,
+          "lng": 100.34879
+        },
+        {
+          "name": "Pho Prathap Chang",
+          "lat": 16.31294,
+          "lng": 100.19897
+        },
+        {
+          "name": "Pho Thale",
+          "lat": 16.05885,
+          "lng": 100.24579
+        },
+        {
+          "name": "Sak Lek",
+          "lat": 16.50717,
+          "lng": 100.5235
+        },
+        {
+          "name": "Taphan Hin",
+          "lat": 16.22095,
+          "lng": 100.41978
+        },
+        {
+          "name": "Thap Khlo",
+          "lat": 16.16003,
+          "lng": 100.59656
+        },
+        {
+          "name": "Wachira Barami",
+          "lat": 16.51667,
+          "lng": 100.11667
+        },
+        {
+          "name": "Wang Sai Phun",
+          "lat": 16.3885,
+          "lng": 100.53801
+        }
+      ]
+    },
+    {
+      "name": "Phitsanulok",
+      "lat": 16.8211238,
+      "lng": 100.2658516,
+      "districts": [
+        {
+          "name": "Amphoe Bang Krathum",
+          "lat": 16.59323,
+          "lng": 100.35042
+        },
+        {
+          "name": "Amphoe Bang Rakam",
+          "lat": 16.71844,
+          "lng": 100.04217
+        },
+        {
+          "name": "Amphoe Chat Trakan",
+          "lat": 17.39357,
+          "lng": 100.6846
+        },
+        {
+          "name": "Amphoe Nakhon Thai",
+          "lat": 17.09426,
+          "lng": 100.86437
+        },
+        {
+          "name": "Bang Krathum",
+          "lat": 16.57831,
+          "lng": 100.30034
+        },
+        {
+          "name": "Bang Rakam",
+          "lat": 16.75847,
+          "lng": 100.11742
+        },
+        {
+          "name": "Chat Trakan",
+          "lat": 17.27606,
+          "lng": 100.60022
+        },
+        {
+          "name": "Mueang Phitsanulok",
+          "lat": 16.8404,
+          "lng": 100.27298
+        },
+        {
+          "name": "Nakhon Thai",
+          "lat": 17.10056,
+          "lng": 100.83739
+        },
+        {
+          "name": "Noen Maprang",
+          "lat": 16.564,
+          "lng": 100.70995
+        },
+        {
+          "name": "Phitsanulok",
+          "lat": 16.82481,
+          "lng": 100.25858
+        },
+        {
+          "name": "Phrom Phiram",
+          "lat": 17.06894,
+          "lng": 100.1535
+        },
+        {
+          "name": "Wang Thong",
+          "lat": 16.85,
+          "lng": 100.58333
+        },
+        {
+          "name": "Wat Bot",
+          "lat": 17.16384,
+          "lng": 100.36298
+        }
+      ]
+    },
+    {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "lat": 14.3535427,
+      "lng": 100.5645684,
+      "districts": [
+        {
+          "name": "Amphoe Bang Ban",
+          "lat": 14.38333,
+          "lng": 100.46667
+        },
+        {
+          "name": "Amphoe Bang Pa-in",
+          "lat": 14.23482,
+          "lng": 100.5941
+        },
+        {
+          "name": "Amphoe Nakhon Luang",
+          "lat": 14.46703,
+          "lng": 100.62572
+        },
+        {
+          "name": "Amphoe Phak Hai",
+          "lat": 14.45073,
+          "lng": 100.33949
+        },
+        {
+          "name": "Amphoe Phra Nakhon Si Ayutthaya",
+          "lat": 14.35172,
+          "lng": 100.56719
+        },
+        {
+          "name": "Amphoe Tha Ruea",
+          "lat": 14.53587,
+          "lng": 100.71268
+        },
+        {
+          "name": "Amphoe Wang Noi",
+          "lat": 14.24348,
+          "lng": 100.725
+        },
+        {
+          "name": "Ban Bang Kadi Pathum Thani",
+          "lat": 13.99904,
+          "lng": 100.54962
+        },
+        {
+          "name": "Ban Phraek",
+          "lat": 14.64381,
+          "lng": 100.54883
+        },
+        {
+          "name": "Bang Ban",
+          "lat": 14.37395,
+          "lng": 100.48528
+        },
+        {
+          "name": "Bang Pa-in",
+          "lat": 14.22783,
+          "lng": 100.57589
+        },
+        {
+          "name": "Bang Pahan",
+          "lat": 14.47174,
+          "lng": 100.54731
+        },
+        {
+          "name": "Bang Sai",
+          "lat": 14.21043,
+          "lng": 100.49422
+        },
+        {
+          "name": "Lat Bua Luang",
+          "lat": 14.1681,
+          "lng": 100.34892
+        },
+        {
+          "name": "Maha Rat",
+          "lat": 14.57064,
+          "lng": 100.54089
+        },
+        {
+          "name": "Nakhon Luang",
+          "lat": 14.46281,
+          "lng": 100.60832
+        },
+        {
+          "name": "Phachi",
+          "lat": 14.43795,
+          "lng": 100.7278
+        },
+        {
+          "name": "Phak Hai",
+          "lat": 14.45736,
+          "lng": 100.36989
+        },
+        {
+          "name": "Phra Nakhon Si Ayutthaya",
+          "lat": 14.35167,
+          "lng": 100.57739
+        },
+        {
+          "name": "Sena",
+          "lat": 14.29605,
+          "lng": 100.37486
+        },
+        {
+          "name": "Tha Ruea",
+          "lat": 14.56739,
+          "lng": 100.72598
+        },
+        {
+          "name": "Uthai",
+          "lat": 14.35321,
+          "lng": 100.69643
+        },
+        {
+          "name": "Wang Noi",
+          "lat": 14.22689,
+          "lng": 100.7155
+        }
+      ]
+    },
+    {
+      "name": "Phrae",
+      "lat": 18.1445774,
+      "lng": 100.1402831,
+      "districts": [
+        {
+          "name": "Amphoe Den Chai",
+          "lat": 17.91667,
+          "lng": 100.03333
+        },
+        {
+          "name": "Amphoe Long",
+          "lat": 18.14262,
+          "lng": 99.90901
+        },
+        {
+          "name": "Amphoe Rong Kwang",
+          "lat": 18.32614,
+          "lng": 100.39418
+        },
+        {
+          "name": "Den Chai",
+          "lat": 17.98372,
+          "lng": 100.05217
+        },
+        {
+          "name": "Long",
+          "lat": 18.07422,
+          "lng": 99.83073
+        },
+        {
+          "name": "Mueang Phrae",
+          "lat": 18.12258,
+          "lng": 100.2562
+        },
+        {
+          "name": "Nong Muang Khai",
+          "lat": 18.28845,
+          "lng": 100.15231
+        },
+        {
+          "name": "Phrae",
+          "lat": 18.14589,
+          "lng": 100.14103
+        },
+        {
+          "name": "Rong Kwang",
+          "lat": 18.33903,
+          "lng": 100.31736
+        },
+        {
+          "name": "Song",
+          "lat": 18.57006,
+          "lng": 100.22911
+        },
+        {
+          "name": "Sung Men",
+          "lat": 18.03542,
+          "lng": 100.12538
+        },
+        {
+          "name": "Wang Chin",
+          "lat": 17.86667,
+          "lng": 99.6499
+        }
+      ]
+    },
+    {
+      "name": "Phuket",
+      "lat": 7.8804479,
+      "lng": 98.3922504,
+      "districts": [
+        {
+          "name": "Amphoe Kathu",
+          "lat": 7.91456,
+          "lng": 98.3333
+        },
+        {
+          "name": "Ban Chalong",
+          "lat": 7.84468,
+          "lng": 98.33897
+        },
+        {
+          "name": "Ban Karon",
+          "lat": 7.84769,
+          "lng": 98.2985
+        },
+        {
+          "name": "Ban Kata",
+          "lat": 7.82125,
+          "lng": 98.30703
+        },
+        {
+          "name": "Ban Ko Kaeo",
+          "lat": 7.93599,
+          "lng": 98.39664
+        },
+        {
+          "name": "Ban Mai Khao",
+          "lat": 8.12713,
+          "lng": 98.30738
+        },
+        {
+          "name": "Ban Ratsada",
+          "lat": 7.90963,
+          "lng": 98.40248
+        },
+        {
+          "name": "Ban Talat Nua",
+          "lat": 7.88489,
+          "lng": 98.38557
+        },
+        {
+          "name": "Ban Talat Yai",
+          "lat": 7.88481,
+          "lng": 98.40008
+        },
+        {
+          "name": "Kathu",
+          "lat": 7.91779,
+          "lng": 98.33322
+        },
+        {
+          "name": "Mueang Phuket",
+          "lat": 7.85609,
+          "lng": 98.37183
+        },
+        {
+          "name": "Nai Harn",
+          "lat": 7.77859,
+          "lng": 98.30661
+        },
+        {
+          "name": "Patong",
+          "lat": 7.89607,
+          "lng": 98.29661
+        },
+        {
+          "name": "Phuket",
+          "lat": 7.89059,
+          "lng": 98.3981
+        },
+        {
+          "name": "Rawai",
+          "lat": 7.77965,
+          "lng": 98.32532
+        },
+        {
+          "name": "Thalang",
+          "lat": 8.03407,
+          "lng": 98.33399
+        },
+        {
+          "name": "Wichit",
+          "lat": 7.8894,
+          "lng": 98.38523
+        }
+      ]
+    },
+    {
+      "name": "Prachin Buri",
+      "lat": 14.1542055,
+      "lng": 101.5547823,
+      "districts": [
+        {
+          "name": "Amphoe Kabin Buri",
+          "lat": 13.9,
+          "lng": 101.8
+        },
+        {
+          "name": "Ban Sang",
+          "lat": 13.95005,
+          "lng": 101.25063
+        },
+        {
+          "name": "Kabin Buri",
+          "lat": 13.95114,
+          "lng": 101.71769
+        },
+        {
+          "name": "Mueang Prachin Buri",
+          "lat": 14.09335,
+          "lng": 101.39776
+        },
+        {
+          "name": "Na Di",
+          "lat": 14.19253,
+          "lng": 101.84557
+        },
+        {
+          "name": "Prachantakham",
+          "lat": 14.22813,
+          "lng": 101.5744
+        },
+        {
+          "name": "Prachin Buri",
+          "lat": 14.04992,
+          "lng": 101.36864
+        },
+        {
+          "name": "Si Maha Phot",
+          "lat": 13.89041,
+          "lng": 101.54181
+        },
+        {
+          "name": "Si Mahosot",
+          "lat": 13.87669,
+          "lng": 101.42499
+        }
+      ]
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "lat": 11.8057688,
+      "lng": 99.7967271,
+      "districts": [
+        {
+          "name": "Hua Hin",
+          "lat": 12.57065,
+          "lng": 99.95876
+        },
+        {
+          "name": "Amphoe Bang Saphan",
+          "lat": 11.29402,
+          "lng": 99.44406
+        },
+        {
+          "name": "Amphoe Hua Hin",
+          "lat": 12.53522,
+          "lng": 99.70366
+        },
+        {
+          "name": "Amphoe Kui Buri",
+          "lat": 12.11311,
+          "lng": 99.75462
+        },
+        {
+          "name": "Amphoe Pran Buri",
+          "lat": 12.3904,
+          "lng": 99.6969
+        },
+        {
+          "name": "Amphoe Sam Roi Yot",
+          "lat": 12.25586,
+          "lng": 99.7401
+        },
+        {
+          "name": "Bang Saphan",
+          "lat": 11.21259,
+          "lng": 99.51167
+        },
+        {
+          "name": "Bang Saphan Noi",
+          "lat": 11.07057,
+          "lng": 99.34105
+        },
+        {
+          "name": "Kui Buri",
+          "lat": 12.08283,
+          "lng": 99.85431
+        },
+        {
+          "name": "Mueang Prachuap Khiri Khan",
+          "lat": 11.87144,
+          "lng": 99.73563
+        },
+        {
+          "name": "Prachuap Khiri Khan",
+          "lat": 11.82098,
+          "lng": 99.7841
+        },
+        {
+          "name": "Pran Buri",
+          "lat": 12.38487,
+          "lng": 99.90157
+        },
+        {
+          "name": "Sam Roi Yot",
+          "lat": 12.27081,
+          "lng": 99.87203
+        },
+        {
+          "name": "Thap Sakae",
+          "lat": 11.54787,
+          "lng": 99.57159
+        }
+      ]
+    },
+    {
+      "name": "Ranong",
+      "lat": 9.964128,
+      "lng": 98.6340038,
+      "districts": [
+        {
+          "name": "Kapoe",
+          "lat": 9.53028,
+          "lng": 98.62369
+        },
+        {
+          "name": "Kra Buri",
+          "lat": 10.45895,
+          "lng": 98.84373
+        },
+        {
+          "name": "La-un",
+          "lat": 10.09691,
+          "lng": 98.78498
+        },
+        {
+          "name": "Mueang Ranong",
+          "lat": 9.86238,
+          "lng": 98.62229
+        },
+        {
+          "name": "Ranong",
+          "lat": 9.96583,
+          "lng": 98.63476
+        },
+        {
+          "name": "Suk Samran",
+          "lat": 9.4157,
+          "lng": 98.49117
+        }
+      ]
+    },
+    {
+      "name": "Ratchaburi",
+      "lat": 13.539067,
+      "lng": 99.8197035,
+      "districts": [
+        {
+          "name": "Amphoe Ban Pong",
+          "lat": 13.8166,
+          "lng": 99.82147
+        },
+        {
+          "name": "Amphoe Bang Phae",
+          "lat": 13.68333,
+          "lng": 99.98333
+        },
+        {
+          "name": "Amphoe Chom Bueng",
+          "lat": 13.6252,
+          "lng": 99.5187
+        },
+        {
+          "name": "Amphoe Damnoen Saduak",
+          "lat": 13.56537,
+          "lng": 99.97042
+        },
+        {
+          "name": "Amphoe Photharam",
+          "lat": 13.70707,
+          "lng": 99.75622
+        },
+        {
+          "name": "Ban Kha",
+          "lat": 13.32374,
+          "lng": 99.37323
+        },
+        {
+          "name": "Ban Pong",
+          "lat": 13.81629,
+          "lng": 99.87739
+        },
+        {
+          "name": "Bang Phae",
+          "lat": 13.69157,
+          "lng": 99.92982
+        },
+        {
+          "name": "Chom Bueng",
+          "lat": 13.62,
+          "lng": 99.59169
+        },
+        {
+          "name": "Damnoen Saduak",
+          "lat": 13.51825,
+          "lng": 99.95469
+        },
+        {
+          "name": "Mueang Ratchaburi",
+          "lat": 13.54559,
+          "lng": 99.77678
+        },
+        {
+          "name": "Pak Tho",
+          "lat": 13.38761,
+          "lng": 99.677
+        },
+        {
+          "name": "Photharam",
+          "lat": 13.69234,
+          "lng": 99.84969
+        },
+        {
+          "name": "Ratchaburi",
+          "lat": 13.53671,
+          "lng": 99.81712
+        },
+        {
+          "name": "Suan Phueng",
+          "lat": 13.56361,
+          "lng": 99.31133
+        },
+        {
+          "name": "Wat Phleng",
+          "lat": 13.44705,
+          "lng": 99.86959
+        }
+      ]
+    },
+    {
+      "name": "Rayong",
+      "lat": 12.6813957,
+      "lng": 101.2816261,
+      "districts": [
+        {
+          "name": "Rayong",
+          "lat": 12.68095,
+          "lng": 101.25798
+        },
+        {
+          "name": "Amphoe Ban Chang",
+          "lat": 12.7323,
+          "lng": 101.04878
+        },
+        {
+          "name": "Amphoe Klaeng",
+          "lat": 12.77179,
+          "lng": 101.65666
+        },
+        {
+          "name": "Ban Chang",
+          "lat": 12.72543,
+          "lng": 101.05531
+        },
+        {
+          "name": "Ban Khai",
+          "lat": 12.83827,
+          "lng": 101.3421
+        },
+        {
+          "name": "Ban Phe",
+          "lat": 12.62824,
+          "lng": 101.43757
+        },
+        {
+          "name": "Khao Chamao",
+          "lat": 12.99042,
+          "lng": 101.67847
+        },
+        {
+          "name": "Klaeng",
+          "lat": 12.77972,
+          "lng": 101.64831
+        },
+        {
+          "name": "Mueang Rayong",
+          "lat": 12.71864,
+          "lng": 101.34491
+        },
+        {
+          "name": "Nikhom Phattana",
+          "lat": 12.84489,
+          "lng": 101.15341
+        },
+        {
+          "name": "Pluak Daeng",
+          "lat": 12.98333,
+          "lng": 101.25
+        },
+        {
+          "name": "Wang Chan",
+          "lat": 12.96245,
+          "lng": 101.51533
+        }
+      ]
+    },
+    {
+      "name": "Roi Et",
+      "lat": 16.0538196,
+      "lng": 103.6520036,
+      "districts": [
+        {
+          "name": "Amphoe Kaset Wisai",
+          "lat": 15.60285,
+          "lng": 103.56652
+        },
+        {
+          "name": "Amphoe Moeiwadi",
+          "lat": 16.37155,
+          "lng": 104.11137
+        },
+        {
+          "name": "Amphoe Pho Chai",
+          "lat": 16.30969,
+          "lng": 103.79004
+        },
+        {
+          "name": "Amphoe Suwannaphum",
+          "lat": 15.60529,
+          "lng": 103.8063
+        },
+        {
+          "name": "At Samat",
+          "lat": 15.84014,
+          "lng": 103.86619
+        },
+        {
+          "name": "Ban Selaphum",
+          "lat": 16.01667,
+          "lng": 103.95
+        },
+        {
+          "name": "Changhan",
+          "lat": 16.16213,
+          "lng": 103.61605
+        },
+        {
+          "name": "Chaturaphak Phiman",
+          "lat": 15.8267,
+          "lng": 103.54934
+        },
+        {
+          "name": "Chiang Khwan",
+          "lat": 16.14887,
+          "lng": 103.74924
+        },
+        {
+          "name": "Kaset Wisai",
+          "lat": 15.65558,
+          "lng": 103.58361
+        },
+        {
+          "name": "Moeiwadi",
+          "lat": 16.38944,
+          "lng": 104.1572
+        },
+        {
+          "name": "Mueang Roi Et",
+          "lat": 16.01497,
+          "lng": 103.61584
+        },
+        {
+          "name": "Mueang Suang",
+          "lat": 15.78619,
+          "lng": 103.75071
+        },
+        {
+          "name": "Nong Hi",
+          "lat": 15.57983,
+          "lng": 104.01134
+        },
+        {
+          "name": "Nong Phok",
+          "lat": 16.30357,
+          "lng": 104.22144
+        },
+        {
+          "name": "Pathum Rat",
+          "lat": 15.62371,
+          "lng": 103.38733
+        },
+        {
+          "name": "Phanom Phrai",
+          "lat": 15.693,
+          "lng": 104.0755
+        },
+        {
+          "name": "Pho Chai",
+          "lat": 16.32827,
+          "lng": 103.77033
+        },
+        {
+          "name": "Phon Sai",
+          "lat": 15.49244,
+          "lng": 103.94139
+        },
+        {
+          "name": "Phon Thong",
+          "lat": 16.29007,
+          "lng": 103.96388
+        },
+        {
+          "name": "Roi Et",
+          "lat": 16.0567,
+          "lng": 103.65309
+        },
+        {
+          "name": "Selaphum",
+          "lat": 16.047,
+          "lng": 104.00031
+        },
+        {
+          "name": "Si Somdet",
+          "lat": 16.01947,
+          "lng": 103.51427
+        },
+        {
+          "name": "Suwannaphum",
+          "lat": 15.60348,
+          "lng": 103.80207
+        },
+        {
+          "name": "Thawatchaburi",
+          "lat": 16.02783,
+          "lng": 103.77833
+        },
+        {
+          "name": "Thung Khao Luang",
+          "lat": 15.98966,
+          "lng": 103.87086
+        },
+        {
+          "name": "Waeng",
+          "lat": 16.30006,
+          "lng": 103.97786
+        }
+      ]
+    },
+    {
+      "name": "Sa Kaeo",
+      "lat": 13.824038,
+      "lng": 102.0645839,
+      "districts": [
+        {
+          "name": "Amphoe Aranyaprathet",
+          "lat": 13.69086,
+          "lng": 102.47693
+        },
+        {
+          "name": "Amphoe Wang Nam Yen",
+          "lat": 13.519,
+          "lng": 102.08718
+        },
+        {
+          "name": "Aranyaprathet",
+          "lat": 13.69276,
+          "lng": 102.50128
+        },
+        {
+          "name": "Khao Chakan",
+          "lat": 13.62293,
+          "lng": 102.02665
+        },
+        {
+          "name": "Khlong Hat",
+          "lat": 13.47396,
+          "lng": 102.27604
+        },
+        {
+          "name": "Khok Sung",
+          "lat": 13.87388,
+          "lng": 102.66075
+        },
+        {
+          "name": "Mueang Sa Kaeo",
+          "lat": 13.92969,
+          "lng": 102.10626
+        },
+        {
+          "name": "Sa Kaeo",
+          "lat": 13.81411,
+          "lng": 102.07222
+        },
+        {
+          "name": "Ta Phraya",
+          "lat": 14.06272,
+          "lng": 102.72601
+        },
+        {
+          "name": "Wang Nam Yen",
+          "lat": 13.50325,
+          "lng": 102.18115
+        },
+        {
+          "name": "Wang Sombun",
+          "lat": 13.36112,
+          "lng": 102.1249
+        },
+        {
+          "name": "Watthana Nakhon",
+          "lat": 13.88582,
+          "lng": 102.35652
+        }
+      ]
+    },
+    {
+      "name": "Sakon Nakhon",
+      "lat": 17.1664211,
+      "lng": 104.1486055,
+      "districts": [
+        {
+          "name": "Akat Amnuai",
+          "lat": 17.63589,
+          "lng": 103.9759
+        },
+        {
+          "name": "Amphoe Sawang Daen Din",
+          "lat": 17.4559,
+          "lng": 103.4495
+        },
+        {
+          "name": "Ban Muang",
+          "lat": 17.89569,
+          "lng": 103.52793
+        },
+        {
+          "name": "Charoen Sin",
+          "lat": 17.63327,
+          "lng": 103.52218
+        },
+        {
+          "name": "Kham Ta Kla",
+          "lat": 17.82547,
+          "lng": 103.78598
+        },
+        {
+          "name": "Khok Si Suphan",
+          "lat": 17.02297,
+          "lng": 104.30346
+        },
+        {
+          "name": "Kusuman",
+          "lat": 17.35402,
+          "lng": 104.26677
+        },
+        {
+          "name": "Kut Bak",
+          "lat": 17.08205,
+          "lng": 103.81469
+        },
+        {
+          "name": "Mueang Sakon Nakhon",
+          "lat": 17.16163,
+          "lng": 104.10519
+        },
+        {
+          "name": "Nikhom Nam Un",
+          "lat": 17.17349,
+          "lng": 103.73511
+        },
+        {
+          "name": "Phang Khon",
+          "lat": 17.38267,
+          "lng": 103.75146
+        },
+        {
+          "name": "Phanna Nikhom",
+          "lat": 17.31369,
+          "lng": 103.89791
+        },
+        {
+          "name": "Phon Na Kaeo",
+          "lat": 17.21248,
+          "lng": 104.307
+        },
+        {
+          "name": "Phu Phan",
+          "lat": 16.92862,
+          "lng": 103.924
+        },
+        {
+          "name": "Sakon Nakhon",
+          "lat": 17.16116,
+          "lng": 104.14725
+        },
+        {
+          "name": "Sawang Daen Din",
+          "lat": 17.47531,
+          "lng": 103.45753
+        },
+        {
+          "name": "Song Dao",
+          "lat": 17.30883,
+          "lng": 103.44987
+        },
+        {
+          "name": "Tao Ngoi",
+          "lat": 16.94022,
+          "lng": 104.15863
+        },
+        {
+          "name": "Wanon Niwat",
+          "lat": 17.61516,
+          "lng": 103.76536
+        },
+        {
+          "name": "Waritchaphum",
+          "lat": 17.25692,
+          "lng": 103.62283
+        }
+      ]
+    },
+    {
+      "name": "Samut Prakan",
+      "lat": 13.6531651,
+      "lng": 100.8182578,
+      "districts": [
+        {
+          "name": "Phra Pradaeng",
+          "lat": 13.65855,
+          "lng": 100.53362
+        },
+        {
+          "name": "Samut Prakan",
+          "lat": 13.59934,
+          "lng": 100.59675
+        },
+        {
+          "name": "Amphoe Bang Bo",
+          "lat": 13.5896,
+          "lng": 100.86711
+        },
+        {
+          "name": "Amphoe Phra Pradaeng",
+          "lat": 13.65246,
+          "lng": 100.55271
+        },
+        {
+          "name": "Ban Khlong Bang Sao Thong",
+          "lat": 13.64172,
+          "lng": 100.83272
+        },
+        {
+          "name": "Bang Bo District",
+          "lat": 13.58333,
+          "lng": 100.81667
+        },
+        {
+          "name": "Bang Phli",
+          "lat": 13.61972,
+          "lng": 100.72582
+        },
+        {
+          "name": "Bang Sao Thong",
+          "lat": 13.63286,
+          "lng": 100.81038
+        },
+        {
+          "name": "Mueang Samut Prakan",
+          "lat": 13.56855,
+          "lng": 100.65148
+        },
+        {
+          "name": "Phra Samut Chedi",
+          "lat": 13.55622,
+          "lng": 100.51485
+        }
+      ]
+    },
+    {
+      "name": "Samut Sakhon",
+      "lat": 13.5475216,
+      "lng": 100.2743956,
+      "districts": [
+        {
+          "name": "Amphoe Ban Phaeo",
+          "lat": 13.58747,
+          "lng": 100.11789
+        },
+        {
+          "name": "Amphoe Krathum Baen",
+          "lat": 13.6557,
+          "lng": 100.27282
+        },
+        {
+          "name": "Ban Phaeo",
+          "lat": 13.59072,
+          "lng": 100.10748
+        },
+        {
+          "name": "Krathum Baen",
+          "lat": 13.6533,
+          "lng": 100.25972
+        },
+        {
+          "name": "Mueang Samut Sakhon",
+          "lat": 13.53163,
+          "lng": 100.25326
+        },
+        {
+          "name": "Samut Sakhon",
+          "lat": 13.54753,
+          "lng": 100.27362
+        }
+      ]
+    },
+    {
+      "name": "Samut Songkhram",
+      "lat": 13.4098217,
+      "lng": 100.0022645,
+      "districts": [
+        {
+          "name": "Amphawa",
+          "lat": 13.36721,
+          "lng": 99.91232
+        },
+        {
+          "name": "Bang Khonthi",
+          "lat": 13.47448,
+          "lng": 99.94838
+        },
+        {
+          "name": "Mueang Samut Songkhram",
+          "lat": 13.39587,
+          "lng": 99.99929
+        },
+        {
+          "name": "Samut Songkhram",
+          "lat": 13.41456,
+          "lng": 100.00264
+        }
+      ]
+    },
+    {
+      "name": "Saraburi",
+      "lat": 14.5289154,
+      "lng": 100.9101421,
+      "districts": [
+        {
+          "name": "Amphoe Ban Mo",
+          "lat": 14.60804,
+          "lng": 100.72404
+        },
+        {
+          "name": "Amphoe Kaeng Khoi",
+          "lat": 14.58166,
+          "lng": 101.05297
+        },
+        {
+          "name": "Amphoe Nong Khae",
+          "lat": 14.38125,
+          "lng": 100.86451
+        },
+        {
+          "name": "Amphoe Phra Phutthabat",
+          "lat": 14.71912,
+          "lng": 100.80622
+        },
+        {
+          "name": "Ban Mo",
+          "lat": 14.61544,
+          "lng": 100.72731
+        },
+        {
+          "name": "Chaloem Phra Kiat",
+          "lat": 14.65671,
+          "lng": 100.90838
+        },
+        {
+          "name": "Don Phut",
+          "lat": 14.60758,
+          "lng": 100.61578
+        },
+        {
+          "name": "Kaeng Khoi",
+          "lat": 14.58617,
+          "lng": 100.99758
+        },
+        {
+          "name": "Muak Lek",
+          "lat": 14.77706,
+          "lng": 101.27151
+        },
+        {
+          "name": "Mueang Sara Buri",
+          "lat": 14.49721,
+          "lng": 100.93829
+        },
+        {
+          "name": "Nong Don",
+          "lat": 14.6888,
+          "lng": 100.68527
+        },
+        {
+          "name": "Nong Khae",
+          "lat": 14.34062,
+          "lng": 100.86733
+        },
+        {
+          "name": "Nong Saeng",
+          "lat": 14.48283,
+          "lng": 100.80463
+        },
+        {
+          "name": "Phra Phutthabat",
+          "lat": 14.72526,
+          "lng": 100.79536
+        },
+        {
+          "name": "Sao Hai",
+          "lat": 14.57549,
+          "lng": 100.8439
+        },
+        {
+          "name": "Saraburi",
+          "lat": 14.53333,
+          "lng": 100.91667
+        },
+        {
+          "name": "Wang Muang",
+          "lat": 14.82287,
+          "lng": 101.13346
+        },
+        {
+          "name": "Wihan Daeng",
+          "lat": 14.33435,
+          "lng": 100.96458
+        }
+      ]
+    },
+    {
+      "name": "Satun",
+      "lat": 6.6238158,
+      "lng": 100.0673744,
+      "districts": [
+        {
+          "name": "Khuan Don",
+          "lat": 6.76978,
+          "lng": 100.12216
+        },
+        {
+          "name": "Khuan Kalong",
+          "lat": 6.90593,
+          "lng": 100.04178
+        },
+        {
+          "name": "Koh Lipe",
+          "lat": 6.4877043,
+          "lng": 99.2768514
+        },
+        {
+          "name": "La-Ngu",
+          "lat": 6.90392,
+          "lng": 99.79836
+        },
+        {
+          "name": "Manang",
+          "lat": 7.01822,
+          "lng": 99.95399
+        },
+        {
+          "name": "Mueang Satun",
+          "lat": 6.62314,
+          "lng": 100.06681
+        },
+        {
+          "name": "Satun",
+          "lat": 6.62314,
+          "lng": 100.06676
+        },
+        {
+          "name": "Tha Phae",
+          "lat": 6.79542,
+          "lng": 99.91985
+        },
+        {
+          "name": "Thung Wa",
+          "lat": 7.04915,
+          "lng": 99.76587
+        }
+      ]
+    },
+    {
+      "name": "Si Sa Ket",
+      "lat": 15.1186009,
+      "lng": 104.3220095,
+      "districts": [
+        {
+          "name": "Amphoe Kantharalak",
+          "lat": 14.568,
+          "lng": 104.6708
+        },
+        {
+          "name": "Amphoe Phrai Bueng",
+          "lat": 14.77989,
+          "lng": 104.36599
+        },
+        {
+          "name": "Benchalak",
+          "lat": 14.78319,
+          "lng": 104.71879
+        },
+        {
+          "name": "Bueng Bun",
+          "lat": 15.30288,
+          "lng": 104.06166
+        },
+        {
+          "name": "Huai Thap Than",
+          "lat": 15.01808,
+          "lng": 104.03875
+        },
+        {
+          "name": "Kantharalak",
+          "lat": 14.64056,
+          "lng": 104.64992
+        },
+        {
+          "name": "Kanthararom",
+          "lat": 15.12447,
+          "lng": 104.57318
+        },
+        {
+          "name": "Khukhan",
+          "lat": 14.73783,
+          "lng": 104.1859
+        },
+        {
+          "name": "Khun Han",
+          "lat": 14.53455,
+          "lng": 104.40739
+        },
+        {
+          "name": "Mueang Chan",
+          "lat": 15.18249,
+          "lng": 104.02471
+        },
+        {
+          "name": "Mueang Sisaket",
+          "lat": 15.08168,
+          "lng": 104.35126
+        },
+        {
+          "name": "Nam Kliang",
+          "lat": 14.91022,
+          "lng": 104.52545
+        },
+        {
+          "name": "Non Khun",
+          "lat": 14.90188,
+          "lng": 104.69564
+        },
+        {
+          "name": "Phayu",
+          "lat": 14.90639,
+          "lng": 104.38293
+        },
+        {
+          "name": "Pho Si Suwan",
+          "lat": 15.2337,
+          "lng": 104.06739
+        },
+        {
+          "name": "Phrai Bueng",
+          "lat": 14.74833,
+          "lng": 104.36261
+        },
+        {
+          "name": "Phu Sing",
+          "lat": 14.48873,
+          "lng": 104.15603
+        },
+        {
+          "name": "Prang Ku",
+          "lat": 14.85443,
+          "lng": 104.0374
+        },
+        {
+          "name": "Rasi Salai",
+          "lat": 15.34637,
+          "lng": 104.18617
+        },
+        {
+          "name": "Si Rattana",
+          "lat": 14.81062,
+          "lng": 104.47634
+        },
+        {
+          "name": "Si Sa Ket",
+          "lat": 15.11481,
+          "lng": 104.32938
+        },
+        {
+          "name": "Sila Lat",
+          "lat": 15.4807,
+          "lng": 104.09478
+        },
+        {
+          "name": "Uthumphon Phisai",
+          "lat": 15.12305,
+          "lng": 104.16002
+        },
+        {
+          "name": "Wang Hin",
+          "lat": 14.96133,
+          "lng": 104.21928
+        },
+        {
+          "name": "Yang Chum Noi",
+          "lat": 15.23688,
+          "lng": 104.39083
+        }
+      ]
+    },
+    {
+      "name": "Sing Buri",
+      "lat": 14.8936253,
+      "lng": 100.3967314,
+      "districts": [
+        {
+          "name": "Amphoe In Buri",
+          "lat": 15.02057,
+          "lng": 100.34865
+        },
+        {
+          "name": "Bang Racham",
+          "lat": 14.892,
+          "lng": 100.31728
+        },
+        {
+          "name": "Bang Rachan",
+          "lat": 14.89959,
+          "lng": 100.27795
+        },
+        {
+          "name": "In Buri",
+          "lat": 15.00787,
+          "lng": 100.32691
+        },
+        {
+          "name": "Khai Bang Rachan",
+          "lat": 14.81438,
+          "lng": 100.31389
+        },
+        {
+          "name": "Mueang Sing Buri",
+          "lat": 14.90239,
+          "lng": 100.39731
+        },
+        {
+          "name": "Phrom Buri",
+          "lat": 14.78333,
+          "lng": 100.45
+        },
+        {
+          "name": "Sing Buri",
+          "lat": 14.88786,
+          "lng": 100.40464
+        },
+        {
+          "name": "Tha Chang",
+          "lat": 14.77941,
+          "lng": 100.39349
+        }
+      ]
+    },
+    {
+      "name": "Songkhla",
+      "lat": 7.1897659,
+      "lng": 100.5953813,
+      "districts": [
+        {
+          "name": "Amphoe Hat Yai",
+          "lat": 6.98092,
+          "lng": 100.46539
+        },
+        {
+          "name": "Hat Yai",
+          "lat": 7.00836,
+          "lng": 100.47668
+        },
+        {
+          "name": "Amphoe Na Mom",
+          "lat": 6.9599,
+          "lng": 100.57161
+        },
+        {
+          "name": "Amphoe Ranot",
+          "lat": 7.8139,
+          "lng": 100.28323
+        },
+        {
+          "name": "Amphoe Sadao",
+          "lat": 6.67135,
+          "lng": 100.42409
+        },
+        {
+          "name": "Ban Mai",
+          "lat": 7.20411,
+          "lng": 100.54508
+        },
+        {
+          "name": "Bang Klam",
+          "lat": 7.06404,
+          "lng": 100.40664
+        },
+        {
+          "name": "Chana",
+          "lat": 6.89584,
+          "lng": 100.70126
+        },
+        {
+          "name": "Khlong Hoi Khong",
+          "lat": 6.86623,
+          "lng": 100.35353
+        },
+        {
+          "name": "Khuan Niang",
+          "lat": 7.18231,
+          "lng": 100.37403
+        },
+        {
+          "name": "Krasae Sin",
+          "lat": 7.61254,
+          "lng": 100.32827
+        },
+        {
+          "name": "Mueang Songkhla",
+          "lat": 7.11075,
+          "lng": 100.60814
+        },
+        {
+          "name": "Na Mom",
+          "lat": 6.95856,
+          "lng": 100.55683
+        },
+        {
+          "name": "Na Thawi",
+          "lat": 6.63849,
+          "lng": 100.68173
+        },
+        {
+          "name": "Ranot",
+          "lat": 7.77768,
+          "lng": 100.32134
+        },
+        {
+          "name": "Rattaphum",
+          "lat": 7.07488,
+          "lng": 100.19515
+        },
+        {
+          "name": "Saba Yoi",
+          "lat": 6.52971,
+          "lng": 100.91232
+        },
+        {
+          "name": "Sadao",
+          "lat": 6.63883,
+          "lng": 100.42342
+        },
+        {
+          "name": "Sathing Phra",
+          "lat": 7.47963,
+          "lng": 100.42227
+        },
+        {
+          "name": "Singhanakhon",
+          "lat": 7.28453,
+          "lng": 100.48809
+        },
+        {
+          "name": "Songkhla",
+          "lat": 7.19882,
+          "lng": 100.5951
+        },
+        {
+          "name": "Thepha",
+          "lat": 6.79726,
+          "lng": 100.91025
+        }
+      ]
+    },
+    {
+      "name": "Sukhothai",
+      "lat": 17.1446985,
+      "lng": 99.4375845,
+      "districts": [
+        {
+          "name": "Amphoe Ban Dan Lan Hoi",
+          "lat": 17.05278,
+          "lng": 99.49148
+        },
+        {
+          "name": "Amphoe Khiri Mat",
+          "lat": 16.82923,
+          "lng": 99.73976
+        },
+        {
+          "name": "Amphoe Sawankhalok",
+          "lat": 17.29899,
+          "lng": 99.85396
+        },
+        {
+          "name": "Amphoe Si Satchanalai",
+          "lat": 17.59927,
+          "lng": 99.70591
+        },
+        {
+          "name": "Ban Dan Lan Hoi",
+          "lat": 17.00683,
+          "lng": 99.57497
+        },
+        {
+          "name": "Ban Na",
+          "lat": 17.01717,
+          "lng": 99.73283
+        },
+        {
+          "name": "Khiri Mat",
+          "lat": 16.83333,
+          "lng": 99.8
+        },
+        {
+          "name": "Kong Krailat",
+          "lat": 16.93115,
+          "lng": 99.97414
+        },
+        {
+          "name": "Mueang Sukhothai",
+          "lat": 17.02318,
+          "lng": 99.77864
+        },
+        {
+          "name": "Sawankhalok",
+          "lat": 17.31597,
+          "lng": 99.83186
+        },
+        {
+          "name": "Si Nakhon",
+          "lat": 17.39275,
+          "lng": 99.97666
+        },
+        {
+          "name": "Si Samrong",
+          "lat": 17.16397,
+          "lng": 99.74672
+        },
+        {
+          "name": "Si Satchanalai",
+          "lat": 17.51692,
+          "lng": 99.75978
+        },
+        {
+          "name": "Sukhothai",
+          "lat": 17.00778,
+          "lng": 99.823
+        },
+        {
+          "name": "Thung Saliam",
+          "lat": 17.37082,
+          "lng": 99.55265
+        }
+      ]
+    },
+    {
+      "name": "Suphan Buri",
+      "lat": 14.4744892,
+      "lng": 100.1177128,
+      "districts": [
+        {
+          "name": "Amphoe Doembang Nangbuat",
+          "lat": 14.87394,
+          "lng": 100.04669
+        },
+        {
+          "name": "Ban Sam Chuk",
+          "lat": 14.74219,
+          "lng": 100.09531
+        },
+        {
+          "name": "Bang Pla Ma",
+          "lat": 14.34985,
+          "lng": 100.14479
+        },
+        {
+          "name": "Dan Chang",
+          "lat": 14.88388,
+          "lng": 99.51642
+        },
+        {
+          "name": "Doembang Nangbuat",
+          "lat": 14.83333,
+          "lng": 100.1
+        },
+        {
+          "name": "Don Chedi",
+          "lat": 14.64804,
+          "lng": 99.94734
+        },
+        {
+          "name": "Mueang Suphan Buri",
+          "lat": 14.49189,
+          "lng": 100.07458
+        },
+        {
+          "name": "Nong Yasai",
+          "lat": 14.77644,
+          "lng": 99.85751
+        },
+        {
+          "name": "Si Prachan",
+          "lat": 14.6381,
+          "lng": 100.1505
+        },
+        {
+          "name": "Song Phi Nong",
+          "lat": 14.18895,
+          "lng": 99.9758
+        },
+        {
+          "name": "Suphan Buri",
+          "lat": 14.47418,
+          "lng": 100.12218
+        },
+        {
+          "name": "U Thong",
+          "lat": 14.41093,
+          "lng": 99.88949
+        }
+      ]
+    },
+    {
+      "name": "Surat Thani",
+      "lat": 9.1404136,
+      "lng": 99.3241347,
+      "districts": [
+        {
+          "name": "Mueang Surat Thani",
+          "lat": 9.10132,
+          "lng": 99.32614
+        },
+        {
+          "name": "Surat Thani",
+          "lat": 9.14011,
+          "lng": 99.33311
+        },
+        {
+          "name": "Amphoe Ban Na San",
+          "lat": 8.80063,
+          "lng": 99.40201
+        },
+        {
+          "name": "Amphoe Chai Buri",
+          "lat": 8.43883,
+          "lng": 99.07721
+        },
+        {
+          "name": "Amphoe Chaiya",
+          "lat": 9.49141,
+          "lng": 98.99568
+        },
+        {
+          "name": "Amphoe Don Sak",
+          "lat": 9.21063,
+          "lng": 99.68887
+        },
+        {
+          "name": "Amphoe Kanchanadit",
+          "lat": 9.07256,
+          "lng": 99.5439
+        },
+        {
+          "name": "Amphoe Ko Samui",
+          "lat": 9.50841,
+          "lng": 99.99644
+        },
+        {
+          "name": "Amphoe Wiang Sa",
+          "lat": 8.59813,
+          "lng": 99.35277
+        },
+        {
+          "name": "Ban Na Doem",
+          "lat": 8.9061,
+          "lng": 99.28136
+        },
+        {
+          "name": "Ban Na San",
+          "lat": 8.80036,
+          "lng": 99.36372
+        },
+        {
+          "name": "Ban Takhun",
+          "lat": 9.10423,
+          "lng": 98.67222
+        },
+        {
+          "name": "Chai Buri",
+          "lat": 8.46222,
+          "lng": 99.07631
+        },
+        {
+          "name": "Chaiya",
+          "lat": 9.38625,
+          "lng": 99.19861
+        },
+        {
+          "name": "Don Sak",
+          "lat": 9.31676,
+          "lng": 99.69184
+        },
+        {
+          "name": "Kanchanadit",
+          "lat": 9.16611,
+          "lng": 99.47014
+        },
+        {
+          "name": "Khian Sa",
+          "lat": 8.72766,
+          "lng": 99.1324
+        },
+        {
+          "name": "Khiri Rat Nikhom",
+          "lat": 9.0059,
+          "lng": 98.94404
+        },
+        {
+          "name": "Ko Pha Ngan",
+          "lat": 9.75778,
+          "lng": 100.02914
+        },
+        {
+          "name": "Ko Pha-ngan",
+          "lat": 9.74939,
+          "lng": 100.02649
+        },
+        {
+          "name": "Ko Samui",
+          "lat": 9.53567,
+          "lng": 99.93567
+        },
+        {
+          "name": "Koh Tao",
+          "lat": 10.09808,
+          "lng": 99.83809
+        },
+        {
+          "name": "Phanom",
+          "lat": 8.82254,
+          "lng": 98.71709
+        },
+        {
+          "name": "Phrasaeng",
+          "lat": 8.55124,
+          "lng": 99.1052
+        },
+        {
+          "name": "Phunphin",
+          "lat": 9.02472,
+          "lng": 99.14304
+        },
+        {
+          "name": "Tha Chana",
+          "lat": 9.61142,
+          "lng": 99.03611
+        },
+        {
+          "name": "Tha Chang",
+          "lat": 9.33475,
+          "lng": 98.95619
+        },
+        {
+          "name": "Tha Kham",
+          "lat": 9.11072,
+          "lng": 99.23208
+        },
+        {
+          "name": "Tha Khanon",
+          "lat": 9.0302,
+          "lng": 98.95286
+        },
+        {
+          "name": "Wiang Sa",
+          "lat": 8.63585,
+          "lng": 99.3666
+        },
+        {
+          "name": "Wiphawadi",
+          "lat": 9.21972,
+          "lng": 98.87028
+        }
+      ]
+    },
+    {
+      "name": "Surin",
+      "lat": 15.0610142,
+      "lng": 103.7613123,
+      "districts": [
+        {
+          "name": "Bua Chet",
+          "lat": 14.48406,
+          "lng": 103.97809
+        },
+        {
+          "name": "Chom Phra",
+          "lat": 15.14356,
+          "lng": 103.57881
+        },
+        {
+          "name": "Chumphon Buri",
+          "lat": 15.37942,
+          "lng": 103.37095
+        },
+        {
+          "name": "Kap Choeng",
+          "lat": 14.46795,
+          "lng": 103.58476
+        },
+        {
+          "name": "Khwao Sinarin",
+          "lat": 15.00733,
+          "lng": 103.62064
+        },
+        {
+          "name": "Lamduan",
+          "lat": 14.71907,
+          "lng": 103.69911
+        },
+        {
+          "name": "Mueang Surin",
+          "lat": 14.88359,
+          "lng": 103.51272
+        },
+        {
+          "name": "Non Narai",
+          "lat": 15.19111,
+          "lng": 103.92242
+        },
+        {
+          "name": "Phanom Dong Rak",
+          "lat": 14.42745,
+          "lng": 103.31007
+        },
+        {
+          "name": "Prasat",
+          "lat": 14.62602,
+          "lng": 103.41569
+        },
+        {
+          "name": "Rattanaburi",
+          "lat": 15.3378,
+          "lng": 103.90541
+        },
+        {
+          "name": "Samrong Thap",
+          "lat": 15.0398,
+          "lng": 103.94089
+        },
+        {
+          "name": "Sangkha",
+          "lat": 14.57051,
+          "lng": 103.83911
+        },
+        {
+          "name": "Sanom",
+          "lat": 15.17099,
+          "lng": 103.78475
+        },
+        {
+          "name": "Si Khoraphum",
+          "lat": 14.94753,
+          "lng": 103.7831
+        },
+        {
+          "name": "Si Narong",
+          "lat": 14.78085,
+          "lng": 103.88651
+        },
+        {
+          "name": "Surin",
+          "lat": 14.88181,
+          "lng": 103.49364
+        },
+        {
+          "name": "Tha Tum",
+          "lat": 15.3094,
+          "lng": 103.65111
+        }
+      ]
+    },
+    {
+      "name": "Tak",
+      "lat": 17.1053568,
+      "lng": 98.9953943,
+      "districts": [
+        {
+          "name": "Amphoe Ban Tak",
+          "lat": 17.09163,
+          "lng": 99.06648
+        },
+        {
+          "name": "Amphoe Mae Ramat",
+          "lat": 17.1118,
+          "lng": 98.58635
+        },
+        {
+          "name": "Amphoe Mae Sot",
+          "lat": 16.72154,
+          "lng": 98.71074
+        },
+        {
+          "name": "Ban Tak",
+          "lat": 17.04325,
+          "lng": 99.08128
+        },
+        {
+          "name": "Mae Ramat",
+          "lat": 16.98403,
+          "lng": 98.51665
+        },
+        {
+          "name": "Mae Sot",
+          "lat": 16.71667,
+          "lng": 98.56667
+        },
+        {
+          "name": "Mueang Tak",
+          "lat": 16.8765,
+          "lng": 99.16617
+        },
+        {
+          "name": "Phop Phra",
+          "lat": 16.47215,
+          "lng": 98.83501
+        },
+        {
+          "name": "Tak",
+          "lat": 16.86968,
+          "lng": 99.12898
+        },
+        {
+          "name": "Tha Song Yang",
+          "lat": 17.47481,
+          "lng": 98.12079
+        },
+        {
+          "name": "Umphang",
+          "lat": 15.79496,
+          "lng": 98.87787
+        },
+        {
+          "name": "Wang Chao",
+          "lat": 16.63311,
+          "lng": 99.14826
+        }
+      ]
+    },
+    {
+      "name": "Trang",
+      "lat": 7.5557778,
+      "lng": 99.6076502,
+      "districts": [
+        {
+          "name": "Amphoe Huai Yot",
+          "lat": 7.80063,
+          "lng": 99.605
+        },
+        {
+          "name": "Amphoe Kantang",
+          "lat": 7.38563,
+          "lng": 99.47064
+        },
+        {
+          "name": "Hat Samran",
+          "lat": 7.25733,
+          "lng": 99.5816
+        },
+        {
+          "name": "Huai Yot",
+          "lat": 7.78937,
+          "lng": 99.63469
+        },
+        {
+          "name": "Kantang",
+          "lat": 7.40542,
+          "lng": 99.51561
+        },
+        {
+          "name": "Mueang Trang",
+          "lat": 7.60944,
+          "lng": 99.61772
+        },
+        {
+          "name": "Na Yong",
+          "lat": 7.56257,
+          "lng": 99.74791
+        },
+        {
+          "name": "Palian",
+          "lat": 7.2334,
+          "lng": 99.79491
+        },
+        {
+          "name": "Ratsada",
+          "lat": 7.93779,
+          "lng": 99.66771
+        },
+        {
+          "name": "Sikao",
+          "lat": 7.57122,
+          "lng": 99.33915
+        },
+        {
+          "name": "Trang",
+          "lat": 7.55633,
+          "lng": 99.61141
+        },
+        {
+          "name": "Wang Wiset",
+          "lat": 7.76061,
+          "lng": 99.40861
+        },
+        {
+          "name": "Yan Ta Khao",
+          "lat": 7.4258,
+          "lng": 99.73438
+        }
+      ]
+    },
+    {
+      "name": "Trat",
+      "lat": 12.2427563,
+      "lng": 102.5174734,
+      "districts": [
+        {
+          "name": "Amphoe Bo Rai",
+          "lat": 12.55816,
+          "lng": 102.56566
+        },
+        {
+          "name": "Amphoe Khlong Yai",
+          "lat": 11.8554,
+          "lng": 102.82596
+        },
+        {
+          "name": "Bo Rai",
+          "lat": 12.57283,
+          "lng": 102.53714
+        },
+        {
+          "name": "Khao Saming",
+          "lat": 12.42885,
+          "lng": 102.41784
+        },
+        {
+          "name": "Khlong Yai",
+          "lat": 11.77645,
+          "lng": 102.88567
+        },
+        {
+          "name": "Ko Chang",
+          "lat": 12.05947,
+          "lng": 102.32941
+        },
+        {
+          "name": "Ko Chang Tai",
+          "lat": 12.00171,
+          "lng": 102.37267
+        },
+        {
+          "name": "Ko Kut",
+          "lat": 11.65714,
+          "lng": 102.56694
+        },
+        {
+          "name": "Laem Ngop",
+          "lat": 12.22028,
+          "lng": 102.36558
+        },
+        {
+          "name": "Mueang Trat",
+          "lat": 12.26667,
+          "lng": 102.60945
+        },
+        {
+          "name": "Trat",
+          "lat": 12.24364,
+          "lng": 102.51514
+        }
+      ]
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "lat": 15.2274235,
+      "lng": 104.8589462,
+      "districts": [
+        {
+          "name": "Ubon Ratchathani",
+          "lat": 15.23844,
+          "lng": 104.84866
+        },
+        {
+          "name": "Amphoe Det Udom",
+          "lat": 14.85153,
+          "lng": 105.07511
+        },
+        {
+          "name": "Amphoe Phibun Mangsahan",
+          "lat": 15.14589,
+          "lng": 105.24094
+        },
+        {
+          "name": "Amphoe Sawang Wirawong",
+          "lat": 15.23439,
+          "lng": 105.076
+        },
+        {
+          "name": "Amphoe Warin Chamrap",
+          "lat": 15.12394,
+          "lng": 104.87499
+        },
+        {
+          "name": "Buntharik",
+          "lat": 14.70495,
+          "lng": 105.40444
+        },
+        {
+          "name": "Det Udom",
+          "lat": 14.90598,
+          "lng": 105.07836
+        },
+        {
+          "name": "Don Mot Daeng",
+          "lat": 15.37694,
+          "lng": 105.02107
+        },
+        {
+          "name": "Khemmarat",
+          "lat": 15.97114,
+          "lng": 105.15168
+        },
+        {
+          "name": "Khong Chiam",
+          "lat": 15.45432,
+          "lng": 105.50363
+        },
+        {
+          "name": "Khueang Nai",
+          "lat": 15.39097,
+          "lng": 104.54363
+        },
+        {
+          "name": "Kut Khaopun",
+          "lat": 15.81907,
+          "lng": 105.04066
+        },
+        {
+          "name": "Lao Suea Kok",
+          "lat": 15.43952,
+          "lng": 104.91662
+        },
+        {
+          "name": "Muang Sam Sip",
+          "lat": 15.52637,
+          "lng": 104.71661
+        },
+        {
+          "name": "Mueang Ubon Ratchathani",
+          "lat": 15.29662,
+          "lng": 104.83052
+        },
+        {
+          "name": "Na Chaluai",
+          "lat": 14.56695,
+          "lng": 105.22367
+        },
+        {
+          "name": "Na Tan",
+          "lat": 15.93485,
+          "lng": 105.28454
+        },
+        {
+          "name": "Na Yia",
+          "lat": 15.0414,
+          "lng": 105.05729
+        },
+        {
+          "name": "Nam Khun",
+          "lat": 14.55508,
+          "lng": 104.89872
+        },
+        {
+          "name": "Nam Yuen",
+          "lat": 14.48671,
+          "lng": 105.00269
+        },
+        {
+          "name": "Phibun Mangsahan",
+          "lat": 15.24467,
+          "lng": 105.22908
+        },
+        {
+          "name": "Pho Sai",
+          "lat": 15.76739,
+          "lng": 105.34339
+        },
+        {
+          "name": "Samrong",
+          "lat": 14.98532,
+          "lng": 104.79139
+        },
+        {
+          "name": "Sawang Wirawong",
+          "lat": 15.24158,
+          "lng": 105.0922
+        },
+        {
+          "name": "Si Mueang Mai",
+          "lat": 15.56297,
+          "lng": 105.3483
+        },
+        {
+          "name": "Sirindhorn",
+          "lat": 15.11249,
+          "lng": 105.42837
+        },
+        {
+          "name": "Tan Sum",
+          "lat": 15.39035,
+          "lng": 105.16273
+        },
+        {
+          "name": "Thung Si Udom",
+          "lat": 14.73936,
+          "lng": 104.91731
+        },
+        {
+          "name": "Trakan Phuet Phon",
+          "lat": 15.6136,
+          "lng": 105.06444
+        },
+        {
+          "name": "Warin Chamrap",
+          "lat": 15.19319,
+          "lng": 104.8628
+        }
+      ]
+    },
+    {
+      "name": "Udon Thani",
+      "lat": 17.3907364,
+      "lng": 102.7773582,
+      "districts": [
+        {
+          "name": "Mueang Udon Thani",
+          "lat": 17.39085,
+          "lng": 102.78912
+        },
+        {
+          "name": "Udon Thani",
+          "lat": 17.41567,
+          "lng": 102.78589
+        },
+        {
+          "name": "Amphoe Ban Dung",
+          "lat": 17.71134,
+          "lng": 103.26729
+        },
+        {
+          "name": "Amphoe Kumphawapi",
+          "lat": 17.09209,
+          "lng": 102.99395
+        },
+        {
+          "name": "Amphoe Kut Chap",
+          "lat": 17.44009,
+          "lng": 102.54083
+        },
+        {
+          "name": "Amphoe Nam Som",
+          "lat": 17.74338,
+          "lng": 102.17328
+        },
+        {
+          "name": "Amphoe Nong Wua So",
+          "lat": 17.18691,
+          "lng": 102.58986
+        },
+        {
+          "name": "Ban Dung",
+          "lat": 17.699,
+          "lng": 103.25957
+        },
+        {
+          "name": "Ban Nong Wua So",
+          "lat": 17.2675,
+          "lng": 103.22472
+        },
+        {
+          "name": "Ban Phan Don",
+          "lat": 17.14272,
+          "lng": 102.97261
+        },
+        {
+          "name": "Ban Phue",
+          "lat": 17.67709,
+          "lng": 102.44563
+        },
+        {
+          "name": "Chai Wan",
+          "lat": 17.21581,
+          "lng": 103.27832
+        },
+        {
+          "name": "Ku Kaeo",
+          "lat": 17.16286,
+          "lng": 103.16754
+        },
+        {
+          "name": "Kumphawapi",
+          "lat": 17.10875,
+          "lng": 103.01487
+        },
+        {
+          "name": "Kut Chap",
+          "lat": 17.4257,
+          "lng": 102.56692
+        },
+        {
+          "name": "Na Yung",
+          "lat": 17.9347,
+          "lng": 102.13417
+        },
+        {
+          "name": "Nam Som",
+          "lat": 17.77036,
+          "lng": 102.18947
+        },
+        {
+          "name": "Non Sa-at",
+          "lat": 16.95002,
+          "lng": 102.8999
+        },
+        {
+          "name": "Nong Han",
+          "lat": 17.36853,
+          "lng": 103.1151
+        },
+        {
+          "name": "Nong Saeng",
+          "lat": 17.14166,
+          "lng": 102.78592
+        },
+        {
+          "name": "Nong Wua So",
+          "lat": 17.16261,
+          "lng": 102.57272
+        },
+        {
+          "name": "Phen",
+          "lat": 17.66033,
+          "lng": 102.93052
+        },
+        {
+          "name": "Phibun Rak",
+          "lat": 17.5263,
+          "lng": 103.07497
+        },
+        {
+          "name": "Prachak Sinlapakhom",
+          "lat": 17.24648,
+          "lng": 102.98713
+        },
+        {
+          "name": "Sang Khom",
+          "lat": 17.79433,
+          "lng": 103.05114
+        },
+        {
+          "name": "Si That",
+          "lat": 17.03388,
+          "lng": 103.23084
+        },
+        {
+          "name": "Thung Fon",
+          "lat": 17.49061,
+          "lng": 103.22088
+        },
+        {
+          "name": "Wang Sam Mo",
+          "lat": 17.04595,
+          "lng": 103.46262
+        }
+      ]
+    },
+    {
+      "name": "Uthai Thani",
+      "lat": 15.3835001,
+      "lng": 100.0245527,
+      "districts": [
+        {
+          "name": "Amphoe Huai Khot",
+          "lat": 15.32761,
+          "lng": 99.51941
+        },
+        {
+          "name": "Amphoe Lan Sak",
+          "lat": 15.52289,
+          "lng": 99.4611
+        },
+        {
+          "name": "Amphoe Thap Than",
+          "lat": 15.49057,
+          "lng": 99.82224
+        },
+        {
+          "name": "Ban Rai",
+          "lat": 15.24921,
+          "lng": 99.32817
+        },
+        {
+          "name": "Huai Khot",
+          "lat": 15.29095,
+          "lng": 99.61661
+        },
+        {
+          "name": "Lan Sak",
+          "lat": 15.45289,
+          "lng": 99.57606
+        },
+        {
+          "name": "Mueang Uthai Thani",
+          "lat": 15.40857,
+          "lng": 100.02794
+        },
+        {
+          "name": "Nong Chang",
+          "lat": 15.36755,
+          "lng": 99.77273
+        },
+        {
+          "name": "Nong Khayang",
+          "lat": 15.34892,
+          "lng": 99.94706
+        },
+        {
+          "name": "Sawang Arom",
+          "lat": 15.6025,
+          "lng": 99.7849
+        },
+        {
+          "name": "Thap Than",
+          "lat": 15.46063,
+          "lng": 99.89166
+        },
+        {
+          "name": "Uthai Thani",
+          "lat": 15.37939,
+          "lng": 100.0245
+        }
+      ]
+    },
+    {
+      "name": "Uttaradit",
+      "lat": 17.6200886,
+      "lng": 100.0992942,
+      "districts": [
+        {
+          "name": "Ban Khok",
+          "lat": 18.1468,
+          "lng": 101.0661
+        },
+        {
+          "name": "Fak Tha",
+          "lat": 18.00078,
+          "lng": 100.88885
+        },
+        {
+          "name": "Lap Lae",
+          "lat": 17.65741,
+          "lng": 100.01484
+        },
+        {
+          "name": "Mueang Uttaradit",
+          "lat": 17.68138,
+          "lng": 100.19963
+        },
+        {
+          "name": "Nam Pat",
+          "lat": 17.70025,
+          "lng": 100.72738
+        },
+        {
+          "name": "Phichai",
+          "lat": 17.30188,
+          "lng": 100.11281
+        },
+        {
+          "name": "Tha Pla",
+          "lat": 17.85868,
+          "lng": 100.47061
+        },
+        {
+          "name": "Thong Saen Khan",
+          "lat": 17.4993,
+          "lng": 100.39658
+        },
+        {
+          "name": "Tron",
+          "lat": 17.47231,
+          "lng": 100.13467
+        },
+        {
+          "name": "Uttaradit",
+          "lat": 17.62557,
+          "lng": 100.09421
+        }
+      ]
+    },
+    {
+      "name": "Yala",
+      "lat": 6.5567245,
+      "lng": 101.2902517,
+      "districts": [
+        {
+          "name": "Amphoe Betong",
+          "lat": 5.86362,
+          "lng": 101.22737
+        },
+        {
+          "name": "Bannang Sata",
+          "lat": 6.25643,
+          "lng": 101.27852
+        },
+        {
+          "name": "Betong",
+          "lat": 5.77434,
+          "lng": 101.07231
+        },
+        {
+          "name": "Kabang",
+          "lat": 6.37923,
+          "lng": 100.98348
+        },
+        {
+          "name": "Krong Pinang",
+          "lat": 6.39932,
+          "lng": 101.2571
+        },
+        {
+          "name": "Mueang Yala",
+          "lat": 6.54378,
+          "lng": 101.25105
+        },
+        {
+          "name": "Raman",
+          "lat": 6.48985,
+          "lng": 101.43442
+        },
+        {
+          "name": "Than To",
+          "lat": 6.08042,
+          "lng": 101.25941
+        },
+        {
+          "name": "Yaha",
+          "lat": 6.40529,
+          "lng": 101.12679
+        },
+        {
+          "name": "Yala",
+          "lat": 6.53995,
+          "lng": 101.28128
+        }
+      ]
+    },
+    {
+      "name": "Yasothon",
+      "lat": 15.792641,
+      "lng": 104.1452827,
+      "districts": [
+        {
+          "name": "Kham Khuan Kaeo",
+          "lat": 15.67197,
+          "lng": 104.33372
+        },
+        {
+          "name": "Kho Wang",
+          "lat": 15.38164,
+          "lng": 104.34109
+        },
+        {
+          "name": "Kut Chum",
+          "lat": 16.0462,
+          "lng": 104.30545
+        },
+        {
+          "name": "Loeng Nok Tha",
+          "lat": 16.20433,
+          "lng": 104.51442
+        },
+        {
+          "name": "Maha Chana Chai",
+          "lat": 15.51267,
+          "lng": 104.26104
+        },
+        {
+          "name": "Mueang Yasothon",
+          "lat": 15.8555,
+          "lng": 104.17804
+        },
+        {
+          "name": "Pa Tio",
+          "lat": 15.84415,
+          "lng": 104.39994
+        },
+        {
+          "name": "Sai Mun",
+          "lat": 15.97917,
+          "lng": 104.1907
+        },
+        {
+          "name": "Thai Charoen",
+          "lat": 16.07936,
+          "lng": 104.42778
+        },
+        {
+          "name": "Yasothon",
+          "lat": 15.79408,
+          "lng": 104.1451
+        }
+      ]
+    }
+  ]
+}

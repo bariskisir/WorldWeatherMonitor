@@ -1,0 +1,483 @@
+{
+  "name": "Myanmar",
+  "lat": 22,
+  "lng": 98,
+  "cities": [
+    {
+      "name": "Ayeyarwady",
+      "lat": 16.8340079,
+      "lng": 95.1804705,
+      "districts": [
+        {
+          "name": "Hinthada",
+          "lat": 17.64944,
+          "lng": 95.45705
+        },
+        {
+          "name": "Pathein",
+          "lat": 16.77919,
+          "lng": 94.73212
+        },
+        {
+          "name": "Bogale",
+          "lat": 16.29415,
+          "lng": 95.39742
+        },
+        {
+          "name": "Kyaiklat",
+          "lat": 16.44502,
+          "lng": 95.72373
+        },
+        {
+          "name": "Maubin",
+          "lat": 16.73148,
+          "lng": 95.65441
+        },
+        {
+          "name": "Mawlamyinegyunn",
+          "lat": 16.3772,
+          "lng": 95.26488
+        },
+        {
+          "name": "Myanaung",
+          "lat": 18.28651,
+          "lng": 95.32014
+        },
+        {
+          "name": "Nyaungdon",
+          "lat": 17.04459,
+          "lng": 95.63957
+        },
+        {
+          "name": "Pyapon",
+          "lat": 16.28543,
+          "lng": 95.67882
+        },
+        {
+          "name": "Wakema",
+          "lat": 16.60333,
+          "lng": 95.18278
+        }
+      ]
+    },
+    {
+      "name": "Bago",
+      "lat": 17.336667,
+      "lng": 96.479722,
+      "districts": [
+        {
+          "name": "Bago",
+          "lat": 17.33521,
+          "lng": 96.48135
+        },
+        {
+          "name": "Pyay",
+          "lat": 18.82464,
+          "lng": 95.22216
+        },
+        {
+          "name": "Taungoo",
+          "lat": 18.94291,
+          "lng": 96.43408
+        },
+        {
+          "name": "Letpandan",
+          "lat": 17.78664,
+          "lng": 95.75076
+        },
+        {
+          "name": "Nyaunglebin",
+          "lat": 17.95363,
+          "lng": 96.72247
+        },
+        {
+          "name": "Paungde",
+          "lat": 18.49167,
+          "lng": 95.50591
+        },
+        {
+          "name": "Pyu",
+          "lat": 18.4813,
+          "lng": 96.43742
+        },
+        {
+          "name": "Thanatpin",
+          "lat": 17.29136,
+          "lng": 96.57523
+        },
+        {
+          "name": "Tharyarwady",
+          "lat": 17.65399,
+          "lng": 95.78813
+        }
+      ]
+    },
+    {
+      "name": "Chin",
+      "lat": 22.018242,
+      "lng": 93.5038035,
+      "districts": [
+        {
+          "name": "Falam",
+          "lat": 22.91335,
+          "lng": 93.67779
+        },
+        {
+          "name": "Hakha",
+          "lat": 22.64452,
+          "lng": 93.61076
+        }
+      ]
+    },
+    {
+      "name": "Kachin",
+      "lat": 26.0207656,
+      "lng": 97.4919258,
+      "districts": [
+        {
+          "name": "Bhamo",
+          "lat": 24.25256,
+          "lng": 97.23357
+        },
+        {
+          "name": "Myitkyina",
+          "lat": 25.38327,
+          "lng": 97.39637
+        }
+      ]
+    },
+    {
+      "name": "Kayah",
+      "lat": 19.2812505,
+      "lng": 97.3291806,
+      "districts": [
+        {
+          "name": "Loikaw",
+          "lat": 19.67798,
+          "lng": 97.20975
+        }
+      ]
+    },
+    {
+      "name": "Kayin",
+      "lat": 17.1863135,
+      "lng": 97.7499316,
+      "districts": [
+        {
+          "name": "Kyain Seikgyi Township",
+          "lat": 15.82288,
+          "lng": 98.25257
+        },
+        {
+          "name": "Dellok",
+          "lat": 16.04072,
+          "lng": 97.91773
+        },
+        {
+          "name": "Hpa-An",
+          "lat": 16.88953,
+          "lng": 97.63482
+        },
+        {
+          "name": "Klonhtoug",
+          "lat": 15.95411,
+          "lng": 98.4325
+        },
+        {
+          "name": "Mikenaungea",
+          "lat": 15.95846,
+          "lng": 98.42721
+        },
+        {
+          "name": "Myawadi",
+          "lat": 16.68911,
+          "lng": 98.50893
+        },
+        {
+          "name": "Pulei",
+          "lat": 16.06243,
+          "lng": 97.8828
+        },
+        {
+          "name": "Tagondaing",
+          "lat": 16.0675,
+          "lng": 97.90694
+        },
+        {
+          "name": "Tamoowoug",
+          "lat": 16.03447,
+          "lng": 97.91458
+        }
+      ]
+    },
+    {
+      "name": "Magway",
+      "lat": 20.1491458,
+      "lng": 94.9213518,
+      "districts": [
+        {
+          "name": "Pakokku",
+          "lat": 21.33489,
+          "lng": 95.08438
+        },
+        {
+          "name": "Yenangyaung",
+          "lat": 20.46504,
+          "lng": 94.8712
+        },
+        {
+          "name": "Chauk",
+          "lat": 20.89921,
+          "lng": 94.81784
+        },
+        {
+          "name": "Magway",
+          "lat": 20.14956,
+          "lng": 94.93246
+        },
+        {
+          "name": "Minbu",
+          "lat": 20.18059,
+          "lng": 94.87595
+        },
+        {
+          "name": "Myaydo",
+          "lat": 19.36838,
+          "lng": 95.21512
+        },
+        {
+          "name": "Taungdwingyi",
+          "lat": 20.0065,
+          "lng": 95.54531
+        },
+        {
+          "name": "Thayetmyo",
+          "lat": 19.32076,
+          "lng": 95.18272
+        }
+      ]
+    },
+    {
+      "name": "Mandalay",
+      "lat": 21.9596834,
+      "lng": 96.0948743,
+      "districts": [
+        {
+          "name": "Mandalay",
+          "lat": 21.97473,
+          "lng": 96.08359
+        },
+        {
+          "name": "Meiktila",
+          "lat": 20.87776,
+          "lng": 95.85844
+        },
+        {
+          "name": "Myingyan",
+          "lat": 21.46002,
+          "lng": 95.3884
+        },
+        {
+          "name": "Pyin Oo Lwin",
+          "lat": 22.03501,
+          "lng": 96.45683
+        },
+        {
+          "name": "Kyaukse",
+          "lat": 21.6056,
+          "lng": 96.13508
+        },
+        {
+          "name": "Mogok",
+          "lat": 22.91766,
+          "lng": 96.50982
+        },
+        {
+          "name": "Nyaungshwe",
+          "lat": 20.66084,
+          "lng": 96.93405
+        },
+        {
+          "name": "Yamethin",
+          "lat": 20.43189,
+          "lng": 96.13875
+        }
+      ]
+    },
+    {
+      "name": "Mon State",
+      "lat": 17.0832546,
+      "lng": 97.3337305,
+      "districts": [
+        {
+          "name": "Mawlamyine",
+          "lat": 16.49051,
+          "lng": 97.62825
+        },
+        {
+          "name": "Thaton",
+          "lat": 16.91867,
+          "lng": 97.37001
+        },
+        {
+          "name": "Kyaikkami",
+          "lat": 16.07686,
+          "lng": 97.56388
+        },
+        {
+          "name": "Kyaikto",
+          "lat": 17.30858,
+          "lng": 97.01124
+        },
+        {
+          "name": "Martaban",
+          "lat": 16.52834,
+          "lng": 97.6157
+        },
+        {
+          "name": "Mudon",
+          "lat": 16.25624,
+          "lng": 97.7246
+        }
+      ]
+    },
+    {
+      "name": "Naypyidaw",
+      "lat": 19.7753289,
+      "lng": 96.1032552,
+      "districts": [
+        {
+          "name": "Nay Pyi Taw",
+          "lat": 19.745,
+          "lng": 96.12972,
+          "iscapital": true
+        },
+        {
+          "name": "Pyinmana",
+          "lat": 19.7381,
+          "lng": 96.20742
+        }
+      ]
+    },
+    {
+      "name": "Rakhine",
+      "lat": 19.5212991,
+      "lng": 94.0072428,
+      "districts": [
+        {
+          "name": "Sittwe",
+          "lat": 20.14624,
+          "lng": 92.89835
+        }
+      ]
+    },
+    {
+      "name": "Sagaing",
+      "lat": 24.4768486,
+      "lng": 95.47474,
+      "districts": [
+        {
+          "name": "Monywa",
+          "lat": 22.10856,
+          "lng": 95.13583
+        },
+        {
+          "name": "Mawlaik",
+          "lat": 23.64254,
+          "lng": 94.40478
+        },
+        {
+          "name": "Sagaing",
+          "lat": 21.8787,
+          "lng": 95.97965
+        },
+        {
+          "name": "Shwebo",
+          "lat": 22.56925,
+          "lng": 95.69818
+        }
+      ]
+    },
+    {
+      "name": "Shan",
+      "lat": 21.5122404,
+      "lng": 98.0098362,
+      "districts": [
+        {
+          "name": "Lashio",
+          "lat": 22.9359,
+          "lng": 97.7498
+        },
+        {
+          "name": "Taunggyi",
+          "lat": 20.78919,
+          "lng": 97.03776
+        },
+        {
+          "name": "Tachilek",
+          "lat": 20.4475,
+          "lng": 99.88083
+        }
+      ]
+    },
+    {
+      "name": "Tanintharyi",
+      "lat": 12.1091546,
+      "lng": 98.8165256,
+      "districts": [
+        {
+          "name": "Dawei",
+          "lat": 14.0823,
+          "lng": 98.19151
+        },
+        {
+          "name": "Myeik",
+          "lat": 12.43954,
+          "lng": 98.60028
+        },
+        {
+          "name": "Kawthoung",
+          "lat": 9.98238,
+          "lng": 98.55034
+        }
+      ]
+    },
+    {
+      "name": "Yangon",
+      "lat": 16.7967129,
+      "lng": 96.1609916,
+      "districts": [
+        {
+          "name": "Yangon",
+          "lat": 16.80528,
+          "lng": 96.15611
+        },
+        {
+          "name": "Kanbe",
+          "lat": 16.70728,
+          "lng": 96.00168
+        },
+        {
+          "name": "Kayan",
+          "lat": 16.90802,
+          "lng": 96.56037
+        },
+        {
+          "name": "Syriam",
+          "lat": 16.76887,
+          "lng": 96.24503
+        },
+        {
+          "name": "Thongwa",
+          "lat": 16.75998,
+          "lng": 96.52498
+        },
+        {
+          "name": "Twante",
+          "lat": 16.71047,
+          "lng": 95.92866
+        }
+      ]
+    }
+  ]
+}

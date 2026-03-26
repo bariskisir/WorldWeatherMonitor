@@ -1,0 +1,206 @@
+{
+  "name": "Eswatini",
+  "lat": -26.5,
+  "lng": 31.5,
+  "cities": [
+    {
+      "name": "Hhohho",
+      "lat": -26.0988012,
+      "lng": 31.3630822,
+      "districts": [
+        {
+          "name": "Mbabane",
+          "lat": -26.31667,
+          "lng": 31.13333,
+          "iscapital": true
+        },
+        {
+          "name": "Bulembu",
+          "lat": -25.96667,
+          "lng": 31.13333
+        },
+        {
+          "name": "Hhukwini",
+          "lat": -26.31972,
+          "lng": 31.22222
+        },
+        {
+          "name": "Lobamba",
+          "lat": -26.46667,
+          "lng": 31.2
+        },
+        {
+          "name": "Nkhaba",
+          "lat": -26.15728,
+          "lng": 31.16391
+        },
+        {
+          "name": "Piggs Peak",
+          "lat": -25.96082,
+          "lng": 31.24666
+        }
+      ]
+    },
+    {
+      "name": "Lubombo",
+      "lat": -26.55452,
+      "lng": 31.8619116,
+      "districts": [
+        {
+          "name": "Big Bend",
+          "lat": -26.81667,
+          "lng": 31.93333
+        },
+        {
+          "name": "Dvokodvweni Inkhundla",
+          "lat": -26.45398,
+          "lng": 31.76456
+        },
+        {
+          "name": "Lomashasha",
+          "lat": -26.06644,
+          "lng": 32.00768
+        },
+        {
+          "name": "Mhlume",
+          "lat": -26.03333,
+          "lng": 31.85
+        },
+        {
+          "name": "Nsoko",
+          "lat": -27.03333,
+          "lng": 31.95
+        },
+        {
+          "name": "Siteki",
+          "lat": -26.4525,
+          "lng": 31.94722
+        },
+        {
+          "name": "Tshaneni",
+          "lat": -25.98333,
+          "lng": 31.71667
+        },
+        {
+          "name": "Vuvulane",
+          "lat": -26.07427,
+          "lng": 31.87672
+        }
+      ]
+    },
+    {
+      "name": "Manzini",
+      "lat": -26.4976444,
+      "lng": 31.3750815,
+      "districts": [
+        {
+          "name": "Manzini",
+          "lat": -26.49884,
+          "lng": 31.38004
+        },
+        {
+          "name": "Bhunya",
+          "lat": -26.55,
+          "lng": 31.01667
+        },
+        {
+          "name": "Ekukhanyeni",
+          "lat": -26.3875,
+          "lng": 31.52806
+        },
+        {
+          "name": "Kwaluseni",
+          "lat": -26.48333,
+          "lng": 31.33333
+        },
+        {
+          "name": "Malkerns",
+          "lat": -26.56667,
+          "lng": 31.18333
+        },
+        {
+          "name": "Manzini South",
+          "lat": -26.48333,
+          "lng": 31.36667
+        },
+        {
+          "name": "Mhlambanyatsi",
+          "lat": -26.45,
+          "lng": 31.01667
+        },
+        {
+          "name": "Ngwempisi",
+          "lat": -26.6999,
+          "lng": 31.28876
+        },
+        {
+          "name": "Ntondozi",
+          "lat": -26.635,
+          "lng": 31.22556
+        },
+        {
+          "name": "Sidvokodvo",
+          "lat": -26.6282,
+          "lng": 31.42021
+        }
+      ]
+    },
+    {
+      "name": "Shiselweni",
+      "lat": -27.036022,
+      "lng": 31.3321298,
+      "districts": [
+        {
+          "name": "Hlatikulu",
+          "lat": -26.97917,
+          "lng": 31.32444
+        },
+        {
+          "name": "Hluti",
+          "lat": -27.21667,
+          "lng": 31.61667
+        },
+        {
+          "name": "Kubuta",
+          "lat": -26.88333,
+          "lng": 31.48333
+        },
+        {
+          "name": "Lavumisa",
+          "lat": -27.31005,
+          "lng": 31.89198
+        },
+        {
+          "name": "Matsanjeni",
+          "lat": -27.21585,
+          "lng": 31.72309
+        },
+        {
+          "name": "Ngudzeni",
+          "lat": -27.03583,
+          "lng": 31.55111
+        },
+        {
+          "name": "Nhlangano",
+          "lat": -27.11222,
+          "lng": 31.19833
+        },
+        {
+          "name": "Nkwene",
+          "lat": -26.89778,
+          "lng": 31.24972
+        },
+        {
+          "name": "Sigwe Inkhundla",
+          "lat": -27.05821,
+          "lng": 31.64543
+        },
+        {
+          "name": "Zombodze Ikhundla",
+          "lat": -27.22746,
+          "lng": 31.33799
+        }
+      ]
+    }
+  ]
+}

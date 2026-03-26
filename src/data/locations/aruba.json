@@ -1,0 +1,123 @@
+{
+  "name": "Aruba",
+  "lat": 12.5,
+  "lng": -69.96666666,
+  "cities": [
+    {
+      "name": "Noord",
+      "lat": 12.5636805,
+      "lng": -70.0329869,
+      "districts": []
+    },
+    {
+      "name": "Oranjestad",
+      "lat": 12.5201024,
+      "lng": -70.0371329,
+      "districts": [
+        {
+          "name": "Oranjestad",
+          "lat": 12.52398,
+          "lng": -70.02703,
+          "iscapital": true
+        },
+        {
+          "name": "Alto Vista",
+          "lat": 12.5705,
+          "lng": -70.01912
+        },
+        {
+          "name": "Moco",
+          "lat": 12.55134,
+          "lng": -70.00843
+        },
+        {
+          "name": "Noord",
+          "lat": 12.56596,
+          "lng": -70.03198
+        },
+        {
+          "name": "Palm Beach",
+          "lat": 12.56847,
+          "lng": -70.03887
+        },
+        {
+          "name": "Paradera",
+          "lat": 12.5351,
+          "lng": -70.00688
+        },
+        {
+          "name": "Pos Chiquito",
+          "lat": 12.46497,
+          "lng": -69.96233
+        },
+        {
+          "name": "San Nicolas",
+          "lat": 12.43624,
+          "lng": -69.90713
+        },
+        {
+          "name": "Santa Cruz",
+          "lat": 12.50953,
+          "lng": -69.98094
+        },
+        {
+          "name": "Savaneta",
+          "lat": 12.45026,
+          "lng": -69.93811
+        },
+        {
+          "name": "Tanki Leendert",
+          "lat": 12.53914,
+          "lng": -70.02004
+        },
+        {
+          "name": "Washington",
+          "lat": 12.55837,
+          "lng": -70.03816
+        }
+      ]
+    },
+    {
+      "name": "Oranjestad East",
+      "lat": 12.5022696,
+      "lng": -70.0149586,
+      "districts": []
+    },
+    {
+      "name": "Oranjestad West",
+      "lat": 12.5361486,
+      "lng": -70.0430597,
+      "districts": []
+    },
+    {
+      "name": "Paradera",
+      "lat": 12.5362871,
+      "lng": -70.0148511,
+      "districts": []
+    },
+    {
+      "name": "San Nicolaas Noord",
+      "lat": 12.4642717,
+      "lng": -69.9434939,
+      "districts": []
+    },
+    {
+      "name": "San Nicolaas Zuid",
+      "lat": 12.4278558,
+      "lng": -69.9381079,
+      "districts": []
+    },
+    {
+      "name": "Santa Cruz",
+      "lat": 12.5112836,
+      "lng": -69.9876966,
+      "districts": []
+    },
+    {
+      "name": "Savaneta",
+      "lat": 12.4526385,
+      "lng": -69.9496521,
+      "districts": []
+    }
+  ]
+}

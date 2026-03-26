@@ -1,0 +1,211 @@
+{
+  "name": "Gabon",
+  "lat": -1,
+  "lng": 11.75,
+  "cities": [
+    {
+      "name": "Estuaire",
+      "lat": 0.4302639,
+      "lng": 9.4655189,
+      "districts": [
+        {
+          "name": "Libreville",
+          "lat": 0.39241,
+          "lng": 9.45356,
+          "iscapital": true
+        },
+        {
+          "name": "Cocobeach",
+          "lat": 1.00019,
+          "lng": 9.58229
+        },
+        {
+          "name": "Ntoum",
+          "lat": 0.39051,
+          "lng": 9.76096
+        }
+      ]
+    },
+    {
+      "name": "Haut-Ogooué",
+      "lat": -1.231544,
+      "lng": 13.8309713,
+      "districts": [
+        {
+          "name": "Franceville",
+          "lat": -1.63333,
+          "lng": 13.58357
+        },
+        {
+          "name": "Lékoni",
+          "lat": -1.58431,
+          "lng": 14.25905
+        },
+        {
+          "name": "Moanda",
+          "lat": -1.56652,
+          "lng": 13.1987
+        },
+        {
+          "name": "Mounana",
+          "lat": -1.4085,
+          "lng": 13.15857
+        },
+        {
+          "name": "Okondja",
+          "lat": -0.65487,
+          "lng": 13.67533
+        }
+      ]
+    },
+    {
+      "name": "Moyen-Ogooué",
+      "lat": -0.5003495,
+      "lng": 10.4991063,
+      "districts": [
+        {
+          "name": "Lambaréné",
+          "lat": -0.7001,
+          "lng": 10.24055
+        },
+        {
+          "name": "Ndjolé",
+          "lat": -0.17827,
+          "lng": 10.76488
+        }
+      ]
+    },
+    {
+      "name": "Ngounié",
+      "lat": -1.5910727,
+      "lng": 10.978503,
+      "districts": [
+        {
+          "name": "Fougamou",
+          "lat": -1.21544,
+          "lng": 10.58378
+        },
+        {
+          "name": "Mbigou",
+          "lat": -1.90046,
+          "lng": 11.906
+        },
+        {
+          "name": "Mimongo",
+          "lat": -1.61952,
+          "lng": 11.60675
+        },
+        {
+          "name": "Mouila",
+          "lat": -1.86846,
+          "lng": 11.05594
+        },
+        {
+          "name": "Ndendé",
+          "lat": -2.40077,
+          "lng": 11.35813
+        }
+      ]
+    },
+    {
+      "name": "Nyanga",
+      "lat": -3.0080415,
+      "lng": 10.9964746,
+      "districts": [
+        {
+          "name": "Mayumba",
+          "lat": -3.43198,
+          "lng": 10.6554
+        },
+        {
+          "name": "Tchibanga",
+          "lat": -2.93323,
+          "lng": 10.98178
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Ivindo",
+      "lat": 0.60082,
+      "lng": 12.6887911,
+      "districts": [
+        {
+          "name": "Booué",
+          "lat": -0.09207,
+          "lng": 11.93846
+        },
+        {
+          "name": "Makokou",
+          "lat": 0.57381,
+          "lng": 12.86419
+        },
+        {
+          "name": "Zadie",
+          "lat": 0.92582,
+          "lng": 13.90813
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Lolo",
+      "lat": -1.0002904,
+      "lng": 12.4952424,
+      "districts": [
+        {
+          "name": "Koulamoutou",
+          "lat": -1.13667,
+          "lng": 12.46399
+        },
+        {
+          "name": "Lastoursville",
+          "lat": -0.81742,
+          "lng": 12.70818
+        }
+      ]
+    },
+    {
+      "name": "Ogooué-Maritime",
+      "lat": -1.4958157,
+      "lng": 9.5060896,
+      "districts": [
+        {
+          "name": "Port-Gentil",
+          "lat": -0.71933,
+          "lng": 8.78151
+        },
+        {
+          "name": "Gamba",
+          "lat": -2.65,
+          "lng": 10
+        },
+        {
+          "name": "Omboué",
+          "lat": -1.57464,
+          "lng": 9.26184
+        }
+      ]
+    },
+    {
+      "name": "Woleu-Ntem",
+      "lat": 1.2950125,
+      "lng": 11.8218827,
+      "districts": [
+        {
+          "name": "Bitam",
+          "lat": 2.07597,
+          "lng": 11.50065
+        },
+        {
+          "name": "Mitzic",
+          "lat": 0.78205,
+          "lng": 11.54904
+        },
+        {
+          "name": "Oyem",
+          "lat": 1.5995,
+          "lng": 11.57933
+        }
+      ]
+    }
+  ]
+}

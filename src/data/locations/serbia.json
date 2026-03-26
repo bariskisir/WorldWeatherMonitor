@@ -1,0 +1,2119 @@
+{
+  "name": "Serbia",
+  "lat": 44,
+  "lng": 21,
+  "cities": [
+    {
+      "name": "Belgrade",
+      "lat": 44.8178131,
+      "lng": 20.4568974,
+      "districts": [
+        {
+          "name": "Zemun",
+          "lat": 44.8458,
+          "lng": 20.40116
+        },
+        {
+          "name": "Barič",
+          "lat": 44.6507,
+          "lng": 20.25941
+        },
+        {
+          "name": "Bečmen",
+          "lat": 44.77983,
+          "lng": 20.20577
+        },
+        {
+          "name": "Dobanovci",
+          "lat": 44.82631,
+          "lng": 20.22487
+        },
+        {
+          "name": "Lazarevac",
+          "lat": 44.38534,
+          "lng": 20.2557
+        },
+        {
+          "name": "Mala Moštanica",
+          "lat": 44.63834,
+          "lng": 20.306
+        },
+        {
+          "name": "Obrenovac",
+          "lat": 44.65486,
+          "lng": 20.20017
+        },
+        {
+          "name": "Ostružnica",
+          "lat": 44.72769,
+          "lng": 20.31845
+        },
+        {
+          "name": "Ovča",
+          "lat": 44.88349,
+          "lng": 20.53336
+        },
+        {
+          "name": "Rušanj",
+          "lat": 44.68477,
+          "lng": 20.44993
+        },
+        {
+          "name": "Sremčica",
+          "lat": 44.67653,
+          "lng": 20.39232
+        },
+        {
+          "name": "Stepojevac",
+          "lat": 44.51278,
+          "lng": 20.295
+        },
+        {
+          "name": "Stubline",
+          "lat": 44.57476,
+          "lng": 20.13477
+        },
+        {
+          "name": "Surčin",
+          "lat": 44.79306,
+          "lng": 20.28028
+        },
+        {
+          "name": "Tabanović",
+          "lat": 44.82018,
+          "lng": 19.64128
+        },
+        {
+          "name": "Ugrinovci",
+          "lat": 44.87635,
+          "lng": 20.18763
+        },
+        {
+          "name": "Umka",
+          "lat": 44.67806,
+          "lng": 20.30472
+        },
+        {
+          "name": "Velika Moštanica",
+          "lat": 44.66486,
+          "lng": 20.35395
+        },
+        {
+          "name": "Vranić",
+          "lat": 44.60237,
+          "lng": 20.32872
+        },
+        {
+          "name": "Zvečka",
+          "lat": 44.64025,
+          "lng": 20.16432
+        }
+      ]
+    },
+    {
+      "name": "Bor",
+      "lat": 44.0698918,
+      "lng": 22.0985086,
+      "districts": [
+        {
+          "name": "Bor",
+          "lat": 44.36667,
+          "lng": 22.25
+        },
+        {
+          "name": "Donji Milanovac",
+          "lat": 44.46593,
+          "lng": 22.1517
+        },
+        {
+          "name": "Kladovo",
+          "lat": 44.6043989,
+          "lng": 22.5081942
+        },
+        {
+          "name": "Majdanpek",
+          "lat": 44.4252547,
+          "lng": 21.8092733
+        },
+        {
+          "name": "Negotin",
+          "lat": 44.2181618,
+          "lng": 22.4516206
+        }
+      ]
+    },
+    {
+      "name": "Braničevo",
+      "lat": 44.6982246,
+      "lng": 21.5446775,
+      "districts": [
+        {
+          "name": "Golubac",
+          "lat": 44.6355216,
+          "lng": 21.5952559
+        },
+        {
+          "name": "Klenje",
+          "lat": 44.80794,
+          "lng": 19.43508
+        },
+        {
+          "name": "Kučevo",
+          "lat": 44.4893875,
+          "lng": 21.6349977
+        },
+        {
+          "name": "Malo Crniće",
+          "lat": 44.5401398,
+          "lng": 21.1980262
+        },
+        {
+          "name": "Petrovac na Mlavi",
+          "lat": 44.3539737,
+          "lng": 21.2805067
+        },
+        {
+          "name": "Požarevac",
+          "lat": 44.62133,
+          "lng": 21.18782
+        },
+        {
+          "name": "Radenka",
+          "lat": 44.58345,
+          "lng": 21.76469
+        },
+        {
+          "name": "Ševica",
+          "lat": 44.50883,
+          "lng": 21.72296
+        },
+        {
+          "name": "Veliko Gradište",
+          "lat": 44.7519641,
+          "lng": 21.4628213
+        },
+        {
+          "name": "Žabari",
+          "lat": 44.3852213,
+          "lng": 21.0449872
+        },
+        {
+          "name": "Žagubica",
+          "lat": 44.1554445,
+          "lng": 21.6931799
+        }
+      ]
+    },
+    {
+      "name": "Central Banat",
+      "lat": 45.4358778,
+      "lng": 20.5108293,
+      "districts": [
+        {
+          "name": "Aradac",
+          "lat": 45.38346,
+          "lng": 20.30137
+        },
+        {
+          "name": "Banatski Despotovac",
+          "lat": 45.36606,
+          "lng": 20.66407
+        },
+        {
+          "name": "Banatski Dvor",
+          "lat": 45.51866,
+          "lng": 20.51146
+        },
+        {
+          "name": "Banatsko Karađorđevo",
+          "lat": 45.58693,
+          "lng": 20.56421
+        },
+        {
+          "name": "Belo Blato",
+          "lat": 45.27278,
+          "lng": 20.375
+        },
+        {
+          "name": "Bočar",
+          "lat": 45.76994,
+          "lng": 20.2839
+        },
+        {
+          "name": "Boka",
+          "lat": 45.3554,
+          "lng": 20.82987
+        },
+        {
+          "name": "Botoš",
+          "lat": 45.30837,
+          "lng": 20.63514
+        },
+        {
+          "name": "Čenta",
+          "lat": 45.10814,
+          "lng": 20.38947
+        },
+        {
+          "name": "Čestereg",
+          "lat": 45.56361,
+          "lng": 20.53194
+        },
+        {
+          "name": "Ečka",
+          "lat": 45.32328,
+          "lng": 20.44294
+        },
+        {
+          "name": "Elemir",
+          "lat": 45.44263,
+          "lng": 20.30003
+        },
+        {
+          "name": "Farkaždin",
+          "lat": 45.19172,
+          "lng": 20.47239
+        },
+        {
+          "name": "Hetin",
+          "lat": 45.66202,
+          "lng": 20.79138
+        },
+        {
+          "name": "Jarkovac",
+          "lat": 45.26985,
+          "lng": 20.76078
+        },
+        {
+          "name": "Jaša Tomić",
+          "lat": 45.44725,
+          "lng": 20.85546
+        },
+        {
+          "name": "Klek",
+          "lat": 45.42254,
+          "lng": 20.48049
+        },
+        {
+          "name": "Knićanin",
+          "lat": 45.18675,
+          "lng": 20.319
+        },
+        {
+          "name": "Konak",
+          "lat": 45.31575,
+          "lng": 20.91468
+        },
+        {
+          "name": "Krajišnik",
+          "lat": 45.45283,
+          "lng": 20.72976
+        },
+        {
+          "name": "Kumane",
+          "lat": 45.53946,
+          "lng": 20.22902
+        },
+        {
+          "name": "Lazarevo",
+          "lat": 45.38893,
+          "lng": 20.53999
+        },
+        {
+          "name": "Lukićevo",
+          "lat": 45.33815,
+          "lng": 20.49895
+        },
+        {
+          "name": "Međa",
+          "lat": 45.53815,
+          "lng": 20.80677
+        },
+        {
+          "name": "Melenci",
+          "lat": 45.5168,
+          "lng": 20.31961
+        },
+        {
+          "name": "Mihajlovo",
+          "lat": 45.47085,
+          "lng": 20.41508
+        },
+        {
+          "name": "Neuzina",
+          "lat": 45.3446,
+          "lng": 20.71418
+        },
+        {
+          "name": "Nova Crnja",
+          "lat": 45.6871254,
+          "lng": 20.5100528
+        },
+        {
+          "name": "Novi Bečej",
+          "lat": 45.5943515,
+          "lng": 20.1885258
+        },
+        {
+          "name": "Novi Itebej",
+          "lat": 45.55918,
+          "lng": 20.7003
+        },
+        {
+          "name": "Novo Miloševo",
+          "lat": 45.71916,
+          "lng": 20.30364
+        },
+        {
+          "name": "Orlovat",
+          "lat": 45.24171,
+          "lng": 20.58089
+        },
+        {
+          "name": "Perlez",
+          "lat": 45.20813,
+          "lng": 20.38197
+        },
+        {
+          "name": "Radojevo",
+          "lat": 45.74617,
+          "lng": 20.78917
+        },
+        {
+          "name": "Ravni Topolovac",
+          "lat": 45.46082,
+          "lng": 20.56939
+        },
+        {
+          "name": "Sečanj",
+          "lat": 45.32387,
+          "lng": 20.6723321
+        },
+        {
+          "name": "Srpska Crnja",
+          "lat": 45.72538,
+          "lng": 20.69008
+        },
+        {
+          "name": "Srpski Itebej",
+          "lat": 45.56715,
+          "lng": 20.7135
+        },
+        {
+          "name": "Stajićevo",
+          "lat": 45.29489,
+          "lng": 20.45845
+        },
+        {
+          "name": "Sutjeska",
+          "lat": 45.38312,
+          "lng": 20.6962
+        },
+        {
+          "name": "Taraš",
+          "lat": 45.46737,
+          "lng": 20.19867
+        },
+        {
+          "name": "Toba",
+          "lat": 45.68943,
+          "lng": 20.55714
+        },
+        {
+          "name": "Tomaševac",
+          "lat": 45.26855,
+          "lng": 20.62272
+        },
+        {
+          "name": "Torak",
+          "lat": 45.50928,
+          "lng": 20.609
+        },
+        {
+          "name": "Torda",
+          "lat": 45.58423,
+          "lng": 20.459
+        },
+        {
+          "name": "Vojvoda Stepa",
+          "lat": 45.68537,
+          "lng": 20.65536
+        },
+        {
+          "name": "Žitište",
+          "lat": 45.5415019,
+          "lng": 20.2931049
+        },
+        {
+          "name": "Zrenjanin",
+          "lat": 45.38361,
+          "lng": 20.38194
+        }
+      ]
+    },
+    {
+      "name": "Jablanica",
+      "lat": 43.4529825,
+      "lng": 21.2688387,
+      "districts": [
+        {
+          "name": "Bojnik",
+          "lat": 43.0396233,
+          "lng": 21.502293
+        },
+        {
+          "name": "Crna Trava",
+          "lat": 42.8122649,
+          "lng": 22.2688572
+        },
+        {
+          "name": "Kamenica",
+          "lat": 44.343,
+          "lng": 19.72333
+        },
+        {
+          "name": "Lebane",
+          "lat": 42.9231294,
+          "lng": 21.7158936
+        },
+        {
+          "name": "Leskovac",
+          "lat": 42.99806,
+          "lng": 21.94611
+        },
+        {
+          "name": "Medveđa",
+          "lat": 42.8327856,
+          "lng": 21.533889
+        },
+        {
+          "name": "Vlasotince",
+          "lat": 42.9664898,
+          "lng": 22.0939966
+        }
+      ]
+    },
+    {
+      "name": "Kolubara",
+      "lat": 44.358907,
+      "lng": 20.1421297,
+      "districts": [
+        {
+          "name": "Gornja Bukovica",
+          "lat": 44.33987,
+          "lng": 19.81368
+        },
+        {
+          "name": "Joševa",
+          "lat": 44.58772,
+          "lng": 19.40967
+        },
+        {
+          "name": "Lajkovac",
+          "lat": 44.3680995,
+          "lng": 20.1411036
+        },
+        {
+          "name": "Ljig",
+          "lat": 44.2228104,
+          "lng": 20.2138996
+        },
+        {
+          "name": "Mionica",
+          "lat": 44.2559528,
+          "lng": 20.0596617
+        },
+        {
+          "name": "Osečina",
+          "lat": 44.3720267,
+          "lng": 19.5792674
+        },
+        {
+          "name": "Ub",
+          "lat": 44.4559411,
+          "lng": 20.0448988
+        },
+        {
+          "name": "Valjevo",
+          "lat": 44.27513,
+          "lng": 19.89821
+        }
+      ]
+    },
+    {
+      "name": "Kosovo",
+      "lat": 42.66333333,
+      "lng": 21.16222222,
+      "districts": []
+    },
+    {
+      "name": "Kosovo-Metohija",
+      "lat": 42.66666667,
+      "lng": 21.16666667,
+      "districts": []
+    },
+    {
+      "name": "Kosovo-Pomoravlje",
+      "lat": 42.5333,
+      "lng": 21.5667,
+      "districts": []
+    },
+    {
+      "name": "Kosovska Mitrovica",
+      "lat": 42.88333333,
+      "lng": 20.86666667,
+      "districts": []
+    },
+    {
+      "name": "Mačva",
+      "lat": 44.5203374,
+      "lng": 19.5034197,
+      "districts": [
+        {
+          "name": "Badovinci",
+          "lat": 44.78534,
+          "lng": 19.37146
+        },
+        {
+          "name": "Banovo Polje",
+          "lat": 44.9104,
+          "lng": 19.44916
+        },
+        {
+          "name": "Belotić",
+          "lat": 44.81782,
+          "lng": 19.54801
+        },
+        {
+          "name": "Bogatić",
+          "lat": 44.8499741,
+          "lng": 19.4013499
+        },
+        {
+          "name": "Bogosavac",
+          "lat": 44.71799,
+          "lng": 19.59533
+        },
+        {
+          "name": "Brdarica",
+          "lat": 44.55376,
+          "lng": 19.7715
+        },
+        {
+          "name": "Bukor",
+          "lat": 44.49523,
+          "lng": 19.57116
+        },
+        {
+          "name": "Čokešina",
+          "lat": 44.65319,
+          "lng": 19.39016
+        },
+        {
+          "name": "Crna Bara",
+          "lat": 44.87374,
+          "lng": 19.3948
+        },
+        {
+          "name": "Dobrić",
+          "lat": 44.70224,
+          "lng": 19.57931
+        },
+        {
+          "name": "Donji Dobrić",
+          "lat": 44.61183,
+          "lng": 19.33109
+        },
+        {
+          "name": "Draginje",
+          "lat": 44.53302,
+          "lng": 19.7625
+        },
+        {
+          "name": "Glušci",
+          "lat": 44.89021,
+          "lng": 19.54913
+        },
+        {
+          "name": "Jadranska Lešnica",
+          "lat": 44.5973,
+          "lng": 19.35209
+        },
+        {
+          "name": "Jelenča",
+          "lat": 44.727,
+          "lng": 19.735
+        },
+        {
+          "name": "Jevremovac",
+          "lat": 44.72172,
+          "lng": 19.66364
+        },
+        {
+          "name": "Koceljeva",
+          "lat": 44.4629934,
+          "lng": 19.7868054
+        },
+        {
+          "name": "Kozjak",
+          "lat": 45.18264,
+          "lng": 20.86381
+        },
+        {
+          "name": "Krupanj",
+          "lat": 44.36556,
+          "lng": 19.36194
+        },
+        {
+          "name": "Lešnica",
+          "lat": 44.6525,
+          "lng": 19.31
+        },
+        {
+          "name": "Lipnički Šor",
+          "lat": 44.58058,
+          "lng": 19.26572
+        },
+        {
+          "name": "Lipolist",
+          "lat": 44.69783,
+          "lng": 19.50101
+        },
+        {
+          "name": "Ljubovija",
+          "lat": 44.18944,
+          "lng": 19.37667
+        },
+        {
+          "name": "Mačva",
+          "lat": 44.61472,
+          "lng": 19.47222
+        },
+        {
+          "name": "Majur",
+          "lat": 44.77105,
+          "lng": 19.65512
+        },
+        {
+          "name": "Mali Zvornik",
+          "lat": 44.37344,
+          "lng": 19.10651
+        },
+        {
+          "name": "Metković",
+          "lat": 44.85617,
+          "lng": 19.54654
+        },
+        {
+          "name": "Novo Selo",
+          "lat": 44.67041,
+          "lng": 19.34495
+        },
+        {
+          "name": "Petkovica",
+          "lat": 44.66627,
+          "lng": 19.43923
+        },
+        {
+          "name": "Pocerski Pričinović",
+          "lat": 44.72222,
+          "lng": 19.70722
+        },
+        {
+          "name": "Ribari",
+          "lat": 44.70961,
+          "lng": 19.42472
+        },
+        {
+          "name": "Rumska",
+          "lat": 44.57261,
+          "lng": 19.58988
+        },
+        {
+          "name": "Šabac",
+          "lat": 44.74667,
+          "lng": 19.69
+        },
+        {
+          "name": "Salaš Crnobarski",
+          "lat": 44.82843,
+          "lng": 19.39437
+        },
+        {
+          "name": "Ševarice",
+          "lat": 44.86704,
+          "lng": 19.66006
+        },
+        {
+          "name": "Sinošević",
+          "lat": 44.61503,
+          "lng": 19.63601
+        },
+        {
+          "name": "Štitar",
+          "lat": 44.79415,
+          "lng": 19.59529
+        },
+        {
+          "name": "Tršić",
+          "lat": 44.49502,
+          "lng": 19.2649
+        },
+        {
+          "name": "Uzveće",
+          "lat": 44.87861,
+          "lng": 19.60356
+        },
+        {
+          "name": "Vladimirci",
+          "lat": 44.61472,
+          "lng": 19.78528
+        },
+        {
+          "name": "Zminjak",
+          "lat": 44.75711,
+          "lng": 19.4707
+        }
+      ]
+    },
+    {
+      "name": "Moravica",
+      "lat": 42.3872682,
+      "lng": 21.7218213,
+      "districts": [
+        {
+          "name": "Čačak",
+          "lat": 43.89139,
+          "lng": 20.34972
+        },
+        {
+          "name": "Gornji Milanovac",
+          "lat": 44.02603,
+          "lng": 20.46152
+        },
+        {
+          "name": "Ivanjica",
+          "lat": 43.583665,
+          "lng": 20.2155694
+        },
+        {
+          "name": "Lučani",
+          "lat": 43.8585493,
+          "lng": 20.1166175
+        },
+        {
+          "name": "Prislonica",
+          "lat": 43.95223,
+          "lng": 20.43521
+        }
+      ]
+    },
+    {
+      "name": "Nišava",
+      "lat": 43.2178129,
+      "lng": 22.4795786,
+      "districts": [
+        {
+          "name": "Niš",
+          "lat": 43.32472,
+          "lng": 21.90333
+        },
+        {
+          "name": "Aleksandrovo",
+          "lat": 45.63755,
+          "lng": 20.59288
+        },
+        {
+          "name": "Aleksinac",
+          "lat": 43.5525548,
+          "lng": 21.6311332
+        },
+        {
+          "name": "Doljevac",
+          "lat": 43.2226265,
+          "lng": 21.7628833
+        },
+        {
+          "name": "Gadžin Han",
+          "lat": 43.2305349,
+          "lng": 22.0131253
+        },
+        {
+          "name": "Merošina",
+          "lat": 43.3015801,
+          "lng": 21.5299305
+        },
+        {
+          "name": "Ražanj",
+          "lat": 43.7092473,
+          "lng": 21.4113126
+        },
+        {
+          "name": "Svrljig",
+          "lat": 43.4693758,
+          "lng": 21.8047277
+        }
+      ]
+    },
+    {
+      "name": "North Bačka",
+      "lat": 45.9011831,
+      "lng": 19.5834192,
+      "districts": [
+        {
+          "name": "Subotica",
+          "lat": 46.1,
+          "lng": 19.66667
+        },
+        {
+          "name": "Bačka Topola",
+          "lat": 45.81516,
+          "lng": 19.6318
+        },
+        {
+          "name": "Krivaja",
+          "lat": 44.55021,
+          "lng": 19.59153
+        },
+        {
+          "name": "Mali Iđoš",
+          "lat": 45.7140624,
+          "lng": 19.5867858
+        }
+      ]
+    },
+    {
+      "name": "North Banat",
+      "lat": 45.8887418,
+      "lng": 20.1902354,
+      "districts": [
+        {
+          "name": "Ada",
+          "lat": 45.7860409,
+          "lng": 19.8478856
+        },
+        {
+          "name": "Adorjan",
+          "lat": 46.00333,
+          "lng": 20.04007
+        },
+        {
+          "name": "Banatska Topola",
+          "lat": 45.67248,
+          "lng": 20.4653
+        },
+        {
+          "name": "Banatsko Veliko Selo",
+          "lat": 45.81961,
+          "lng": 20.60772
+        },
+        {
+          "name": "Bašaid",
+          "lat": 45.64102,
+          "lng": 20.41434
+        },
+        {
+          "name": "Čoka",
+          "lat": 45.9425,
+          "lng": 20.14333
+        },
+        {
+          "name": "Gornji Breg",
+          "lat": 45.91995,
+          "lng": 20.01766
+        },
+        {
+          "name": "Jazovo",
+          "lat": 45.89876,
+          "lng": 20.2213
+        },
+        {
+          "name": "Kanjiža",
+          "lat": 46.06667,
+          "lng": 20.05
+        },
+        {
+          "name": "Kikinda",
+          "lat": 45.82972,
+          "lng": 20.46528
+        },
+        {
+          "name": "Mokrin",
+          "lat": 45.93362,
+          "lng": 20.41215
+        },
+        {
+          "name": "Mol",
+          "lat": 45.76457,
+          "lng": 20.13286
+        },
+        {
+          "name": "Nakovo",
+          "lat": 45.87503,
+          "lng": 20.56709
+        },
+        {
+          "name": "Novi Kneževac",
+          "lat": 46.05,
+          "lng": 20.1
+        },
+        {
+          "name": "Novi Kozarci",
+          "lat": 45.78241,
+          "lng": 20.62289
+        },
+        {
+          "name": "Ostojićevo",
+          "lat": 45.88863,
+          "lng": 20.16642
+        },
+        {
+          "name": "Padej",
+          "lat": 45.82756,
+          "lng": 20.16279
+        },
+        {
+          "name": "Rusko Selo",
+          "lat": 45.76291,
+          "lng": 20.57117
+        },
+        {
+          "name": "Sajan",
+          "lat": 45.84227,
+          "lng": 20.27815
+        },
+        {
+          "name": "Sanad",
+          "lat": 45.97596,
+          "lng": 20.10816
+        },
+        {
+          "name": "Senta",
+          "lat": 45.9275,
+          "lng": 20.07722
+        },
+        {
+          "name": "Tiszahegyes",
+          "lat": 45.82648,
+          "lng": 20.31791
+        }
+      ]
+    },
+    {
+      "name": "Pčinja",
+      "lat": 42.3850389,
+      "lng": 22.0103627,
+      "districts": [
+        {
+          "name": "Biljača",
+          "lat": 42.35518,
+          "lng": 21.74781
+        },
+        {
+          "name": "Bosilegrad",
+          "lat": 42.5023374,
+          "lng": 22.4194044
+        },
+        {
+          "name": "Bujanovac",
+          "lat": 42.4567548,
+          "lng": 21.7472647
+        },
+        {
+          "name": "Miratovac",
+          "lat": 42.25846,
+          "lng": 21.66456
+        },
+        {
+          "name": "Preševo",
+          "lat": 42.3158134,
+          "lng": 21.5714486
+        },
+        {
+          "name": "Radovnica",
+          "lat": 42.43364,
+          "lng": 22.22861
+        },
+        {
+          "name": "Rajince",
+          "lat": 42.3787,
+          "lng": 21.69591
+        },
+        {
+          "name": "Samoljica",
+          "lat": 42.38445,
+          "lng": 21.73708
+        },
+        {
+          "name": "Surdulica",
+          "lat": 42.6900819,
+          "lng": 22.1559905
+        },
+        {
+          "name": "Trgovište",
+          "lat": 42.3565985,
+          "lng": 22.0235102
+        },
+        {
+          "name": "Vladičin Han",
+          "lat": 42.7073832,
+          "lng": 22.0441392
+        },
+        {
+          "name": "Vranje",
+          "lat": 42.55139,
+          "lng": 21.90028
+        },
+        {
+          "name": "Žujince",
+          "lat": 42.31568,
+          "lng": 21.70212
+        }
+      ]
+    },
+    {
+      "name": "Peć",
+      "lat": 42.66,
+      "lng": 20.288,
+      "districts": []
+    },
+    {
+      "name": "Pirot",
+      "lat": 43.1547342,
+      "lng": 22.5865039,
+      "districts": [
+        {
+          "name": "Babušnica",
+          "lat": 43.0657334,
+          "lng": 22.3871969
+        },
+        {
+          "name": "Bela Palanka",
+          "lat": 43.2142107,
+          "lng": 22.2989844
+        },
+        {
+          "name": "Dimitrovgrad",
+          "lat": 43.0214083,
+          "lng": 22.7395098
+        },
+        {
+          "name": "Pirot",
+          "lat": 43.17528,
+          "lng": 22.59278
+        },
+        {
+          "name": "Sumulicë",
+          "lat": 42.38682,
+          "lng": 21.734
+        }
+      ]
+    },
+    {
+      "name": "Podunavlje",
+      "lat": 44.7281091,
+      "lng": 20.8092213,
+      "districts": [
+        {
+          "name": "Lugavčina",
+          "lat": 44.52314,
+          "lng": 21.07083
+        },
+        {
+          "name": "Smederevo",
+          "lat": 44.66436,
+          "lng": 20.92763
+        },
+        {
+          "name": "Smederevska Palanka",
+          "lat": 44.36548,
+          "lng": 20.95885
+        },
+        {
+          "name": "Velika Plana",
+          "lat": 44.3257876,
+          "lng": 20.9703228
+        }
+      ]
+    },
+    {
+      "name": "Pomoravlje",
+      "lat": 44.0221107,
+      "lng": 21.4408567,
+      "districts": [
+        {
+          "name": "Ćuprija",
+          "lat": 43.9275,
+          "lng": 21.37
+        },
+        {
+          "name": "Despotovac",
+          "lat": 44.0947262,
+          "lng": 21.3991349
+        },
+        {
+          "name": "Drenovac",
+          "lat": 44.86649,
+          "lng": 19.70943
+        },
+        {
+          "name": "Dublje",
+          "lat": 44.80117,
+          "lng": 19.50902
+        },
+        {
+          "name": "Duboka",
+          "lat": 44.52223,
+          "lng": 21.7603
+        },
+        {
+          "name": "Grabovac",
+          "lat": 44.60049,
+          "lng": 20.08539
+        },
+        {
+          "name": "Jagodina",
+          "lat": 43.97713,
+          "lng": 21.26121
+        },
+        {
+          "name": "Paraćin",
+          "lat": 43.86083,
+          "lng": 21.40778
+        },
+        {
+          "name": "Rekovac",
+          "lat": 43.8657725,
+          "lng": 21.0287754
+        },
+        {
+          "name": "Svilajnac",
+          "lat": 44.2452632,
+          "lng": 21.1580364
+        }
+      ]
+    },
+    {
+      "name": "Prizren",
+      "lat": 42.21277778,
+      "lng": 20.73916667,
+      "districts": []
+    },
+    {
+      "name": "Rasina",
+      "lat": 43.4109278,
+      "lng": 21.159705,
+      "districts": [
+        {
+          "name": "Aleksandrovac",
+          "lat": 43.4598942,
+          "lng": 21.0308789
+        },
+        {
+          "name": "Brus",
+          "lat": 43.383762,
+          "lng": 21.0065673
+        },
+        {
+          "name": "Ćićevac",
+          "lat": 43.71882,
+          "lng": 21.44085
+        },
+        {
+          "name": "Kruševac",
+          "lat": 43.58,
+          "lng": 21.33389
+        },
+        {
+          "name": "Trstenik",
+          "lat": 43.61694,
+          "lng": 21.0025
+        },
+        {
+          "name": "Varvarin",
+          "lat": 43.7230694,
+          "lng": 21.3409852
+        }
+      ]
+    },
+    {
+      "name": "Raška",
+      "lat": 43.2869592,
+      "lng": 20.6141348,
+      "districts": [
+        {
+          "name": "Jarebice",
+          "lat": 44.53995,
+          "lng": 19.42418
+        },
+        {
+          "name": "Kraljevo",
+          "lat": 43.72583,
+          "lng": 20.68944
+        },
+        {
+          "name": "Novi Pazar",
+          "lat": 43.13667,
+          "lng": 20.51222
+        },
+        {
+          "name": "Raška",
+          "lat": 43.26694,
+          "lng": 20.65278
+        },
+        {
+          "name": "Tutin",
+          "lat": 42.99028,
+          "lng": 20.33139
+        },
+        {
+          "name": "Vrnjačka Banja",
+          "lat": 43.62725,
+          "lng": 20.89634
+        }
+      ]
+    },
+    {
+      "name": "South Bačka",
+      "lat": 45.4491396,
+      "lng": 19.7680303,
+      "districts": [
+        {
+          "name": "Novi Sad",
+          "lat": 45.25167,
+          "lng": 19.83694
+        },
+        {
+          "name": "Bač",
+          "lat": 45.3561915,
+          "lng": 19.1420863
+        },
+        {
+          "name": "Bačka Palanka",
+          "lat": 45.24966,
+          "lng": 19.39664
+        },
+        {
+          "name": "Bački Petrovac",
+          "lat": 45.36056,
+          "lng": 19.59167
+        },
+        {
+          "name": "Bačko Gradište",
+          "lat": 45.53271,
+          "lng": 20.03082
+        },
+        {
+          "name": "Bačko Petrovo Selo",
+          "lat": 45.70681,
+          "lng": 20.07928
+        },
+        {
+          "name": "Bečej",
+          "lat": 45.61632,
+          "lng": 20.03331
+        },
+        {
+          "name": "Beočin",
+          "lat": 45.1942063,
+          "lng": 19.6812551
+        },
+        {
+          "name": "Čelarevo",
+          "lat": 45.26999,
+          "lng": 19.52484
+        },
+        {
+          "name": "Čurug",
+          "lat": 45.47221,
+          "lng": 20.06861
+        },
+        {
+          "name": "Despotovo",
+          "lat": 45.45983,
+          "lng": 19.52653
+        },
+        {
+          "name": "Ðurđevo",
+          "lat": 45.32591,
+          "lng": 20.06532
+        },
+        {
+          "name": "Gardinovci",
+          "lat": 45.20359,
+          "lng": 20.13558
+        },
+        {
+          "name": "Gložan",
+          "lat": 45.27954,
+          "lng": 19.56838
+        },
+        {
+          "name": "Kisač",
+          "lat": 45.35421,
+          "lng": 19.72975
+        },
+        {
+          "name": "Kovilj",
+          "lat": 45.23422,
+          "lng": 20.02327
+        },
+        {
+          "name": "Kulpin",
+          "lat": 45.4024,
+          "lng": 19.58814
+        },
+        {
+          "name": "Lok",
+          "lat": 45.21583,
+          "lng": 20.21222
+        },
+        {
+          "name": "Maglić",
+          "lat": 45.36248,
+          "lng": 19.53211
+        },
+        {
+          "name": "Mošorin",
+          "lat": 45.30196,
+          "lng": 20.16919
+        },
+        {
+          "name": "Obrovac",
+          "lat": 45.32106,
+          "lng": 19.35048
+        },
+        {
+          "name": "Petrovaradin",
+          "lat": 45.24667,
+          "lng": 19.87944
+        },
+        {
+          "name": "Ravno Selo",
+          "lat": 45.44967,
+          "lng": 19.62097
+        },
+        {
+          "name": "Rumenka",
+          "lat": 45.294,
+          "lng": 19.74306
+        },
+        {
+          "name": "Šajkaš",
+          "lat": 45.27315,
+          "lng": 20.09051
+        },
+        {
+          "name": "Srbobran",
+          "lat": 45.5951513,
+          "lng": 19.7183106
+        },
+        {
+          "name": "Sremski Karlovci",
+          "lat": 45.20285,
+          "lng": 19.93373
+        },
+        {
+          "name": "Stepanovićevo",
+          "lat": 45.41369,
+          "lng": 19.7
+        },
+        {
+          "name": "Temerin",
+          "lat": 45.4281743,
+          "lng": 19.8137948
+        },
+        {
+          "name": "Titel",
+          "lat": 45.20611,
+          "lng": 20.29444
+        },
+        {
+          "name": "Turija",
+          "lat": 44.52273,
+          "lng": 21.63945
+        },
+        {
+          "name": "Veternik",
+          "lat": 45.25446,
+          "lng": 19.7588
+        },
+        {
+          "name": "Vilovo",
+          "lat": 45.24859,
+          "lng": 20.15521
+        },
+        {
+          "name": "Vrbas",
+          "lat": 45.57139,
+          "lng": 19.64083
+        },
+        {
+          "name": "Žabalj",
+          "lat": 45.37222,
+          "lng": 20.06389
+        },
+        {
+          "name": "Zmajevo",
+          "lat": 45.45408,
+          "lng": 19.6905
+        }
+      ]
+    },
+    {
+      "name": "South Banat",
+      "lat": 44.9947432,
+      "lng": 20.9388489,
+      "districts": [
+        {
+          "name": "Alibunar",
+          "lat": 45.08083,
+          "lng": 20.96583
+        },
+        {
+          "name": "Banatski Karlovac",
+          "lat": 45.04987,
+          "lng": 21.018
+        },
+        {
+          "name": "Baranda",
+          "lat": 45.08459,
+          "lng": 20.44264
+        },
+        {
+          "name": "Barice",
+          "lat": 45.18189,
+          "lng": 21.08279
+        },
+        {
+          "name": "Bela Crkva",
+          "lat": 44.8975,
+          "lng": 21.41722
+        },
+        {
+          "name": "Crepaja",
+          "lat": 45.00984,
+          "lng": 20.63702
+        },
+        {
+          "name": "Debeljača",
+          "lat": 45.0707,
+          "lng": 20.60153
+        },
+        {
+          "name": "Dobrica",
+          "lat": 45.21339,
+          "lng": 20.84995
+        },
+        {
+          "name": "Gudurica",
+          "lat": 45.16816,
+          "lng": 21.44264
+        },
+        {
+          "name": "Hajdučica",
+          "lat": 45.2501,
+          "lng": 20.96016
+        },
+        {
+          "name": "Idvor",
+          "lat": 45.18895,
+          "lng": 20.51442
+        },
+        {
+          "name": "Ilandža",
+          "lat": 45.16897,
+          "lng": 20.92008
+        },
+        {
+          "name": "Izbište",
+          "lat": 45.02253,
+          "lng": 21.18388
+        },
+        {
+          "name": "Janošik",
+          "lat": 45.17141,
+          "lng": 21.00658
+        },
+        {
+          "name": "Jermenovci",
+          "lat": 45.18635,
+          "lng": 21.0455
+        },
+        {
+          "name": "Kovačica",
+          "lat": 45.11167,
+          "lng": 20.62139
+        },
+        {
+          "name": "Kovin",
+          "lat": 44.7475,
+          "lng": 20.97611
+        },
+        {
+          "name": "Kuštilj",
+          "lat": 45.03487,
+          "lng": 21.37989
+        },
+        {
+          "name": "Lokve",
+          "lat": 45.15198,
+          "lng": 21.03073
+        },
+        {
+          "name": "Margita",
+          "lat": 45.21598,
+          "lng": 21.17527
+        },
+        {
+          "name": "Nikolinci",
+          "lat": 45.05245,
+          "lng": 21.06695
+        },
+        {
+          "name": "Opovo",
+          "lat": 45.05222,
+          "lng": 20.43028
+        },
+        {
+          "name": "Padina",
+          "lat": 45.11988,
+          "lng": 20.7286
+        },
+        {
+          "name": "Pančevo",
+          "lat": 44.87177,
+          "lng": 20.64167
+        },
+        {
+          "name": "Pavliš",
+          "lat": 45.10569,
+          "lng": 21.23952
+        },
+        {
+          "name": "Plandište",
+          "lat": 45.22722,
+          "lng": 21.12167
+        },
+        {
+          "name": "Sakule",
+          "lat": 45.14667,
+          "lng": 20.48619
+        },
+        {
+          "name": "Samoš",
+          "lat": 45.20255,
+          "lng": 20.77392
+        },
+        {
+          "name": "Sefkerin",
+          "lat": 45.00501,
+          "lng": 20.48256
+        },
+        {
+          "name": "Seleuš",
+          "lat": 45.1277,
+          "lng": 20.91461
+        },
+        {
+          "name": "Stari Lec",
+          "lat": 45.28401,
+          "lng": 20.96433
+        },
+        {
+          "name": "Uljma",
+          "lat": 45.04213,
+          "lng": 21.15393
+        },
+        {
+          "name": "Uzdin",
+          "lat": 45.20512,
+          "lng": 20.62342
+        },
+        {
+          "name": "Velika Greda",
+          "lat": 45.24376,
+          "lng": 21.03498
+        },
+        {
+          "name": "Veliki Gaj",
+          "lat": 45.28849,
+          "lng": 21.17057
+        },
+        {
+          "name": "Veliko Središte",
+          "lat": 45.17919,
+          "lng": 21.40353
+        },
+        {
+          "name": "Vladimirovac",
+          "lat": 45.03122,
+          "lng": 20.86566
+        },
+        {
+          "name": "Vlajkovac",
+          "lat": 45.07207,
+          "lng": 21.19945
+        },
+        {
+          "name": "Vršac",
+          "lat": 45.11667,
+          "lng": 21.30361
+        }
+      ]
+    },
+    {
+      "name": "Srem",
+      "lat": 44.9187838,
+      "lng": 19.9702308,
+      "districts": [
+        {
+          "name": "Belegiš",
+          "lat": 45.0192,
+          "lng": 20.33323
+        },
+        {
+          "name": "Beška",
+          "lat": 45.13092,
+          "lng": 20.06698
+        },
+        {
+          "name": "Bosut",
+          "lat": 44.92977,
+          "lng": 19.36086
+        },
+        {
+          "name": "Buđanovci",
+          "lat": 44.89388,
+          "lng": 19.86344
+        },
+        {
+          "name": "Čortanovci",
+          "lat": 45.1546,
+          "lng": 20.01851
+        },
+        {
+          "name": "Golubinci",
+          "lat": 44.98533,
+          "lng": 20.06339
+        },
+        {
+          "name": "Grabovci",
+          "lat": 44.76496,
+          "lng": 19.84489
+        },
+        {
+          "name": "Hrtkovci",
+          "lat": 44.88155,
+          "lng": 19.76374
+        },
+        {
+          "name": "Inđija",
+          "lat": 45.04816,
+          "lng": 20.08165
+        },
+        {
+          "name": "Irig",
+          "lat": 45.0523,
+          "lng": 19.84448
+        },
+        {
+          "name": "Jarak",
+          "lat": 44.91843,
+          "lng": 19.75477
+        },
+        {
+          "name": "Klenak",
+          "lat": 44.78846,
+          "lng": 19.71004
+        },
+        {
+          "name": "Krčedin",
+          "lat": 45.13871,
+          "lng": 20.13308
+        },
+        {
+          "name": "Ljukovo",
+          "lat": 45.02604,
+          "lng": 20.02737
+        },
+        {
+          "name": "Mačvanska Mitrovica",
+          "lat": 44.96739,
+          "lng": 19.59314
+        },
+        {
+          "name": "Nikinci",
+          "lat": 44.85017,
+          "lng": 19.82321
+        },
+        {
+          "name": "Nova Pazova",
+          "lat": 44.94366,
+          "lng": 20.21931
+        },
+        {
+          "name": "Novi Banovci",
+          "lat": 44.95691,
+          "lng": 20.28076
+        },
+        {
+          "name": "Novi Karlovci",
+          "lat": 45.07636,
+          "lng": 20.17948
+        },
+        {
+          "name": "Novi Slankamen",
+          "lat": 45.12554,
+          "lng": 20.23914
+        },
+        {
+          "name": "Pećinci",
+          "lat": 44.90889,
+          "lng": 19.96639
+        },
+        {
+          "name": "Platičevo",
+          "lat": 44.82213,
+          "lng": 19.79487
+        },
+        {
+          "name": "Putinci",
+          "lat": 44.99259,
+          "lng": 19.97102
+        },
+        {
+          "name": "Radenković",
+          "lat": 44.92191,
+          "lng": 19.49543
+        },
+        {
+          "name": "Ravnje",
+          "lat": 44.94326,
+          "lng": 19.4228
+        },
+        {
+          "name": "Ruma",
+          "lat": 45.00806,
+          "lng": 19.82222
+        },
+        {
+          "name": "Salaš Noćajski",
+          "lat": 44.94722,
+          "lng": 19.58611
+        },
+        {
+          "name": "Šašinci",
+          "lat": 44.96514,
+          "lng": 19.74151
+        },
+        {
+          "name": "Šid",
+          "lat": 45.1496922,
+          "lng": 19.1284499
+        },
+        {
+          "name": "Šimanovci",
+          "lat": 44.87393,
+          "lng": 20.09175
+        },
+        {
+          "name": "Sremska Mitrovica",
+          "lat": 44.97639,
+          "lng": 19.61222
+        },
+        {
+          "name": "Stara Pazova",
+          "lat": 44.985,
+          "lng": 20.16083
+        },
+        {
+          "name": "Stari Banovci",
+          "lat": 44.9842,
+          "lng": 20.28382
+        },
+        {
+          "name": "Surduk",
+          "lat": 45.07118,
+          "lng": 20.3251
+        },
+        {
+          "name": "Višnjićevo",
+          "lat": 44.96731,
+          "lng": 19.28993
+        },
+        {
+          "name": "Vojka",
+          "lat": 44.93713,
+          "lng": 20.15236
+        },
+        {
+          "name": "Vrdnik",
+          "lat": 45.12174,
+          "lng": 19.79227
+        }
+      ]
+    },
+    {
+      "name": "Šumadija",
+      "lat": 44.6178028,
+      "lng": 20.2771884,
+      "districts": [
+        {
+          "name": "Kragujevac",
+          "lat": 44.01667,
+          "lng": 20.91667
+        },
+        {
+          "name": "Aranđelovac",
+          "lat": 44.30694,
+          "lng": 20.56
+        },
+        {
+          "name": "Batočina",
+          "lat": 44.1546572,
+          "lng": 21.024913
+        },
+        {
+          "name": "Knić",
+          "lat": 43.9275574,
+          "lng": 20.6790583
+        },
+        {
+          "name": "Lapovo",
+          "lat": 44.18424,
+          "lng": 21.09727
+        },
+        {
+          "name": "Rača",
+          "lat": 44.2334494,
+          "lng": 20.960745
+        },
+        {
+          "name": "Sokolovo Brdo",
+          "lat": 43.13694,
+          "lng": 19.80556
+        },
+        {
+          "name": "Topola",
+          "lat": 44.2520489,
+          "lng": 20.6686305
+        }
+      ]
+    },
+    {
+      "name": "Toplica",
+      "lat": 43.2165528,
+      "lng": 21.4043682,
+      "districts": [
+        {
+          "name": "Blace",
+          "lat": 43.2987419,
+          "lng": 21.2484485
+        },
+        {
+          "name": "Ðurići",
+          "lat": 43.82533,
+          "lng": 19.41233
+        },
+        {
+          "name": "Kupinovo",
+          "lat": 44.70708,
+          "lng": 20.04959
+        },
+        {
+          "name": "Kuršumlija",
+          "lat": 43.1378428,
+          "lng": 21.2430921
+        },
+        {
+          "name": "Prokuplje",
+          "lat": 43.23417,
+          "lng": 21.58806
+        },
+        {
+          "name": "Žitorađa",
+          "lat": 43.1849275,
+          "lng": 21.6164132
+        }
+      ]
+    },
+    {
+      "name": "Vojvodina",
+      "lat": 45.4102776,
+      "lng": 19.9762992,
+      "districts": []
+    },
+    {
+      "name": "West Bačka",
+      "lat": 45.7355385,
+      "lng": 19.1897364,
+      "districts": [
+        {
+          "name": "Apatin",
+          "lat": 45.6726,
+          "lng": 18.978
+        },
+        {
+          "name": "Bački Breg",
+          "lat": 45.92034,
+          "lng": 18.92944
+        },
+        {
+          "name": "Bogojevo",
+          "lat": 45.53015,
+          "lng": 19.13022
+        },
+        {
+          "name": "Doroslovo",
+          "lat": 45.60699,
+          "lng": 19.18868
+        },
+        {
+          "name": "Gakovo",
+          "lat": 45.90078,
+          "lng": 19.06138
+        },
+        {
+          "name": "Kolut",
+          "lat": 45.89292,
+          "lng": 18.9276
+        },
+        {
+          "name": "Kula",
+          "lat": 45.6070631,
+          "lng": 19.4605664
+        },
+        {
+          "name": "Kupusina",
+          "lat": 45.73759,
+          "lng": 19.01082
+        },
+        {
+          "name": "Odžaci",
+          "lat": 45.5020656,
+          "lng": 19.2048714
+        },
+        {
+          "name": "Prigrevica",
+          "lat": 45.67636,
+          "lng": 19.08809
+        },
+        {
+          "name": "Riđica",
+          "lat": 45.99088,
+          "lng": 19.10635
+        },
+        {
+          "name": "Sombor",
+          "lat": 45.77417,
+          "lng": 19.11222
+        },
+        {
+          "name": "Sonta",
+          "lat": 45.59427,
+          "lng": 19.09719
+        },
+        {
+          "name": "Stanišić",
+          "lat": 45.93895,
+          "lng": 19.16709
+        }
+      ]
+    },
+    {
+      "name": "Zaječar",
+      "lat": 43.9015048,
+      "lng": 22.2738011,
+      "districts": [
+        {
+          "name": "Boljevac",
+          "lat": 43.8311432,
+          "lng": 21.9215862
+        },
+        {
+          "name": "Boljevci",
+          "lat": 44.72355,
+          "lng": 20.22348
+        },
+        {
+          "name": "Knjazevac",
+          "lat": 43.56634,
+          "lng": 22.25701
+        },
+        {
+          "name": "Sokobanja",
+          "lat": 43.6343146,
+          "lng": 21.8244259
+        },
+        {
+          "name": "Zaječar",
+          "lat": 43.69917,
+          "lng": 21.98778
+        }
+      ]
+    },
+    {
+      "name": "Zlatibor",
+      "lat": 43.6531807,
+      "lng": 19.6405865,
+      "districts": [
+        {
+          "name": "Arilje",
+          "lat": 43.75306,
+          "lng": 20.09556
+        },
+        {
+          "name": "Bajina Bašta",
+          "lat": 43.97083,
+          "lng": 19.5675
+        },
+        {
+          "name": "Čajetina",
+          "lat": 43.74977,
+          "lng": 19.71273
+        },
+        {
+          "name": "Kosjerić",
+          "lat": 43.9999215,
+          "lng": 19.8915676
+        },
+        {
+          "name": "Nova Varoš",
+          "lat": 43.4656811,
+          "lng": 19.7673647
+        },
+        {
+          "name": "Osječenik",
+          "lat": 43.14528,
+          "lng": 19.85889
+        },
+        {
+          "name": "Požega",
+          "lat": 43.8403358,
+          "lng": 19.996919
+        },
+        {
+          "name": "Priboj",
+          "lat": 43.58306,
+          "lng": 19.52519
+        },
+        {
+          "name": "Prijepolje",
+          "lat": 43.38996,
+          "lng": 19.6487
+        },
+        {
+          "name": "Sjenica",
+          "lat": 43.27306,
+          "lng": 19.99944
+        },
+        {
+          "name": "Užice",
+          "lat": 43.85861,
+          "lng": 19.84878
+        }
+      ]
+    }
+  ]
+}

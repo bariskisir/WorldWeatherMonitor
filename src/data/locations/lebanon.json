@@ -1,0 +1,194 @@
+{
+  "name": "Lebanon",
+  "lat": 33.83333333,
+  "lng": 35.83333333,
+  "cities": [
+    {
+      "name": "Akkar",
+      "lat": 34.5555009,
+      "lng": 36.2016453,
+      "districts": [
+        {
+          "name": "Caza de Aakkar",
+          "lat": 34.53333,
+          "lng": 36.16667
+        }
+      ]
+    },
+    {
+      "name": "Baalbek-Hermel",
+      "lat": 34.168333,
+      "lng": 36.3134617,
+      "districts": [
+        {
+          "name": "Baalbek",
+          "lat": 34.00583,
+          "lng": 36.21806
+        },
+        {
+          "name": "Caza de Baalbek",
+          "lat": 34.09822,
+          "lng": 36.27157
+        }
+      ]
+    },
+    {
+      "name": "Beirut",
+      "lat": 33.8886106,
+      "lng": 35.4954772,
+      "districts": [
+        {
+          "name": "Beirut",
+          "lat": 33.89332,
+          "lng": 35.50157,
+          "iscapital": true
+        },
+        {
+          "name": "Ra’s Bayrūt",
+          "lat": 33.9,
+          "lng": 35.48333
+        }
+      ]
+    },
+    {
+      "name": "Beqaa",
+      "lat": 33.6746204,
+      "lng": 35.8333757,
+      "districts": [
+        {
+          "name": "Aanjar",
+          "lat": 33.72778,
+          "lng": 35.93111
+        },
+        {
+          "name": "Zahlé",
+          "lat": 33.84675,
+          "lng": 35.90203
+        }
+      ]
+    },
+    {
+      "name": "Mount Lebanon",
+      "lat": 34.29,
+      "lng": 36.092,
+      "districts": [
+        {
+          "name": "Baabda",
+          "lat": 33.83389,
+          "lng": 35.54417
+        },
+        {
+          "name": "Bhamdoun",
+          "lat": 33.795,
+          "lng": 35.65111
+        },
+        {
+          "name": "Bhamdoûn el Mhatta",
+          "lat": 33.80861,
+          "lng": 35.65972
+        },
+        {
+          "name": "Caza de Baabda",
+          "lat": 33.84592,
+          "lng": 35.66791
+        },
+        {
+          "name": "Jbaïl",
+          "lat": 34.12111,
+          "lng": 35.64806
+        },
+        {
+          "name": "Jounieh",
+          "lat": 33.98083,
+          "lng": 35.61778
+        }
+      ]
+    },
+    {
+      "name": "Nabatieh",
+      "lat": 33.3771693,
+      "lng": 35.4838293,
+      "districts": [
+        {
+          "name": "Nabatîyé et Tahta",
+          "lat": 33.37889,
+          "lng": 35.48389
+        },
+        {
+          "name": "Ain Ebel",
+          "lat": 33.11023,
+          "lng": 35.40251
+        },
+        {
+          "name": "Caza de Bent Jbaïl",
+          "lat": 33.15964,
+          "lng": 35.41137
+        },
+        {
+          "name": "Caza de Nabatîyé",
+          "lat": 33.39435,
+          "lng": 35.44483
+        },
+        {
+          "name": "Habboûch",
+          "lat": 33.40729,
+          "lng": 35.48169
+        },
+        {
+          "name": "Marjayoûn",
+          "lat": 33.36028,
+          "lng": 35.59111
+        }
+      ]
+    },
+    {
+      "name": "North",
+      "lat": 34.29,
+      "lng": 36.092,
+      "districts": [
+        {
+          "name": "Tripoli",
+          "lat": 34.43352,
+          "lng": 35.84415
+        },
+        {
+          "name": "Batroûn",
+          "lat": 34.25528,
+          "lng": 35.65806
+        },
+        {
+          "name": "Bcharré",
+          "lat": 34.25083,
+          "lng": 36.01056
+        }
+      ]
+    },
+    {
+      "name": "South",
+      "lat": 34.4115339,
+      "lng": -81.204814,
+      "districts": [
+        {
+          "name": "Sidon",
+          "lat": 33.55751,
+          "lng": 35.37148
+        },
+        {
+          "name": "Tyre",
+          "lat": 33.27333,
+          "lng": 35.19389
+        },
+        {
+          "name": "En Nâqoûra",
+          "lat": 33.11806,
+          "lng": 35.13972
+        },
+        {
+          "name": "Ghazieh",
+          "lat": 33.5175,
+          "lng": 35.36889
+        }
+      ]
+    }
+  ]
+}

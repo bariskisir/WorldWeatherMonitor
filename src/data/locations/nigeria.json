@@ -1,0 +1,2757 @@
+{
+  "name": "Nigeria",
+  "lat": 10,
+  "lng": 8,
+  "cities": [
+    {
+      "name": "Abia",
+      "lat": 5.4540953,
+      "lng": 7.5153071,
+      "districts": [
+        {
+          "name": "Aba",
+          "lat": 5.10658,
+          "lng": 7.36667
+        },
+        {
+          "name": "Amaigbo",
+          "lat": 5.78917,
+          "lng": 7.83829,
+          "subdistricts": [
+            {
+              "name": "Arochukwu",
+              "lat": 5.38941,
+              "lng": 7.91235
+            },
+            {
+              "name": "Ohafia-Ifigh",
+              "lat": 5.61455,
+              "lng": 7.81191
+            }
+          ]
+        },
+        {
+          "name": "Umuahia",
+          "lat": 5.52491,
+          "lng": 7.49461,
+          "subdistricts": [
+            {
+              "name": "Bende",
+              "lat": 5.55874,
+              "lng": 7.63359
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abuja Federal Capital Territory",
+      "lat": 8.8311228,
+      "lng": 7.1724673,
+      "districts": [
+        {
+          "name": "Abuja",
+          "lat": 9.05785,
+          "lng": 7.49508,
+          "iscapital": true,
+          "subdistricts": [
+            {
+              "name": "Asokoro",
+              "lat": 9.0479,
+              "lng": 7.5155
+            }
+          ]
+        },
+        {
+          "name": "Bwari",
+          "lat": 9.2682352,
+          "lng": 7.3543109,
+          "subdistricts": [
+            {
+              "name": "Bamburu",
+              "lat": 9.1136,
+              "lng": 7.1096
+            },
+            {
+              "name": "Kubwa",
+              "lat": 9.1538,
+              "lng": 7.322
+            },
+            {
+              "name": "Madala",
+              "lat": 9.10444,
+              "lng": 7.21333
+            },
+            {
+              "name": "Zuba",
+              "lat": 9.1023,
+              "lng": 7.1952
+            }
+          ]
+        },
+        {
+          "name": "Garki",
+          "lat": 9.0319,
+          "lng": 7.4828,
+          "subdistricts": [
+            {
+              "name": "Gwagwalada",
+              "lat": 8.9508,
+              "lng": 7.0767
+            },
+            {
+              "name": "Kuje",
+              "lat": 8.87952,
+              "lng": 7.22756
+            },
+            {
+              "name": "Kwali",
+              "lat": 8.88346,
+              "lng": 7.01858
+            }
+          ]
+        },
+        {
+          "name": "Karu",
+          "lat": 8.9928,
+          "lng": 7.5725,
+          "subdistricts": [
+            {
+              "name": "Jikwoyi",
+              "lat": 8.9913,
+              "lng": 7.5563
+            },
+            {
+              "name": "Kurunduma",
+              "lat": 9.0151,
+              "lng": 7.5349
+            }
+          ]
+        },
+        {
+          "name": "Maitama",
+          "lat": 9.0882,
+          "lng": 7.4934,
+          "subdistricts": [
+            {
+              "name": "Gwarinpa",
+              "lat": 9.1099,
+              "lng": 7.4042
+            },
+            {
+              "name": "Wuse",
+              "lat": 9.0747,
+              "lng": 7.476
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adamawa",
+      "lat": 9.5129772,
+      "lng": 12.3881887,
+      "districts": [
+        {
+          "name": "Jimeta",
+          "lat": 9.27949,
+          "lng": 12.45819,
+          "subdistricts": [
+            {
+              "name": "Ngurore",
+              "lat": 9.28871,
+              "lng": 12.24026
+            },
+            {
+              "name": "Numan",
+              "lat": 9.46374,
+              "lng": 12.03062
+            }
+          ]
+        },
+        {
+          "name": "Mubi",
+          "lat": 10.26858,
+          "lng": 13.26701,
+          "subdistricts": [
+            {
+              "name": "Gombi",
+              "lat": 10.16756,
+              "lng": 12.73684
+            },
+            {
+              "name": "Holma",
+              "lat": 9.89863,
+              "lng": 13.0545
+            },
+            {
+              "name": "Madagali",
+              "lat": 10.88942,
+              "lng": 13.62832
+            }
+          ]
+        },
+        {
+          "name": "Yola",
+          "lat": 9.20839,
+          "lng": 12.48146,
+          "subdistricts": [
+            {
+              "name": "Ganye",
+              "lat": 8.43497,
+              "lng": 12.05107
+            },
+            {
+              "name": "Mayo-Belwa",
+              "lat": 9.05421,
+              "lng": 12.05794
+            },
+            {
+              "name": "Toungo",
+              "lat": 8.11733,
+              "lng": 12.04611
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akwa Ibom",
+      "lat": 4.9906379,
+      "lng": 7.7966205,
+      "districts": [
+        {
+          "name": "Esuk Oron",
+          "lat": 4.80293,
+          "lng": 8.25341,
+          "subdistricts": [
+            {
+              "name": "Eket",
+              "lat": 4.64231,
+              "lng": 7.92438
+            }
+          ]
+        },
+        {
+          "name": "Ikot Ekpene",
+          "lat": 5.18194,
+          "lng": 7.71481
+        },
+        {
+          "name": "Uyo",
+          "lat": 5.05127,
+          "lng": 7.9335,
+          "subdistricts": [
+            {
+              "name": "Itu",
+              "lat": 5.20131,
+              "lng": 7.98373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anambra",
+      "lat": 6.2183136,
+      "lng": 6.9531842,
+      "districts": [
+        {
+          "name": "Atani",
+          "lat": 6.01277,
+          "lng": 6.74768
+        },
+        {
+          "name": "Awka",
+          "lat": 6.21269,
+          "lng": 7.07199,
+          "subdistricts": [
+            {
+              "name": "Agulu",
+              "lat": 6.10045,
+              "lng": 7.061
+            },
+            {
+              "name": "Enugu-Ukwu",
+              "lat": 6.17146,
+              "lng": 7.00525
+            }
+          ]
+        },
+        {
+          "name": "Nkpor",
+          "lat": 6.15038,
+          "lng": 6.83042
+        },
+        {
+          "name": "Nnewi",
+          "lat": 6.01962,
+          "lng": 6.91729,
+          "subdistricts": [
+            {
+              "name": "Igbo-Ukwu",
+              "lat": 6.01798,
+              "lng": 7.02027
+            },
+            {
+              "name": "Ihiala",
+              "lat": 5.85475,
+              "lng": 6.85944
+            },
+            {
+              "name": "Ozubulu",
+              "lat": 5.95753,
+              "lng": 6.85305
+            },
+            {
+              "name": "Uga",
+              "lat": 5.93576,
+              "lng": 7.0793
+            },
+            {
+              "name": "Uruobo-Okija",
+              "lat": 5.90016,
+              "lng": 6.84312
+            }
+          ]
+        },
+        {
+          "name": "Onitsha",
+          "lat": 6.14978,
+          "lng": 6.78569
+        }
+      ]
+    },
+    {
+      "name": "Bauchi",
+      "lat": 10.6228284,
+      "lng": 10.0287754,
+      "districts": [
+        {
+          "name": "Azare",
+          "lat": 11.67478,
+          "lng": 10.19069,
+          "subdistricts": [
+            {
+              "name": "Darazo",
+              "lat": 10.9992,
+              "lng": 10.41062
+            },
+            {
+              "name": "Disina",
+              "lat": 11.48135,
+              "lng": 9.91903
+            },
+            {
+              "name": "Gabarin",
+              "lat": 11.1093,
+              "lng": 10.4441
+            },
+            {
+              "name": "Kari",
+              "lat": 11.2471,
+              "lng": 10.561
+            },
+            {
+              "name": "Madara",
+              "lat": 11.7798,
+              "lng": 10.4479
+            },
+            {
+              "name": "Misau",
+              "lat": 11.3137,
+              "lng": 10.46664
+            },
+            {
+              "name": "Sade",
+              "lat": 11.3595,
+              "lng": 10.6732
+            },
+            {
+              "name": "Yanda Bayo",
+              "lat": 11.5071,
+              "lng": 10.7459
+            },
+            {
+              "name": "Zadawa",
+              "lat": 11.4496,
+              "lng": 10.3672
+            }
+          ]
+        },
+        {
+          "name": "Bauchi",
+          "lat": 10.31032,
+          "lng": 9.84388,
+          "subdistricts": [
+            {
+              "name": "Boi",
+              "lat": 9.56109,
+              "lng": 9.50154
+            },
+            {
+              "name": "Bununu",
+              "lat": 9.88224,
+              "lng": 9.68058
+            },
+            {
+              "name": "Dass",
+              "lat": 10.00065,
+              "lng": 9.51596
+            },
+            {
+              "name": "Dindima",
+              "lat": 10.22629,
+              "lng": 10.15132
+            },
+            {
+              "name": "Gwaram",
+              "lat": 10.23295,
+              "lng": 10.28572
+            },
+            {
+              "name": "Lame",
+              "lat": 10.44154,
+              "lng": 9.23955
+            },
+            {
+              "name": "Yamrat",
+              "lat": 10.11161,
+              "lng": 9.82604
+            },
+            {
+              "name": "Yuli",
+              "lat": 9.69707,
+              "lng": 10.2735
+            },
+            {
+              "name": "Zalanga",
+              "lat": 10.61432,
+              "lng": 10.17647
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bayelsa",
+      "lat": 4.7629786,
+      "lng": 6.028898,
+      "districts": [
+        {
+          "name": "Yenagoa",
+          "lat": 4.92675,
+          "lng": 6.26764,
+          "subdistricts": [
+            {
+              "name": "Amassoma",
+              "lat": 4.97032,
+              "lng": 6.10915
+            },
+            {
+              "name": "Twon-Brass",
+              "lat": 4.31231,
+              "lng": 6.24091
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Benue",
+      "lat": 7.3505747,
+      "lng": 8.7772877,
+      "districts": [
+        {
+          "name": "Gboko",
+          "lat": 7.3315953,
+          "lng": 8.9760068,
+          "subdistricts": [
+            {
+              "name": "Takum",
+              "lat": 7.26667,
+              "lng": 9.98333
+            },
+            {
+              "name": "Yandev",
+              "lat": 7.36308,
+              "lng": 9.04235
+            },
+            {
+              "name": "Zaki Biam",
+              "lat": 7.50671,
+              "lng": 9.6104
+            }
+          ]
+        },
+        {
+          "name": "Makurdi",
+          "lat": 7.73375,
+          "lng": 8.52139,
+          "subdistricts": [
+            {
+              "name": "Aliade",
+              "lat": 7.29627,
+              "lng": 8.48278
+            },
+            {
+              "name": "Boju",
+              "lat": 7.35572,
+              "lng": 7.89303
+            },
+            {
+              "name": "Igbor",
+              "lat": 7.45123,
+              "lng": 8.60805
+            },
+            {
+              "name": "Ochobo",
+              "lat": 7.18045,
+              "lng": 7.9824
+            },
+            {
+              "name": "Otukpa",
+              "lat": 7.10168,
+              "lng": 7.65945
+            },
+            {
+              "name": "Ugbokpo",
+              "lat": 7.65321,
+              "lng": 7.8841
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Borno",
+      "lat": 12.1875392,
+      "lng": 13.3080034,
+      "districts": [
+        {
+          "name": "Bama",
+          "lat": 11.52134,
+          "lng": 13.68952,
+          "subdistricts": [
+            {
+              "name": "Dikwa",
+              "lat": 12.03609,
+              "lng": 13.91815
+            },
+            {
+              "name": "Gamboru",
+              "lat": 12.37299,
+              "lng": 14.2069
+            },
+            {
+              "name": "Gwoza",
+              "lat": 11.08313,
+              "lng": 13.69595
+            },
+            {
+              "name": "Ngala",
+              "lat": 12.34053,
+              "lng": 14.1867
+            },
+            {
+              "name": "Tokombere",
+              "lat": 11.22135,
+              "lng": 13.48783
+            },
+            {
+              "name": "Uba",
+              "lat": 10.45509,
+              "lng": 13.22233
+            }
+          ]
+        },
+        {
+          "name": "Maiduguri",
+          "lat": 11.84692,
+          "lng": 13.15712,
+          "subdistricts": [
+            {
+              "name": "Benisheikh",
+              "lat": 11.80919,
+              "lng": 12.49151
+            },
+            {
+              "name": "Biu",
+              "lat": 10.61285,
+              "lng": 12.19458
+            },
+            {
+              "name": "Bornu Yassu",
+              "lat": 12.27503,
+              "lng": 12.56856
+            },
+            {
+              "name": "Damasak",
+              "lat": 13.10518,
+              "lng": 12.50854
+            },
+            {
+              "name": "Damboa",
+              "lat": 11.15534,
+              "lng": 12.75638
+            },
+            {
+              "name": "Kukawa",
+              "lat": 12.92475,
+              "lng": 13.56617
+            },
+            {
+              "name": "Magumeri",
+              "lat": 12.11451,
+              "lng": 12.8262
+            },
+            {
+              "name": "Marte",
+              "lat": 12.36532,
+              "lng": 13.8293
+            },
+            {
+              "name": "Miringa",
+              "lat": 10.73115,
+              "lng": 12.14626
+            },
+            {
+              "name": "Monguno",
+              "lat": 12.67059,
+              "lng": 13.61224
+            },
+            {
+              "name": "Shaffa",
+              "lat": 10.50673,
+              "lng": 12.33315
+            },
+            {
+              "name": "Shani",
+              "lat": 10.21824,
+              "lng": 12.06059
+            },
+            {
+              "name": "Wuyo",
+              "lat": 10.38522,
+              "lng": 11.69678
+            },
+            {
+              "name": "Yajiwa",
+              "lat": 11.38623,
+              "lng": 12.71992
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cross River",
+      "lat": 5.8671966,
+      "lng": 8.5204774,
+      "districts": [
+        {
+          "name": "Calabar",
+          "lat": 4.95893,
+          "lng": 8.32695,
+          "subdistricts": [
+            {
+              "name": "Akankpa",
+              "lat": 5.1264,
+              "lng": 8.1898
+            },
+            {
+              "name": "Ikang",
+              "lat": 4.78978,
+              "lng": 8.5316
+            }
+          ]
+        },
+        {
+          "name": "Ugep",
+          "lat": 5.80865,
+          "lng": 8.08098,
+          "subdistricts": [
+            {
+              "name": "Gakem",
+              "lat": 6.76963,
+              "lng": 8.9912
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delta",
+      "lat": 5.5273061,
+      "lng": 6.1784167,
+      "districts": [
+        {
+          "name": "Sapele",
+          "lat": 5.89405,
+          "lng": 5.67666,
+          "subdistricts": [
+            {
+              "name": "Abraka",
+              "lat": 5.79023,
+              "lng": 6.10473
+            },
+            {
+              "name": "Agbor",
+              "lat": 6.25375,
+              "lng": 6.1942
+            },
+            {
+              "name": "Asaba",
+              "lat": 6.19824,
+              "lng": 6.73187
+            },
+            {
+              "name": "Obiaruku",
+              "lat": 5.84672,
+              "lng": 6.1529
+            },
+            {
+              "name": "Ogwashi-Uku",
+              "lat": 6.17811,
+              "lng": 6.52461
+            },
+            {
+              "name": "Umunede",
+              "lat": 6.26549,
+              "lng": 6.30962
+            }
+          ]
+        },
+        {
+          "name": "Warri",
+          "lat": 5.51737,
+          "lng": 5.75006,
+          "subdistricts": [
+            {
+              "name": "Bomadi",
+              "lat": 5.16073,
+              "lng": 5.92375
+            },
+            {
+              "name": "Burutu",
+              "lat": 5.35328,
+              "lng": 5.50826
+            },
+            {
+              "name": "Kwale",
+              "lat": 5.70773,
+              "lng": 6.43402
+            },
+            {
+              "name": "Orerokpe",
+              "lat": 5.63747,
+              "lng": 5.89013
+            },
+            {
+              "name": "Patani",
+              "lat": 5.22885,
+              "lng": 6.19139
+            },
+            {
+              "name": "Ughelli",
+              "lat": 5.48956,
+              "lng": 6.00407
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ebonyi",
+      "lat": 6.1996918,
+      "lng": 8.0348906,
+      "districts": [
+        {
+          "name": "Abakaliki",
+          "lat": 6.32485,
+          "lng": 8.11368,
+          "subdistricts": [
+            {
+              "name": "Afikpo",
+              "lat": 5.89258,
+              "lng": 7.93534
+            },
+            {
+              "name": "Effium",
+              "lat": 6.63105,
+              "lng": 8.05814
+            },
+            {
+              "name": "Ezza-Ohu",
+              "lat": 6.44094,
+              "lng": 8.08432
+            },
+            {
+              "name": "Isieke",
+              "lat": 6.38186,
+              "lng": 8.03736
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edo",
+      "lat": 6.6076575,
+      "lng": 5.9722713,
+      "districts": [
+        {
+          "name": "Benin City",
+          "lat": 6.33815,
+          "lng": 5.62575,
+          "subdistricts": [
+            {
+              "name": "Siluko",
+              "lat": 6.53589,
+              "lng": 5.16005
+            }
+          ]
+        },
+        {
+          "name": "Uromi",
+          "lat": 6.7,
+          "lng": 6.33333,
+          "subdistricts": [
+            {
+              "name": "Agenebode",
+              "lat": 7.10512,
+              "lng": 6.69381
+            },
+            {
+              "name": "Auchi",
+              "lat": 7.06756,
+              "lng": 6.2636
+            },
+            {
+              "name": "Ekpoma",
+              "lat": 6.743,
+              "lng": 6.14029
+            },
+            {
+              "name": "Igarra",
+              "lat": 7.29366,
+              "lng": 6.10432
+            },
+            {
+              "name": "Illushi",
+              "lat": 6.67033,
+              "lng": 6.62907
+            },
+            {
+              "name": "Ubiaja",
+              "lat": 6.65581,
+              "lng": 6.38494
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ekiti",
+      "lat": 7.736891,
+      "lng": 5.2738326,
+      "districts": [
+        {
+          "name": "Ado-Ekiti",
+          "lat": 7.62329,
+          "lng": 5.22087,
+          "subdistricts": [
+            {
+              "name": "Ifaki",
+              "lat": 7.78942,
+              "lng": 5.24852
+            },
+            {
+              "name": "Igede-Ekiti",
+              "lat": 7.6685,
+              "lng": 5.12627
+            },
+            {
+              "name": "Ilawe-Ekiti",
+              "lat": 7.5949427,
+              "lng": 5.10340682
+            },
+            {
+              "name": "Oye-Ekiti",
+              "lat": 7.79803574,
+              "lng": 5.32854717
+            }
+          ]
+        },
+        {
+          "name": "Efon-Alaaye",
+          "lat": 7.65649,
+          "lng": 4.92235
+        },
+        {
+          "name": "Ijero-Ekiti",
+          "lat": 7.81514,
+          "lng": 5.06716,
+          "subdistricts": [
+            {
+              "name": "Aramoko-Ekiti",
+              "lat": 7.70483,
+              "lng": 5.04054
+            },
+            {
+              "name": "Ipoti",
+              "lat": 7.87377,
+              "lng": 5.07691
+            },
+            {
+              "name": "Oke Ila",
+              "lat": 7.95,
+              "lng": 4.98333
+            }
+          ]
+        },
+        {
+          "name": "Ikere-Ekiti",
+          "lat": 7.49748,
+          "lng": 5.23041,
+          "subdistricts": [
+            {
+              "name": "Igbara-Odo",
+              "lat": 7.50251,
+              "lng": 5.06258
+            }
+          ]
+        },
+        {
+          "name": "Ise-Ekiti",
+          "lat": 7.46478,
+          "lng": 5.42333,
+          "subdistricts": [
+            {
+              "name": "Emure-Ekiti",
+              "lat": 7.43636,
+              "lng": 5.45925
+            },
+            {
+              "name": "Omuo-Ekiti",
+              "lat": 7.75833,
+              "lng": 5.72227
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Enugu",
+      "lat": 6.5536094,
+      "lng": 7.4143061,
+      "districts": [
+        {
+          "name": "Enugu",
+          "lat": 6.44132,
+          "lng": 7.49883,
+          "subdistricts": [
+            {
+              "name": "Ake-Eze",
+              "lat": 5.91677,
+              "lng": 7.67615
+            },
+            {
+              "name": "Amagunze",
+              "lat": 6.33063,
+              "lng": 7.65247
+            },
+            {
+              "name": "Awgu",
+              "lat": 6.07278,
+              "lng": 7.47739
+            },
+            {
+              "name": "Eha Amufu",
+              "lat": 6.65915,
+              "lng": 7.75961
+            },
+            {
+              "name": "Mberubu",
+              "lat": 6.1731,
+              "lng": 7.63017
+            },
+            {
+              "name": "Udi",
+              "lat": 6.31592,
+              "lng": 7.42086
+            }
+          ]
+        },
+        {
+          "name": "Nsukka",
+          "lat": 6.85783,
+          "lng": 7.39577,
+          "subdistricts": [
+            {
+              "name": "Adani",
+              "lat": 6.73971,
+              "lng": 7.01117
+            },
+            {
+              "name": "Aku",
+              "lat": 6.70902,
+              "lng": 7.31826
+            },
+            {
+              "name": "Enugu-Ezike",
+              "lat": 6.9827,
+              "lng": 7.45534
+            },
+            {
+              "name": "Ete",
+              "lat": 7.08956,
+              "lng": 7.45341
+            },
+            {
+              "name": "Ikem",
+              "lat": 6.77993,
+              "lng": 7.71484
+            },
+            {
+              "name": "Obolo-Eke (1)",
+              "lat": 6.88333,
+              "lng": 7.63333
+            },
+            {
+              "name": "Opi",
+              "lat": 6.78223,
+              "lng": 7.43319
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gombe",
+      "lat": 10.4304018,
+      "lng": 11.2065408,
+      "districts": [
+        {
+          "name": "Gombe",
+          "lat": 10.28969,
+          "lng": 11.16729,
+          "subdistricts": [
+            {
+              "name": "Akko",
+              "lat": 10.28899,
+              "lng": 10.9732
+            },
+            {
+              "name": "Bara",
+              "lat": 10.37444,
+              "lng": 10.72884
+            },
+            {
+              "name": "Deba",
+              "lat": 10.21187,
+              "lng": 11.3871
+            },
+            {
+              "name": "Dukku",
+              "lat": 10.82379,
+              "lng": 10.77221
+            },
+            {
+              "name": "Garko",
+              "lat": 10.17506,
+              "lng": 11.16458
+            },
+            {
+              "name": "Hinna",
+              "lat": 10.30426,
+              "lng": 11.49905
+            },
+            {
+              "name": "Kafarati",
+              "lat": 10.38304,
+              "lng": 11.09567
+            },
+            {
+              "name": "Kumo",
+              "lat": 10.04807,
+              "lng": 11.21055
+            },
+            {
+              "name": "Nafada",
+              "lat": 11.09596,
+              "lng": 11.33261
+            }
+          ]
+        },
+        {
+          "name": "Pindiga",
+          "lat": 9.98433,
+          "lng": 10.95229,
+          "subdistricts": [
+            {
+              "name": "Billiri",
+              "lat": 9.86545,
+              "lng": 11.22624
+            },
+            {
+              "name": "Dadiya",
+              "lat": 9.61667,
+              "lng": 11.43333
+            },
+            {
+              "name": "Kaltungo",
+              "lat": 9.81998,
+              "lng": 11.30871
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Imo",
+      "lat": 5.5859456,
+      "lng": 7.0669651,
+      "districts": [
+        {
+          "name": "Okigwe",
+          "lat": 5.82917,
+          "lng": 7.35056
+        },
+        {
+          "name": "Owerri",
+          "lat": 5.48363,
+          "lng": 7.03325,
+          "subdistricts": [
+            {
+              "name": "Iho",
+              "lat": 5.58225,
+              "lng": 7.09896
+            },
+            {
+              "name": "Oguta",
+              "lat": 5.71044,
+              "lng": 6.80936
+            },
+            {
+              "name": "Orlu",
+              "lat": 5.79565,
+              "lng": 7.03513
+            },
+            {
+              "name": "Orodo",
+              "lat": 5.61667,
+              "lng": 7.03333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jigawa",
+      "lat": 12.3252362,
+      "lng": 9.5103296,
+      "districts": [
+        {
+          "name": "Hadejia",
+          "lat": 12.45347,
+          "lng": 10.04115,
+          "subdistricts": [
+            {
+              "name": "Babura",
+              "lat": 12.77256,
+              "lng": 9.01525
+            },
+            {
+              "name": "Birnin Kudu",
+              "lat": 11.45207,
+              "lng": 9.47856
+            },
+            {
+              "name": "Birniwa",
+              "lat": 12.7907,
+              "lng": 10.23614
+            },
+            {
+              "name": "Dutse",
+              "lat": 11.75618,
+              "lng": 9.33896
+            },
+            {
+              "name": "Gagarawa",
+              "lat": 12.40848,
+              "lng": 9.52881
+            },
+            {
+              "name": "Gumel",
+              "lat": 12.6269,
+              "lng": 9.38807
+            },
+            {
+              "name": "Kafin Hausa",
+              "lat": 12.23933,
+              "lng": 9.91105
+            },
+            {
+              "name": "Kazaure",
+              "lat": 12.64846,
+              "lng": 8.41178
+            },
+            {
+              "name": "Kiyawa",
+              "lat": 11.78442,
+              "lng": 9.6069
+            },
+            {
+              "name": "Mallammaduri",
+              "lat": 12.56427,
+              "lng": 9.95727
+            },
+            {
+              "name": "Ringim",
+              "lat": 12.15143,
+              "lng": 9.16216
+            },
+            {
+              "name": "Samamiya",
+              "lat": 11.34873,
+              "lng": 9.63989
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaduna",
+      "lat": 10.3825318,
+      "lng": 7.8533226,
+      "districts": [
+        {
+          "name": "Kaduna",
+          "lat": 10.52641,
+          "lng": 7.43879,
+          "subdistricts": [
+            {
+              "name": "Kachia",
+              "lat": 9.87342,
+              "lng": 7.95407
+            },
+            {
+              "name": "Kafanchan",
+              "lat": 9.58126,
+              "lng": 8.2926
+            },
+            {
+              "name": "Kagoro",
+              "lat": 9.60776,
+              "lng": 8.39043
+            },
+            {
+              "name": "Kajuru",
+              "lat": 10.32281,
+              "lng": 7.68462
+            },
+            {
+              "name": "Kujama",
+              "lat": 10.45767,
+              "lng": 7.63808
+            },
+            {
+              "name": "Mando",
+              "lat": 10.71667,
+              "lng": 6.56667
+            },
+            {
+              "name": "Sofo-Birnin-Gwari",
+              "lat": 11.01537,
+              "lng": 6.78036
+            }
+          ]
+        },
+        {
+          "name": "Zaria",
+          "lat": 11.11128,
+          "lng": 7.7227,
+          "subdistricts": [
+            {
+              "name": "Anchau",
+              "lat": 10.96245,
+              "lng": 8.39233
+            },
+            {
+              "name": "Burumburum",
+              "lat": 11.39106,
+              "lng": 8.72341
+            },
+            {
+              "name": "Dutsen Wai",
+              "lat": 10.85009,
+              "lng": 8.199
+            },
+            {
+              "name": "Hunkuyi",
+              "lat": 11.2668,
+              "lng": 7.64916
+            },
+            {
+              "name": "Lere",
+              "lat": 10.38584,
+              "lng": 8.57286
+            },
+            {
+              "name": "Saminaka",
+              "lat": 10.41227,
+              "lng": 8.68748
+            },
+            {
+              "name": "Soba",
+              "lat": 10.98133,
+              "lng": 8.05749
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kano",
+      "lat": 11.8948389,
+      "lng": 8.5364136,
+      "districts": [
+        {
+          "name": "Kano",
+          "lat": 12.00012,
+          "lng": 8.51672,
+          "subdistricts": [
+            {
+              "name": "Dan Gora",
+              "lat": 11.53485,
+              "lng": 8.15224
+            },
+            {
+              "name": "Gaya",
+              "lat": 11.86064,
+              "lng": 9.0027
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Katsina",
+      "lat": 12.5630825,
+      "lng": 7.6207063,
+      "districts": [
+        {
+          "name": "Funtua",
+          "lat": 11.47196,
+          "lng": 7.30699,
+          "subdistricts": [
+            {
+              "name": "Danja",
+              "lat": 11.3771,
+              "lng": 7.56097
+            },
+            {
+              "name": "Gora",
+              "lat": 11.91294,
+              "lng": 7.66531
+            },
+            {
+              "name": "Kankara",
+              "lat": 11.93114,
+              "lng": 7.41115
+            }
+          ]
+        },
+        {
+          "name": "Katsina",
+          "lat": 12.99082,
+          "lng": 7.60177,
+          "subdistricts": [
+            {
+              "name": "Dankama",
+              "lat": 13.29782,
+              "lng": 7.79492
+            },
+            {
+              "name": "Daura",
+              "lat": 13.03299,
+              "lng": 8.32351
+            },
+            {
+              "name": "Dutsin-Ma",
+              "lat": 12.45392,
+              "lng": 7.49723
+            },
+            {
+              "name": "Jibia",
+              "lat": 13.09378,
+              "lng": 7.22624
+            },
+            {
+              "name": "Jikamshi",
+              "lat": 12.17328,
+              "lng": 7.77424
+            },
+            {
+              "name": "Mashi",
+              "lat": 12.98044,
+              "lng": 7.94703
+            },
+            {
+              "name": "Ruma",
+              "lat": 12.8626,
+              "lng": 7.23469
+            },
+            {
+              "name": "Runka",
+              "lat": 12.44788,
+              "lng": 7.30918
+            },
+            {
+              "name": "Wagini",
+              "lat": 12.68781,
+              "lng": 7.19579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kebbi",
+      "lat": 11.4167574,
+      "lng": 4.1074545,
+      "districts": [
+        {
+          "name": "Birnin Kebbi",
+          "lat": 12.45389,
+          "lng": 4.1975,
+          "subdistricts": [
+            {
+              "name": "Argungu",
+              "lat": 12.74482,
+              "lng": 4.52514
+            },
+            {
+              "name": "Bagudo",
+              "lat": 11.40351,
+              "lng": 4.22571
+            },
+            {
+              "name": "Bena",
+              "lat": 11.28444,
+              "lng": 5.93472
+            },
+            {
+              "name": "Bin Yauri",
+              "lat": 10.7823,
+              "lng": 4.81135
+            },
+            {
+              "name": "Dabai",
+              "lat": 11.47651,
+              "lng": 5.20625
+            },
+            {
+              "name": "Dakingari",
+              "lat": 11.64809,
+              "lng": 4.06177
+            },
+            {
+              "name": "Gulma",
+              "lat": 12.64231,
+              "lng": 4.35545
+            },
+            {
+              "name": "Gwandu",
+              "lat": 12.50204,
+              "lng": 4.64295
+            },
+            {
+              "name": "Jega",
+              "lat": 12.22336,
+              "lng": 4.37971
+            },
+            {
+              "name": "Kamba",
+              "lat": 11.85172,
+              "lng": 3.65478
+            },
+            {
+              "name": "Kangiwa",
+              "lat": 12.55339,
+              "lng": 3.81814
+            },
+            {
+              "name": "Kende",
+              "lat": 11.51966,
+              "lng": 4.2603
+            },
+            {
+              "name": "Mahuta",
+              "lat": 11.55338,
+              "lng": 4.98138
+            },
+            {
+              "name": "Maiyama",
+              "lat": 12.08225,
+              "lng": 4.36907
+            },
+            {
+              "name": "Shanga",
+              "lat": 11.21374,
+              "lng": 4.57941
+            },
+            {
+              "name": "Wasagu",
+              "lat": 11.3764,
+              "lng": 5.79536
+            },
+            {
+              "name": "Zuru",
+              "lat": 11.43522,
+              "lng": 5.23494
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kogi",
+      "lat": 7.7949602,
+      "lng": 6.6868669,
+      "districts": [
+        {
+          "name": "Okene",
+          "lat": 7.55122,
+          "lng": 6.23589,
+          "subdistricts": [
+            {
+              "name": "Abocho",
+              "lat": 7.5677,
+              "lng": 6.9863
+            },
+            {
+              "name": "Adoru",
+              "lat": 6.97694,
+              "lng": 7.16262
+            },
+            {
+              "name": "Ankpa",
+              "lat": 7.40249,
+              "lng": 7.63196
+            },
+            {
+              "name": "Bugana",
+              "lat": 7.99917,
+              "lng": 7.58361
+            },
+            {
+              "name": "Dekina",
+              "lat": 7.68967,
+              "lng": 7.0438
+            },
+            {
+              "name": "Egbe",
+              "lat": 8.21667,
+              "lng": 5.51667
+            },
+            {
+              "name": "Icheu",
+              "lat": 7.7067,
+              "lng": 6.7718
+            },
+            {
+              "name": "Idah",
+              "lat": 7.11345,
+              "lng": 6.73866
+            },
+            {
+              "name": "Isanlu-Itedoijowa",
+              "lat": 8.27445,
+              "lng": 5.83528
+            },
+            {
+              "name": "Kabba",
+              "lat": 7.82719,
+              "lng": 6.07502
+            },
+            {
+              "name": "Koton-Karfe",
+              "lat": 8.0912,
+              "lng": 6.79782
+            },
+            {
+              "name": "Lokoja",
+              "lat": 7.79688,
+              "lng": 6.74048
+            },
+            {
+              "name": "Ogaminana",
+              "lat": 7.59383,
+              "lng": 6.21798
+            },
+            {
+              "name": "Ogurugu",
+              "lat": 6.78636,
+              "lng": 6.95017
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kwara",
+      "lat": 8.8367891,
+      "lng": 4.6688487,
+      "districts": [
+        {
+          "name": "Ilorin",
+          "lat": 8.49664,
+          "lng": 4.54214,
+          "subdistricts": [
+            {
+              "name": "Bode Saadu",
+              "lat": 8.939,
+              "lng": 4.78227
+            },
+            {
+              "name": "Gwasero",
+              "lat": 9.48333,
+              "lng": 3.5
+            },
+            {
+              "name": "Kaiama",
+              "lat": 9.6053,
+              "lng": 3.94101
+            },
+            {
+              "name": "Okuta",
+              "lat": 9.21667,
+              "lng": 3.18333
+            },
+            {
+              "name": "Suya",
+              "lat": 9.46667,
+              "lng": 3.18333
+            },
+            {
+              "name": "Yashikera",
+              "lat": 9.76667,
+              "lng": 3.4
+            }
+          ]
+        },
+        {
+          "name": "Lafiagi",
+          "lat": 8.85299,
+          "lng": 5.41641,
+          "subdistricts": [
+            {
+              "name": "Jebba",
+              "lat": 9.11972,
+              "lng": 4.8236
+            },
+            {
+              "name": "Patigi",
+              "lat": 8.72851,
+              "lng": 5.75561
+            }
+          ]
+        },
+        {
+          "name": "Offa",
+          "lat": 8.14911,
+          "lng": 4.72074,
+          "subdistricts": [
+            {
+              "name": "Ajasse Ipo",
+              "lat": 8.23333,
+              "lng": 4.81667
+            },
+            {
+              "name": "Omu-Aran",
+              "lat": 8.13857,
+              "lng": 5.1026
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lagos",
+      "lat": 6.4550575,
+      "lng": 3.3941795,
+      "districts": [
+        {
+          "name": "Agege",
+          "lat": 6.6152236,
+          "lng": 3.300297,
+          "subdistricts": [
+            {
+              "name": "Abule Egba",
+              "lat": 6.6507441,
+              "lng": 3.2655451
+            }
+          ]
+        },
+        {
+          "name": "Alimosho",
+          "lat": 6.5889,
+          "lng": 3.2485,
+          "subdistricts": [
+            {
+              "name": "Idimu",
+              "lat": 6.5833798,
+              "lng": 3.2044278
+            },
+            {
+              "name": "Ifako-Ijaiye",
+              "lat": 6.6830972,
+              "lng": 3.2207917
+            },
+            {
+              "name": "Igando",
+              "lat": 6.5513239,
+              "lng": 3.2218113
+            },
+            {
+              "name": "Ipaja",
+              "lat": 6.609832,
+              "lng": 3.2229994
+            },
+            {
+              "name": "Isheri-Olofin",
+              "lat": 6.5809203,
+              "lng": 3.2741728
+            }
+          ]
+        },
+        {
+          "name": "Amuwo-Odofin",
+          "lat": 6.4467434,
+          "lng": 3.196826
+        },
+        {
+          "name": "Ebute Ikorodu",
+          "lat": 6.60086,
+          "lng": 3.48818,
+          "subdistricts": [
+            {
+              "name": "Ikorodu",
+              "lat": 6.61526,
+              "lng": 3.5069
+            }
+          ]
+        },
+        {
+          "name": "Eti-Osa",
+          "lat": 6.468124,
+          "lng": 3.3709378,
+          "subdistricts": [
+            {
+              "name": "Apapa",
+              "lat": 6.4488,
+              "lng": 3.35901
+            },
+            {
+              "name": "Ebute Metta",
+              "lat": 6.4843759,
+              "lng": 3.3759168
+            },
+            {
+              "name": "Ijora",
+              "lat": 6.4633045,
+              "lng": 3.3406241
+            },
+            {
+              "name": "Makoko",
+              "lat": 6.49611,
+              "lng": 3.38778
+            }
+          ]
+        },
+        {
+          "name": "Ibeju-Lekki",
+          "lat": 6.4576436,
+          "lng": 3.623244,
+          "subdistricts": [
+            {
+              "name": "Ejirin",
+              "lat": 6.61423,
+              "lng": 3.90019
+            },
+            {
+              "name": "Epe",
+              "lat": 6.58412,
+              "lng": 3.98336
+            }
+          ]
+        },
+        {
+          "name": "Ikeja",
+          "lat": 6.59651,
+          "lng": 3.34205,
+          "subdistricts": [
+            {
+              "name": "Ogba",
+              "lat": 6.6230624,
+              "lng": 3.3341836
+            },
+            {
+              "name": "Ojodu Berger",
+              "lat": 6.6454523,
+              "lng": 3.3663973
+            },
+            {
+              "name": "Ojota",
+              "lat": 6.5851656,
+              "lng": 3.3709254
+            }
+          ]
+        },
+        {
+          "name": "Lagos",
+          "lat": 6.45407,
+          "lng": 3.39467
+        },
+        {
+          "name": "Lagos Island",
+          "lat": 6.4499982,
+          "lng": 3.3999984,
+          "subdistricts": [
+            {
+              "name": "Lekki",
+              "lat": 6.5114813,
+              "lng": 3.4445381
+            }
+          ]
+        },
+        {
+          "name": "Ojo",
+          "lat": 6.4620213,
+          "lng": 3.0796915,
+          "subdistricts": [
+            {
+              "name": "Badagry",
+              "lat": 6.41502,
+              "lng": 2.88132
+            }
+          ]
+        },
+        {
+          "name": "Oshodi-Isolo",
+          "lat": 6.5365483,
+          "lng": 3.2755143
+        },
+        {
+          "name": "Shomolu",
+          "lat": 6.5375955,
+          "lng": 3.3650645,
+          "subdistricts": [
+            {
+              "name": "Bariga",
+              "lat": 6.5393123,
+              "lng": 3.3762706
+            },
+            {
+              "name": "Mushin",
+              "lat": 6.5356324,
+              "lng": 3.3302253
+            },
+            {
+              "name": "Yaba",
+              "lat": 6.5059457,
+              "lng": 3.3601286
+            }
+          ]
+        },
+        {
+          "name": "Surulere",
+          "lat": 6.4900983,
+          "lng": 3.3025143,
+          "subdistricts": [
+            {
+              "name": "Festac",
+              "lat": 6.4717833,
+              "lng": 3.2649387
+            }
+          ]
+        },
+        {
+          "name": "Victoria Island",
+          "lat": 6.429984,
+          "lng": 3.4022449
+        }
+      ]
+    },
+    {
+      "name": "Nasarawa",
+      "lat": 8.4387868,
+      "lng": 8.2382849,
+      "districts": [
+        {
+          "name": "Lafia",
+          "lat": 8.4939,
+          "lng": 8.51532,
+          "subdistricts": [
+            {
+              "name": "Buga",
+              "lat": 8.49056,
+              "lng": 7.34139
+            },
+            {
+              "name": "Doma",
+              "lat": 8.39307,
+              "lng": 8.35544
+            },
+            {
+              "name": "Keffi",
+              "lat": 8.84651,
+              "lng": 7.87354
+            },
+            {
+              "name": "Nasarawa",
+              "lat": 8.53895,
+              "lng": 7.70821
+            },
+            {
+              "name": "Wamba",
+              "lat": 8.94153,
+              "lng": 8.60315
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Niger",
+      "lat": 9.9326083,
+      "lng": 5.6511088,
+      "districts": [
+        {
+          "name": "Minna",
+          "lat": 9.61524,
+          "lng": 6.54776,
+          "subdistricts": [
+            {
+              "name": "Auna",
+              "lat": 10.18805,
+              "lng": 4.72318
+            },
+            {
+              "name": "Babana",
+              "lat": 10.42949,
+              "lng": 3.81495
+            },
+            {
+              "name": "Badeggi",
+              "lat": 9.0563,
+              "lng": 6.143
+            },
+            {
+              "name": "Bokani",
+              "lat": 9.43333,
+              "lng": 5.2
+            },
+            {
+              "name": "Duku",
+              "lat": 11.2361,
+              "lng": 4.90727
+            },
+            {
+              "name": "Ibeto",
+              "lat": 10.48536,
+              "lng": 5.14501
+            },
+            {
+              "name": "Konkwesso",
+              "lat": 10.84686,
+              "lng": 4.09835
+            },
+            {
+              "name": "Kontagora",
+              "lat": 10.40319,
+              "lng": 5.4708
+            },
+            {
+              "name": "Kusheriki",
+              "lat": 10.53283,
+              "lng": 6.44222
+            },
+            {
+              "name": "Kuta",
+              "lat": 9.86864,
+              "lng": 6.71042
+            },
+            {
+              "name": "Lapai",
+              "lat": 9.04439,
+              "lng": 6.57089
+            },
+            {
+              "name": "New Shagunnu",
+              "lat": 10.33957,
+              "lng": 4.4688
+            },
+            {
+              "name": "Tegina",
+              "lat": 10.0706,
+              "lng": 6.1906
+            },
+            {
+              "name": "Ukata",
+              "lat": 10.83122,
+              "lng": 5.82494
+            },
+            {
+              "name": "Wawa",
+              "lat": 9.90222,
+              "lng": 4.41917
+            },
+            {
+              "name": "Zungeru",
+              "lat": 9.80726,
+              "lng": 6.15238
+            }
+          ]
+        },
+        {
+          "name": "Suleja",
+          "lat": 9.18059,
+          "lng": 7.17939,
+          "subdistricts": [
+            {
+              "name": "Baro",
+              "lat": 8.61565,
+              "lng": 6.4185
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ogun",
+      "lat": 6.9788582,
+      "lng": 3.4389293,
+      "districts": [
+        {
+          "name": "Abeokuta",
+          "lat": 7.15571,
+          "lng": 3.34509,
+          "subdistricts": [
+            {
+              "name": "Ado Odo",
+              "lat": 6.6,
+              "lng": 2.93333
+            },
+            {
+              "name": "Idi Iroko",
+              "lat": 6.63333,
+              "lng": 2.73333
+            },
+            {
+              "name": "Ifo",
+              "lat": 6.81491,
+              "lng": 3.19518
+            },
+            {
+              "name": "Ilaro",
+              "lat": 6.88901,
+              "lng": 3.01416
+            },
+            {
+              "name": "Imeko",
+              "lat": 7.44888,
+              "lng": 2.84289
+            },
+            {
+              "name": "Owode",
+              "lat": 6.94851,
+              "lng": 3.50561
+            }
+          ]
+        },
+        {
+          "name": "Ijebu-Igbo",
+          "lat": 6.97198,
+          "lng": 3.99938
+        },
+        {
+          "name": "Ijebu-Ode",
+          "lat": 6.81944,
+          "lng": 3.91731,
+          "subdistricts": [
+            {
+              "name": "Ijebu-Ife",
+              "lat": 6.77837,
+              "lng": 4.03386
+            },
+            {
+              "name": "Iperu",
+              "lat": 6.91002,
+              "lng": 3.66557
+            },
+            {
+              "name": "Isara",
+              "lat": 6.99345,
+              "lng": 3.68148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ondo",
+      "lat": 7.0209686,
+      "lng": 5.0567477,
+      "districts": [
+        {
+          "name": "Akure",
+          "lat": 7.25256,
+          "lng": 5.19312,
+          "subdistricts": [
+            {
+              "name": "Idanre",
+              "lat": 7.1127,
+              "lng": 5.1159
+            },
+            {
+              "name": "Ilare",
+              "lat": 7.35067,
+              "lng": 5.11333
+            }
+          ]
+        },
+        {
+          "name": "Ondo",
+          "lat": 7.09316,
+          "lng": 4.83528,
+          "subdistricts": [
+            {
+              "name": "Agbabu",
+              "lat": 6.58862,
+              "lng": 4.8343
+            },
+            {
+              "name": "Ore",
+              "lat": 6.74716,
+              "lng": 4.8761
+            }
+          ]
+        },
+        {
+          "name": "Owo",
+          "lat": 7.1962,
+          "lng": 5.58681,
+          "subdistricts": [
+            {
+              "name": "Ifon",
+              "lat": 6.92973,
+              "lng": 5.77368
+            },
+            {
+              "name": "Ode",
+              "lat": 7.7899,
+              "lng": 5.7117
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Osun",
+      "lat": 7.5484047,
+      "lng": 4.4978307,
+      "districts": [
+        {
+          "name": "Ejigbo",
+          "lat": 7.90292,
+          "lng": 4.31419
+        },
+        {
+          "name": "Gbongan",
+          "lat": 7.47734,
+          "lng": 4.35351
+        },
+        {
+          "name": "Ikire",
+          "lat": 7.36983,
+          "lng": 4.1863,
+          "subdistricts": [
+            {
+              "name": "Apomu",
+              "lat": 7.35156,
+              "lng": 4.18335
+            }
+          ]
+        },
+        {
+          "name": "Ikirun",
+          "lat": 7.91283,
+          "lng": 4.66741,
+          "subdistricts": [
+            {
+              "name": "Otan Ayegbaju",
+              "lat": 7.94783,
+              "lng": 4.78836
+            }
+          ]
+        },
+        {
+          "name": "Ila Orangun",
+          "lat": 8.01714,
+          "lng": 4.90421,
+          "subdistricts": [
+            {
+              "name": "Oke Mesi",
+              "lat": 7.81667,
+              "lng": 4.91667
+            },
+            {
+              "name": "Oyan",
+              "lat": 8.05,
+              "lng": 4.76667
+            }
+          ]
+        },
+        {
+          "name": "Ile-Ife",
+          "lat": 7.4824,
+          "lng": 4.56032
+        },
+        {
+          "name": "Ilesa",
+          "lat": 7.62789,
+          "lng": 4.74161,
+          "subdistricts": [
+            {
+              "name": "Ijebu-Jesa",
+              "lat": 7.68287,
+              "lng": 4.81769
+            }
+          ]
+        },
+        {
+          "name": "Ilobu",
+          "lat": 7.84036,
+          "lng": 4.48557
+        },
+        {
+          "name": "Inisa",
+          "lat": 7.85,
+          "lng": 4.33333
+        },
+        {
+          "name": "Iwo",
+          "lat": 7.63527,
+          "lng": 4.18156,
+          "subdistricts": [
+            {
+              "name": "Olupona",
+              "lat": 7.6,
+              "lng": 4.18333
+            }
+          ]
+        },
+        {
+          "name": "Modakeke",
+          "lat": 7.38299,
+          "lng": 4.26031
+        },
+        {
+          "name": "Osogbo",
+          "lat": 7.77104,
+          "lng": 4.55698
+        }
+      ]
+    },
+    {
+      "name": "Oyo",
+      "lat": 8.2151249,
+      "lng": 3.5642897,
+      "districts": [
+        {
+          "name": "Ibadan",
+          "lat": 7.37756,
+          "lng": 3.90591,
+          "subdistricts": [
+            {
+              "name": "Igbo-Ora",
+              "lat": 7.43383,
+              "lng": 3.28788
+            },
+            {
+              "name": "Lalupon",
+              "lat": 7.46791,
+              "lng": 4.06594
+            },
+            {
+              "name": "Orita Eruwa",
+              "lat": 7.55,
+              "lng": 3.43333
+            }
+          ]
+        },
+        {
+          "name": "Igboho",
+          "lat": 8.83784,
+          "lng": 3.75628,
+          "subdistricts": [
+            {
+              "name": "Igbeti",
+              "lat": 8.74921,
+              "lng": 4.13113
+            }
+          ]
+        },
+        {
+          "name": "Kisi",
+          "lat": 9.08297,
+          "lng": 3.85196
+        },
+        {
+          "name": "Ogbomoso",
+          "lat": 8.13373,
+          "lng": 4.24014,
+          "subdistricts": [
+            {
+              "name": "Alapa",
+              "lat": 8.61667,
+              "lng": 4.38333
+            }
+          ]
+        },
+        {
+          "name": "Oyo",
+          "lat": 7.85257,
+          "lng": 3.93125,
+          "subdistricts": [
+            {
+              "name": "Fiditi",
+              "lat": 7.71361,
+              "lng": 3.91722
+            },
+            {
+              "name": "Okeho",
+              "lat": 8.03386,
+              "lng": 3.34759
+            }
+          ]
+        },
+        {
+          "name": "Saki",
+          "lat": 8.66762,
+          "lng": 3.39393,
+          "subdistricts": [
+            {
+              "name": "Ago Are",
+              "lat": 8.5,
+              "lng": 3.41667
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plateau",
+      "lat": 9.0583446,
+      "lng": 9.6826289,
+      "districts": [
+        {
+          "name": "Jos",
+          "lat": 9.92849,
+          "lng": 8.89212,
+          "subdistricts": [
+            {
+              "name": "Amper",
+              "lat": 9.35509,
+              "lng": 9.70121
+            },
+            {
+              "name": "Bukuru",
+              "lat": 9.79399,
+              "lng": 8.86397
+            },
+            {
+              "name": "Dengi",
+              "lat": 9.36872,
+              "lng": 9.96223
+            },
+            {
+              "name": "Kwolla",
+              "lat": 8.90361,
+              "lng": 9.29086
+            },
+            {
+              "name": "Langtang",
+              "lat": 9.14164,
+              "lng": 9.79101
+            },
+            {
+              "name": "Pankshin",
+              "lat": 9.32541,
+              "lng": 9.4352
+            },
+            {
+              "name": "Panyam",
+              "lat": 9.40756,
+              "lng": 9.21481
+            },
+            {
+              "name": "Vom",
+              "lat": 9.7291,
+              "lng": 8.79138
+            },
+            {
+              "name": "Yelwa",
+              "lat": 8.83333,
+              "lng": 9.63333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rivers",
+      "lat": 4.8416028,
+      "lng": 6.8604088,
+      "districts": [
+        {
+          "name": "Buguma",
+          "lat": 4.73333333,
+          "lng": 6.86666667,
+          "subdistricts": [
+            {
+              "name": "Abalama",
+              "lat": 4.76305556,
+              "lng": 6.84027778
+            },
+            {
+              "name": "Abonnema",
+              "lat": 4.7231169,
+              "lng": 6.7788461
+            },
+            {
+              "name": "Ahoada",
+              "lat": 5.08333333,
+              "lng": 6.65
+            },
+            {
+              "name": "Elele",
+              "lat": 5.10184167,
+              "lng": 6.81902222
+            },
+            {
+              "name": "Obonoma",
+              "lat": 4.71138889,
+              "lng": 6.79083333
+            },
+            {
+              "name": "Omoku",
+              "lat": 5.342,
+              "lng": 6.656
+            }
+          ]
+        },
+        {
+          "name": "Port Harcourt",
+          "lat": 4.75,
+          "lng": 7,
+          "subdistricts": [
+            {
+              "name": "Bori",
+              "lat": 4.67277778,
+              "lng": 7.37027778
+            },
+            {
+              "name": "Chokocho",
+              "lat": 4.990833,
+              "lng": 7.054444
+            },
+            {
+              "name": "Onne",
+              "lat": 4.74444444,
+              "lng": 7.03611111
+            },
+            {
+              "name": "Opobo",
+              "lat": 4.51138889,
+              "lng": 7.54
+            },
+            {
+              "name": "Rumuokoro",
+              "lat": 4.86666667,
+              "lng": 6.98333333
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sokoto",
+      "lat": 13.0611195,
+      "lng": 5.3152203,
+      "districts": [
+        {
+          "name": "Sokoto",
+          "lat": 13.06269,
+          "lng": 5.24322,
+          "subdistricts": [
+            {
+              "name": "Binji",
+              "lat": 13.22294,
+              "lng": 4.90888
+            },
+            {
+              "name": "Dange",
+              "lat": 12.85313,
+              "lng": 5.34572
+            },
+            {
+              "name": "Gandi",
+              "lat": 12.96358,
+              "lng": 5.74337
+            },
+            {
+              "name": "Goronyo",
+              "lat": 13.44226,
+              "lng": 5.67234
+            },
+            {
+              "name": "Gwadabawa",
+              "lat": 13.35819,
+              "lng": 5.23812
+            },
+            {
+              "name": "Illela",
+              "lat": 13.73064,
+              "lng": 5.29777
+            },
+            {
+              "name": "Rabah",
+              "lat": 13.12257,
+              "lng": 5.50762
+            },
+            {
+              "name": "Tambuwal",
+              "lat": 12.40592,
+              "lng": 4.64605
+            },
+            {
+              "name": "Wurno",
+              "lat": 13.29048,
+              "lng": 5.42373
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taraba",
+      "lat": 8.0141334,
+      "lng": 10.7376336,
+      "districts": [
+        {
+          "name": "Jalingo",
+          "lat": 8.89367,
+          "lng": 11.3596,
+          "subdistricts": [
+            {
+              "name": "Baissa",
+              "lat": 7.23087,
+              "lng": 10.62444
+            },
+            {
+              "name": "Beli",
+              "lat": 7.85868,
+              "lng": 10.97187
+            },
+            {
+              "name": "Gassol",
+              "lat": 8.53535,
+              "lng": 10.44615
+            },
+            {
+              "name": "Gembu",
+              "lat": 6.72556,
+              "lng": 11.25652
+            },
+            {
+              "name": "Ibi",
+              "lat": 8.18122,
+              "lng": 9.74431
+            },
+            {
+              "name": "Lau",
+              "lat": 9.20827,
+              "lng": 11.27541
+            },
+            {
+              "name": "Mutum Biyu",
+              "lat": 8.64138,
+              "lng": 10.77355
+            },
+            {
+              "name": "Riti",
+              "lat": 7.90844,
+              "lng": 9.61688
+            },
+            {
+              "name": "Wukari",
+              "lat": 7.87139,
+              "lng": 9.77786
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yobe",
+      "lat": 12.1233242,
+      "lng": 11.5065937,
+      "districts": [
+        {
+          "name": "Fika",
+          "lat": 11.377,
+          "lng": 11.23746,
+          "subdistricts": [
+            {
+              "name": "Damaturu",
+              "lat": 11.74697,
+              "lng": 11.96083
+            },
+            {
+              "name": "Dankalwa",
+              "lat": 11.74449,
+              "lng": 12.18545
+            },
+            {
+              "name": "Goniri",
+              "lat": 11.48451,
+              "lng": 12.31264
+            },
+            {
+              "name": "Gujba",
+              "lat": 11.49959,
+              "lng": 11.93396
+            },
+            {
+              "name": "Lajere",
+              "lat": 11.98022,
+              "lng": 11.44002
+            },
+            {
+              "name": "Potiskum",
+              "lat": 11.71391,
+              "lng": 11.08108
+            }
+          ]
+        },
+        {
+          "name": "Gashua",
+          "lat": 12.87398,
+          "lng": 11.04057,
+          "subdistricts": [
+            {
+              "name": "Dapchi",
+              "lat": 12.49536,
+              "lng": 11.49977
+            },
+            {
+              "name": "Geidam",
+              "lat": 12.89439,
+              "lng": 11.92649
+            },
+            {
+              "name": "Gwio Kura",
+              "lat": 12.67479,
+              "lng": 11.0669
+            }
+          ]
+        },
+        {
+          "name": "Nguru",
+          "lat": 12.87695,
+          "lng": 10.45536,
+          "subdistricts": [
+            {
+              "name": "Gorgoram",
+              "lat": 12.63958,
+              "lng": 10.70422
+            },
+            {
+              "name": "Kumagunnam",
+              "lat": 13.15498,
+              "lng": 10.63468
+            },
+            {
+              "name": "Machina",
+              "lat": 13.13639,
+              "lng": 10.04924
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zamfara",
+      "lat": 12.0078998,
+      "lng": 6.4191432,
+      "districts": [
+        {
+          "name": "Gusau",
+          "lat": 12.17024,
+          "lng": 6.66412,
+          "subdistricts": [
+            {
+              "name": "Anka",
+              "lat": 12.11347,
+              "lng": 5.92681
+            },
+            {
+              "name": "Dan Sadau",
+              "lat": 11.29621,
+              "lng": 6.4952
+            },
+            {
+              "name": "Gummi",
+              "lat": 12.14484,
+              "lng": 5.11776
+            },
+            {
+              "name": "Kaura Namoda",
+              "lat": 12.59371,
+              "lng": 6.58648
+            },
+            {
+              "name": "Kwatarkwashi",
+              "lat": 12.14082,
+              "lng": 6.82196
+            },
+            {
+              "name": "Maru",
+              "lat": 12.3336,
+              "lng": 6.40372
+            },
+            {
+              "name": "Moriki",
+              "lat": 12.87405,
+              "lng": 6.48754
+            },
+            {
+              "name": "Sauri",
+              "lat": 11.72655,
+              "lng": 6.78374
+            },
+            {
+              "name": "Tsafe",
+              "lat": 11.95775,
+              "lng": 6.92083
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

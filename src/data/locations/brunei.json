@@ -1,0 +1,81 @@
+{
+  "name": "Brunei",
+  "lat": 4.5,
+  "lng": 114.66666666,
+  "cities": [
+    {
+      "name": "Belait",
+      "lat": 4.4349938,
+      "lng": 114.4946524,
+      "districts": [
+        {
+          "name": "Kuala Belait",
+          "lat": 4.58361,
+          "lng": 114.2312
+        },
+        {
+          "name": "Seria",
+          "lat": 4.60637,
+          "lng": 114.32476
+        }
+      ]
+    },
+    {
+      "name": "Brunei-Muara",
+      "lat": 4.9752098,
+      "lng": 114.9367663,
+      "districts": [
+        {
+          "name": "Bandar Seri Begawan",
+          "lat": 4.89035,
+          "lng": 114.94006,
+          "iscapital": true
+        },
+        {
+          "name": "Berakas A",
+          "lat": 4.97032,
+          "lng": 114.92989
+        },
+        {
+          "name": "Kapok",
+          "lat": 5.02447,
+          "lng": 115.04664
+        },
+        {
+          "name": "Mentiri",
+          "lat": 4.97058,
+          "lng": 115.02078
+        },
+        {
+          "name": "Serasa",
+          "lat": 5.01718,
+          "lng": 115.05841
+        }
+      ]
+    },
+    {
+      "name": "Temburong",
+      "lat": 4.629184,
+      "lng": 115.1634408,
+      "districts": [
+        {
+          "name": "Bangar",
+          "lat": 4.70861,
+          "lng": 115.07167
+        }
+      ]
+    },
+    {
+      "name": "Tutong",
+      "lat": 4.682681,
+      "lng": 114.6562706,
+      "districts": [
+        {
+          "name": "Tutong",
+          "lat": 4.80278,
+          "lng": 114.64917
+        }
+      ]
+    }
+  ]
+}

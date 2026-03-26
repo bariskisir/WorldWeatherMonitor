@@ -1,0 +1,360 @@
+{
+  "name": "Taiwan",
+  "lat": 23.5,
+  "lng": 121,
+  "cities": [
+    {
+      "name": "Changhua",
+      "lat": 24.0755667,
+      "lng": 120.5444667,
+      "districts": [
+        {
+          "name": "Changhua",
+          "lat": 23.95361,
+          "lng": 120.49083
+        },
+        {
+          "name": "Yuanlin",
+          "lat": 23.95671,
+          "lng": 120.57608
+        }
+      ]
+    },
+    {
+      "name": "Chiayi",
+      "lat": 23.4591664,
+      "lng": 120.2930004,
+      "districts": [
+        {
+          "name": "Chiayi",
+          "lat": 23.47722,
+          "lng": 120.44527
+        },
+        {
+          "name": "Pizitou",
+          "lat": 23.48556,
+          "lng": 120.44472
+        }
+      ]
+    },
+    {
+      "name": "Chiayi County",
+      "lat": 23.49620556,
+      "lng": 120.641875,
+      "districts": [
+        {
+          "name": "Budai",
+          "lat": 23.36,
+          "lng": 120.17
+        },
+        {
+          "name": "Chiayi",
+          "lat": 23.46333,
+          "lng": 120.58166
+        },
+        {
+          "name": "Dalin",
+          "lat": 23.59888889,
+          "lng": 120.47
+        },
+        {
+          "name": "Minxiong",
+          "lat": 23.550399,
+          "lng": 120.445696
+        }
+      ]
+    },
+    {
+      "name": "Hsinchu",
+      "lat": 24.8138287,
+      "lng": 120.9674798,
+      "districts": [
+        {
+          "name": "Hsinchu",
+          "lat": 24.67416,
+          "lng": 121.16111
+        }
+      ]
+    },
+    {
+      "name": "Hsinchu County",
+      "lat": 24.83333333,
+      "lng": 121.01472222,
+      "districts": [
+        {
+          "name": "Hsinchu",
+          "lat": 24.80361,
+          "lng": 120.96861
+        },
+        {
+          "name": "Zhubei",
+          "lat": 24.83333333,
+          "lng": 121.01194444
+        },
+        {
+          "name": "Hukou",
+          "lat": 24.9,
+          "lng": 121.05
+        }
+      ]
+    },
+    {
+      "name": "Hualien",
+      "lat": 23.9871589,
+      "lng": 121.6015714,
+      "districts": [
+        {
+          "name": "Hualien",
+          "lat": 23.78166,
+          "lng": 121.39333
+        }
+      ]
+    },
+    {
+      "name": "Kaohsiung",
+      "lat": 22.6203348,
+      "lng": 120.3120375,
+      "districts": [
+        {
+          "name": "Kaohsiung",
+          "lat": 22.61626,
+          "lng": 120.31333
+        }
+      ]
+    },
+    {
+      "name": "Keelung",
+      "lat": 25.1317232,
+      "lng": 121.744652,
+      "districts": []
+    },
+    {
+      "name": "Kinmen",
+      "lat": 24.4367638,
+      "lng": 118.3186435,
+      "districts": [
+        {
+          "name": "Jincheng",
+          "lat": 24.43415,
+          "lng": 118.31712
+        },
+        {
+          "name": "Kinmen",
+          "lat": 24.45333,
+          "lng": 118.38861
+        }
+      ]
+    },
+    {
+      "name": "Lienchiang",
+      "lat": 26.1577951,
+      "lng": 119.9519756,
+      "districts": [
+        {
+          "name": "Lienchiang",
+          "lat": 26.37004,
+          "lng": 120.49545
+        },
+        {
+          "name": "Nangan",
+          "lat": 26.15039,
+          "lng": 119.93284
+        }
+      ]
+    },
+    {
+      "name": "Miaoli",
+      "lat": 24.560159,
+      "lng": 120.8214265,
+      "districts": [
+        {
+          "name": "Miaoli",
+          "lat": 24.48972,
+          "lng": 120.90638
+        }
+      ]
+    },
+    {
+      "name": "Nantou",
+      "lat": 23.90235,
+      "lng": 120.6909167,
+      "districts": [
+        {
+          "name": "Lugu",
+          "lat": 23.74639,
+          "lng": 120.7525
+        },
+        {
+          "name": "Nantou",
+          "lat": 23.83419,
+          "lng": 120.92704
+        },
+        {
+          "name": "Puli",
+          "lat": 23.96639,
+          "lng": 120.96952
+        },
+        {
+          "name": "Zhongxing New Village",
+          "lat": 23.95908,
+          "lng": 120.68516
+        }
+      ]
+    },
+    {
+      "name": "New Taipei",
+      "lat": 25.011997,
+      "lng": 121.4656619,
+      "districts": []
+    },
+    {
+      "name": "Penghu",
+      "lat": 23.569694,
+      "lng": 119.5664543,
+      "districts": [
+        {
+          "name": "Magong",
+          "lat": 23.5654,
+          "lng": 119.58627
+        },
+        {
+          "name": "Penghu",
+          "lat": 23.57111,
+          "lng": 119.61138
+        }
+      ]
+    },
+    {
+      "name": "Pingtung",
+      "lat": 22.6628468,
+      "lng": 120.4915677,
+      "districts": [
+        {
+          "name": "Pingtung",
+          "lat": 22.49555,
+          "lng": 120.61444
+        },
+        {
+          "name": "Donggang",
+          "lat": 22.46515,
+          "lng": 120.44927
+        },
+        {
+          "name": "Hengchun",
+          "lat": 22.00417,
+          "lng": 120.74389
+        }
+      ]
+    },
+    {
+      "name": "Taichung",
+      "lat": 24.163162,
+      "lng": 120.6478282,
+      "districts": [
+        {
+          "name": "Taichung",
+          "lat": 24.1469,
+          "lng": 120.6839
+        }
+      ]
+    },
+    {
+      "name": "Tainan",
+      "lat": 22.9912348,
+      "lng": 120.184982,
+      "districts": [
+        {
+          "name": "Tainan",
+          "lat": 22.99083,
+          "lng": 120.21333
+        },
+        {
+          "name": "Yujing",
+          "lat": 23.12493,
+          "lng": 120.46138
+        }
+      ]
+    },
+    {
+      "name": "Taipei",
+      "lat": 25.0329694,
+      "lng": 121.5654177,
+      "districts": [
+        {
+          "name": "Banqiao",
+          "lat": 25.01427,
+          "lng": 121.46719
+        },
+        {
+          "name": "Taipei",
+          "lat": 25.04776,
+          "lng": 121.53185,
+          "iscapital": true
+        },
+        {
+          "name": "Jiufen",
+          "lat": 25.10957,
+          "lng": 121.84424
+        }
+      ]
+    },
+    {
+      "name": "Taitung",
+      "lat": 22.7560447,
+      "lng": 121.1456538,
+      "districts": [
+        {
+          "name": "Taitung",
+          "lat": 22.88361,
+          "lng": 121.04833
+        }
+      ]
+    },
+    {
+      "name": "Taoyuan",
+      "lat": 24.9936281,
+      "lng": 121.3009798,
+      "districts": [
+        {
+          "name": "Taoyuan",
+          "lat": 24.895,
+          "lng": 121.24611
+        },
+        {
+          "name": "Daxi",
+          "lat": 24.88373,
+          "lng": 121.29043
+        }
+      ]
+    },
+    {
+      "name": "Yilan",
+      "lat": 24.7302791,
+      "lng": 121.7631149,
+      "districts": [
+        {
+          "name": "Yilan",
+          "lat": 24.5425,
+          "lng": 121.63361
+        }
+      ]
+    },
+    {
+      "name": "Yunlin",
+      "lat": 23.6990775,
+      "lng": 120.5245511,
+      "districts": [
+        {
+          "name": "Douliu",
+          "lat": 23.70944,
+          "lng": 120.54333
+        },
+        {
+          "name": "Yunlin",
+          "lat": 23.70701,
+          "lng": 120.38481
+        }
+      ]
+    }
+  ]
+}

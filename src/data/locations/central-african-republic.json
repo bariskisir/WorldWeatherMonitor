@@ -1,0 +1,337 @@
+{
+  "name": "Central African Republic",
+  "lat": 7,
+  "lng": 21,
+  "cities": [
+    {
+      "name": "Bamingui-Bangoran",
+      "lat": 8.698547,
+      "lng": 20.5281149,
+      "districts": [
+        {
+          "name": "Bamingui",
+          "lat": 7.88897,
+          "lng": 20.04875
+        },
+        {
+          "name": "Ndélé",
+          "lat": 8.74287,
+          "lng": 20.89108
+        }
+      ]
+    },
+    {
+      "name": "Bangui",
+      "lat": 4.3635118,
+      "lng": 18.5835913,
+      "districts": [
+        {
+          "name": "Bangui",
+          "lat": 4.36122,
+          "lng": 18.55496,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Basse-Kotto",
+      "lat": 5.1283201,
+      "lng": 21.3883825,
+      "districts": [
+        {
+          "name": "Alindao",
+          "lat": 5.02667,
+          "lng": 21.20876
+        },
+        {
+          "name": "Kembé",
+          "lat": 4.62275,
+          "lng": 21.88645
+        },
+        {
+          "name": "Mobaye",
+          "lat": 4.31902,
+          "lng": 21.17861
+        }
+      ]
+    },
+    {
+      "name": "Haut-Mbomou",
+      "lat": 6.3497929,
+      "lng": 25.6508738,
+      "districts": [
+        {
+          "name": "Obo",
+          "lat": 5.39586,
+          "lng": 26.49211
+        },
+        {
+          "name": "Zemio",
+          "lat": 5.03144,
+          "lng": 25.13614
+        }
+      ]
+    },
+    {
+      "name": "Haute-Kotto",
+      "lat": 7.3625645,
+      "lng": 22.9271411,
+      "districts": [
+        {
+          "name": "Bria",
+          "lat": 6.54233,
+          "lng": 21.98633
+        },
+        {
+          "name": "Ouadda",
+          "lat": 8.07771,
+          "lng": 22.40075
+        }
+      ]
+    },
+    {
+      "name": "Kémo",
+      "lat": 5.9480074,
+      "lng": 19.2158871,
+      "districts": [
+        {
+          "name": "Sibut",
+          "lat": 5.71801,
+          "lng": 19.07389
+        }
+      ]
+    },
+    {
+      "name": "Lobaye",
+      "lat": 4.1034548,
+      "lng": 17.5653592,
+      "districts": [
+        {
+          "name": "Boda",
+          "lat": 4.31887,
+          "lng": 17.46953
+        },
+        {
+          "name": "Boganangone",
+          "lat": 4.73558,
+          "lng": 17.14047
+        },
+        {
+          "name": "Mbaiki",
+          "lat": 3.97145,
+          "lng": 17.93352
+        },
+        {
+          "name": "Mongoumba",
+          "lat": 3.64153,
+          "lng": 18.59364
+        }
+      ]
+    },
+    {
+      "name": "Mambéré-Kadéï",
+      "lat": 4.5662762,
+      "lng": 15.8671403,
+      "districts": [
+        {
+          "name": "Carnot",
+          "lat": 4.94273,
+          "lng": 15.87735
+        },
+        {
+          "name": "Berberati",
+          "lat": 4.31211,
+          "lng": 15.88948
+        },
+        {
+          "name": "Gamboula",
+          "lat": 4.11775,
+          "lng": 15.13926
+        }
+      ]
+    },
+    {
+      "name": "Mbomou",
+      "lat": 5.5230899,
+      "lng": 23.4445705,
+      "districts": [
+        {
+          "name": "Bangassou",
+          "lat": 4.74132,
+          "lng": 22.81838
+        },
+        {
+          "name": "Gambo",
+          "lat": 4.64816,
+          "lng": 22.26331
+        },
+        {
+          "name": "Ouango",
+          "lat": 4.31325,
+          "lng": 22.55524
+        },
+        {
+          "name": "Rafai",
+          "lat": 5.81012,
+          "lng": 24.20305
+        }
+      ]
+    },
+    {
+      "name": "Nana-Grébizi",
+      "lat": 7.5048007,
+      "lng": 19.1923579,
+      "districts": [
+        {
+          "name": "Kaga Bandoro",
+          "lat": 6.98961,
+          "lng": 19.18744
+        }
+      ]
+    },
+    {
+      "name": "Nana-Mambéré",
+      "lat": 5.2231625,
+      "lng": 15.3517922,
+      "districts": [
+        {
+          "name": "Baoro",
+          "lat": 5.66667,
+          "lng": 15.96667
+        },
+        {
+          "name": "Bouar",
+          "lat": 5.93404,
+          "lng": 15.59599
+        }
+      ]
+    },
+    {
+      "name": "Ombella-M'Poko",
+      "lat": 5.0726761,
+      "lng": 18.1717789,
+      "districts": [
+        {
+          "name": "Bimbo",
+          "lat": 4.25671,
+          "lng": 18.41583
+        },
+        {
+          "name": "Boali",
+          "lat": 4.80048,
+          "lng": 18.12747
+        },
+        {
+          "name": "Damara",
+          "lat": 4.96075,
+          "lng": 18.7035
+        }
+      ]
+    },
+    {
+      "name": "Ouaka",
+      "lat": 6.3110548,
+      "lng": 20.5447525,
+      "districts": [
+        {
+          "name": "Bambari",
+          "lat": 5.76795,
+          "lng": 20.67565
+        },
+        {
+          "name": "Grimari",
+          "lat": 5.73549,
+          "lng": 19.91209
+        },
+        {
+          "name": "Ippy",
+          "lat": 6.26793,
+          "lng": 21.22468
+        },
+        {
+          "name": "Kouango",
+          "lat": 4.99337,
+          "lng": 19.96186
+        }
+      ]
+    },
+    {
+      "name": "Ouham",
+      "lat": 7.1314008,
+      "lng": 17.7041361,
+      "districts": [
+        {
+          "name": "Batangafo",
+          "lat": 7.30082,
+          "lng": 18.2833
+        },
+        {
+          "name": "Bossangoa",
+          "lat": 6.49263,
+          "lng": 17.45518
+        },
+        {
+          "name": "Bouca",
+          "lat": 6.50734,
+          "lng": 18.2767
+        },
+        {
+          "name": "Kabo",
+          "lat": 7.69937,
+          "lng": 18.62903
+        }
+      ]
+    },
+    {
+      "name": "Ouham-Pendé",
+      "lat": 6.7057282,
+      "lng": 16.1443202,
+      "districts": [
+        {
+          "name": "Bocaranga",
+          "lat": 6.76546,
+          "lng": 15.77873
+        },
+        {
+          "name": "Bozoum",
+          "lat": 6.31933,
+          "lng": 16.37992
+        },
+        {
+          "name": "Paoua",
+          "lat": 7.24269,
+          "lng": 16.44059
+        }
+      ]
+    },
+    {
+      "name": "Sangha-Mbaéré",
+      "lat": 3.6754895,
+      "lng": 16.3246915,
+      "districts": [
+        {
+          "name": "Nola",
+          "lat": 3.52494,
+          "lng": 16.04583
+        }
+      ]
+    },
+    {
+      "name": "Vakaga",
+      "lat": 9.8250502,
+      "lng": 22.376363,
+      "districts": [
+        {
+          "name": "Birao",
+          "lat": 10.28488,
+          "lng": 22.78818
+        },
+        {
+          "name": "Ouanda-Djallé",
+          "lat": 9.05877,
+          "lng": 22.42741
+        }
+      ]
+    }
+  ]
+}

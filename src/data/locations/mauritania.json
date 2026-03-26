@@ -1,0 +1,322 @@
+{
+  "name": "Mauritania",
+  "lat": 20,
+  "lng": -12,
+  "cities": [
+    {
+      "name": "Adrar",
+      "lat": 21.0090623,
+      "lng": -10.2207449,
+      "districts": [
+        {
+          "name": "Atar",
+          "lat": 20.5177,
+          "lng": -13.04857
+        },
+        {
+          "name": "Azougui",
+          "lat": 20.56764,
+          "lng": -13.11191
+        },
+        {
+          "name": "Chingueṭṭi",
+          "lat": 20.463,
+          "lng": -12.362
+        },
+        {
+          "name": "Ksar el Khali",
+          "lat": 20.93333333,
+          "lng": -11.61666667
+        }
+      ]
+    },
+    {
+      "name": "Assaba",
+      "lat": 16.5809185,
+      "lng": -11.5363724,
+      "districts": [
+        {
+          "name": "Barkéwol",
+          "lat": 16.64039,
+          "lng": -12.49849
+        },
+        {
+          "name": "Kiffa",
+          "lat": 16.62073,
+          "lng": -11.40208
+        }
+      ]
+    },
+    {
+      "name": "Brakna",
+      "lat": 17.2475638,
+      "lng": -13.4037714,
+      "districts": [
+        {
+          "name": "’Elb el Jmel",
+          "lat": 17.0105,
+          "lng": -13.97102
+        },
+        {
+          "name": "Aleg",
+          "lat": 17.05314,
+          "lng": -13.91312
+        },
+        {
+          "name": "Bofal",
+          "lat": 16.41666667,
+          "lng": -13.8
+        },
+        {
+          "name": "Sori Malé",
+          "lat": 16.95416667,
+          "lng": -13.37916667
+        }
+      ]
+    },
+    {
+      "name": "Dakhlet Nouadhibou",
+      "lat": 20.8019537,
+      "lng": -16.0012708,
+      "districts": [
+        {
+          "name": "Nouadhibou",
+          "lat": 20.94188,
+          "lng": -17.03842
+        },
+        {
+          "name": "Cansado",
+          "lat": 20.85333333,
+          "lng": -17.0325
+        },
+        {
+          "name": "Iouik",
+          "lat": 19.84944444,
+          "lng": -16.33083333
+        }
+      ]
+    },
+    {
+      "name": "Gorgol",
+      "lat": 16.0062275,
+      "lng": -12.8360834,
+      "districts": [
+        {
+          "name": "Kaédi",
+          "lat": 16.15027,
+          "lng": -13.5037
+        }
+      ]
+    },
+    {
+      "name": "Guidimaka",
+      "lat": 15.3766896,
+      "lng": -12.124663,
+      "districts": [
+        {
+          "name": "Sélibaby",
+          "lat": 15.15846,
+          "lng": -12.1843
+        }
+      ]
+    },
+    {
+      "name": "Hodh Ech Chargui",
+      "lat": 18.1941112,
+      "lng": -7.0921652,
+      "districts": [
+        {
+          "name": "Diade",
+          "lat": 16.23333333,
+          "lng": -7.41666667
+        },
+        {
+          "name": "Kataouane",
+          "lat": 16.06888889,
+          "lng": -6.49888889
+        },
+        {
+          "name": "Néma",
+          "lat": 16.61702,
+          "lng": -7.25649
+        },
+        {
+          "name": "Timbedra",
+          "lat": 16.24472222,
+          "lng": -8.1675
+        }
+      ]
+    },
+    {
+      "name": "Hodh El Gharbi",
+      "lat": 16.5693922,
+      "lng": -9.8322366,
+      "districts": [
+        {
+          "name": "Aioun",
+          "lat": 16.6614,
+          "lng": -9.6149
+        },
+        {
+          "name": "Ayoun el Atrous",
+          "lat": 16.66666667,
+          "lng": -9.61666667
+        },
+        {
+          "name": "Togba",
+          "lat": 17.4,
+          "lng": -10.36666667
+        }
+      ]
+    },
+    {
+      "name": "Inchiri",
+      "lat": 19.9922766,
+      "lng": -15.113767,
+      "districts": [
+        {
+          "name": "Akjoujt",
+          "lat": 19.74657,
+          "lng": -14.38531
+        }
+      ]
+    },
+    {
+      "name": "Nouakchott-Nord",
+      "lat": 18.1024945,
+      "lng": -15.9192819,
+      "districts": [
+        {
+          "name": "Dar-Naim",
+          "lat": 18.03333333,
+          "lng": -15.96666667
+        },
+        {
+          "name": "Teyarett",
+          "lat": 18.1289572,
+          "lng": -15.9377834
+        },
+        {
+          "name": "Toujouonine",
+          "lat": 18.07169,
+          "lng": -15.90311
+        }
+      ]
+    },
+    {
+      "name": "Nouakchott-Ouest",
+      "lat": 18.1127945,
+      "lng": -15.9930276,
+      "districts": [
+        {
+          "name": "Ksar",
+          "lat": 18.1049033,
+          "lng": -15.9644337
+        },
+        {
+          "name": "Sebkha",
+          "lat": 18.07555556,
+          "lng": -16.00194444
+        },
+        {
+          "name": "Tevragh-Zeina",
+          "lat": 18.11011,
+          "lng": -15.99931
+        }
+      ]
+    },
+    {
+      "name": "Nouakchott-Sud",
+      "lat": 18.0033945,
+      "lng": -15.965829,
+      "districts": [
+        {
+          "name": "Arafat",
+          "lat": 18.04639,
+          "lng": -15.97194
+        },
+        {
+          "name": "Riyad",
+          "lat": 18.0078427,
+          "lng": -15.97404
+        }
+      ]
+    },
+    {
+      "name": "Tagant",
+      "lat": 18.5729893,
+      "lng": -10.3937926,
+      "districts": [
+        {
+          "name": "Moudjeria",
+          "lat": 17.9795514,
+          "lng": -13.3979534
+        },
+        {
+          "name": "Tichit",
+          "lat": 18.4968626,
+          "lng": -12.1219935
+        },
+        {
+          "name": "Tijigja",
+          "lat": 18.5164787,
+          "lng": -12.9826476
+        }
+      ]
+    },
+    {
+      "name": "Tiris Zemmour",
+      "lat": 24.1951392,
+      "lng": -9.6664199,
+      "districts": [
+        {
+          "name": "Ain Ben Tili",
+          "lat": 25.99444444,
+          "lng": -9.55333333
+        },
+        {
+          "name": "Chegga",
+          "lat": 25.37194444,
+          "lng": -5.78666667
+        },
+        {
+          "name": "Fderîck",
+          "lat": 22.67777778,
+          "lng": -12.7075
+        },
+        {
+          "name": "Zouérat",
+          "lat": 22.73444444,
+          "lng": -12.4725
+        },
+        {
+          "name": "Zouerate",
+          "lat": 22.73542,
+          "lng": -12.47134
+        }
+      ]
+    },
+    {
+      "name": "Trarza",
+      "lat": 17.922642,
+      "lng": -14.8476017,
+      "districts": [
+        {
+          "name": "Legat",
+          "lat": 16.75,
+          "lng": -14.83333333
+        },
+        {
+          "name": "Rosso",
+          "lat": 16.51378,
+          "lng": -15.80503
+        },
+        {
+          "name": "Tékane",
+          "lat": 16.60175,
+          "lng": -15.34866
+        }
+      ]
+    }
+  ]
+}

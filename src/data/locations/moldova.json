@@ -1,0 +1,626 @@
+{
+  "name": "Moldova",
+  "lat": 47,
+  "lng": 29,
+  "cities": [
+    {
+      "name": "Anenii Noi",
+      "lat": 46.8795663,
+      "lng": 29.2312175,
+      "districts": [
+        {
+          "name": "Anenii Noi",
+          "lat": 46.87839,
+          "lng": 29.23483
+        },
+        {
+          "name": "Varniţa",
+          "lat": 46.86606,
+          "lng": 29.46636
+        }
+      ]
+    },
+    {
+      "name": "Bălți",
+      "lat": 47.7647136,
+      "lng": 27.919916,
+      "districts": [
+        {
+          "name": "Bălţi",
+          "lat": 47.76314,
+          "lng": 27.92932
+        }
+      ]
+    },
+    {
+      "name": "Basarabeasca",
+      "lat": 46.3985242,
+      "lng": 28.9022084,
+      "districts": [
+        {
+          "name": "Basarabeasca",
+          "lat": 46.3317,
+          "lng": 28.96365
+        }
+      ]
+    },
+    {
+      "name": "Bender",
+      "lat": 46.8227551,
+      "lng": 29.4620101,
+      "districts": [
+        {
+          "name": "Bender",
+          "lat": 46.83156,
+          "lng": 29.47769
+        }
+      ]
+    },
+    {
+      "name": "Briceni",
+      "lat": 48.3632022,
+      "lng": 27.0750398,
+      "districts": []
+    },
+    {
+      "name": "Cahul",
+      "lat": 45.9044087,
+      "lng": 28.1946583,
+      "districts": [
+        {
+          "name": "Cahul",
+          "lat": 45.90425,
+          "lng": 28.19929
+        },
+        {
+          "name": "Giurgiuleşti",
+          "lat": 45.48167,
+          "lng": 28.19722
+        }
+      ]
+    },
+    {
+      "name": "Călărași",
+      "lat": 47.2705086,
+      "lng": 28.2875685,
+      "districts": [
+        {
+          "name": "Călăraşi",
+          "lat": 47.2556,
+          "lng": 28.30987
+        }
+      ]
+    },
+    {
+      "name": "Cantemir",
+      "lat": 46.2771742,
+      "lng": 28.2009653,
+      "districts": [
+        {
+          "name": "Cantemir",
+          "lat": 46.27743,
+          "lng": 28.2027
+        },
+        {
+          "name": "Vişniovca",
+          "lat": 46.3326,
+          "lng": 28.44797
+        }
+      ]
+    },
+    {
+      "name": "Căușeni",
+      "lat": 46.6554715,
+      "lng": 29.4091222,
+      "districts": [
+        {
+          "name": "Căuşeni",
+          "lat": 46.63674,
+          "lng": 29.41114
+        },
+        {
+          "name": "Chiţcani",
+          "lat": 46.78296,
+          "lng": 29.61682
+        }
+      ]
+    },
+    {
+      "name": "Chișinău",
+      "lat": 47.0245117,
+      "lng": 28.8322923,
+      "districts": [
+        {
+          "name": "Chisinau",
+          "lat": 47.00556,
+          "lng": 28.8575,
+          "iscapital": true
+        },
+        {
+          "name": "Ciorescu",
+          "lat": 47.13,
+          "lng": 28.88937
+        },
+        {
+          "name": "Cricova",
+          "lat": 47.13835,
+          "lng": 28.86156
+        },
+        {
+          "name": "Sîngera",
+          "lat": 46.91557,
+          "lng": 28.96673
+        },
+        {
+          "name": "Stăuceni",
+          "lat": 47.09643,
+          "lng": 28.86791
+        },
+        {
+          "name": "Vadul lui Vodă",
+          "lat": 47.09009,
+          "lng": 29.0757
+        },
+        {
+          "name": "Vatra",
+          "lat": 47.0746,
+          "lng": 28.73685
+        }
+      ]
+    },
+    {
+      "name": "Cimișlia",
+      "lat": 46.5250851,
+      "lng": 28.7721835,
+      "districts": [
+        {
+          "name": "Cimişlia",
+          "lat": 46.52685,
+          "lng": 28.76441
+        }
+      ]
+    },
+    {
+      "name": "Criuleni",
+      "lat": 47.2136114,
+      "lng": 29.1557519,
+      "districts": [
+        {
+          "name": "Criuleni",
+          "lat": 47.21307,
+          "lng": 29.15926
+        }
+      ]
+    },
+    {
+      "name": "Dondușeni",
+      "lat": 48.2338305,
+      "lng": 27.5998087,
+      "districts": [
+        {
+          "name": "Briceni",
+          "lat": 48.35628,
+          "lng": 27.70293
+        },
+        {
+          "name": "Donduşeni",
+          "lat": 48.24268,
+          "lng": 27.6101
+        }
+      ]
+    },
+    {
+      "name": "Drochia",
+      "lat": 48.1128441,
+      "lng": 27.8095419,
+      "districts": [
+        {
+          "name": "Drochia",
+          "lat": 48.03555,
+          "lng": 27.81293
+        }
+      ]
+    },
+    {
+      "name": "Dubăsari",
+      "lat": 47.2643942,
+      "lng": 29.1550348,
+      "districts": [
+        {
+          "name": "Cocieri",
+          "lat": 47.3017,
+          "lng": 29.11755
+        },
+        {
+          "name": "Ustia",
+          "lat": 47.25524,
+          "lng": 29.12406
+        }
+      ]
+    },
+    {
+      "name": "Edineț",
+      "lat": 48.1678991,
+      "lng": 27.2936143,
+      "districts": [
+        {
+          "name": "Edineţ",
+          "lat": 48.17215,
+          "lng": 27.30337
+        }
+      ]
+    },
+    {
+      "name": "Fălești",
+      "lat": 47.5735141,
+      "lng": 27.7068016,
+      "districts": [
+        {
+          "name": "Fălești",
+          "lat": 47.57667,
+          "lng": 27.71264
+        }
+      ]
+    },
+    {
+      "name": "Florești",
+      "lat": 47.8991479,
+      "lng": 28.3132612,
+      "districts": [
+        {
+          "name": "Floreşti",
+          "lat": 47.89137,
+          "lng": 28.29312
+        },
+        {
+          "name": "Ghindești",
+          "lat": 47.85482,
+          "lng": 28.37679
+        },
+        {
+          "name": "Mărculeşti",
+          "lat": 47.86897,
+          "lng": 28.24109
+        }
+      ]
+    },
+    {
+      "name": "Gagauzia",
+      "lat": 46.2070204,
+      "lng": 28.7636281,
+      "districts": [
+        {
+          "name": "Bugeac",
+          "lat": 46.36554,
+          "lng": 28.6625
+        },
+        {
+          "name": "Ceadîr-Lunga",
+          "lat": 46.06169,
+          "lng": 28.83078
+        },
+        {
+          "name": "Comrat",
+          "lat": 46.29456,
+          "lng": 28.6565
+        },
+        {
+          "name": "Vulcăneşti",
+          "lat": 45.68492,
+          "lng": 28.40613
+        }
+      ]
+    },
+    {
+      "name": "Glodeni",
+      "lat": 47.7790156,
+      "lng": 27.516801,
+      "districts": [
+        {
+          "name": "Glodeni",
+          "lat": 47.77513,
+          "lng": 27.51891
+        }
+      ]
+    },
+    {
+      "name": "Hîncești",
+      "lat": 46.8281147,
+      "lng": 28.5850889,
+      "districts": [
+        {
+          "name": "Dancu",
+          "lat": 46.75818,
+          "lng": 28.20716
+        },
+        {
+          "name": "Hînceşti",
+          "lat": 46.83047,
+          "lng": 28.59064
+        }
+      ]
+    },
+    {
+      "name": "Ialoveni",
+      "lat": 46.94376,
+      "lng": 28.7767232,
+      "districts": [
+        {
+          "name": "Ialoveni",
+          "lat": 46.94346,
+          "lng": 28.78233
+        }
+      ]
+    },
+    {
+      "name": "Leova",
+      "lat": 46.5,
+      "lng": 28.41666667,
+      "districts": [
+        {
+          "name": "Iargara",
+          "lat": 46.42750001,
+          "lng": 28.43666668
+        },
+        {
+          "name": "Leova",
+          "lat": 46.48333333,
+          "lng": 28.25
+        }
+      ]
+    },
+    {
+      "name": "Nisporeni",
+      "lat": 47.0751349,
+      "lng": 28.1768155,
+      "districts": [
+        {
+          "name": "Nisporeni",
+          "lat": 47.08159,
+          "lng": 28.17138
+        }
+      ]
+    },
+    {
+      "name": "Ocnița",
+      "lat": 48.4110435,
+      "lng": 27.4768092,
+      "districts": [
+        {
+          "name": "Ocniţa",
+          "lat": 48.38274,
+          "lng": 27.43805
+        },
+        {
+          "name": "Otaci",
+          "lat": 48.43285,
+          "lng": 27.79912
+        }
+      ]
+    },
+    {
+      "name": "Orhei",
+      "lat": 47.38604,
+      "lng": 28.8303082,
+      "districts": [
+        {
+          "name": "Orhei",
+          "lat": 47.38494,
+          "lng": 28.82446
+        }
+      ]
+    },
+    {
+      "name": "Rezina",
+      "lat": 47.7489209,
+      "lng": 28.9565739,
+      "districts": [
+        {
+          "name": "Rezina",
+          "lat": 47.74928,
+          "lng": 28.96583
+        },
+        {
+          "name": "Saharna",
+          "lat": 47.69107,
+          "lng": 28.97458
+        }
+      ]
+    },
+    {
+      "name": "Rîșcani",
+      "lat": 47.9535987,
+      "lng": 27.5514453,
+      "districts": [
+        {
+          "name": "Rîşcani",
+          "lat": 47.94792,
+          "lng": 27.56376
+        }
+      ]
+    },
+    {
+      "name": "Sîngerei",
+      "lat": 47.6389134,
+      "lng": 28.1371816,
+      "districts": [
+        {
+          "name": "Bilicenii Vechi",
+          "lat": 47.6558,
+          "lng": 28.04734
+        },
+        {
+          "name": "Biruinţa",
+          "lat": 47.81353,
+          "lng": 28.07004
+        },
+        {
+          "name": "Sîngerei",
+          "lat": 47.63632,
+          "lng": 28.14296
+        }
+      ]
+    },
+    {
+      "name": "Șoldănești",
+      "lat": 47.8147389,
+      "lng": 28.7889586,
+      "districts": [
+        {
+          "name": "Şoldăneşti",
+          "lat": 47.81608,
+          "lng": 28.79718
+        }
+      ]
+    },
+    {
+      "name": "Soroca",
+      "lat": 48.1549743,
+      "lng": 28.2870783,
+      "districts": [
+        {
+          "name": "Soroca",
+          "lat": 48.15659,
+          "lng": 28.28489
+        }
+      ]
+    },
+    {
+      "name": "Ștefan Vodă",
+      "lat": 46.5160024,
+      "lng": 29.6644973,
+      "districts": [
+        {
+          "name": "Ştefan Vodă",
+          "lat": 46.51287,
+          "lng": 29.66193
+        }
+      ]
+    },
+    {
+      "name": "Strășeni",
+      "lat": 47.1450267,
+      "lng": 28.6136736,
+      "districts": [
+        {
+          "name": "Bucovăţ",
+          "lat": 47.19064,
+          "lng": 28.45802
+        },
+        {
+          "name": "Strășeni",
+          "lat": 47.14216,
+          "lng": 28.60774
+        }
+      ]
+    },
+    {
+      "name": "Taraclia",
+      "lat": 45.898651,
+      "lng": 28.6671644,
+      "districts": [
+        {
+          "name": "Taraclia",
+          "lat": 45.90273,
+          "lng": 28.66816
+        },
+        {
+          "name": "Tvardița",
+          "lat": 46.14826,
+          "lng": 28.96491
+        }
+      ]
+    },
+    {
+      "name": "Telenești",
+      "lat": 47.4983962,
+      "lng": 28.3676019,
+      "districts": [
+        {
+          "name": "Mîndreşti",
+          "lat": 47.50525,
+          "lng": 28.27687
+        },
+        {
+          "name": "Teleneşti",
+          "lat": 47.5011,
+          "lng": 28.36536
+        }
+      ]
+    },
+    {
+      "name": "Transnistria",
+      "lat": 47.7598678,
+      "lng": 29.1176055,
+      "districts": [
+        {
+          "name": "Tiraspol",
+          "lat": 46.84274,
+          "lng": 29.62909
+        },
+        {
+          "name": "Camenca",
+          "lat": 48.03233,
+          "lng": 28.69899
+        },
+        {
+          "name": "Crasnoe",
+          "lat": 46.64844,
+          "lng": 29.80403
+        },
+        {
+          "name": "Dnestrovsc",
+          "lat": 46.6164,
+          "lng": 29.91926
+        },
+        {
+          "name": "Dubăsari",
+          "lat": 47.26562,
+          "lng": 29.16667
+        },
+        {
+          "name": "Hryhoriopol",
+          "lat": 47.15413,
+          "lng": 29.30008
+        },
+        {
+          "name": "Maiac",
+          "lat": 47.23727,
+          "lng": 29.38498
+        },
+        {
+          "name": "Pervomaisc",
+          "lat": 46.73253,
+          "lng": 29.9617
+        },
+        {
+          "name": "Rîbniţa",
+          "lat": 47.76817,
+          "lng": 29.01
+        },
+        {
+          "name": "Slobozia",
+          "lat": 46.72927,
+          "lng": 29.70446
+        },
+        {
+          "name": "Tiraspolul Nou",
+          "lat": 46.82874,
+          "lng": 29.52174
+        }
+      ]
+    },
+    {
+      "name": "Ungheni",
+      "lat": 47.2059965,
+      "lng": 27.798917,
+      "districts": [
+        {
+          "name": "Ungheni",
+          "lat": 47.21079,
+          "lng": 27.80047
+        }
+      ]
+    }
+  ]
+}

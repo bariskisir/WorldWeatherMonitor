@@ -1,0 +1,218 @@
+{
+  "name": "Burundi",
+  "lat": -3.5,
+  "lng": 30,
+  "cities": [
+    {
+      "name": "Bubanza",
+      "lat": -3.1112787,
+      "lng": 29.3828358,
+      "districts": [
+        {
+          "name": "Bubanza",
+          "lat": -3.0804,
+          "lng": 29.391
+        }
+      ]
+    },
+    {
+      "name": "Bujumbura Mairie",
+      "lat": -3.3493959,
+      "lng": 29.3631843,
+      "districts": [
+        {
+          "name": "Bujumbura",
+          "lat": -3.38193,
+          "lng": 29.36142
+        }
+      ]
+    },
+    {
+      "name": "Bujumbura Rural",
+      "lat": -3.4759817,
+      "lng": 29.4535702,
+      "districts": []
+    },
+    {
+      "name": "Bururi",
+      "lat": -3.8581592,
+      "lng": 29.584379,
+      "districts": [
+        {
+          "name": "Bururi",
+          "lat": -3.94877,
+          "lng": 29.62438
+        }
+      ]
+    },
+    {
+      "name": "Cankuzo",
+      "lat": -3.1450876,
+      "lng": 30.58987,
+      "districts": [
+        {
+          "name": "Cankuzo",
+          "lat": -3.2186,
+          "lng": 30.5528
+        }
+      ]
+    },
+    {
+      "name": "Cibitoke",
+      "lat": -2.8477341,
+      "lng": 29.261662,
+      "districts": [
+        {
+          "name": "Cibitoke",
+          "lat": -2.8869,
+          "lng": 29.1248
+        }
+      ]
+    },
+    {
+      "name": "Gitega",
+      "lat": -3.5382336,
+      "lng": 29.910701,
+      "districts": [
+        {
+          "name": "Gitega",
+          "lat": -3.42708,
+          "lng": 29.92463,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Karuzi",
+      "lat": -3.1255377,
+      "lng": 30.0978347,
+      "districts": [
+        {
+          "name": "Karuzi",
+          "lat": -3.10139,
+          "lng": 30.16278
+        }
+      ]
+    },
+    {
+      "name": "Kayanza",
+      "lat": -3.0214816,
+      "lng": 29.6458034,
+      "districts": [
+        {
+          "name": "Kayanza",
+          "lat": -2.9221,
+          "lng": 29.6293
+        }
+      ]
+    },
+    {
+      "name": "Kirundo",
+      "lat": -2.5853872,
+      "lng": 30.0933449,
+      "districts": [
+        {
+          "name": "Kirundo",
+          "lat": -2.5845,
+          "lng": 30.0959
+        }
+      ]
+    },
+    {
+      "name": "Makamba",
+      "lat": -4.1978315,
+      "lng": 29.8073996,
+      "districts": [
+        {
+          "name": "Makamba",
+          "lat": -4.1348,
+          "lng": 29.804
+        }
+      ]
+    },
+    {
+      "name": "Muramvya",
+      "lat": -3.2751181,
+      "lng": 29.6307855,
+      "districts": [
+        {
+          "name": "Muramvya",
+          "lat": -3.2682,
+          "lng": 29.6079
+        }
+      ]
+    },
+    {
+      "name": "Muyinga",
+      "lat": -2.7335985,
+      "lng": 30.3171441,
+      "districts": [
+        {
+          "name": "Muyinga",
+          "lat": -2.8451,
+          "lng": 30.3414
+        }
+      ]
+    },
+    {
+      "name": "Mwaro",
+      "lat": -3.4650043,
+      "lng": 29.6708508,
+      "districts": [
+        {
+          "name": "Mwaro",
+          "lat": -3.51128,
+          "lng": 29.70334
+        }
+      ]
+    },
+    {
+      "name": "Ngozi",
+      "lat": -2.8776895,
+      "lng": 29.8994986,
+      "districts": [
+        {
+          "name": "Ngozi",
+          "lat": -2.9075,
+          "lng": 29.8306
+        }
+      ]
+    },
+    {
+      "name": "Rumonge",
+      "lat": -3.9754049,
+      "lng": 29.4388014,
+      "districts": [
+        {
+          "name": "Rumonge",
+          "lat": -3.9736,
+          "lng": 29.4386
+        }
+      ]
+    },
+    {
+      "name": "Rutana",
+      "lat": -3.8618714,
+      "lng": 30.0676979,
+      "districts": [
+        {
+          "name": "Rutana",
+          "lat": -3.9279,
+          "lng": 29.992
+        }
+      ]
+    },
+    {
+      "name": "Ruyigi",
+      "lat": -3.4733471,
+      "lng": 30.2501278,
+      "districts": [
+        {
+          "name": "Ruyigi",
+          "lat": -3.47639,
+          "lng": 30.24861
+        }
+      ]
+    }
+  ]
+}

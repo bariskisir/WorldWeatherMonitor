@@ -1,5 +1,11 @@
 {
-  "version": 2,
+  "framework": "vite",
   "buildCommand": "npm run build",
-  "outputDirectory": "src"
+  "outputDirectory": "dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
 }

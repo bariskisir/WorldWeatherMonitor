@@ -1,0 +1,43 @@
+{
+  "name": "Turks and Caicos Islands",
+  "lat": 21.75,
+  "lng": -71.58333333,
+  "cities": [
+    {
+      "name": "Grand Turk",
+      "lat": 21.467964,
+      "lng": -71.1387218,
+      "districts": []
+    },
+    {
+      "name": "Middle Caicos",
+      "lat": 21.795955,
+      "lng": -71.7602595,
+      "districts": []
+    },
+    {
+      "name": "North Caicos",
+      "lat": 21.8909119,
+      "lng": -71.9505749,
+      "districts": []
+    },
+    {
+      "name": "Providenciales",
+      "lat": 21.8020614,
+      "lng": -72.3004456,
+      "districts": []
+    },
+    {
+      "name": "Salt Cay",
+      "lat": 21.3228395,
+      "lng": -71.2077909,
+      "districts": []
+    },
+    {
+      "name": "South Caicos",
+      "lat": 21.5144654,
+      "lng": -71.5379344,
+      "districts": []
+    }
+  ]
+}

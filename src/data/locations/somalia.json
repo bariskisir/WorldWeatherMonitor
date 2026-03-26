@@ -1,0 +1,388 @@
+{
+  "name": "Somalia",
+  "lat": 10,
+  "lng": 49,
+  "cities": [
+    {
+      "name": "Awdal",
+      "lat": 10.6951152,
+      "lng": 43.4904963,
+      "districts": []
+    },
+    {
+      "name": "Bakool",
+      "lat": 4.3514387,
+      "lng": 43.7186102,
+      "districts": [
+        {
+          "name": "Tayeeglow",
+          "lat": 4.01897,
+          "lng": 44.51111
+        },
+        {
+          "name": "Waajid",
+          "lat": 3.80958,
+          "lng": 43.24627
+        },
+        {
+          "name": "Xuddur",
+          "lat": 4.12129,
+          "lng": 43.88945
+        },
+        {
+          "name": "Yeed",
+          "lat": 4.55,
+          "lng": 43.03333
+        }
+      ]
+    },
+    {
+      "name": "Banaadir",
+      "lat": 2.0783351,
+      "lng": 45.2805421,
+      "districts": [
+        {
+          "name": "Mogadishu",
+          "lat": 2.03711,
+          "lng": 45.34375,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Bari",
+      "lat": 10.1903509,
+      "lng": 50.1298044,
+      "districts": [
+        {
+          "name": "Bandarbeyla",
+          "lat": 9.4942,
+          "lng": 50.8122
+        },
+        {
+          "name": "Bargaal",
+          "lat": 11.28636,
+          "lng": 51.0773
+        },
+        {
+          "name": "Bereeda",
+          "lat": 11.87037,
+          "lng": 51.05795
+        },
+        {
+          "name": "Bosaso",
+          "lat": 11.28421,
+          "lng": 49.18158
+        },
+        {
+          "name": "Caluula",
+          "lat": 11.96611,
+          "lng": 50.75694
+        },
+        {
+          "name": "Iskushuban",
+          "lat": 10.2837,
+          "lng": 50.23
+        },
+        {
+          "name": "Qandala",
+          "lat": 11.47197,
+          "lng": 49.87282
+        }
+      ]
+    },
+    {
+      "name": "Bay",
+      "lat": 2.9999946,
+      "lng": 43.500177,
+      "districts": [
+        {
+          "name": "Baidoa",
+          "lat": 3.11383,
+          "lng": 43.6498
+        },
+        {
+          "name": "Buurhakaba",
+          "lat": 2.80257,
+          "lng": 44.07805
+        }
+      ]
+    },
+    {
+      "name": "Galguduud",
+      "lat": 5.0755014,
+      "lng": 46.8803363,
+      "districts": [
+        {
+          "name": "Ceelbuur",
+          "lat": 4.68501,
+          "lng": 46.6176
+        },
+        {
+          "name": "Ceeldheer",
+          "lat": 3.84878,
+          "lng": 47.18064
+        },
+        {
+          "name": "Dhuusamarreeb",
+          "lat": 5.53597,
+          "lng": 46.38666
+        }
+      ]
+    },
+    {
+      "name": "Gedo",
+      "lat": 3,
+      "lng": 42,
+      "districts": [
+        {
+          "name": "Baardheere",
+          "lat": 2.34464,
+          "lng": 42.27644
+        },
+        {
+          "name": "Garbahaarrey",
+          "lat": 3.32892,
+          "lng": 42.22091
+        },
+        {
+          "name": "Luuq",
+          "lat": 3.80315,
+          "lng": 42.54417
+        }
+      ]
+    },
+    {
+      "name": "Hiran",
+      "lat": 4.3616958,
+      "lng": 45.5333102,
+      "districts": [
+        {
+          "name": "Beledweyne",
+          "lat": 4.73583,
+          "lng": 45.20361
+        },
+        {
+          "name": "Buulobarde",
+          "lat": 3.85375,
+          "lng": 45.56744
+        },
+        {
+          "name": "Jalalaqsi",
+          "lat": 3.3766,
+          "lng": 45.5996
+        }
+      ]
+    },
+    {
+      "name": "Lower Juba",
+      "lat": -0.0001019,
+      "lng": 41.9999624,
+      "districts": [
+        {
+          "name": "Kismayo",
+          "lat": -0.35817,
+          "lng": 42.54536
+        },
+        {
+          "name": "Buur Gaabo",
+          "lat": -1.21917,
+          "lng": 41.83725
+        },
+        {
+          "name": "Jamaame",
+          "lat": 0.06968,
+          "lng": 42.74497
+        }
+      ]
+    },
+    {
+      "name": "Lower Shebelle",
+      "lat": 1.8427539,
+      "lng": 44.5937239,
+      "districts": [
+        {
+          "name": "Marka",
+          "lat": 1.71594,
+          "lng": 44.77166
+        },
+        {
+          "name": "Afgooye",
+          "lat": 2.1381,
+          "lng": 45.1212
+        },
+        {
+          "name": "Qoryooley",
+          "lat": 1.78784,
+          "lng": 44.52999
+        },
+        {
+          "name": "Wanlaweyn",
+          "lat": 2.6185,
+          "lng": 44.8938
+        }
+      ]
+    },
+    {
+      "name": "Middle Juba",
+      "lat": 1.4325937,
+      "lng": 42.6559939,
+      "districts": [
+        {
+          "name": "Dujuuma",
+          "lat": 1.25311,
+          "lng": 42.57377
+        },
+        {
+          "name": "Jilib",
+          "lat": 0.48829,
+          "lng": 42.78535
+        },
+        {
+          "name": "Saacow",
+          "lat": 1.62794,
+          "lng": 42.44067
+        }
+      ]
+    },
+    {
+      "name": "Middle Shebelle",
+      "lat": 3,
+      "lng": 46,
+      "districts": [
+        {
+          "name": "Cadale",
+          "lat": 2.7603,
+          "lng": 46.3222
+        },
+        {
+          "name": "Jawhar",
+          "lat": 2.78087,
+          "lng": 45.50048
+        },
+        {
+          "name": "Mahaddayweyne",
+          "lat": 2.9726,
+          "lng": 45.5347
+        }
+      ]
+    },
+    {
+      "name": "Mudug",
+      "lat": 6.6507279,
+      "lng": 48.3009945,
+      "districts": [
+        {
+          "name": "Gaalkacyo",
+          "lat": 6.76972,
+          "lng": 47.43083
+        },
+        {
+          "name": "Hobyo",
+          "lat": 5.3505,
+          "lng": 48.5268
+        },
+        {
+          "name": "Xarardheere",
+          "lat": 4.6544,
+          "lng": 47.8575
+        }
+      ]
+    },
+    {
+      "name": "Nugal",
+      "lat": 8.16698,
+      "lng": 48.9978971,
+      "districts": [
+        {
+          "name": "Eyl",
+          "lat": 7.9803,
+          "lng": 49.8164
+        },
+        {
+          "name": "Garoowe",
+          "lat": 8.40207,
+          "lng": 48.48284
+        }
+      ]
+    },
+    {
+      "name": "Sanaag",
+      "lat": 10.4386899,
+      "lng": 47.5924085,
+      "districts": [
+        {
+          "name": "Ceerigaabo",
+          "lat": 10.61616,
+          "lng": 47.36795
+        },
+        {
+          "name": "Las Khorey",
+          "lat": 11.1595,
+          "lng": 48.1967
+        }
+      ]
+    },
+    {
+      "name": "Sool",
+      "lat": 8.39611111,
+      "lng": 47.69138889,
+      "districts": [
+        {
+          "name": "Aynaba",
+          "lat": 8.95,
+          "lng": 46.41666667
+        },
+        {
+          "name": "Hudun",
+          "lat": 9.15416667,
+          "lng": 47.47694444
+        },
+        {
+          "name": "Las Anod",
+          "lat": 8.476,
+          "lng": 47.357
+        }
+      ]
+    },
+    {
+      "name": "Togdheer",
+      "lat": 9.3029453,
+      "lng": 45.4861213,
+      "districts": [
+        {
+          "name": "Burao",
+          "lat": 9.52213,
+          "lng": 45.53363
+        },
+        {
+          "name": "Ceek",
+          "lat": 8.99907,
+          "lng": 45.35824
+        },
+        {
+          "name": "Oodweyne",
+          "lat": 9.4092,
+          "lng": 45.06397
+        }
+      ]
+    },
+    {
+      "name": "Woqooyi Galbeed",
+      "lat": 9.56305556,
+      "lng": 44.0675,
+      "districts": [
+        {
+          "name": "Hargeisa",
+          "lat": 9.56305556,
+          "lng": 44.0675
+        },
+        {
+          "name": "Gabiley",
+          "lat": 9.7,
+          "lng": 43.62361111
+        }
+      ]
+    }
+  ]
+}

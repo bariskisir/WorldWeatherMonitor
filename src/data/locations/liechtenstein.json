@@ -1,0 +1,140 @@
+{
+  "name": "Liechtenstein",
+  "lat": 47.26666666,
+  "lng": 9.53333333,
+  "cities": [
+    {
+      "name": "Balzers",
+      "lat": 47.0688822,
+      "lng": 9.506159,
+      "districts": [
+        {
+          "name": "Balzers",
+          "lat": 47.06665,
+          "lng": 9.50251
+        }
+      ]
+    },
+    {
+      "name": "Eschen",
+      "lat": 47.2126274,
+      "lng": 9.5233202,
+      "districts": [
+        {
+          "name": "Eschen",
+          "lat": 47.21071,
+          "lng": 9.52223
+        }
+      ]
+    },
+    {
+      "name": "Gamprin",
+      "lat": 47.213249,
+      "lng": 9.5025195,
+      "districts": [
+        {
+          "name": "Gamprin",
+          "lat": 47.22038,
+          "lng": 9.50935
+        }
+      ]
+    },
+    {
+      "name": "Mauren",
+      "lat": 47.2189285,
+      "lng": 9.541735,
+      "districts": [
+        {
+          "name": "Mauren",
+          "lat": 47.21805,
+          "lng": 9.5442
+        }
+      ]
+    },
+    {
+      "name": "Planken",
+      "lat": 47.1858848,
+      "lng": 9.5452211,
+      "districts": [
+        {
+          "name": "Planken",
+          "lat": 47.18516,
+          "lng": 9.54437
+        }
+      ]
+    },
+    {
+      "name": "Ruggell",
+      "lat": 47.2397575,
+      "lng": 9.5262871,
+      "districts": [
+        {
+          "name": "Ruggell",
+          "lat": 47.23799,
+          "lng": 9.5254
+        }
+      ]
+    },
+    {
+      "name": "Schaan",
+      "lat": 47.1663397,
+      "lng": 9.510312,
+      "districts": [
+        {
+          "name": "Schaan",
+          "lat": 47.16498,
+          "lng": 9.50867
+        }
+      ]
+    },
+    {
+      "name": "Schellenberg",
+      "lat": 47.230966,
+      "lng": 9.5467843,
+      "districts": [
+        {
+          "name": "Schellenberg",
+          "lat": 47.23123,
+          "lng": 9.54678
+        }
+      ]
+    },
+    {
+      "name": "Triesen",
+      "lat": 47.1097988,
+      "lng": 9.5248296,
+      "districts": [
+        {
+          "name": "Triesen",
+          "lat": 47.10752,
+          "lng": 9.52815
+        }
+      ]
+    },
+    {
+      "name": "Triesenberg",
+      "lat": 47.1186181,
+      "lng": 9.5433663,
+      "districts": [
+        {
+          "name": "Triesenberg",
+          "lat": 47.11815,
+          "lng": 9.54197
+        }
+      ]
+    },
+    {
+      "name": "Vaduz",
+      "lat": 47.1410303,
+      "lng": 9.5209277,
+      "districts": [
+        {
+          "name": "Vaduz",
+          "lat": 47.14151,
+          "lng": 9.52154,
+          "iscapital": true
+        }
+      ]
+    }
+  ]
+}

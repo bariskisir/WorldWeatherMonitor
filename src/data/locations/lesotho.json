@@ -1,0 +1,138 @@
+{
+  "name": "Lesotho",
+  "lat": -29.5,
+  "lng": 28.5,
+  "cities": [
+    {
+      "name": "Berea",
+      "lat": -29.1963971,
+      "lng": 27.9175581,
+      "districts": [
+        {
+          "name": "Teyateyaneng",
+          "lat": -29.14719,
+          "lng": 27.74895
+        }
+      ]
+    },
+    {
+      "name": "Butha-Buthe",
+      "lat": -28.7653754,
+      "lng": 28.2468148,
+      "districts": [
+        {
+          "name": "Butha-Buthe",
+          "lat": -28.76659,
+          "lng": 28.24937
+        }
+      ]
+    },
+    {
+      "name": "Leribe",
+      "lat": -28.866891,
+      "lng": 28.0579408,
+      "districts": [
+        {
+          "name": "Leribe",
+          "lat": -28.87185,
+          "lng": 28.04501
+        },
+        {
+          "name": "Maputsoe",
+          "lat": -28.8866,
+          "lng": 27.89915
+        }
+      ]
+    },
+    {
+      "name": "Mafeteng",
+      "lat": -29.7893049,
+      "lng": 27.4423193,
+      "districts": [
+        {
+          "name": "Mafeteng",
+          "lat": -29.82299,
+          "lng": 27.23744
+        }
+      ]
+    },
+    {
+      "name": "Maseru",
+      "lat": -29.5816942,
+      "lng": 27.8243208,
+      "districts": [
+        {
+          "name": "Maseru",
+          "lat": -29.31667,
+          "lng": 27.48333,
+          "iscapital": true
+        },
+        {
+          "name": "Nako",
+          "lat": -29.61667,
+          "lng": 27.76667
+        }
+      ]
+    },
+    {
+      "name": "Mohale's Hoek",
+      "lat": -30.1516305,
+      "lng": 27.4770113,
+      "districts": [
+        {
+          "name": "Mohale’s Hoek",
+          "lat": -30.15137,
+          "lng": 27.47691
+        }
+      ]
+    },
+    {
+      "name": "Mokhotlong",
+      "lat": -29.2190697,
+      "lng": 29.0351369,
+      "districts": [
+        {
+          "name": "Mokhotlong",
+          "lat": -29.28939,
+          "lng": 29.06751
+        }
+      ]
+    },
+    {
+      "name": "Qacha's Nek",
+      "lat": -30.1114565,
+      "lng": 28.678979,
+      "districts": [
+        {
+          "name": "Qacha’s Nek",
+          "lat": -30.11537,
+          "lng": 28.68936
+        }
+      ]
+    },
+    {
+      "name": "Quthing",
+      "lat": -30.4015687,
+      "lng": 27.7080133,
+      "districts": [
+        {
+          "name": "Quthing",
+          "lat": -30.40001,
+          "lng": 27.70027
+        }
+      ]
+    },
+    {
+      "name": "Thaba-Tseka",
+      "lat": -29.5151832,
+      "lng": 28.6036179,
+      "districts": [
+        {
+          "name": "Thaba-Tseka",
+          "lat": -29.52204,
+          "lng": 28.6084
+        }
+      ]
+    }
+  ]
+}

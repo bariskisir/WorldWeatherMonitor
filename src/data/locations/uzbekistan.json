@@ -1,0 +1,781 @@
+{
+  "name": "Uzbekistan",
+  "lat": 41,
+  "lng": 64,
+  "cities": [
+    {
+      "name": "Andijan",
+      "lat": 40.7727796,
+      "lng": 72.341966,
+      "districts": [
+        {
+          "name": "Andijon",
+          "lat": 40.78206,
+          "lng": 72.34424
+        },
+        {
+          "name": "Andijon Tumani",
+          "lat": 40.8,
+          "lng": 72.41667
+        },
+        {
+          "name": "Asaka",
+          "lat": 40.64153,
+          "lng": 72.23868
+        },
+        {
+          "name": "Asaka Tumani",
+          "lat": 40.66667,
+          "lng": 72.25
+        },
+        {
+          "name": "Baliqchi Tumani",
+          "lat": 40.86667,
+          "lng": 72
+        },
+        {
+          "name": "Bo‘z Tumani",
+          "lat": 40.66667,
+          "lng": 71.91667
+        },
+        {
+          "name": "Buloqboshi Tumani",
+          "lat": 40.61667,
+          "lng": 72.46667
+        },
+        {
+          "name": "Izboskan Tumani",
+          "lat": 40.91667,
+          "lng": 72.25
+        },
+        {
+          "name": "Jalolkuduk Tumani",
+          "lat": 40.75,
+          "lng": 72.66667
+        },
+        {
+          "name": "Khŭjaobod Tumani",
+          "lat": 40.66667,
+          "lng": 72.58333
+        },
+        {
+          "name": "Marhamat",
+          "lat": 40.48048,
+          "lng": 72.31388
+        },
+        {
+          "name": "Marhamat Tumani",
+          "lat": 40.5,
+          "lng": 72.31667
+        },
+        {
+          "name": "Oltinkŭl Tumani",
+          "lat": 40.8,
+          "lng": 72.16667
+        },
+        {
+          "name": "Pakhtaobod Tumani",
+          "lat": 40.93333,
+          "lng": 72.5
+        },
+        {
+          "name": "Paxtaobod",
+          "lat": 40.92936,
+          "lng": 72.49687
+        },
+        {
+          "name": "Qo‘rg‘ontepa",
+          "lat": 40.73192,
+          "lng": 72.76177
+        },
+        {
+          "name": "Qŭrghontepa Tumani",
+          "lat": 40.75,
+          "lng": 72.83333
+        },
+        {
+          "name": "Shahrikhon Tumani",
+          "lat": 40.71667,
+          "lng": 72.06667
+        },
+        {
+          "name": "Shahrixon",
+          "lat": 40.71331,
+          "lng": 72.05706
+        },
+        {
+          "name": "Ulug‘nor Tumani",
+          "lat": 40.75,
+          "lng": 71.7
+        },
+        {
+          "name": "Xo‘jaobod",
+          "lat": 40.66886,
+          "lng": 72.56002
+        }
+      ]
+    },
+    {
+      "name": "Bukhara",
+      "lat": 40.229366,
+      "lng": 63.5470584,
+      "districts": [
+        {
+          "name": "Bukhara",
+          "lat": 39.77472,
+          "lng": 64.42861
+        },
+        {
+          "name": "Galaosiyo",
+          "lat": 39.85778,
+          "lng": 64.44833
+        },
+        {
+          "name": "Gazli",
+          "lat": 40.13333,
+          "lng": 63.45
+        },
+        {
+          "name": "Ghijduwon",
+          "lat": 40.1,
+          "lng": 64.68333
+        },
+        {
+          "name": "Karakul’",
+          "lat": 39.53333,
+          "lng": 63.83333
+        },
+        {
+          "name": "Kogon",
+          "lat": 39.72278,
+          "lng": 64.55167
+        },
+        {
+          "name": "Olot",
+          "lat": 39.415,
+          "lng": 63.80333
+        },
+        {
+          "name": "Peshku Tumani",
+          "lat": 40.41667,
+          "lng": 63.83333
+        },
+        {
+          "name": "Qorako’l",
+          "lat": 39.49944,
+          "lng": 63.85389
+        },
+        {
+          "name": "Qorovulbozor",
+          "lat": 39.50056,
+          "lng": 64.79361
+        },
+        {
+          "name": "Romiton",
+          "lat": 39.92944,
+          "lng": 64.37944
+        },
+        {
+          "name": "Shofirkon",
+          "lat": 40.12,
+          "lng": 64.50139
+        },
+        {
+          "name": "Wobkent",
+          "lat": 40.03028,
+          "lng": 64.515
+        },
+        {
+          "name": "Wobkent Tumani",
+          "lat": 40,
+          "lng": 64.5
+        }
+      ]
+    },
+    {
+      "name": "Fergana",
+      "lat": 40.5,
+      "lng": 71.25,
+      "districts": [
+        {
+          "name": "Fergana",
+          "lat": 40.38421,
+          "lng": 71.78432
+        },
+        {
+          "name": "Marg‘ilon",
+          "lat": 40.47237,
+          "lng": 71.72463
+        },
+        {
+          "name": "Qo‘qon",
+          "lat": 40.52861,
+          "lng": 70.9425
+        },
+        {
+          "name": "Beshariq",
+          "lat": 40.43583,
+          "lng": 70.61028
+        },
+        {
+          "name": "Hamza",
+          "lat": 40.42762,
+          "lng": 71.50534
+        },
+        {
+          "name": "Kirguli",
+          "lat": 40.43553,
+          "lng": 71.76721
+        },
+        {
+          "name": "Oltiariq",
+          "lat": 40.39194,
+          "lng": 71.47417
+        },
+        {
+          "name": "Quva",
+          "lat": 40.52204,
+          "lng": 72.07292
+        },
+        {
+          "name": "Quvasoy",
+          "lat": 40.29721,
+          "lng": 71.98026
+        },
+        {
+          "name": "Rishton",
+          "lat": 40.35667,
+          "lng": 71.28472
+        },
+        {
+          "name": "Shohimardon",
+          "lat": 39.98322,
+          "lng": 71.80512
+        },
+        {
+          "name": "So‘x Tumani",
+          "lat": 40.04417,
+          "lng": 71.09417
+        },
+        {
+          "name": "Toshloq",
+          "lat": 40.47722,
+          "lng": 71.76778
+        },
+        {
+          "name": "Yangi Marg‘ilon",
+          "lat": 40.42722,
+          "lng": 71.71889
+        },
+        {
+          "name": "Yaypan",
+          "lat": 40.37583,
+          "lng": 70.81556
+        }
+      ]
+    },
+    {
+      "name": "Jizzakh",
+      "lat": 40.3319095,
+      "lng": 67.4551198,
+      "districts": [
+        {
+          "name": "Dashtobod",
+          "lat": 40.12694,
+          "lng": 68.49444
+        },
+        {
+          "name": "Dŭstlik",
+          "lat": 40.52472,
+          "lng": 68.03583
+        },
+        {
+          "name": "Gagarin",
+          "lat": 40.66194,
+          "lng": 68.17222
+        },
+        {
+          "name": "Jizzax",
+          "lat": 40.11583,
+          "lng": 67.84222
+        },
+        {
+          "name": "Paxtakor",
+          "lat": 40.31528,
+          "lng": 67.95444
+        },
+        {
+          "name": "Zomin",
+          "lat": 39.96056,
+          "lng": 68.39583
+        }
+      ]
+    },
+    {
+      "name": "Karakalpakstan",
+      "lat": 43.7738841,
+      "lng": 57.6234617,
+      "districts": [
+        {
+          "name": "Nukus",
+          "lat": 42.45306,
+          "lng": 59.61028
+        },
+        {
+          "name": "Beruniy",
+          "lat": 41.69111,
+          "lng": 60.7525
+        },
+        {
+          "name": "Kegeyli Shahar",
+          "lat": 42.77667,
+          "lng": 59.60778
+        },
+        {
+          "name": "Khŭjayli",
+          "lat": 42.40043,
+          "lng": 59.46005
+        },
+        {
+          "name": "Manghit",
+          "lat": 42.11556,
+          "lng": 60.05972
+        },
+        {
+          "name": "Mŭynoq",
+          "lat": 43.76833,
+          "lng": 59.02139
+        },
+        {
+          "name": "Novyy Turtkul’",
+          "lat": 41.55,
+          "lng": 61.01667
+        },
+        {
+          "name": "Oltinko‘l",
+          "lat": 43.06874,
+          "lng": 58.90372
+        }
+      ]
+    },
+    {
+      "name": "Namangan",
+      "lat": 40.9555061,
+      "lng": 71.1097749,
+      "districts": [
+        {
+          "name": "Chust",
+          "lat": 41.00329,
+          "lng": 71.23791
+        },
+        {
+          "name": "Namangan",
+          "lat": 40.9983,
+          "lng": 71.67257
+        },
+        {
+          "name": "Chortoq",
+          "lat": 41.06924,
+          "lng": 71.82372
+        },
+        {
+          "name": "Haqqulobod",
+          "lat": 40.91667,
+          "lng": 72.11667
+        },
+        {
+          "name": "Kosonsoy",
+          "lat": 41.24944,
+          "lng": 71.54738
+        },
+        {
+          "name": "Pop",
+          "lat": 40.87361,
+          "lng": 71.10889
+        },
+        {
+          "name": "To‘rqao‘rg‘on",
+          "lat": 40.99984,
+          "lng": 71.51162
+        },
+        {
+          "name": "Toshbuloq",
+          "lat": 40.91617,
+          "lng": 71.57819
+        },
+        {
+          "name": "Uchqŭrghon Shahri",
+          "lat": 41.11371,
+          "lng": 72.07915
+        },
+        {
+          "name": "Uychi",
+          "lat": 41.08073,
+          "lng": 71.92331
+        },
+        {
+          "name": "Yangiqo‘rg‘on",
+          "lat": 41.19474,
+          "lng": 71.72385
+        }
+      ]
+    },
+    {
+      "name": "Navoiy",
+      "lat": 42,
+      "lng": 64,
+      "districts": [
+        {
+          "name": "Navoiy",
+          "lat": 40.08444,
+          "lng": 65.37917
+        },
+        {
+          "name": "Nurota",
+          "lat": 40.56139,
+          "lng": 65.68861
+        },
+        {
+          "name": "Qiziltepa",
+          "lat": 40.03306,
+          "lng": 64.85
+        },
+        {
+          "name": "Yangirabot",
+          "lat": 40.02539,
+          "lng": 65.96095
+        }
+      ]
+    },
+    {
+      "name": "Qashqadaryo",
+      "lat": 39.0424974,
+      "lng": 66.5775276,
+      "districts": [
+        {
+          "name": "Kitob",
+          "lat": 39.08425,
+          "lng": 66.83318
+        },
+        {
+          "name": "Qarshi",
+          "lat": 38.86056,
+          "lng": 65.78905
+        },
+        {
+          "name": "Shahrisabz",
+          "lat": 39.05778,
+          "lng": 66.83417
+        },
+        {
+          "name": "Beshkent",
+          "lat": 38.82139,
+          "lng": 65.65306
+        },
+        {
+          "name": "Chiroqchi",
+          "lat": 39.03361,
+          "lng": 66.57222
+        },
+        {
+          "name": "G‘uzor",
+          "lat": 38.62083,
+          "lng": 66.24806
+        },
+        {
+          "name": "Koson",
+          "lat": 39.0375,
+          "lng": 65.585
+        },
+        {
+          "name": "Muborak",
+          "lat": 39.25528,
+          "lng": 65.15278
+        },
+        {
+          "name": "Nishon Tumani",
+          "lat": 38.69395,
+          "lng": 65.67512
+        }
+      ]
+    },
+    {
+      "name": "Samarqand",
+      "lat": 39.6550017,
+      "lng": 66.9756954,
+      "districts": [
+        {
+          "name": "Samarkand",
+          "lat": 39.65417,
+          "lng": 66.95972
+        },
+        {
+          "name": "Bulung’ur",
+          "lat": 39.76472,
+          "lng": 67.27139
+        },
+        {
+          "name": "Charxin",
+          "lat": 39.69667,
+          "lng": 66.76861
+        },
+        {
+          "name": "Chelak",
+          "lat": 39.92028,
+          "lng": 66.86111
+        },
+        {
+          "name": "Daxbet",
+          "lat": 39.76389,
+          "lng": 66.9125
+        },
+        {
+          "name": "Ishtixon",
+          "lat": 39.96639,
+          "lng": 66.48611
+        },
+        {
+          "name": "Jomboy",
+          "lat": 39.69889,
+          "lng": 67.09333
+        },
+        {
+          "name": "Juma",
+          "lat": 39.71611,
+          "lng": 66.66417
+        },
+        {
+          "name": "Kattaqo‘rg‘on",
+          "lat": 39.89889,
+          "lng": 66.25611
+        },
+        {
+          "name": "Oqtosh",
+          "lat": 39.92139,
+          "lng": 65.92528
+        },
+        {
+          "name": "Payshanba",
+          "lat": 40.00778,
+          "lng": 66.23694
+        },
+        {
+          "name": "Urgut",
+          "lat": 39.40222,
+          "lng": 67.24306
+        }
+      ]
+    },
+    {
+      "name": "Sirdaryo",
+      "lat": 40.8029326,
+      "lng": 68.8242841,
+      "districts": [
+        {
+          "name": "Guliston",
+          "lat": 40.48972,
+          "lng": 68.78417
+        },
+        {
+          "name": "Sirdaryo",
+          "lat": 40.84361,
+          "lng": 68.66167
+        },
+        {
+          "name": "Yangiyer",
+          "lat": 40.275,
+          "lng": 68.8225
+        }
+      ]
+    },
+    {
+      "name": "Surxondaryo",
+      "lat": 37.9520843,
+      "lng": 67.1265996,
+      "districts": [
+        {
+          "name": "Tirmiz",
+          "lat": 37.22417,
+          "lng": 67.27833
+        },
+        {
+          "name": "Boysun",
+          "lat": 38.20835,
+          "lng": 67.20664
+        },
+        {
+          "name": "Denov",
+          "lat": 38.26746,
+          "lng": 67.89886
+        },
+        {
+          "name": "Sho‘rchi",
+          "lat": 37.99944,
+          "lng": 67.7875
+        }
+      ]
+    },
+    {
+      "name": "Tashkent",
+      "lat": 41.3123363,
+      "lng": 69.2787079,
+      "districts": [
+        {
+          "name": "Tashkent",
+          "lat": 41.26465,
+          "lng": 69.21627,
+          "iscapital": true
+        },
+        {
+          "name": "Bektemir",
+          "lat": 41.20972,
+          "lng": 69.33417
+        }
+      ]
+    },
+    {
+      "name": "Tashkent",
+      "lat": 41.3123363,
+      "lng": 69.2787079,
+      "districts": [
+        {
+          "name": "Angren",
+          "lat": 41.01667,
+          "lng": 70.14361
+        },
+        {
+          "name": "Chirchiq",
+          "lat": 41.46889,
+          "lng": 69.58222
+        },
+        {
+          "name": "Olmaliq",
+          "lat": 40.84472,
+          "lng": 69.59833
+        },
+        {
+          "name": "Bekobod",
+          "lat": 40.22083,
+          "lng": 69.26972
+        },
+        {
+          "name": "Bo‘ka",
+          "lat": 40.81108,
+          "lng": 69.19417
+        },
+        {
+          "name": "Chinoz",
+          "lat": 40.93633,
+          "lng": 68.76128
+        },
+        {
+          "name": "G‘azalkent",
+          "lat": 41.55806,
+          "lng": 69.77083
+        },
+        {
+          "name": "Iskandar",
+          "lat": 41.55389,
+          "lng": 69.70083
+        },
+        {
+          "name": "Kyzyldzhar",
+          "lat": 41.56667,
+          "lng": 70.01667
+        },
+        {
+          "name": "Ohangaron",
+          "lat": 40.90639,
+          "lng": 69.63833
+        },
+        {
+          "name": "Parkent",
+          "lat": 41.29444,
+          "lng": 69.67639
+        },
+        {
+          "name": "Piskent",
+          "lat": 40.89722,
+          "lng": 69.35056
+        },
+        {
+          "name": "Qibray",
+          "lat": 41.38972,
+          "lng": 69.465
+        },
+        {
+          "name": "Salor",
+          "lat": 41.37222,
+          "lng": 69.38167
+        },
+        {
+          "name": "Tŭytepa",
+          "lat": 41.0321,
+          "lng": 69.36253
+        },
+        {
+          "name": "Ŭrtaowul",
+          "lat": 41.18667,
+          "lng": 69.14528
+        },
+        {
+          "name": "Yangiobod",
+          "lat": 41.11919,
+          "lng": 70.09406
+        },
+        {
+          "name": "Yangiyŭl",
+          "lat": 41.11202,
+          "lng": 69.0471
+        },
+        {
+          "name": "Zafar",
+          "lat": 40.98333,
+          "lng": 68.9
+        }
+      ]
+    },
+    {
+      "name": "Xorazm",
+      "lat": 41.2902835,
+      "lng": 60.5428537,
+      "districts": [
+        {
+          "name": "Urganch",
+          "lat": 41.55,
+          "lng": 60.63333
+        },
+        {
+          "name": "Boghot Tumani",
+          "lat": 41.31495,
+          "lng": 60.85327
+        },
+        {
+          "name": "Gurlan",
+          "lat": 41.84472,
+          "lng": 60.39194
+        },
+        {
+          "name": "Hazorasp",
+          "lat": 41.31944,
+          "lng": 61.07417
+        },
+        {
+          "name": "Khiwa",
+          "lat": 41.37833,
+          "lng": 60.36389
+        },
+        {
+          "name": "Qŭshkŭpir",
+          "lat": 41.535,
+          "lng": 60.34556
+        },
+        {
+          "name": "Showot",
+          "lat": 41.65583,
+          "lng": 60.3025
+        }
+      ]
+    }
+  ]
+}

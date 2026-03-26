@@ -1,0 +1,2071 @@
+{
+  "name": "Guatemala",
+  "lat": 15.5,
+  "lng": -90.25,
+  "cities": [
+    {
+      "name": "Alta Verapaz ",
+      "lat": 15.5949705,
+      "lng": -90.0918031,
+      "districts": [
+        {
+          "name": "Cobán",
+          "lat": 15.47083,
+          "lng": -90.37083
+        },
+        {
+          "name": "San Pedro Carchá",
+          "lat": 15.48333,
+          "lng": -90.26667
+        },
+        {
+          "name": "Cahabón",
+          "lat": 15.56667,
+          "lng": -89.81667
+        },
+        {
+          "name": "Chahal Guatemala",
+          "lat": 15.79122,
+          "lng": -89.60518
+        },
+        {
+          "name": "Chisec",
+          "lat": 15.81667,
+          "lng": -90.28333
+        },
+        {
+          "name": "La Tinta",
+          "lat": 15.31667,
+          "lng": -89.88333
+        },
+        {
+          "name": "Lanquín",
+          "lat": 15.56667,
+          "lng": -89.96667
+        },
+        {
+          "name": "Panzós",
+          "lat": 15.4,
+          "lng": -89.66667
+        },
+        {
+          "name": "San Cristóbal Verapaz",
+          "lat": 15.39632,
+          "lng": -90.56513
+        },
+        {
+          "name": "San Juan Chamelco",
+          "lat": 15.43333,
+          "lng": -90.33333
+        },
+        {
+          "name": "Santa Cruz Verapaz",
+          "lat": 15.36667,
+          "lng": -90.43333
+        },
+        {
+          "name": "Senahú",
+          "lat": 15.4,
+          "lng": -89.83333
+        },
+        {
+          "name": "Tactic",
+          "lat": 15.32218,
+          "lng": -90.35448
+        },
+        {
+          "name": "Tamahú",
+          "lat": 15.3089,
+          "lng": -90.23599
+        },
+        {
+          "name": "Tucurú",
+          "lat": 15.3,
+          "lng": -90.06667
+        }
+      ]
+    },
+    {
+      "name": "Baja Verapaz ",
+      "lat": 15.1170798,
+      "lng": -90.4109616,
+      "districts": [
+        {
+          "name": "Cubulco",
+          "lat": 15.10452,
+          "lng": -90.62871
+        },
+        {
+          "name": "El Chol",
+          "lat": 14.96055,
+          "lng": -90.48799
+        },
+        {
+          "name": "Granados",
+          "lat": 14.91649,
+          "lng": -90.52292
+        },
+        {
+          "name": "Purulhá",
+          "lat": 15.26667,
+          "lng": -90.2
+        },
+        {
+          "name": "Rabinal",
+          "lat": 15.0853,
+          "lng": -90.49255
+        },
+        {
+          "name": "Salamá",
+          "lat": 15.10278,
+          "lng": -90.31806
+        },
+        {
+          "name": "San Jerónimo",
+          "lat": 15.06032,
+          "lng": -90.2405
+        },
+        {
+          "name": "San Miguel Chicaj",
+          "lat": 15.09472,
+          "lng": -90.39442
+        }
+      ]
+    },
+    {
+      "name": "Chimaltenango ",
+      "lat": 14.6539748,
+      "lng": -90.9272741,
+      "districts": [
+        {
+          "name": "Chimaltenango",
+          "lat": 14.66111,
+          "lng": -90.81944
+        },
+        {
+          "name": "Acatenango",
+          "lat": 14.55451,
+          "lng": -90.94368
+        },
+        {
+          "name": "Comalapa",
+          "lat": 14.74086,
+          "lng": -90.88761
+        },
+        {
+          "name": "El Tejar",
+          "lat": 14.64683,
+          "lng": -90.79122
+        },
+        {
+          "name": "Parramos",
+          "lat": 14.60891,
+          "lng": -90.80303
+        },
+        {
+          "name": "Patzicía",
+          "lat": 14.63194,
+          "lng": -90.92659
+        },
+        {
+          "name": "Patzún",
+          "lat": 14.68189,
+          "lng": -91.01397
+        },
+        {
+          "name": "Pochuta",
+          "lat": 14.5445,
+          "lng": -91.08904
+        },
+        {
+          "name": "San Andrés Itzapa",
+          "lat": 14.62222,
+          "lng": -90.84314
+        },
+        {
+          "name": "San José Poaquil",
+          "lat": 14.81808,
+          "lng": -90.91248
+        },
+        {
+          "name": "San Martín Jilotepeque",
+          "lat": 14.78008,
+          "lng": -90.79259
+        },
+        {
+          "name": "Santa Apolonia",
+          "lat": 14.79049,
+          "lng": -90.97267
+        },
+        {
+          "name": "Santa Cruz Balanyá",
+          "lat": 14.68522,
+          "lng": -90.91906
+        },
+        {
+          "name": "Tecpán Guatemala",
+          "lat": 14.76181,
+          "lng": -90.99247
+        },
+        {
+          "name": "Yepocapa",
+          "lat": 14.50195,
+          "lng": -90.95396
+        },
+        {
+          "name": "Zaragoza",
+          "lat": 14.64968,
+          "lng": -90.89034
+        }
+      ]
+    },
+    {
+      "name": "Chiquimula ",
+      "lat": 14.8005709,
+      "lng": -89.5459173,
+      "districts": [
+        {
+          "name": "Chiquimula",
+          "lat": 14.8,
+          "lng": -89.54583
+        },
+        {
+          "name": "Camotán",
+          "lat": 14.82017,
+          "lng": -89.37224
+        },
+        {
+          "name": "Concepción Las Minas",
+          "lat": 14.52173,
+          "lng": -89.45717
+        },
+        {
+          "name": "Esquipulas",
+          "lat": 14.56571,
+          "lng": -89.35166
+        },
+        {
+          "name": "Ipala",
+          "lat": 14.61667,
+          "lng": -89.61667
+        },
+        {
+          "name": "Jocotán",
+          "lat": 14.82072,
+          "lng": -89.38991
+        },
+        {
+          "name": "Olopa",
+          "lat": 14.69229,
+          "lng": -89.35003
+        },
+        {
+          "name": "Quezaltepeque",
+          "lat": 14.63553,
+          "lng": -89.44241
+        },
+        {
+          "name": "San Jacinto",
+          "lat": 14.66667,
+          "lng": -89.5
+        },
+        {
+          "name": "San José La Arada",
+          "lat": 14.71667,
+          "lng": -89.58333
+        },
+        {
+          "name": "San Juan Ermita",
+          "lat": 14.76471,
+          "lng": -89.43014
+        }
+      ]
+    },
+    {
+      "name": "El Progreso ",
+      "lat": 14.9100436,
+      "lng": -90.0682728,
+      "districts": [
+        {
+          "name": "El Jícaro",
+          "lat": 14.91667,
+          "lng": -89.9
+        },
+        {
+          "name": "Guastatoya",
+          "lat": 14.85417,
+          "lng": -90.06944
+        },
+        {
+          "name": "Morazán",
+          "lat": 14.93278,
+          "lng": -90.14306
+        },
+        {
+          "name": "San Agustín Acasaguastlán",
+          "lat": 14.95,
+          "lng": -89.96667
+        },
+        {
+          "name": "San Antonio La Paz",
+          "lat": 14.75888,
+          "lng": -90.28485
+        },
+        {
+          "name": "San Cristóbal Acasaguastlán",
+          "lat": 14.91667,
+          "lng": -89.88333
+        },
+        {
+          "name": "Sanarate",
+          "lat": 14.78828,
+          "lng": -90.19876
+        },
+        {
+          "name": "Sansare",
+          "lat": 14.74572,
+          "lng": -90.11615
+        }
+      ]
+    },
+    {
+      "name": "Escuintla ",
+      "lat": 14.1921287,
+      "lng": -91.0263791,
+      "districts": [
+        {
+          "name": "Escuintla",
+          "lat": 14.305,
+          "lng": -90.785
+        },
+        {
+          "name": "Santa Lucía Cotzumalguapa",
+          "lat": 14.33505,
+          "lng": -91.02339
+        },
+        {
+          "name": "Guanagazapa",
+          "lat": 14.22528,
+          "lng": -90.64333
+        },
+        {
+          "name": "Iztapa",
+          "lat": 13.93333,
+          "lng": -90.7075
+        },
+        {
+          "name": "La Democracia",
+          "lat": 14.23083,
+          "lng": -90.94722
+        },
+        {
+          "name": "La Gomera",
+          "lat": 14.08213,
+          "lng": -91.05383
+        },
+        {
+          "name": "Masagua",
+          "lat": 14.20306,
+          "lng": -90.84806
+        },
+        {
+          "name": "Nueva Concepción",
+          "lat": 14.2,
+          "lng": -91.3
+        },
+        {
+          "name": "Palín",
+          "lat": 14.40358,
+          "lng": -90.69659
+        },
+        {
+          "name": "Puerto San José",
+          "lat": 13.9274,
+          "lng": -90.82166
+        },
+        {
+          "name": "San Vicente Pacaya",
+          "lat": 14.41466,
+          "lng": -90.63613
+        },
+        {
+          "name": "Siquinalá",
+          "lat": 14.30611,
+          "lng": -90.965
+        },
+        {
+          "name": "Tiquisate",
+          "lat": 14.28356,
+          "lng": -91.36063
+        }
+      ]
+    },
+    {
+      "name": "Guatemala ",
+      "lat": 14.6416142,
+      "lng": -90.5132836,
+      "districts": [
+        {
+          "name": "Chinautla",
+          "lat": 14.70289,
+          "lng": -90.49983
+        },
+        {
+          "name": "Guatemala City",
+          "lat": 14.64072,
+          "lng": -90.51327,
+          "iscapital": true
+        },
+        {
+          "name": "Mixco",
+          "lat": 14.63077,
+          "lng": -90.60711
+        },
+        {
+          "name": "Petapa",
+          "lat": 14.50189,
+          "lng": -90.56196
+        },
+        {
+          "name": "San Juan Sacatepéquez",
+          "lat": 14.71889,
+          "lng": -90.64417
+        },
+        {
+          "name": "Villa Canales",
+          "lat": 14.48285,
+          "lng": -90.53425
+        },
+        {
+          "name": "Villa Nueva",
+          "lat": 14.52512,
+          "lng": -90.58544
+        },
+        {
+          "name": "Amatitlán",
+          "lat": 14.4774,
+          "lng": -90.63489
+        },
+        {
+          "name": "Chuarrancho",
+          "lat": 14.81794,
+          "lng": -90.51568
+        },
+        {
+          "name": "Fraijanes",
+          "lat": 14.46528,
+          "lng": -90.44083
+        },
+        {
+          "name": "Palencia",
+          "lat": 14.66715,
+          "lng": -90.35721
+        },
+        {
+          "name": "San José del Golfo",
+          "lat": 14.76414,
+          "lng": -90.37228
+        },
+        {
+          "name": "San José Pinula",
+          "lat": 14.546,
+          "lng": -90.41288
+        },
+        {
+          "name": "San Pedro Ayampuc",
+          "lat": 14.77943,
+          "lng": -90.45318
+        },
+        {
+          "name": "San Pedro Sacatepéquez",
+          "lat": 14.68612,
+          "lng": -90.64253
+        },
+        {
+          "name": "San Raimundo",
+          "lat": 14.76462,
+          "lng": -90.59493
+        },
+        {
+          "name": "Santa Catarina Pinula",
+          "lat": 14.57047,
+          "lng": -90.49925
+        }
+      ]
+    },
+    {
+      "name": "Huehuetenango ",
+      "lat": 15.606418,
+      "lng": -91.6442217,
+      "districts": [
+        {
+          "name": "Aguacatán",
+          "lat": 15.34222,
+          "lng": -91.31141
+        },
+        {
+          "name": "Barillas",
+          "lat": 15.80361,
+          "lng": -91.31583
+        },
+        {
+          "name": "Chiantla",
+          "lat": 15.35484,
+          "lng": -91.45807
+        },
+        {
+          "name": "Colotenango",
+          "lat": 15.40602,
+          "lng": -91.71267
+        },
+        {
+          "name": "Concepción Huista",
+          "lat": 15.62378,
+          "lng": -91.66521
+        },
+        {
+          "name": "Cuilco",
+          "lat": 15.40719,
+          "lng": -91.94667
+        },
+        {
+          "name": "Huehuetenango",
+          "lat": 15.31918,
+          "lng": -91.47241
+        },
+        {
+          "name": "Ixtahuacán",
+          "lat": 15.41688,
+          "lng": -91.76927
+        },
+        {
+          "name": "Jacaltenango",
+          "lat": 15.66662,
+          "lng": -91.71177
+        },
+        {
+          "name": "La Libertad",
+          "lat": 15.51421,
+          "lng": -91.86944
+        },
+        {
+          "name": "Malacatancito",
+          "lat": 15.24457,
+          "lng": -91.49901
+        },
+        {
+          "name": "Nentón",
+          "lat": 15.8007,
+          "lng": -91.75464
+        },
+        {
+          "name": "San Antonio Huista",
+          "lat": 15.6501,
+          "lng": -91.77163
+        },
+        {
+          "name": "San Gaspar Ixchil",
+          "lat": 15.38796,
+          "lng": -91.72564
+        },
+        {
+          "name": "San Juan Atitán",
+          "lat": 15.42886,
+          "lng": -91.62398
+        },
+        {
+          "name": "San Juan Ixcoy",
+          "lat": 15.60022,
+          "lng": -91.44639
+        },
+        {
+          "name": "San Mateo Ixtatán",
+          "lat": 15.83194,
+          "lng": -91.47806
+        },
+        {
+          "name": "San Miguel Acatán",
+          "lat": 15.70401,
+          "lng": -91.59771
+        },
+        {
+          "name": "San Pedro Necta",
+          "lat": 15.49142,
+          "lng": -91.76551
+        },
+        {
+          "name": "San Rafael La Independencia",
+          "lat": 15.7015,
+          "lng": -91.53553
+        },
+        {
+          "name": "San Rafael Petzal",
+          "lat": 15.40487,
+          "lng": -91.66451
+        },
+        {
+          "name": "San Sebastián Coatán",
+          "lat": 15.73584,
+          "lng": -91.56285
+        },
+        {
+          "name": "San Sebastián Huehuetenango",
+          "lat": 15.38768,
+          "lng": -91.6153
+        },
+        {
+          "name": "Santa Ana Huista",
+          "lat": 15.68085,
+          "lng": -91.82005
+        },
+        {
+          "name": "Santa Bárbara",
+          "lat": 15.31617,
+          "lng": -91.63279
+        },
+        {
+          "name": "Santa Eulalia",
+          "lat": 15.7306,
+          "lng": -91.45846
+        },
+        {
+          "name": "Santiago Chimaltenango",
+          "lat": 15.47658,
+          "lng": -91.69656
+        },
+        {
+          "name": "Soloma",
+          "lat": 15.65841,
+          "lng": -91.42994
+        },
+        {
+          "name": "Tectitán",
+          "lat": 15.3063,
+          "lng": -92.06051
+        },
+        {
+          "name": "Todos Santos Cuchumatán",
+          "lat": 15.50846,
+          "lng": -91.60382
+        }
+      ]
+    },
+    {
+      "name": "Izabal ",
+      "lat": 15.5700584,
+      "lng": -88.9829247,
+      "districts": [
+        {
+          "name": "Morales",
+          "lat": 15.48333,
+          "lng": -88.81667
+        },
+        {
+          "name": "Puerto Barrios",
+          "lat": 15.72778,
+          "lng": -88.59444
+        },
+        {
+          "name": "El Estor",
+          "lat": 15.53333,
+          "lng": -89.35
+        },
+        {
+          "name": "Lívingston",
+          "lat": 15.82826,
+          "lng": -88.75039
+        },
+        {
+          "name": "Los Amates",
+          "lat": 15.25645,
+          "lng": -89.09723
+        },
+        {
+          "name": "Municipio de Morales",
+          "lat": 15.44494,
+          "lng": -88.76646
+        },
+        {
+          "name": "Municipio de Puerto Barrios",
+          "lat": 15.71754,
+          "lng": -88.58517
+        }
+      ]
+    },
+    {
+      "name": "Jalapa ",
+      "lat": 14.6344164,
+      "lng": -89.9897996,
+      "districts": [
+        {
+          "name": "Jalapa",
+          "lat": 14.63472,
+          "lng": -89.98889
+        },
+        {
+          "name": "Mataquescuintla",
+          "lat": 14.52917,
+          "lng": -90.18417
+        },
+        {
+          "name": "Monjas",
+          "lat": 14.5,
+          "lng": -89.86667
+        },
+        {
+          "name": "Municipio de Jalapa",
+          "lat": 14.63275,
+          "lng": -90.03301
+        },
+        {
+          "name": "Municipio de Mataquescuintla",
+          "lat": 14.54777,
+          "lng": -90.20008
+        },
+        {
+          "name": "San Luis Jilotepeque",
+          "lat": 14.65,
+          "lng": -89.73333
+        },
+        {
+          "name": "San Manuel Chaparrón",
+          "lat": 14.51667,
+          "lng": -89.76667
+        },
+        {
+          "name": "San Pedro Pinula",
+          "lat": 14.66667,
+          "lng": -89.85
+        }
+      ]
+    },
+    {
+      "name": "Jutiapa ",
+      "lat": 14.1476859,
+      "lng": -89.8872508,
+      "districts": [
+        {
+          "name": "Jutiapa",
+          "lat": 14.29167,
+          "lng": -89.89583
+        },
+        {
+          "name": "Agua Blanca",
+          "lat": 14.5,
+          "lng": -89.65
+        },
+        {
+          "name": "Asunción Mita",
+          "lat": 14.33083,
+          "lng": -89.71083
+        },
+        {
+          "name": "Atescatempa",
+          "lat": 14.17444,
+          "lng": -89.7425
+        },
+        {
+          "name": "Comapa",
+          "lat": 14.11667,
+          "lng": -89.91667
+        },
+        {
+          "name": "Conguaco",
+          "lat": 14.04417,
+          "lng": -90.03111
+        },
+        {
+          "name": "El Adelanto",
+          "lat": 14.16667,
+          "lng": -89.83333
+        },
+        {
+          "name": "El Progreso",
+          "lat": 14.35,
+          "lng": -89.85
+        },
+        {
+          "name": "Jalpatagua",
+          "lat": 14.14167,
+          "lng": -90.00861
+        },
+        {
+          "name": "Jerez",
+          "lat": 14.1,
+          "lng": -89.75
+        },
+        {
+          "name": "Moyuta",
+          "lat": 14.03861,
+          "lng": -90.08083
+        },
+        {
+          "name": "Municipio de Asunción Mita",
+          "lat": 14.3033,
+          "lng": -89.67623
+        },
+        {
+          "name": "Pasaco",
+          "lat": 13.97722,
+          "lng": -90.20639
+        },
+        {
+          "name": "Quesada",
+          "lat": 14.27028,
+          "lng": -90.04028
+        },
+        {
+          "name": "San José Acatempa",
+          "lat": 14.26528,
+          "lng": -90.12694
+        },
+        {
+          "name": "Santa Catarina Mita",
+          "lat": 14.45,
+          "lng": -89.75
+        },
+        {
+          "name": "Yupiltepeque",
+          "lat": 14.2,
+          "lng": -89.78333
+        },
+        {
+          "name": "Zapotitlán",
+          "lat": 14.13333,
+          "lng": -89.83333
+        }
+      ]
+    },
+    {
+      "name": "Petén ",
+      "lat": 16.8317906,
+      "lng": -90.0450637,
+      "districts": [
+        {
+          "name": "Dolores",
+          "lat": 16.51178,
+          "lng": -89.41704
+        },
+        {
+          "name": "Flores",
+          "lat": 16.92258,
+          "lng": -89.89941
+        },
+        {
+          "name": "La Libertad",
+          "lat": 16.7885,
+          "lng": -90.11698
+        },
+        {
+          "name": "Melchor de Mencos",
+          "lat": 17.06606,
+          "lng": -89.15229
+        },
+        {
+          "name": "Municipio de Flores",
+          "lat": 16.92381,
+          "lng": -89.89709
+        },
+        {
+          "name": "Municipio de Poptún",
+          "lat": 16.35687,
+          "lng": -89.58912
+        },
+        {
+          "name": "Municipio de San Andrés",
+          "lat": 17.49541,
+          "lng": -90.39883
+        },
+        {
+          "name": "Municipio de San Benito",
+          "lat": 16.91289,
+          "lng": -89.90979
+        },
+        {
+          "name": "Municipio de San Francisco",
+          "lat": 16.72425,
+          "lng": -89.90877
+        },
+        {
+          "name": "Municipio de Santa Ana",
+          "lat": 16.77305,
+          "lng": -89.66878
+        },
+        {
+          "name": "Municipio de Sayaxché",
+          "lat": 16.3316,
+          "lng": -90.16339
+        },
+        {
+          "name": "Poptún",
+          "lat": 16.33111,
+          "lng": -89.41694
+        },
+        {
+          "name": "San Andrés",
+          "lat": 16.96667,
+          "lng": -89.91667
+        },
+        {
+          "name": "San Benito",
+          "lat": 16.91675,
+          "lng": -89.91898
+        },
+        {
+          "name": "San Francisco",
+          "lat": 16.8,
+          "lng": -89.93333
+        },
+        {
+          "name": "San José",
+          "lat": 16.98333,
+          "lng": -89.9
+        },
+        {
+          "name": "San Luis",
+          "lat": 16.19889,
+          "lng": -89.44028
+        },
+        {
+          "name": "Santa Ana",
+          "lat": 16.8,
+          "lng": -89.83333
+        },
+        {
+          "name": "Sayaxché",
+          "lat": 16.52446,
+          "lng": -90.18801
+        }
+      ]
+    },
+    {
+      "name": "Quetzaltenango ",
+      "lat": 14.8594641,
+      "lng": -91.5931586,
+      "districts": [
+        {
+          "name": "Coatepeque",
+          "lat": 14.70413,
+          "lng": -91.86426
+        },
+        {
+          "name": "Quetzaltenango",
+          "lat": 14.83472,
+          "lng": -91.51806
+        },
+        {
+          "name": "Almolonga",
+          "lat": 14.81591,
+          "lng": -91.49464
+        },
+        {
+          "name": "Cabricán",
+          "lat": 15.07485,
+          "lng": -91.648
+        },
+        {
+          "name": "Cajolá",
+          "lat": 14.92205,
+          "lng": -91.61478
+        },
+        {
+          "name": "Cantel",
+          "lat": 14.81154,
+          "lng": -91.45536
+        },
+        {
+          "name": "Colomba",
+          "lat": 14.7073,
+          "lng": -91.73167
+        },
+        {
+          "name": "Concepción Chiquirichapa",
+          "lat": 14.8551,
+          "lng": -91.6236
+        },
+        {
+          "name": "El Palmar",
+          "lat": 14.65083,
+          "lng": -91.578
+        },
+        {
+          "name": "Flores Costa Cuca",
+          "lat": 14.6560605,
+          "lng": -91.8256277
+        },
+        {
+          "name": "Génova",
+          "lat": 14.61667,
+          "lng": -91.83333
+        },
+        {
+          "name": "Huitán",
+          "lat": 15.0492,
+          "lng": -91.63944
+        },
+        {
+          "name": "La Esperanza",
+          "lat": 14.87169,
+          "lng": -91.5614
+        },
+        {
+          "name": "Municipio de Almolonga",
+          "lat": 14.81118,
+          "lng": -91.48354
+        },
+        {
+          "name": "Municipio de Cabricán",
+          "lat": 15.10305,
+          "lng": -91.64918
+        },
+        {
+          "name": "Municipio de Cantel",
+          "lat": 14.81659,
+          "lng": -91.43781
+        },
+        {
+          "name": "Municipio de Coatepeque",
+          "lat": 14.64309,
+          "lng": -91.97926
+        },
+        {
+          "name": "Municipio de Colomba",
+          "lat": 14.71002,
+          "lng": -91.74691
+        },
+        {
+          "name": "Municipio de Concepción Chiquirichapa",
+          "lat": 14.84624,
+          "lng": -91.61854
+        },
+        {
+          "name": "Municipio de Flores Costa Cuca",
+          "lat": 14.63238,
+          "lng": -91.86341
+        },
+        {
+          "name": "Municipio de San Juan Ostuncalco",
+          "lat": 14.87477,
+          "lng": -91.68842
+        },
+        {
+          "name": "Olintepeque",
+          "lat": 14.88605,
+          "lng": -91.51472
+        },
+        {
+          "name": "Ostuncalco",
+          "lat": 14.86899,
+          "lng": -91.62137
+        },
+        {
+          "name": "Palestina de los Altos",
+          "lat": 14.93338,
+          "lng": -91.69403
+        },
+        {
+          "name": "Salcajá",
+          "lat": 14.87964,
+          "lng": -91.45699
+        },
+        {
+          "name": "Samayac",
+          "lat": 14.58084,
+          "lng": -91.46135
+        },
+        {
+          "name": "San Carlos Sija",
+          "lat": 14.98436,
+          "lng": -91.54912
+        },
+        {
+          "name": "San Francisco la Unión",
+          "lat": 14.9235,
+          "lng": -91.54157
+        },
+        {
+          "name": "San Martín Sacatepéquez",
+          "lat": 14.82443,
+          "lng": -91.64192
+        },
+        {
+          "name": "San Mateo",
+          "lat": 14.858,
+          "lng": -91.59004
+        },
+        {
+          "name": "San Miguel Sigüilá",
+          "lat": 14.89547,
+          "lng": -91.61457
+        },
+        {
+          "name": "Sibilia",
+          "lat": 14.99391,
+          "lng": -91.62371
+        },
+        {
+          "name": "Zunil",
+          "lat": 14.78463,
+          "lng": -91.48345
+        }
+      ]
+    },
+    {
+      "name": "Quiché ",
+      "lat": 15.4381786,
+      "lng": -91.0075186,
+      "districts": [
+        {
+          "name": "Chichicastenango",
+          "lat": 14.94333,
+          "lng": -91.11116
+        },
+        {
+          "name": "Canillá",
+          "lat": 15.16549,
+          "lng": -90.85256
+        },
+        {
+          "name": "Chajul",
+          "lat": 15.48523,
+          "lng": -91.0352
+        },
+        {
+          "name": "Chicamán",
+          "lat": 15.34786,
+          "lng": -90.79968
+        },
+        {
+          "name": "Chiché",
+          "lat": 15.00885,
+          "lng": -91.06379
+        },
+        {
+          "name": "Chinique",
+          "lat": 15.04147,
+          "lng": -91.02594
+        },
+        {
+          "name": "Cunén",
+          "lat": 15.33626,
+          "lng": -91.02776
+        },
+        {
+          "name": "Joyabaj",
+          "lat": 14.99311,
+          "lng": -90.80161
+        },
+        {
+          "name": "Municipio de Canillá",
+          "lat": 15.19546,
+          "lng": -90.8597
+        },
+        {
+          "name": "Municipio de Chajul",
+          "lat": 15.4871,
+          "lng": -91.03786
+        },
+        {
+          "name": "Municipio de Chicaman",
+          "lat": 15.34833,
+          "lng": -90.79944
+        },
+        {
+          "name": "Municipio de Chiché",
+          "lat": 15.01196,
+          "lng": -91.03836
+        },
+        {
+          "name": "Municipio de Chichicastenango",
+          "lat": 14.89203,
+          "lng": -91.08808
+        },
+        {
+          "name": "Municipio de Chinique",
+          "lat": 15.06947,
+          "lng": -91.01803
+        },
+        {
+          "name": "Municipio de Cunén",
+          "lat": 15.36312,
+          "lng": -91.01889
+        },
+        {
+          "name": "Municipio de Ixcan",
+          "lat": 15.98333,
+          "lng": -90.76667
+        },
+        {
+          "name": "Municipio de Joyabaj",
+          "lat": 14.98073,
+          "lng": -90.82079
+        },
+        {
+          "name": "Municipio de Pachalum",
+          "lat": 14.91798,
+          "lng": -90.65443
+        },
+        {
+          "name": "Municipio de Patzité",
+          "lat": 14.97097,
+          "lng": -91.19722
+        },
+        {
+          "name": "Municipio de San Andrés Sajcabajá",
+          "lat": 15.22527,
+          "lng": -90.93018
+        },
+        {
+          "name": "Municipio de San Antonio Ilotenango",
+          "lat": 15.04898,
+          "lng": -91.20872
+        },
+        {
+          "name": "Municipio de San Juan Cotzal",
+          "lat": 15.42699,
+          "lng": -91.02097
+        },
+        {
+          "name": "Municipio de San Pedro Jocopilas",
+          "lat": 15.15472,
+          "lng": -91.1561
+        },
+        {
+          "name": "Municipio de Uspantán",
+          "lat": 15.44393,
+          "lng": -90.84398
+        },
+        {
+          "name": "Municipio de Zacualpa",
+          "lat": 15.09239,
+          "lng": -90.88514
+        },
+        {
+          "name": "Nebaj",
+          "lat": 15.40614,
+          "lng": -91.14682
+        },
+        {
+          "name": "Pachalum",
+          "lat": 14.92472,
+          "lng": -90.66278
+        },
+        {
+          "name": "Patzité",
+          "lat": 14.96426,
+          "lng": -91.20788
+        },
+        {
+          "name": "Playa Grande",
+          "lat": 15.93333,
+          "lng": -90.73333
+        },
+        {
+          "name": "Sacapulas",
+          "lat": 15.28801,
+          "lng": -91.08914
+        },
+        {
+          "name": "San Andrés Sajcabajá",
+          "lat": 15.17603,
+          "lng": -90.9422
+        },
+        {
+          "name": "San Antonio Ilotenango",
+          "lat": 15.05472,
+          "lng": -91.22986
+        },
+        {
+          "name": "San Bartolomé Jocotenango",
+          "lat": 15.19153,
+          "lng": -91.07806
+        },
+        {
+          "name": "San Juan Cotzal",
+          "lat": 15.43368,
+          "lng": -91.03481
+        },
+        {
+          "name": "San Luis Ixcán",
+          "lat": 15.78722,
+          "lng": -91.095
+        },
+        {
+          "name": "San Pédro Jocopilas",
+          "lat": 15.09525,
+          "lng": -91.15135
+        },
+        {
+          "name": "Santa Cruz del Quiché",
+          "lat": 15.03085,
+          "lng": -91.14871
+        },
+        {
+          "name": "Uspantán",
+          "lat": 15.34672,
+          "lng": -90.8705
+        },
+        {
+          "name": "Zacualpa",
+          "lat": 15.02681,
+          "lng": -90.87815
+        }
+      ]
+    },
+    {
+      "name": "Retalhuleu ",
+      "lat": 14.5359621,
+      "lng": -91.6780651,
+      "districts": [
+        {
+          "name": "Retalhuleu",
+          "lat": 14.53611,
+          "lng": -91.67778
+        },
+        {
+          "name": "Champerico",
+          "lat": 14.29337,
+          "lng": -91.91214
+        },
+        {
+          "name": "El Asintal",
+          "lat": 14.59626,
+          "lng": -91.72744
+        },
+        {
+          "name": "Municipio de San Felipe",
+          "lat": 14.63009,
+          "lng": -91.60261
+        },
+        {
+          "name": "Nuevo San Carlos",
+          "lat": 14.593,
+          "lng": -91.6939
+        },
+        {
+          "name": "San Andrés Villa Seca",
+          "lat": 14.57801,
+          "lng": -91.58539
+        },
+        {
+          "name": "San Felipe",
+          "lat": 14.62304,
+          "lng": -91.595
+        },
+        {
+          "name": "San Martín Zapotitlán",
+          "lat": 14.60794,
+          "lng": -91.60613
+        },
+        {
+          "name": "San Sebastián",
+          "lat": 14.56177,
+          "lng": -91.64865
+        },
+        {
+          "name": "Santa Cruz Muluá",
+          "lat": 14.58153,
+          "lng": -91.62441
+        }
+      ]
+    },
+    {
+      "name": "Sacatepéquez ",
+      "lat": 14.5531759,
+      "lng": -90.7547018,
+      "districts": [
+        {
+          "name": "Alotenango",
+          "lat": 14.48028,
+          "lng": -90.8075
+        },
+        {
+          "name": "Antigua Guatemala",
+          "lat": 14.56111,
+          "lng": -90.73444
+        },
+        {
+          "name": "Ciudad Vieja",
+          "lat": 14.52396,
+          "lng": -90.76308
+        },
+        {
+          "name": "Jocotenango",
+          "lat": 14.57814,
+          "lng": -90.73804
+        },
+        {
+          "name": "Magdalena Milpas Altas",
+          "lat": 14.54801,
+          "lng": -90.67477
+        },
+        {
+          "name": "Municipio de Alotenango",
+          "lat": 14.46485,
+          "lng": -90.82773
+        },
+        {
+          "name": "Municipio de Antigua Guatemala",
+          "lat": 14.54313,
+          "lng": -90.72683
+        },
+        {
+          "name": "Municipio de Ciudad Vieja",
+          "lat": 14.508,
+          "lng": -90.77028
+        },
+        {
+          "name": "Municipio de Jocotenango",
+          "lat": 14.58658,
+          "lng": -90.73579
+        },
+        {
+          "name": "Municipio de Magdalena Milpas Altas",
+          "lat": 14.54206,
+          "lng": -90.67553
+        },
+        {
+          "name": "Municipio de Santa Lucía Milpas Altas",
+          "lat": 14.56753,
+          "lng": -90.67551
+        },
+        {
+          "name": "Municipio de Santa María de Jesús",
+          "lat": 14.47849,
+          "lng": -90.69989
+        },
+        {
+          "name": "Pastores",
+          "lat": 14.59433,
+          "lng": -90.75473
+        },
+        {
+          "name": "San Antonio Aguas Calientes",
+          "lat": 14.54676,
+          "lng": -90.78054
+        },
+        {
+          "name": "San Bartolomé Milpas Altas",
+          "lat": 14.6069,
+          "lng": -90.67807
+        },
+        {
+          "name": "San Lucas Sacatepéquez",
+          "lat": 14.61075,
+          "lng": -90.65681
+        },
+        {
+          "name": "San Miguel Dueñas",
+          "lat": 14.52241,
+          "lng": -90.79938
+        },
+        {
+          "name": "Santa Catarina Barahona",
+          "lat": 14.55135,
+          "lng": -90.78598
+        },
+        {
+          "name": "Santa Lucía Milpas Altas",
+          "lat": 14.57655,
+          "lng": -90.67632
+        },
+        {
+          "name": "Santa María de Jesús",
+          "lat": 14.49452,
+          "lng": -90.71036
+        },
+        {
+          "name": "Santiago Sacatepéquez",
+          "lat": 14.6351,
+          "lng": -90.67654
+        },
+        {
+          "name": "Santo Domingo Xenacoj",
+          "lat": 14.68057,
+          "lng": -90.70012
+        },
+        {
+          "name": "Sumpango",
+          "lat": 14.64623,
+          "lng": -90.73427
+        }
+      ]
+    },
+    {
+      "name": "San Marcos ",
+      "lat": 14.9533135,
+      "lng": -91.9120444,
+      "districts": [
+        {
+          "name": "Malacatán",
+          "lat": 14.91132,
+          "lng": -92.05788
+        },
+        {
+          "name": "Catarina",
+          "lat": 14.85354,
+          "lng": -92.07682
+        },
+        {
+          "name": "Ciudad Tecún Umán",
+          "lat": 14.67737,
+          "lng": -92.14039
+        },
+        {
+          "name": "Comitancillo",
+          "lat": 15.08937,
+          "lng": -91.74971
+        },
+        {
+          "name": "Concepción Tutuapa",
+          "lat": 15.2394,
+          "lng": -91.8446
+        },
+        {
+          "name": "El Quetzal",
+          "lat": 14.76865,
+          "lng": -91.81757
+        },
+        {
+          "name": "El Rodeo",
+          "lat": 14.91447,
+          "lng": -91.97631
+        },
+        {
+          "name": "El Tumbador",
+          "lat": 14.86375,
+          "lng": -91.93416
+        },
+        {
+          "name": "Esquipulas Palo Gordo",
+          "lat": 14.94135,
+          "lng": -91.82564
+        },
+        {
+          "name": "Ixchiguán",
+          "lat": 15.16375,
+          "lng": -91.93256
+        },
+        {
+          "name": "La Reforma",
+          "lat": 14.80104,
+          "lng": -91.82233
+        },
+        {
+          "name": "Municipio de Concepción Tutuapa",
+          "lat": 15.28795,
+          "lng": -91.86738
+        },
+        {
+          "name": "Municipio de Malacatán",
+          "lat": 14.91829,
+          "lng": -92.10548
+        },
+        {
+          "name": "Municipio de Sipacapa",
+          "lat": 15.19243,
+          "lng": -91.65541
+        },
+        {
+          "name": "Municipio de Tejutla",
+          "lat": 15.15638,
+          "lng": -91.82457
+        },
+        {
+          "name": "Nuevo Progreso",
+          "lat": 14.79174,
+          "lng": -91.91946
+        },
+        {
+          "name": "Ocós",
+          "lat": 14.50998,
+          "lng": -92.19298
+        },
+        {
+          "name": "Pajapita",
+          "lat": 14.72152,
+          "lng": -92.03521
+        },
+        {
+          "name": "Río Blanco",
+          "lat": 15.0382,
+          "lng": -91.68463
+        },
+        {
+          "name": "San Antonio Sacatepéquez",
+          "lat": 14.9606,
+          "lng": -91.73154
+        },
+        {
+          "name": "San Cristóbal Cucho",
+          "lat": 14.90505,
+          "lng": -91.78123
+        },
+        {
+          "name": "San José Ojetenam",
+          "lat": 15.23443,
+          "lng": -91.97317
+        },
+        {
+          "name": "San José Ojetenán",
+          "lat": 15.21667,
+          "lng": -91.96667
+        },
+        {
+          "name": "San Lorenzo",
+          "lat": 15.03087,
+          "lng": -91.73534
+        },
+        {
+          "name": "San Marcos",
+          "lat": 14.96389,
+          "lng": -91.79444
+        },
+        {
+          "name": "San Miguel Ixtahuacán",
+          "lat": 15.27247,
+          "lng": -91.74785
+        },
+        {
+          "name": "San Pablo",
+          "lat": 14.93269,
+          "lng": -92.00415
+        },
+        {
+          "name": "San Pedro Sacatepéquez",
+          "lat": 14.96807,
+          "lng": -91.76172
+        },
+        {
+          "name": "San Rafael Pie de la Cuesta",
+          "lat": 14.93052,
+          "lng": -91.91388
+        },
+        {
+          "name": "Sibinal",
+          "lat": 15.14963,
+          "lng": -92.04892
+        },
+        {
+          "name": "Sipacapa",
+          "lat": 15.21246,
+          "lng": -91.63416
+        },
+        {
+          "name": "Tacaná",
+          "lat": 15.24058,
+          "lng": -92.06721
+        },
+        {
+          "name": "Tajumulco",
+          "lat": 15.08349,
+          "lng": -91.92225
+        },
+        {
+          "name": "Tejutla",
+          "lat": 15.12254,
+          "lng": -91.80635
+        }
+      ]
+    },
+    {
+      "name": "Santa Rosa ",
+      "lat": 14.1501523,
+      "lng": -90.3508818,
+      "districts": [
+        {
+          "name": "Barberena",
+          "lat": 14.30739,
+          "lng": -90.36156
+        },
+        {
+          "name": "Casillas",
+          "lat": 14.42222,
+          "lng": -90.24417
+        },
+        {
+          "name": "Chiquimulilla",
+          "lat": 14.0838,
+          "lng": -90.38547
+        },
+        {
+          "name": "Cuilapa",
+          "lat": 14.27639,
+          "lng": -90.29889
+        },
+        {
+          "name": "Guazacapán",
+          "lat": 14.07417,
+          "lng": -90.41667
+        },
+        {
+          "name": "Municipio de Casillas",
+          "lat": 14.37854,
+          "lng": -90.1726
+        },
+        {
+          "name": "Municipio de Chiquimulilla",
+          "lat": 14.09716,
+          "lng": -90.37903
+        },
+        {
+          "name": "Municipio de Guazacapán",
+          "lat": 14.01786,
+          "lng": -90.434
+        },
+        {
+          "name": "Nueva Santa Rosa",
+          "lat": 14.38111,
+          "lng": -90.27611
+        },
+        {
+          "name": "Oratorio",
+          "lat": 14.22806,
+          "lng": -90.17583
+        },
+        {
+          "name": "Pueblo Nuevo Viñas",
+          "lat": 14.22576,
+          "lng": -90.47613
+        },
+        {
+          "name": "San Juan Tecuaco",
+          "lat": 14.08361,
+          "lng": -90.26649
+        },
+        {
+          "name": "San Rafael Las Flores",
+          "lat": 14.48139,
+          "lng": -90.17333
+        },
+        {
+          "name": "Santa Cruz Naranjo",
+          "lat": 14.38806,
+          "lng": -90.36972
+        },
+        {
+          "name": "Santa María Ixhuatán",
+          "lat": 14.19,
+          "lng": -90.27472
+        },
+        {
+          "name": "Santa Rosa de Lima",
+          "lat": 14.38806,
+          "lng": -90.29556
+        },
+        {
+          "name": "Taxisco",
+          "lat": 14.06719,
+          "lng": -90.46791
+        }
+      ]
+    },
+    {
+      "name": "Sololá ",
+      "lat": 14.7039412,
+      "lng": -91.282818,
+      "districts": [
+        {
+          "name": "Concepción",
+          "lat": 14.78417,
+          "lng": -91.14754
+        },
+        {
+          "name": "Municipio de Nahualá",
+          "lat": 14.77548,
+          "lng": -91.41616
+        },
+        {
+          "name": "Municipio de Panajachel",
+          "lat": 14.74676,
+          "lng": -91.14935
+        },
+        {
+          "name": "Municipio de Santa Catarina Palopó",
+          "lat": 14.71794,
+          "lng": -91.1306
+        },
+        {
+          "name": "Municipio de Santa Cruz La Laguna",
+          "lat": 14.74324,
+          "lng": -91.22178
+        },
+        {
+          "name": "Nahualá",
+          "lat": 14.8429,
+          "lng": -91.31799
+        },
+        {
+          "name": "Panajachel",
+          "lat": 14.74185,
+          "lng": -91.15676
+        },
+        {
+          "name": "San Andrés Semetabaj",
+          "lat": 14.74497,
+          "lng": -91.13344
+        },
+        {
+          "name": "San Antonio Palopó",
+          "lat": 14.69232,
+          "lng": -91.11638
+        },
+        {
+          "name": "San José Chacayá",
+          "lat": 14.77096,
+          "lng": -91.21564
+        },
+        {
+          "name": "San Juan La Laguna",
+          "lat": 14.69453,
+          "lng": -91.28666
+        },
+        {
+          "name": "San Lucas Tolimán",
+          "lat": 14.59471,
+          "lng": -91.14659
+        },
+        {
+          "name": "San Marcos La Laguna",
+          "lat": 14.72504,
+          "lng": -91.25844
+        },
+        {
+          "name": "San Pablo La Laguna",
+          "lat": 14.72092,
+          "lng": -91.27242
+        },
+        {
+          "name": "San Pedro La Laguna",
+          "lat": 14.69297,
+          "lng": -91.27201
+        },
+        {
+          "name": "Santa Catarina Ixtahuacán",
+          "lat": 14.79797,
+          "lng": -91.35866
+        },
+        {
+          "name": "Santa Catarina Palopó",
+          "lat": 14.72335,
+          "lng": -91.13428
+        },
+        {
+          "name": "Santa Clara La Laguna",
+          "lat": 14.71509,
+          "lng": -91.30355
+        },
+        {
+          "name": "Santa Cruz La Laguna",
+          "lat": 14.74421,
+          "lng": -91.20716
+        },
+        {
+          "name": "Santa Lucía Utatlán",
+          "lat": 14.77135,
+          "lng": -91.267
+        },
+        {
+          "name": "Santa María Visitación",
+          "lat": 14.71717,
+          "lng": -91.30844
+        },
+        {
+          "name": "Santiago Atitlán",
+          "lat": 14.63823,
+          "lng": -91.22901
+        },
+        {
+          "name": "Sololá",
+          "lat": 14.77222,
+          "lng": -91.18333
+        }
+      ]
+    },
+    {
+      "name": "Suchitepéquez ",
+      "lat": 14.3740226,
+      "lng": -91.3650139,
+      "districts": [
+        {
+          "name": "Chicacao",
+          "lat": 14.54295,
+          "lng": -91.32636
+        },
+        {
+          "name": "Cuyotenango",
+          "lat": 14.54006,
+          "lng": -91.57179
+        },
+        {
+          "name": "Mazatenango",
+          "lat": 14.53417,
+          "lng": -91.50333
+        },
+        {
+          "name": "Municipio de San Antonio Suchitepéquez",
+          "lat": 14.51839,
+          "lng": -91.40438
+        },
+        {
+          "name": "Municipio de San Miguel Panán",
+          "lat": 14.50525,
+          "lng": -91.35956
+        },
+        {
+          "name": "Municipio de Santa Bárbara",
+          "lat": 14.47317,
+          "lng": -91.24688
+        },
+        {
+          "name": "Patulul",
+          "lat": 14.42321,
+          "lng": -91.16049
+        },
+        {
+          "name": "Pueblo Nuevo",
+          "lat": 14.64709,
+          "lng": -91.53946
+        },
+        {
+          "name": "Río Bravo",
+          "lat": 14.40042,
+          "lng": -91.31713
+        },
+        {
+          "name": "San Antonio Suchitepéquez",
+          "lat": 14.53938,
+          "lng": -91.41442
+        },
+        {
+          "name": "San Bernardino",
+          "lat": 14.5424,
+          "lng": -91.45811
+        },
+        {
+          "name": "San Francisco Zapotitlán",
+          "lat": 14.58939,
+          "lng": -91.52144
+        },
+        {
+          "name": "San Gabriel",
+          "lat": 14.51076,
+          "lng": -91.50745
+        },
+        {
+          "name": "San José El Ídolo",
+          "lat": 14.45016,
+          "lng": -91.42222
+        },
+        {
+          "name": "San Juan Bautista",
+          "lat": 14.42274,
+          "lng": -91.17904
+        },
+        {
+          "name": "San Lorenzo",
+          "lat": 14.48606,
+          "lng": -91.51263
+        },
+        {
+          "name": "San Miguel Panán",
+          "lat": 14.52865,
+          "lng": -91.36733
+        },
+        {
+          "name": "San Pablo Jocopilas",
+          "lat": 14.58882,
+          "lng": -91.45188
+        },
+        {
+          "name": "Santa Bárbara",
+          "lat": 14.43563,
+          "lng": -91.22685
+        },
+        {
+          "name": "Santo Domingo Suchitepéquez",
+          "lat": 14.47901,
+          "lng": -91.48327
+        },
+        {
+          "name": "Santo Tomás La Unión",
+          "lat": 14.63219,
+          "lng": -91.41075
+        },
+        {
+          "name": "Zunilito",
+          "lat": 14.61264,
+          "lng": -91.5098
+        }
+      ]
+    },
+    {
+      "name": "Totonicapán ",
+      "lat": 14.9173402,
+      "lng": -91.3613923,
+      "districts": [
+        {
+          "name": "Totonicapán",
+          "lat": 14.91167,
+          "lng": -91.36111
+        },
+        {
+          "name": "Momostenango",
+          "lat": 15.04437,
+          "lng": -91.40864
+        },
+        {
+          "name": "Municipio de Momostenango",
+          "lat": 15.04726,
+          "lng": -91.40625
+        },
+        {
+          "name": "Municipio de Santa María Chiquimula",
+          "lat": 15.02886,
+          "lng": -91.32917
+        },
+        {
+          "name": "Municipio de Totonicapán",
+          "lat": 14.90193,
+          "lng": -91.31999
+        },
+        {
+          "name": "San Andrés Xecul",
+          "lat": 14.90482,
+          "lng": -91.48307
+        },
+        {
+          "name": "San Bartolo",
+          "lat": 15.08438,
+          "lng": -91.45606
+        },
+        {
+          "name": "San Cristóbal Totonicapán",
+          "lat": 14.91682,
+          "lng": -91.4406
+        },
+        {
+          "name": "San Francisco El Alto",
+          "lat": 14.9449,
+          "lng": -91.4431
+        },
+        {
+          "name": "Santa Lucia La Reforma",
+          "lat": 15.12819,
+          "lng": -91.23619
+        },
+        {
+          "name": "Santa María Chiquimula",
+          "lat": 15.02992,
+          "lng": -91.3292
+        }
+      ]
+    },
+    {
+      "name": "Zacapa",
+      "lat": 14.9707219,
+      "lng": -89.5297411,
+      "districts": []
+    }
+  ]
+}

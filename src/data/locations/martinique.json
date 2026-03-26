@@ -1,0 +1,206 @@
+{
+  "name": "Martinique",
+  "lat": 14.666667,
+  "lng": -61,
+  "cities": [
+    {
+      "name": "Fort-de-France",
+      "lat": 14.6027962,
+      "lng": -61.0676724,
+      "districts": [
+        {
+          "name": "Fort-de-France",
+          "lat": 14.6492418,
+          "lng": -61.1098445,
+          "iscapital": true
+        },
+        {
+          "name": "Le Lamentin",
+          "lat": 14.6230862,
+          "lng": -61.0334749
+        },
+        {
+          "name": "Saint-Joseph",
+          "lat": 14.683534,
+          "lng": -61.0818662
+        },
+        {
+          "name": "Schœlcher",
+          "lat": 14.6517997,
+          "lng": -61.1412867
+        }
+      ]
+    },
+    {
+      "name": "La Trinité",
+      "lat": 14.7553161,
+      "lng": -61.0287226,
+      "districts": [
+        {
+          "name": "Basse-Pointe",
+          "lat": 14.8409708,
+          "lng": -61.1648523
+        },
+        {
+          "name": "Grand'Rivière",
+          "lat": 14.8469663,
+          "lng": -61.2042764
+        },
+        {
+          "name": "Gros-Morne",
+          "lat": 14.7084184,
+          "lng": -61.1127122
+        },
+        {
+          "name": "L'Ajoupa-Bouillon",
+          "lat": 14.8159718,
+          "lng": -61.1717063
+        },
+        {
+          "name": "La Trinité",
+          "lat": 14.7380415,
+          "lng": -61.0292956
+        },
+        {
+          "name": "Le Lorrain",
+          "lat": 14.7995256,
+          "lng": -61.1151374
+        },
+        {
+          "name": "Le Marigot",
+          "lat": 14.7795818,
+          "lng": -61.0942458
+        },
+        {
+          "name": "Le Robert",
+          "lat": 14.6744327,
+          "lng": -61.0169272
+        },
+        {
+          "name": "Macouba",
+          "lat": 14.8474386,
+          "lng": -61.1670946
+        },
+        {
+          "name": "Sainte-Marie",
+          "lat": 14.7730093,
+          "lng": -61.0495997
+        }
+      ]
+    },
+    {
+      "name": "Le Marin",
+      "lat": 14.5251841,
+      "lng": -60.9624151,
+      "districts": [
+        {
+          "name": "Ducos",
+          "lat": 14.5785442,
+          "lng": -61.0097386
+        },
+        {
+          "name": "Le Diamant",
+          "lat": 14.4768004,
+          "lng": -61.0597384
+        },
+        {
+          "name": "Le François",
+          "lat": 14.6092885,
+          "lng": -60.9799911
+        },
+        {
+          "name": "Le Marin",
+          "lat": 14.4822169,
+          "lng": -60.9001141
+        },
+        {
+          "name": "Le Vauclin",
+          "lat": 14.542086,
+          "lng": -60.9006006
+        },
+        {
+          "name": "Les Anses-d'Arlet",
+          "lat": 14.4995478,
+          "lng": -61.1148162
+        },
+        {
+          "name": "Les Trois-Îlets",
+          "lat": 14.5328746,
+          "lng": -61.0787769
+        },
+        {
+          "name": "Rivière-Pilote",
+          "lat": 14.5026697,
+          "lng": -60.9381921
+        },
+        {
+          "name": "Rivière-Salée",
+          "lat": 14.526214,
+          "lng": -61.0035309
+        },
+        {
+          "name": "Saint-Esprit",
+          "lat": 14.5617595,
+          "lng": -60.9645111
+        },
+        {
+          "name": "Sainte-Anne",
+          "lat": 14.431422,
+          "lng": -60.8927876
+        },
+        {
+          "name": "Sainte-Luce",
+          "lat": 14.4904093,
+          "lng": -60.9879365
+        }
+      ]
+    },
+    {
+      "name": "Saint-Pierre",
+      "lat": 14.7417183,
+      "lng": -61.1763904,
+      "districts": [
+        {
+          "name": "Bellefontaine",
+          "lat": 14.6747476,
+          "lng": -61.1665308
+        },
+        {
+          "name": "Case-Pilote",
+          "lat": 14.6593399,
+          "lng": -61.1502612
+        },
+        {
+          "name": "Fonds-Saint-Denis",
+          "lat": 14.7227546,
+          "lng": -61.1618919
+        },
+        {
+          "name": "Le Carbet",
+          "lat": 14.7052158,
+          "lng": -61.1944468
+        },
+        {
+          "name": "Le Morne-Rouge",
+          "lat": 14.7695364,
+          "lng": -61.1629284
+        },
+        {
+          "name": "Le Morne-Vert",
+          "lat": 14.7046433,
+          "lng": -61.1567977
+        },
+        {
+          "name": "Le Prêcheur",
+          "lat": 14.8220261,
+          "lng": -61.2374686
+        },
+        {
+          "name": "Saint-Pierre",
+          "lat": 14.7716719,
+          "lng": -61.2147501
+        }
+      ]
+    }
+  ]
+}

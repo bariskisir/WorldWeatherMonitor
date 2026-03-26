@@ -1,0 +1,419 @@
+{
+  "name": "Niger",
+  "lat": 16,
+  "lng": 8,
+  "cities": [
+    {
+      "name": "Agadez",
+      "lat": 19.4211115,
+      "lng": 10.6846987,
+      "districts": [
+        {
+          "name": "Agadez",
+          "lat": 16.97333,
+          "lng": 7.99111
+        },
+        {
+          "name": "Alaghsas",
+          "lat": 17.0187,
+          "lng": 8.0168
+        },
+        {
+          "name": "Arlit",
+          "lat": 18.83409,
+          "lng": 7.43327
+        },
+        {
+          "name": "Bilma",
+          "lat": 18.68532,
+          "lng": 12.91643
+        },
+        {
+          "name": "Département de Bilma",
+          "lat": 20.5,
+          "lng": 13.25
+        },
+        {
+          "name": "Département de Tchirozérine",
+          "lat": 17.43293,
+          "lng": 7.89321
+        }
+      ]
+    },
+    {
+      "name": "Diffa",
+      "lat": 13.4880875,
+      "lng": 12.5136266,
+      "districts": [
+        {
+          "name": "Département de Diffa",
+          "lat": 13.66667,
+          "lng": 12.5
+        },
+        {
+          "name": "Département de Maïné-Soroa",
+          "lat": 13.31206,
+          "lng": 12.08321
+        },
+        {
+          "name": "Département de Nguigmi",
+          "lat": 14.20753,
+          "lng": 13.12177
+        },
+        {
+          "name": "Diffa",
+          "lat": 13.31536,
+          "lng": 12.61135
+        },
+        {
+          "name": "Maïné Soroa",
+          "lat": 13.21139,
+          "lng": 12.0241
+        },
+        {
+          "name": "Nguigmi",
+          "lat": 14.24953,
+          "lng": 13.10921
+        }
+      ]
+    },
+    {
+      "name": "Dosso",
+      "lat": 13.1658009,
+      "lng": 3.3068075,
+      "districts": [
+        {
+          "name": "Boboye Department",
+          "lat": 13.08167,
+          "lng": 2.91083
+        },
+        {
+          "name": "Département de Dogondoutchi",
+          "lat": 13.5,
+          "lng": 4
+        },
+        {
+          "name": "Département de Dosso",
+          "lat": 12.83333,
+          "lng": 3.33333
+        },
+        {
+          "name": "Département de Gaya",
+          "lat": 11.9597,
+          "lng": 3.46045
+        },
+        {
+          "name": "Département de Loga",
+          "lat": 13.63333,
+          "lng": 3.5
+        },
+        {
+          "name": "Dogondoutchi",
+          "lat": 13.6403,
+          "lng": 4.02649
+        },
+        {
+          "name": "Dosso",
+          "lat": 13.049,
+          "lng": 3.1937
+        },
+        {
+          "name": "Gaya",
+          "lat": 11.88435,
+          "lng": 3.44919
+        }
+      ]
+    },
+    {
+      "name": "Maradi",
+      "lat": 14.224,
+      "lng": 7.4717877,
+      "districts": [
+        {
+          "name": "Maradi",
+          "lat": 13.5,
+          "lng": 7.10174
+        },
+        {
+          "name": "Aguié",
+          "lat": 13.50601,
+          "lng": 7.77863
+        },
+        {
+          "name": "Dakoro",
+          "lat": 14.51056,
+          "lng": 6.765
+        },
+        {
+          "name": "Département d’Aguié",
+          "lat": 13.46976,
+          "lng": 7.74219
+        },
+        {
+          "name": "Département de Dakoro",
+          "lat": 14.75,
+          "lng": 7
+        },
+        {
+          "name": "Département de Mayahi",
+          "lat": 14.1,
+          "lng": 7.6
+        },
+        {
+          "name": "Département de Tessaoua",
+          "lat": 13.6,
+          "lng": 7.9
+        },
+        {
+          "name": "Guidan Roumdji Department",
+          "lat": 13.6575,
+          "lng": 6.69583
+        },
+        {
+          "name": "Madarounfa",
+          "lat": 13.28253,
+          "lng": 7.15495
+        },
+        {
+          "name": "Mayahi",
+          "lat": 13.95532,
+          "lng": 7.67122
+        },
+        {
+          "name": "Tessaoua",
+          "lat": 13.75737,
+          "lng": 7.9874
+        },
+        {
+          "name": "Tibiri",
+          "lat": 13.56271,
+          "lng": 7.04848
+        }
+      ]
+    },
+    {
+      "name": "Niamey",
+      "lat": 13.51361111,
+      "lng": 2.10888889,
+      "districts": [
+        {
+          "name": "Niamey",
+          "lat": 13.51361111,
+          "lng": 2.10888889,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Tahoua",
+      "lat": 16.1576745,
+      "lng": 5.3282652,
+      "districts": [
+        {
+          "name": "Tahoua",
+          "lat": 14.8888,
+          "lng": 5.2692
+        },
+        {
+          "name": "Abalak",
+          "lat": 15.41618,
+          "lng": 6.16975
+        },
+        {
+          "name": "Birni N Konni",
+          "lat": 13.79599,
+          "lng": 5.25026
+        },
+        {
+          "name": "Bouza",
+          "lat": 14.42293,
+          "lng": 6.04278
+        },
+        {
+          "name": "Département d' Illéla",
+          "lat": 14.25,
+          "lng": 5
+        },
+        {
+          "name": "Département de Birni Nkonni",
+          "lat": 13.9,
+          "lng": 5.25
+        },
+        {
+          "name": "Département de Bouza",
+          "lat": 14.43333,
+          "lng": 6
+        },
+        {
+          "name": "Département de Keïta",
+          "lat": 14.8,
+          "lng": 6
+        },
+        {
+          "name": "Département de Madaoua",
+          "lat": 13.99988,
+          "lng": 6.10012
+        },
+        {
+          "name": "Département de Tahoua",
+          "lat": 14.8,
+          "lng": 4.8
+        },
+        {
+          "name": "Département de Tchin-Tabaraden",
+          "lat": 15.86694,
+          "lng": 5.71042
+        },
+        {
+          "name": "Illéla",
+          "lat": 14.4605,
+          "lng": 5.2437
+        },
+        {
+          "name": "Keïta",
+          "lat": 14.7551,
+          "lng": 5.7749
+        },
+        {
+          "name": "Madaoua",
+          "lat": 14.073,
+          "lng": 5.96
+        },
+        {
+          "name": "Tchintabaraden",
+          "lat": 15.8969,
+          "lng": 5.7985
+        }
+      ]
+    },
+    {
+      "name": "Tillabéri",
+      "lat": 13.7251068,
+      "lng": 1.6961456,
+      "districts": [
+        {
+          "name": "Kollo Department",
+          "lat": 13.576,
+          "lng": 2.452
+        },
+        {
+          "name": "Tera Department",
+          "lat": 14.186,
+          "lng": 0.843
+        },
+        {
+          "name": "Tillaberi Department",
+          "lat": 14.516,
+          "lng": 1.443
+        },
+        {
+          "name": "Ayorou",
+          "lat": 14.73075,
+          "lng": 0.91739
+        },
+        {
+          "name": "Balleyara",
+          "lat": 13.72848,
+          "lng": 2.87503
+        },
+        {
+          "name": "Département de Filingué",
+          "lat": 14.31645,
+          "lng": 3.23611
+        },
+        {
+          "name": "Département de Ouallam",
+          "lat": 14.63333,
+          "lng": 2.25
+        },
+        {
+          "name": "Département de Say",
+          "lat": 13.03579,
+          "lng": 2.22112
+        },
+        {
+          "name": "Filingué",
+          "lat": 14.3521,
+          "lng": 3.3168
+        },
+        {
+          "name": "Kollo",
+          "lat": 13.3043,
+          "lng": 2.339
+        },
+        {
+          "name": "Ouallam",
+          "lat": 14.31641,
+          "lng": 2.08597
+        },
+        {
+          "name": "Say",
+          "lat": 13.1007,
+          "lng": 2.3689
+        },
+        {
+          "name": "Téra",
+          "lat": 14.00776,
+          "lng": 0.75306
+        },
+        {
+          "name": "Tillabéri",
+          "lat": 14.20711,
+          "lng": 1.45418
+        }
+      ]
+    },
+    {
+      "name": "Zinder",
+      "lat": 15.1787,
+      "lng": 9.7074108,
+      "districts": [
+        {
+          "name": "Zinder",
+          "lat": 13.80716,
+          "lng": 8.9881
+        },
+        {
+          "name": "Département de Gouré",
+          "lat": 14.01618,
+          "lng": 10.14722
+        },
+        {
+          "name": "Département de Kantché",
+          "lat": 13.4,
+          "lng": 8.6
+        },
+        {
+          "name": "Département de Tânout",
+          "lat": 14.75,
+          "lng": 8.33333
+        },
+        {
+          "name": "Gouré",
+          "lat": 13.9835,
+          "lng": 10.27035
+        },
+        {
+          "name": "Magaria",
+          "lat": 12.99826,
+          "lng": 8.90991
+        },
+        {
+          "name": "Matamey",
+          "lat": 13.42309,
+          "lng": 8.47485
+        },
+        {
+          "name": "Mirriah",
+          "lat": 13.70727,
+          "lng": 9.15013
+        },
+        {
+          "name": "Tanout",
+          "lat": 14.97089,
+          "lng": 8.88786
+        }
+      ]
+    }
+  ]
+}

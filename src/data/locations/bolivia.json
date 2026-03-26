@@ -1,0 +1,1211 @@
+{
+  "name": "Bolivia",
+  "lat": -17,
+  "lng": -65,
+  "cities": [
+    {
+      "name": "Beni",
+      "lat": -14,
+      "lng": -65,
+      "districts": [
+        {
+          "name": "Provincia Cercado",
+          "lat": -14.5,
+          "lng": -64.33333
+        },
+        {
+          "name": "Provincia Vaca Diez",
+          "lat": -11.66667,
+          "lng": -66
+        },
+        {
+          "name": "Guayaramerín",
+          "lat": -10.8258,
+          "lng": -65.3581
+        },
+        {
+          "name": "Provincia General José Ballivián",
+          "lat": -14,
+          "lng": -67.08333
+        },
+        {
+          "name": "Provincia Iténez",
+          "lat": -13.41667,
+          "lng": -63.5
+        },
+        {
+          "name": "Provincia Mamoré",
+          "lat": -13,
+          "lng": -64.91667
+        },
+        {
+          "name": "Provincia Marbán",
+          "lat": -15.66667,
+          "lng": -64.33333
+        },
+        {
+          "name": "Provincia Moxos",
+          "lat": -15.16667,
+          "lng": -65.5
+        },
+        {
+          "name": "Provincia Yacuma",
+          "lat": -13.5,
+          "lng": -66
+        },
+        {
+          "name": "Reyes",
+          "lat": -14.2952,
+          "lng": -67.33624
+        },
+        {
+          "name": "Riberalta",
+          "lat": -11.00654,
+          "lng": -66.06312
+        },
+        {
+          "name": "Rurrenabaque",
+          "lat": -14.44125,
+          "lng": -67.52781
+        },
+        {
+          "name": "San Borja",
+          "lat": -14.81667,
+          "lng": -66.85
+        },
+        {
+          "name": "San Ramón",
+          "lat": -13.28333,
+          "lng": -64.71667
+        },
+        {
+          "name": "Santa Ana de Yacuma",
+          "lat": -13.74406,
+          "lng": -65.42688
+        },
+        {
+          "name": "Santa Rosa",
+          "lat": -14.16667,
+          "lng": -66.88333
+        },
+        {
+          "name": "Trinidad",
+          "lat": -14.83333,
+          "lng": -64.9
+        }
+      ]
+    },
+    {
+      "name": "Chuquisaca",
+      "lat": -20,
+      "lng": -64.416667,
+      "districts": [
+        {
+          "name": "Provincia Oropeza",
+          "lat": -18.66667,
+          "lng": -65.16667
+        },
+        {
+          "name": "Sucre",
+          "lat": -19.03332,
+          "lng": -65.26274,
+          "iscapital": true
+        },
+        {
+          "name": "Camargo",
+          "lat": -20.64064,
+          "lng": -65.20893
+        },
+        {
+          "name": "Monteagudo",
+          "lat": -19.79989,
+          "lng": -63.95461
+        },
+        {
+          "name": "Padilla",
+          "lat": -19.30878,
+          "lng": -64.30273
+        },
+        {
+          "name": "Provincia Azurduy",
+          "lat": -20,
+          "lng": -64.5
+        },
+        {
+          "name": "Provincia Belisario Boeto",
+          "lat": -18.91667,
+          "lng": -64.33333
+        },
+        {
+          "name": "Provincia Hernando Siles",
+          "lat": -20.16667,
+          "lng": -64.25
+        },
+        {
+          "name": "Provincia Luis Calvo",
+          "lat": -20.66667,
+          "lng": -63.5
+        },
+        {
+          "name": "Provincia Nor Cinti",
+          "lat": -20.33333,
+          "lng": -65
+        },
+        {
+          "name": "Provincia Sud Cinti",
+          "lat": -20.91667,
+          "lng": -64.91667
+        },
+        {
+          "name": "Provincia Tomina",
+          "lat": -19.5,
+          "lng": -64.16667
+        },
+        {
+          "name": "Provincia Yamparáez",
+          "lat": -19.16667,
+          "lng": -64.91667
+        },
+        {
+          "name": "Provincia Zudáñez",
+          "lat": -18.91667,
+          "lng": -64.83333
+        },
+        {
+          "name": "Tarabuco",
+          "lat": -19.18168,
+          "lng": -64.91517
+        }
+      ]
+    },
+    {
+      "name": "Cochabamba",
+      "lat": -17.3330142,
+      "lng": -65.5010931,
+      "districts": [
+        {
+          "name": "Cochabamba",
+          "lat": -17.3895,
+          "lng": -66.1568
+        },
+        {
+          "name": "Provincia Cercado",
+          "lat": -17.33333,
+          "lng": -66.16667
+        },
+        {
+          "name": "Provincia Chaparé",
+          "lat": -16.5,
+          "lng": -65.5
+        },
+        {
+          "name": "Provincia Quillacollo",
+          "lat": -17.5,
+          "lng": -66.5
+        },
+        {
+          "name": "Quillacollo",
+          "lat": -17.39228,
+          "lng": -66.27838
+        },
+        {
+          "name": "Sacaba",
+          "lat": -17.39799,
+          "lng": -66.03825
+        },
+        {
+          "name": "Aiquile",
+          "lat": -18.20408,
+          "lng": -65.18068
+        },
+        {
+          "name": "Arani",
+          "lat": -17.56854,
+          "lng": -65.76883
+        },
+        {
+          "name": "Bolivar",
+          "lat": -17.96667,
+          "lng": -66.53333
+        },
+        {
+          "name": "Capinota",
+          "lat": -17.71113,
+          "lng": -66.26082
+        },
+        {
+          "name": "Chimoré",
+          "lat": -16.99417,
+          "lng": -65.1533
+        },
+        {
+          "name": "Cliza",
+          "lat": -17.58777,
+          "lng": -65.93253
+        },
+        {
+          "name": "Colchani",
+          "lat": -17.31667,
+          "lng": -66.71667
+        },
+        {
+          "name": "Colomi",
+          "lat": -17.35,
+          "lng": -65.86667
+        },
+        {
+          "name": "Independencia",
+          "lat": -17.08389,
+          "lng": -66.81804
+        },
+        {
+          "name": "Irpa Irpa",
+          "lat": -17.71667,
+          "lng": -66.26667
+        },
+        {
+          "name": "Mizque",
+          "lat": -17.94101,
+          "lng": -65.34016
+        },
+        {
+          "name": "Provincia Arani",
+          "lat": -17.5,
+          "lng": -65.5
+        },
+        {
+          "name": "Provincia Arque",
+          "lat": -17.75,
+          "lng": -66.66667
+        },
+        {
+          "name": "Provincia Ayopaya",
+          "lat": -16.5,
+          "lng": -66.58333
+        },
+        {
+          "name": "Provincia Campero",
+          "lat": -18.33333,
+          "lng": -65
+        },
+        {
+          "name": "Provincia Capinota",
+          "lat": -17.83333,
+          "lng": -66.16667
+        },
+        {
+          "name": "Provincia Carrasco",
+          "lat": -17.5,
+          "lng": -65
+        },
+        {
+          "name": "Provincia Esteban Arce",
+          "lat": -17.66667,
+          "lng": -66
+        },
+        {
+          "name": "Provincia Germán Jordán",
+          "lat": -17.58333,
+          "lng": -65.91667
+        },
+        {
+          "name": "Provincia Mizque",
+          "lat": -17.90655,
+          "lng": -65.3944
+        },
+        {
+          "name": "Provincia Punata",
+          "lat": -17.5,
+          "lng": -65.91667
+        },
+        {
+          "name": "Provincia Tapacarí",
+          "lat": -17.51146,
+          "lng": -66.61965
+        },
+        {
+          "name": "Punata",
+          "lat": -17.54234,
+          "lng": -65.83472
+        },
+        {
+          "name": "Sipe Sipe",
+          "lat": -17.45,
+          "lng": -66.38333
+        },
+        {
+          "name": "Tarata",
+          "lat": -17.60898,
+          "lng": -66.02135
+        },
+        {
+          "name": "Tiquipaya",
+          "lat": -17.33801,
+          "lng": -66.21579
+        },
+        {
+          "name": "Tiraque",
+          "lat": -17.33333,
+          "lng": -65.91667
+        },
+        {
+          "name": "Totora",
+          "lat": -17.72662,
+          "lng": -65.1932
+        }
+      ]
+    },
+    {
+      "name": "La Paz",
+      "lat": -15,
+      "lng": -68.333333,
+      "districts": [
+        {
+          "name": "La Paz",
+          "lat": -16.5,
+          "lng": -68.15
+        },
+        {
+          "name": "Provincia Ingavi",
+          "lat": -16.83333,
+          "lng": -68.66667
+        },
+        {
+          "name": "Provincia Murillo",
+          "lat": -16.33333,
+          "lng": -68
+        },
+        {
+          "name": "Provincia Sud Yungas",
+          "lat": -16.5,
+          "lng": -67.5
+        },
+        {
+          "name": "Achacachi",
+          "lat": -16.05,
+          "lng": -68.68333
+        },
+        {
+          "name": "Amarete",
+          "lat": -15.23675,
+          "lng": -68.98462
+        },
+        {
+          "name": "Batallas",
+          "lat": -16.3,
+          "lng": -68.53333
+        },
+        {
+          "name": "Caranavi",
+          "lat": -15.83652,
+          "lng": -67.56901
+        },
+        {
+          "name": "Chulumani",
+          "lat": -16.40855,
+          "lng": -67.5294
+        },
+        {
+          "name": "Colquiri",
+          "lat": -17.38918,
+          "lng": -67.12671
+        },
+        {
+          "name": "Coripata",
+          "lat": -16.3,
+          "lng": -67.6
+        },
+        {
+          "name": "Coroico",
+          "lat": -16.19386,
+          "lng": -67.72998
+        },
+        {
+          "name": "Curahuara de Carangas",
+          "lat": -17.86667,
+          "lng": -68.43333
+        },
+        {
+          "name": "Eucaliptus",
+          "lat": -17.58333,
+          "lng": -67.51667
+        },
+        {
+          "name": "Guanay",
+          "lat": -15.49756,
+          "lng": -67.88332
+        },
+        {
+          "name": "Huarina",
+          "lat": -16.2,
+          "lng": -68.63333
+        },
+        {
+          "name": "Huatajata",
+          "lat": -16.2,
+          "lng": -68.68333
+        },
+        {
+          "name": "José Manuel Pando",
+          "lat": -16.1897,
+          "lng": -67.72664
+        },
+        {
+          "name": "Lahuachaca",
+          "lat": -17.37054,
+          "lng": -67.67501
+        },
+        {
+          "name": "Mapiri",
+          "lat": -15.25,
+          "lng": -68.16667
+        },
+        {
+          "name": "Patacamaya",
+          "lat": -17.2358,
+          "lng": -67.92169
+        },
+        {
+          "name": "Provincia Aroma",
+          "lat": -17.5,
+          "lng": -68
+        },
+        {
+          "name": "Provincia Bautista Saavedra",
+          "lat": -15,
+          "lng": -68.91667
+        },
+        {
+          "name": "Provincia Camacho",
+          "lat": -15.5,
+          "lng": -69
+        },
+        {
+          "name": "Provincia Franz Tamayo",
+          "lat": -14.5,
+          "lng": -68.33333
+        },
+        {
+          "name": "Provincia Gualberto Villarroel",
+          "lat": -17.58333,
+          "lng": -68
+        },
+        {
+          "name": "Provincia Inquisivi",
+          "lat": -17,
+          "lng": -67.08333
+        },
+        {
+          "name": "Provincia Iturralde",
+          "lat": -13,
+          "lng": -68
+        },
+        {
+          "name": "Provincia Larecaja",
+          "lat": -15.5,
+          "lng": -68.33333
+        },
+        {
+          "name": "Provincia Loayza",
+          "lat": -17,
+          "lng": -67.66667
+        },
+        {
+          "name": "Provincia Los Andes",
+          "lat": -16.33333,
+          "lng": -68.5
+        },
+        {
+          "name": "Provincia Manco Kapac",
+          "lat": -16,
+          "lng": -69.16667
+        },
+        {
+          "name": "Provincia Muñecas",
+          "lat": -15.33333,
+          "lng": -68.66667
+        },
+        {
+          "name": "Provincia Nor Yungas",
+          "lat": -16,
+          "lng": -67.5
+        },
+        {
+          "name": "Provincia Omasuyos",
+          "lat": -15.91667,
+          "lng": -68.83333
+        },
+        {
+          "name": "Provincia Pacajes",
+          "lat": -17.5,
+          "lng": -69
+        },
+        {
+          "name": "Quime",
+          "lat": -16.98333,
+          "lng": -67.21667
+        },
+        {
+          "name": "San Pablo",
+          "lat": -16.21667,
+          "lng": -68.83333
+        },
+        {
+          "name": "San Pedro",
+          "lat": -16.23717,
+          "lng": -68.85063
+        },
+        {
+          "name": "Sorata",
+          "lat": -15.77305,
+          "lng": -68.64973
+        },
+        {
+          "name": "Tiahuanaco",
+          "lat": -16.55228,
+          "lng": -68.67953
+        },
+        {
+          "name": "Viloco",
+          "lat": -16.95,
+          "lng": -67.55
+        },
+        {
+          "name": "Yumani",
+          "lat": -16.03574,
+          "lng": -69.14843
+        }
+      ]
+    },
+    {
+      "name": "Oruro",
+      "lat": -18.666667,
+      "lng": -67.666667,
+      "districts": [
+        {
+          "name": "Oruro",
+          "lat": -17.98333,
+          "lng": -67.15
+        },
+        {
+          "name": "Provincia Cercado",
+          "lat": -17.91667,
+          "lng": -67.08333
+        },
+        {
+          "name": "Challapata",
+          "lat": -18.90208,
+          "lng": -66.77048
+        },
+        {
+          "name": "Huanuni",
+          "lat": -18.289,
+          "lng": -66.83583
+        },
+        {
+          "name": "Litoral de Atacama",
+          "lat": -18.76071,
+          "lng": -68.24295
+        },
+        {
+          "name": "Machacamarca",
+          "lat": -18.17251,
+          "lng": -67.02099
+        },
+        {
+          "name": "Nor Carangas",
+          "lat": -17.8375,
+          "lng": -67.9433
+        },
+        {
+          "name": "Poopó",
+          "lat": -18.38026,
+          "lng": -66.96695
+        },
+        {
+          "name": "Provincia Avaroa",
+          "lat": -19,
+          "lng": -66.66667
+        },
+        {
+          "name": "Provincia Carangas",
+          "lat": -18.33333,
+          "lng": -67.75
+        },
+        {
+          "name": "Provincia Ladislao Cabrera",
+          "lat": -19.5,
+          "lng": -67.66667
+        },
+        {
+          "name": "Provincia Pantaleón Dalence",
+          "lat": -18.33333,
+          "lng": -66.91667
+        },
+        {
+          "name": "Provincia Poopó",
+          "lat": -18.5,
+          "lng": -66.91667
+        },
+        {
+          "name": "Provincia Sabaya",
+          "lat": -19,
+          "lng": -68.58333
+        },
+        {
+          "name": "Provincia Sajama",
+          "lat": -18.2,
+          "lng": -68.55
+        },
+        {
+          "name": "Provincia San Pedro de Totora",
+          "lat": -17.83333,
+          "lng": -68.2
+        },
+        {
+          "name": "Provincia Saucari",
+          "lat": -18.25,
+          "lng": -67.41667
+        },
+        {
+          "name": "Provincia Tomás Barron",
+          "lat": -17.83333,
+          "lng": -68.25
+        },
+        {
+          "name": "Puerto de Mejillones",
+          "lat": -18.99266,
+          "lng": -68.68446
+        },
+        {
+          "name": "Sebastian Pagador",
+          "lat": -19.21667,
+          "lng": -66.21667
+        },
+        {
+          "name": "Sud Carangas",
+          "lat": -18.5,
+          "lng": -68.25
+        },
+        {
+          "name": "Totoral",
+          "lat": -18.49587,
+          "lng": -66.8738
+        }
+      ]
+    },
+    {
+      "name": "Pando",
+      "lat": -11.183333,
+      "lng": -67.183333,
+      "districts": [
+        {
+          "name": "Cobija",
+          "lat": -11.02671,
+          "lng": -68.76918
+        },
+        {
+          "name": "Provincia Abuná",
+          "lat": -10.5,
+          "lng": -66.5
+        },
+        {
+          "name": "Provincia General Federico Román",
+          "lat": -10.33333,
+          "lng": -65.88333
+        },
+        {
+          "name": "Provincia Madre de Dios",
+          "lat": -11.58333,
+          "lng": -67
+        },
+        {
+          "name": "Provincia Manuripi",
+          "lat": -11.33333,
+          "lng": -67.5
+        },
+        {
+          "name": "Provincia Nicolás Suárez",
+          "lat": -11.33333,
+          "lng": -68.5
+        }
+      ]
+    },
+    {
+      "name": "Potosí",
+      "lat": -20.666667,
+      "lng": -66.666667,
+      "districts": [
+        {
+          "name": "Potosí",
+          "lat": -19.58361,
+          "lng": -65.75306
+        },
+        {
+          "name": "Provincia Tomás Frías",
+          "lat": -19.33333,
+          "lng": -66
+        },
+        {
+          "name": "Atocha",
+          "lat": -20.93515,
+          "lng": -66.22139
+        },
+        {
+          "name": "Betanzos",
+          "lat": -19.55293,
+          "lng": -65.45395
+        },
+        {
+          "name": "Colchani",
+          "lat": -20.3,
+          "lng": -66.93333
+        },
+        {
+          "name": "Colquechaca",
+          "lat": -18.70031,
+          "lng": -66.00397
+        },
+        {
+          "name": "Enrique Baldivieso",
+          "lat": -21.38323,
+          "lng": -67.60368
+        },
+        {
+          "name": "Llallagua",
+          "lat": -18.42426,
+          "lng": -66.58388
+        },
+        {
+          "name": "Provincia Alonzo de Ibáñez",
+          "lat": -18.5,
+          "lng": -66.33333
+        },
+        {
+          "name": "Provincia Charcas",
+          "lat": -18.33333,
+          "lng": -65.83333
+        },
+        {
+          "name": "Provincia Chayanta",
+          "lat": -18.91667,
+          "lng": -66
+        },
+        {
+          "name": "Provincia Daniel Campos",
+          "lat": -20.25,
+          "lng": -68.25
+        },
+        {
+          "name": "Provincia General Bilbao",
+          "lat": -18.08333,
+          "lng": -66
+        },
+        {
+          "name": "Provincia Linares",
+          "lat": -19.83333,
+          "lng": -65.5
+        },
+        {
+          "name": "Provincia Modesto Omiste",
+          "lat": -21.91667,
+          "lng": -65.58333
+        },
+        {
+          "name": "Provincia Nor Chichas",
+          "lat": -20.66667,
+          "lng": -66
+        },
+        {
+          "name": "Provincia Nor Lípez",
+          "lat": -20.5,
+          "lng": -67.83333
+        },
+        {
+          "name": "Provincia Quijarro",
+          "lat": -20,
+          "lng": -66.33333
+        },
+        {
+          "name": "Provincia Rafael Bustillo",
+          "lat": -18.33333,
+          "lng": -66.5
+        },
+        {
+          "name": "Provincia Saavedra",
+          "lat": -19.25,
+          "lng": -65.5
+        },
+        {
+          "name": "Provincia Sud Chichas",
+          "lat": -21.5,
+          "lng": -66
+        },
+        {
+          "name": "Provincia Sud Lípez",
+          "lat": -22,
+          "lng": -67.5
+        },
+        {
+          "name": "Santa Bárbara",
+          "lat": -20.91667,
+          "lng": -66.05
+        },
+        {
+          "name": "Tupiza",
+          "lat": -21.44345,
+          "lng": -65.71875
+        },
+        {
+          "name": "Uyuni",
+          "lat": -20.45967,
+          "lng": -66.82503
+        },
+        {
+          "name": "Villazón",
+          "lat": -22.08659,
+          "lng": -65.59422
+        }
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "lat": -17.333333,
+      "lng": -61.5,
+      "districts": [
+        {
+          "name": "Provincia Andrés Ibáñez",
+          "lat": -17.75,
+          "lng": -63.25
+        },
+        {
+          "name": "Provincia Cordillera",
+          "lat": -19,
+          "lng": -61.5
+        },
+        {
+          "name": "Provincia Warnes",
+          "lat": -17.33333,
+          "lng": -63
+        },
+        {
+          "name": "Santa Cruz de la Sierra",
+          "lat": -17.78629,
+          "lng": -63.18117
+        },
+        {
+          "name": "Abapó",
+          "lat": -18.88279,
+          "lng": -63.38026
+        },
+        {
+          "name": "Ascención de Guarayos",
+          "lat": -15.89299,
+          "lng": -63.18855
+        },
+        {
+          "name": "Ascensión",
+          "lat": -15.7,
+          "lng": -63.08333
+        },
+        {
+          "name": "Boyuibe",
+          "lat": -20.43227,
+          "lng": -63.28147
+        },
+        {
+          "name": "Buena Vista",
+          "lat": -17.4583,
+          "lng": -63.67126
+        },
+        {
+          "name": "Camiri",
+          "lat": -20.03849,
+          "lng": -63.51833
+        },
+        {
+          "name": "Charagua",
+          "lat": -19.79151,
+          "lng": -63.19864
+        },
+        {
+          "name": "Comarapa",
+          "lat": -17.91537,
+          "lng": -64.53163
+        },
+        {
+          "name": "Concepción",
+          "lat": -16.43333,
+          "lng": -60.9
+        },
+        {
+          "name": "Cotoca",
+          "lat": -17.81667,
+          "lng": -63.05
+        },
+        {
+          "name": "German Busch",
+          "lat": -17.77317,
+          "lng": -63.19087
+        },
+        {
+          "name": "Guarayos",
+          "lat": -15.82132,
+          "lng": -63.2428
+        },
+        {
+          "name": "Jorochito",
+          "lat": -18.05514,
+          "lng": -63.42821
+        },
+        {
+          "name": "La Bélgica",
+          "lat": -17.55,
+          "lng": -63.21667
+        },
+        {
+          "name": "Limoncito",
+          "lat": -18.03104,
+          "lng": -63.40523
+        },
+        {
+          "name": "Los Negros",
+          "lat": -17.73333,
+          "lng": -63.43333
+        },
+        {
+          "name": "Mairana",
+          "lat": -18.11919,
+          "lng": -63.95965
+        },
+        {
+          "name": "Mineros",
+          "lat": -17.11876,
+          "lng": -63.231
+        },
+        {
+          "name": "Montero",
+          "lat": -17.33866,
+          "lng": -63.2505
+        },
+        {
+          "name": "Okinawa Número Uno",
+          "lat": -17.23333,
+          "lng": -62.81667
+        },
+        {
+          "name": "Pailón",
+          "lat": -17.65,
+          "lng": -62.75
+        },
+        {
+          "name": "Paurito",
+          "lat": -17.88333,
+          "lng": -62.96667
+        },
+        {
+          "name": "Portachuelo",
+          "lat": -17.35168,
+          "lng": -63.39282
+        },
+        {
+          "name": "Provincia Ángel Sandoval",
+          "lat": -17.5,
+          "lng": -58.5
+        },
+        {
+          "name": "Provincia Chiquitos",
+          "lat": -18,
+          "lng": -60
+        },
+        {
+          "name": "Provincia Florida",
+          "lat": -18,
+          "lng": -63.91667
+        },
+        {
+          "name": "Provincia Ichilo",
+          "lat": -17,
+          "lng": -64
+        },
+        {
+          "name": "Provincia Manuel María Caballero",
+          "lat": -17.83333,
+          "lng": -64.41667
+        },
+        {
+          "name": "Provincia Ñuflo de Chávez",
+          "lat": -15.91667,
+          "lng": -62.5
+        },
+        {
+          "name": "Provincia Santiesteban",
+          "lat": -16.5,
+          "lng": -63.5
+        },
+        {
+          "name": "Provincia Sara",
+          "lat": -16.83333,
+          "lng": -63.91667
+        },
+        {
+          "name": "Provincia Vallegrande",
+          "lat": -18.5,
+          "lng": -64.16667
+        },
+        {
+          "name": "Provincia Velasco",
+          "lat": -15.5,
+          "lng": -61
+        },
+        {
+          "name": "Puerto Quijarro",
+          "lat": -17.78333,
+          "lng": -57.76667
+        },
+        {
+          "name": "Puesto de Pailas",
+          "lat": -17.65,
+          "lng": -62.8
+        },
+        {
+          "name": "Roboré",
+          "lat": -18.33473,
+          "lng": -59.76142
+        },
+        {
+          "name": "Samaipata",
+          "lat": -18.18005,
+          "lng": -63.87552
+        },
+        {
+          "name": "San Carlos",
+          "lat": -17.4,
+          "lng": -63.75
+        },
+        {
+          "name": "San Ignacio de Velasco",
+          "lat": -16.36667,
+          "lng": -60.95
+        },
+        {
+          "name": "San Juan del Surutú",
+          "lat": -17.48333,
+          "lng": -63.7
+        },
+        {
+          "name": "San Julian",
+          "lat": -17.78333,
+          "lng": -62.86667
+        },
+        {
+          "name": "San Matías",
+          "lat": -16.36667,
+          "lng": -58.4
+        },
+        {
+          "name": "San Pedro",
+          "lat": -18.28333,
+          "lng": -59.81667
+        },
+        {
+          "name": "Santa Rita",
+          "lat": -17.96667,
+          "lng": -63.35
+        },
+        {
+          "name": "Santa Rosa del Sara",
+          "lat": -17.10916,
+          "lng": -63.59514
+        },
+        {
+          "name": "Santiago del Torno",
+          "lat": -17.98674,
+          "lng": -63.38118
+        },
+        {
+          "name": "Urubichá",
+          "lat": -15.39286,
+          "lng": -62.94661
+        },
+        {
+          "name": "Vallegrande",
+          "lat": -18.48923,
+          "lng": -64.10609
+        },
+        {
+          "name": "Villa Yapacaní",
+          "lat": -17.4,
+          "lng": -63.83333
+        },
+        {
+          "name": "Warnes",
+          "lat": -17.5163,
+          "lng": -63.16778
+        }
+      ]
+    },
+    {
+      "name": "Tarija",
+      "lat": -21.583333,
+      "lng": -63.833333,
+      "districts": [
+        {
+          "name": "Provincia Cercado",
+          "lat": -21.58333,
+          "lng": -64.58333
+        },
+        {
+          "name": "Provincia Gran Chaco",
+          "lat": -21.66667,
+          "lng": -63
+        },
+        {
+          "name": "Tarija",
+          "lat": -21.53549,
+          "lng": -64.72956
+        },
+        {
+          "name": "Bermejo",
+          "lat": -22.73206,
+          "lng": -64.33724
+        },
+        {
+          "name": "Entre Ríos",
+          "lat": -21.52661,
+          "lng": -64.17299
+        },
+        {
+          "name": "Provincia Arce",
+          "lat": -22.16667,
+          "lng": -64.33333
+        },
+        {
+          "name": "Provincia Avilez",
+          "lat": -21.66667,
+          "lng": -65
+        },
+        {
+          "name": "Provincia Méndez",
+          "lat": -21.16667,
+          "lng": -64.91667
+        },
+        {
+          "name": "Provincia O’Connor",
+          "lat": -21.58333,
+          "lng": -64.16667
+        },
+        {
+          "name": "Villamontes",
+          "lat": -21.26235,
+          "lng": -63.46903
+        },
+        {
+          "name": "Yacuiba",
+          "lat": -22.01643,
+          "lng": -63.67753
+        }
+      ]
+    }
+  ]
+}

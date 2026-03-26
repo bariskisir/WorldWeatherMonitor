@@ -1,0 +1,580 @@
+{
+  "name": "Ivory Coast",
+  "lat": 8,
+  "lng": -5,
+  "cities": [
+    {
+      "name": "Abidjan",
+      "lat": 5.3599517,
+      "lng": -4.0082563,
+      "districts": [
+        {
+          "name": "Abidjan",
+          "lat": 5.30966,
+          "lng": -4.01266
+        },
+        {
+          "name": "Abobo",
+          "lat": 5.41613,
+          "lng": -4.0159
+        },
+        {
+          "name": "Anyama",
+          "lat": 5.49462,
+          "lng": -4.05183
+        },
+        {
+          "name": "Bingerville",
+          "lat": 5.35581,
+          "lng": -3.88537
+        }
+      ]
+    },
+    {
+      "name": "Bas-Sassandra",
+      "lat": 5.2798356,
+      "lng": -6.1526985,
+      "districts": [
+        {
+          "name": "San-Pédro",
+          "lat": 4.76768,
+          "lng": -6.65033
+        },
+        {
+          "name": "Gbôklé",
+          "lat": 4.95712,
+          "lng": -6.09372
+        },
+        {
+          "name": "Nawa",
+          "lat": 5.80112,
+          "lng": -6.60313
+        },
+        {
+          "name": "Sassandra",
+          "lat": 4.95384,
+          "lng": -6.08531
+        },
+        {
+          "name": "Tabou",
+          "lat": 4.42295,
+          "lng": -7.3528
+        }
+      ]
+    },
+    {
+      "name": "Comoé",
+      "lat": 6.2219079,
+      "lng": -4.6072799,
+      "districts": [
+        {
+          "name": "Abengourou",
+          "lat": 6.72972,
+          "lng": -3.49639
+        },
+        {
+          "name": "Indénié-Djuablin",
+          "lat": 6.74434,
+          "lng": -3.494
+        },
+        {
+          "name": "Aboisso",
+          "lat": 5.46779,
+          "lng": -3.20711
+        },
+        {
+          "name": "Adiaké",
+          "lat": 5.28634,
+          "lng": -3.30403
+        },
+        {
+          "name": "Agnibilékrou",
+          "lat": 7.13113,
+          "lng": -3.20415
+        },
+        {
+          "name": "Ayamé",
+          "lat": 5.6052,
+          "lng": -3.15709
+        },
+        {
+          "name": "Bonoua",
+          "lat": 5.27247,
+          "lng": -3.59625
+        },
+        {
+          "name": "Grand-Bassam",
+          "lat": 5.2118,
+          "lng": -3.73884
+        },
+        {
+          "name": "Sud-Comoé",
+          "lat": 5.49961,
+          "lng": -3.2408
+        }
+      ]
+    },
+    {
+      "name": "Denguélé",
+      "lat": 48.0707763,
+      "lng": -68.5609341,
+      "districts": [
+        {
+          "name": "Folon",
+          "lat": 9.81241,
+          "lng": -7.51894
+        },
+        {
+          "name": "Kabadougou",
+          "lat": 9.60571,
+          "lng": -7.43774
+        },
+        {
+          "name": "Odienné",
+          "lat": 9.50511,
+          "lng": -7.56433
+        }
+      ]
+    },
+    {
+      "name": "Gôh-Djiboua",
+      "lat": 5.8711393,
+      "lng": -5.5617279,
+      "districts": [
+        {
+          "name": "Divo",
+          "lat": 5.83739,
+          "lng": -5.35723
+        },
+        {
+          "name": "Gagnoa",
+          "lat": 6.13193,
+          "lng": -5.9506
+        },
+        {
+          "name": "Gôh",
+          "lat": 6.14459,
+          "lng": -5.92644
+        },
+        {
+          "name": "Guibéroua",
+          "lat": 6.23869,
+          "lng": -6.17147
+        },
+        {
+          "name": "Lakota",
+          "lat": 5.84752,
+          "lng": -5.682
+        },
+        {
+          "name": "Lôh-Djiboua",
+          "lat": 5.82483,
+          "lng": -5.47668
+        },
+        {
+          "name": "Oumé",
+          "lat": 6.38309,
+          "lng": -5.41759
+        }
+      ]
+    },
+    {
+      "name": "Lacs",
+      "lat": 48.1980169,
+      "lng": -80.4564412,
+      "districts": [
+        {
+          "name": "Daoukro",
+          "lat": 7.0591,
+          "lng": -3.9631
+        },
+        {
+          "name": "Yamoussoukro",
+          "lat": 6.82055,
+          "lng": -5.27674,
+          "iscapital": true
+        },
+        {
+          "name": "Arrah",
+          "lat": 6.67342,
+          "lng": -3.96938
+        },
+        {
+          "name": "Bélier",
+          "lat": 7.02582,
+          "lng": -5.06744
+        },
+        {
+          "name": "Bocanda",
+          "lat": 7.06264,
+          "lng": -4.49948
+        },
+        {
+          "name": "Bongouanou",
+          "lat": 6.65175,
+          "lng": -4.20406
+        },
+        {
+          "name": "Dimbokro",
+          "lat": 6.64678,
+          "lng": -4.70519
+        },
+        {
+          "name": "Iffou",
+          "lat": 7.11509,
+          "lng": -3.95027
+        },
+        {
+          "name": "Moronou",
+          "lat": 6.6683,
+          "lng": -4.13155
+        },
+        {
+          "name": "N'Zi",
+          "lat": 6.82803,
+          "lng": -4.5813
+        },
+        {
+          "name": "Toumodi",
+          "lat": 6.55799,
+          "lng": -5.01769
+        }
+      ]
+    },
+    {
+      "name": "Lagunes",
+      "lat": 5.8827334,
+      "lng": -4.2333355,
+      "districts": [
+        {
+          "name": "Dabou",
+          "lat": 5.32556,
+          "lng": -4.37685
+        },
+        {
+          "name": "Adzopé",
+          "lat": 6.10694,
+          "lng": -3.86194
+        },
+        {
+          "name": "Affery",
+          "lat": 6.32035,
+          "lng": -3.95235
+        },
+        {
+          "name": "Agboville",
+          "lat": 5.92801,
+          "lng": -4.21319
+        },
+        {
+          "name": "Agnéby-Tiassa",
+          "lat": 5.79488,
+          "lng": -4.37187
+        },
+        {
+          "name": "Akoupé",
+          "lat": 6.38423,
+          "lng": -3.88759
+        },
+        {
+          "name": "Grand-Lahou",
+          "lat": 5.25068,
+          "lng": -5.00333
+        },
+        {
+          "name": "Grands-Ponts",
+          "lat": 5.30487,
+          "lng": -4.39247
+        },
+        {
+          "name": "Tiassalé",
+          "lat": 5.89839,
+          "lng": -4.82293
+        }
+      ]
+    },
+    {
+      "name": "Montagnes",
+      "lat": 6.8871664,
+      "lng": -9.1070644,
+      "districts": [
+        {
+          "name": "Duekoué",
+          "lat": 6.74202,
+          "lng": -7.34918
+        },
+        {
+          "name": "Man",
+          "lat": 7.41251,
+          "lng": -7.55383
+        },
+        {
+          "name": "Bangolo",
+          "lat": 7.01232,
+          "lng": -7.48639
+        },
+        {
+          "name": "Biankouma",
+          "lat": 7.73909,
+          "lng": -7.61377
+        },
+        {
+          "name": "Cavally",
+          "lat": 6.56343,
+          "lng": -7.92526
+        },
+        {
+          "name": "Danané",
+          "lat": 7.25957,
+          "lng": -8.15498
+        },
+        {
+          "name": "Guémon",
+          "lat": 7.093,
+          "lng": -7.17785
+        },
+        {
+          "name": "Guiglo",
+          "lat": 6.54368,
+          "lng": -7.4935
+        },
+        {
+          "name": "Tonkpi",
+          "lat": 7.56785,
+          "lng": -7.60941
+        },
+        {
+          "name": "Toulépleu Gueré",
+          "lat": 6.57395,
+          "lng": -8.42592
+        }
+      ]
+    },
+    {
+      "name": "Sassandra-Marahoué",
+      "lat": 6.8803348,
+      "lng": -6.2375947,
+      "districts": [
+        {
+          "name": "Bouaflé",
+          "lat": 6.99041,
+          "lng": -5.7442
+        },
+        {
+          "name": "Daloa",
+          "lat": 6.87735,
+          "lng": -6.45022
+        },
+        {
+          "name": "Haut-Sassandra",
+          "lat": 6.66961,
+          "lng": -6.50116
+        },
+        {
+          "name": "Issia",
+          "lat": 6.49224,
+          "lng": -6.58558
+        },
+        {
+          "name": "Marahoué",
+          "lat": 7.03252,
+          "lng": -5.80215
+        },
+        {
+          "name": "Vavoua",
+          "lat": 7.38194,
+          "lng": -6.47778
+        },
+        {
+          "name": "Zuénoula",
+          "lat": 7.43027,
+          "lng": -6.05054
+        }
+      ]
+    },
+    {
+      "name": "Savanes",
+      "lat": 9.6373527,
+      "lng": -6.7007186,
+      "districts": [
+        {
+          "name": "Korhogo",
+          "lat": 9.45803,
+          "lng": -5.62961
+        },
+        {
+          "name": "Bagoué",
+          "lat": 9.75,
+          "lng": -6.5
+        },
+        {
+          "name": "Boundiali",
+          "lat": 9.52434,
+          "lng": -6.48973
+        },
+        {
+          "name": "Ferkéssédougou",
+          "lat": 9.60055,
+          "lng": -5.19611
+        },
+        {
+          "name": "Kong",
+          "lat": 9.15,
+          "lng": -4.61667
+        },
+        {
+          "name": "Ouangolodougou",
+          "lat": 9.96667,
+          "lng": -5.15
+        },
+        {
+          "name": "Poro",
+          "lat": 9.36667,
+          "lng": -5.5
+        },
+        {
+          "name": "Sinématiali",
+          "lat": 9.58333,
+          "lng": -5.38333
+        },
+        {
+          "name": "Tchologo",
+          "lat": 9.76667,
+          "lng": -5.1
+        },
+        {
+          "name": "Tengrela",
+          "lat": 10.48333,
+          "lng": -6.40833
+        }
+      ]
+    },
+    {
+      "name": "Vallée du Bandama",
+      "lat": 8.278978,
+      "lng": -4.8935627,
+      "districts": [
+        {
+          "name": "Bouaké",
+          "lat": 7.69385,
+          "lng": -5.03031
+        },
+        {
+          "name": "Béoumi",
+          "lat": 7.67395,
+          "lng": -5.58085
+        },
+        {
+          "name": "Botro",
+          "lat": 7.85249,
+          "lng": -5.31063
+        },
+        {
+          "name": "Dabakala",
+          "lat": 8.36321,
+          "lng": -4.42863
+        },
+        {
+          "name": "Gbêkê",
+          "lat": 7.70271,
+          "lng": -5.28511
+        },
+        {
+          "name": "Hambol",
+          "lat": 8.30368,
+          "lng": -5.15396
+        },
+        {
+          "name": "Katiola",
+          "lat": 8.13728,
+          "lng": -5.10095
+        },
+        {
+          "name": "Sakassou",
+          "lat": 7.45462,
+          "lng": -5.29263
+        }
+      ]
+    },
+    {
+      "name": "Woroba",
+      "lat": 8.2491372,
+      "lng": -6.9209135,
+      "districts": [
+        {
+          "name": "Séguéla",
+          "lat": 7.96111,
+          "lng": -6.67306
+        },
+        {
+          "name": "Bafing",
+          "lat": 8.40611,
+          "lng": -7.58048
+        },
+        {
+          "name": "Béré",
+          "lat": 8.18952,
+          "lng": -6.17157
+        },
+        {
+          "name": "Mankono",
+          "lat": 8.05861,
+          "lng": -6.18972
+        },
+        {
+          "name": "Touba",
+          "lat": 8.28333,
+          "lng": -7.68333
+        },
+        {
+          "name": "Worodougou",
+          "lat": 8.16482,
+          "lng": -6.66595
+        }
+      ]
+    },
+    {
+      "name": "Yamoussoukro",
+      "lat": 6.8276228,
+      "lng": -5.2893433,
+      "districts": []
+    },
+    {
+      "name": "Zanzan",
+      "lat": 8.8207904,
+      "lng": -3.4195527,
+      "districts": [
+        {
+          "name": "Bondoukou",
+          "lat": 8.0402,
+          "lng": -2.80003
+        },
+        {
+          "name": "Sinfra",
+          "lat": 6.62103,
+          "lng": -5.91144
+        },
+        {
+          "name": "Bouna",
+          "lat": 9.26927,
+          "lng": -2.9951
+        },
+        {
+          "name": "Bounkani",
+          "lat": 9.47841,
+          "lng": -3.31238
+        },
+        {
+          "name": "Gontougo",
+          "lat": 7.87132,
+          "lng": -3.07068
+        },
+        {
+          "name": "Tanda",
+          "lat": 7.80335,
+          "lng": -3.16832
+        }
+      ]
+    }
+  ]
+}

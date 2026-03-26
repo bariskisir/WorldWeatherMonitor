@@ -1,0 +1,173 @@
+{
+  "name": "Singapore",
+  "lat": 1.36666666,
+  "lng": 103.8,
+  "cities": [
+    {
+      "name": "Central Singapore",
+      "lat": 1.2884,
+      "lng": 103.8535,
+      "districts": [
+        {
+          "name": "Geylang",
+          "lat": 1.3182,
+          "lng": 103.8871
+        },
+        {
+          "name": "Singapore",
+          "lat": 1.28967,
+          "lng": 103.85007,
+          "iscapital": true
+        },
+        {
+          "name": "Toa Payoh",
+          "lat": 1.3354,
+          "lng": 103.8497
+        },
+        {
+          "name": "Bukit Timah",
+          "lat": 1.3294,
+          "lng": 103.8021
+        },
+        {
+          "name": "Downtown Core",
+          "lat": 1.278,
+          "lng": 103.852
+        },
+        {
+          "name": "Kallang",
+          "lat": 1.3106,
+          "lng": 103.866
+        },
+        {
+          "name": "Marine Parade",
+          "lat": 1.303,
+          "lng": 103.9072
+        },
+        {
+          "name": "Novena",
+          "lat": 1.3201,
+          "lng": 103.8439
+        },
+        {
+          "name": "Orchard Road",
+          "lat": 1.3036,
+          "lng": 103.8318
+        },
+        {
+          "name": "Outram",
+          "lat": 1.2819,
+          "lng": 103.839
+        },
+        {
+          "name": "Rochor",
+          "lat": 1.3049,
+          "lng": 103.852
+        },
+        {
+          "name": "Tanjong Pagar",
+          "lat": 1.2764,
+          "lng": 103.8434
+        }
+      ]
+    },
+    {
+      "name": "North East",
+      "lat": 5.3341186,
+      "lng": 100.2761077,
+      "districts": [
+        {
+          "name": "Punggol",
+          "lat": 1.4051,
+          "lng": 103.9023
+        },
+        {
+          "name": "Ang Mo Kio",
+          "lat": 1.3698,
+          "lng": 103.8461
+        },
+        {
+          "name": "Hougang",
+          "lat": 1.3736,
+          "lng": 103.8867
+        },
+        {
+          "name": "Sengkang",
+          "lat": 1.3901,
+          "lng": 103.8952
+        },
+        {
+          "name": "Serangoon",
+          "lat": 1.3496,
+          "lng": 103.8737
+        }
+      ]
+    },
+    {
+      "name": "North West",
+      "lat": 1.4509382,
+      "lng": 103.7849519,
+      "districts": [
+        {
+          "name": "Sembawang",
+          "lat": 1.4491,
+          "lng": 103.8201
+        },
+        {
+          "name": "Woodlands",
+          "lat": 1.43801,
+          "lng": 103.78877
+        },
+        {
+          "name": "Yishun",
+          "lat": 1.4293,
+          "lng": 103.8355
+        }
+      ]
+    },
+    {
+      "name": "South East",
+      "lat": 1.3352329,
+      "lng": 103.9598931,
+      "districts": [
+        {
+          "name": "Bedok",
+          "lat": 1.3236,
+          "lng": 103.9273
+        },
+        {
+          "name": "Pasir Ris",
+          "lat": 1.3739,
+          "lng": 103.9493
+        },
+        {
+          "name": "Tampines",
+          "lat": 1.3547,
+          "lng": 103.9437
+        }
+      ]
+    },
+    {
+      "name": "South West",
+      "lat": 5.2883389,
+      "lng": 100.2815099,
+      "districts": [
+        {
+          "name": "Jurong West",
+          "lat": 1.3396,
+          "lng": 103.7073
+        },
+        {
+          "name": "Bukit Batok",
+          "lat": 1.3496,
+          "lng": 103.7528
+        },
+        {
+          "name": "Bukit Panjang",
+          "lat": 1.3786,
+          "lng": 103.7626
+        }
+      ]
+    }
+  ]
+}

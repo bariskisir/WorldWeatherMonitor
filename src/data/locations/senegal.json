@@ -1,0 +1,471 @@
+{
+  "name": "Senegal",
+  "lat": 14,
+  "lng": -14,
+  "cities": [
+    {
+      "name": "Dakar",
+      "lat": 14.693425,
+      "lng": -17.447938,
+      "districts": [
+        {
+          "name": "Dakar",
+          "lat": 14.6937,
+          "lng": -17.44406,
+          "iscapital": true
+        },
+        {
+          "name": "Dakar Department",
+          "lat": 14.71403,
+          "lng": -17.45534
+        },
+        {
+          "name": "Guédiawaye Department",
+          "lat": 14.7761,
+          "lng": -17.3956
+        },
+        {
+          "name": "Pikine",
+          "lat": 14.76457,
+          "lng": -17.39071
+        },
+        {
+          "name": "Pikine Department",
+          "lat": 14.76515,
+          "lng": -17.35198
+        },
+        {
+          "name": "Rufisque Department",
+          "lat": 14.74339,
+          "lng": -17.19841
+        },
+        {
+          "name": "Mermoz Boabab",
+          "lat": 14.70649,
+          "lng": -17.47581
+        },
+        {
+          "name": "N’diareme limamoulaye",
+          "lat": 14.78148,
+          "lng": -17.3841
+        }
+      ]
+    },
+    {
+      "name": "Diourbel Region",
+      "lat": 14.7844539,
+      "lng": -16.0316451,
+      "districts": [
+        {
+          "name": "Mbacké",
+          "lat": 14.80828,
+          "lng": -15.86454
+        },
+        {
+          "name": "Mbaké",
+          "lat": 14.79032,
+          "lng": -15.90803
+        },
+        {
+          "name": "Tiébo",
+          "lat": 14.63333,
+          "lng": -16.23333
+        },
+        {
+          "name": "Touba",
+          "lat": 14.85,
+          "lng": -15.88333
+        }
+      ]
+    },
+    {
+      "name": "Fatick",
+      "lat": 14.3390167,
+      "lng": -16.4111425,
+      "districts": [
+        {
+          "name": "Fatick Department",
+          "lat": 14.25909,
+          "lng": -16.49884
+        },
+        {
+          "name": "Diofior",
+          "lat": 14.18333,
+          "lng": -16.66667
+        },
+        {
+          "name": "Foundiougne",
+          "lat": 14.13333,
+          "lng": -16.46667
+        },
+        {
+          "name": "Guinguinéo",
+          "lat": 14.26667,
+          "lng": -15.95
+        },
+        {
+          "name": "Passi",
+          "lat": 13.98333,
+          "lng": -16.26667
+        },
+        {
+          "name": "Pourham",
+          "lat": 14.35,
+          "lng": -16.41667
+        },
+        {
+          "name": "Sokone",
+          "lat": 13.88333,
+          "lng": -16.36667
+        }
+      ]
+    },
+    {
+      "name": "Kaffrine",
+      "lat": 14.105202,
+      "lng": -15.5415755,
+      "districts": [
+        {
+          "name": "Kaffrine",
+          "lat": 14.10594,
+          "lng": -15.5508
+        },
+        {
+          "name": "Koungheul",
+          "lat": 13.98333,
+          "lng": -14.8
+        }
+      ]
+    },
+    {
+      "name": "Kaolack",
+      "lat": 14.138815,
+      "lng": -16.076391,
+      "districts": [
+        {
+          "name": "Kaolack",
+          "lat": 14.15197,
+          "lng": -16.07259
+        },
+        {
+          "name": "Gandiaye",
+          "lat": 14.23333,
+          "lng": -16.26667
+        },
+        {
+          "name": "Ndofane",
+          "lat": 13.91667,
+          "lng": -15.93333
+        },
+        {
+          "name": "Nioro du Rip",
+          "lat": 13.75,
+          "lng": -15.8
+        }
+      ]
+    },
+    {
+      "name": "Kédougou",
+      "lat": 12.5570752,
+      "lng": -12.1855655,
+      "districts": [
+        {
+          "name": "Département de Salémata",
+          "lat": 12.59971,
+          "lng": -12.77619
+        },
+        {
+          "name": "Kédougou",
+          "lat": 12.55561,
+          "lng": -12.18076
+        },
+        {
+          "name": "Kédougou Department",
+          "lat": 12.81716,
+          "lng": -12.17834
+        },
+        {
+          "name": "Saraya",
+          "lat": 13.0015,
+          "lng": -11.79627
+        }
+      ]
+    },
+    {
+      "name": "Kolda",
+      "lat": 12.8921154,
+      "lng": -14.9400971,
+      "districts": [
+        {
+          "name": "Kolda",
+          "lat": 12.8939,
+          "lng": -14.94125
+        },
+        {
+          "name": "Kolda Department",
+          "lat": 12.883,
+          "lng": -14.95
+        },
+        {
+          "name": "Marsassoum",
+          "lat": 12.8275,
+          "lng": -15.98056
+        },
+        {
+          "name": "Vélingara",
+          "lat": 13.15,
+          "lng": -14.11667
+        }
+      ]
+    },
+    {
+      "name": "Louga",
+      "lat": 15.6141768,
+      "lng": -16.22868,
+      "districts": [
+        {
+          "name": "Louga",
+          "lat": 15.61867,
+          "lng": -16.22436
+        },
+        {
+          "name": "Dara",
+          "lat": 15.34844,
+          "lng": -15.47993
+        },
+        {
+          "name": "Guéoul",
+          "lat": 15.48333,
+          "lng": -16.35
+        },
+        {
+          "name": "Linguere Department",
+          "lat": 15.359,
+          "lng": -15.158
+        },
+        {
+          "name": "Ndibène Dahra",
+          "lat": 15.3338,
+          "lng": -15.4766
+        }
+      ]
+    },
+    {
+      "name": "Matam",
+      "lat": 15.6600225,
+      "lng": -13.2576906,
+      "districts": [
+        {
+          "name": "Diawara",
+          "lat": 15.02196,
+          "lng": -12.54374
+        },
+        {
+          "name": "Kanel",
+          "lat": 15.4916,
+          "lng": -13.17627
+        },
+        {
+          "name": "Matam",
+          "lat": 15.65587,
+          "lng": -13.25544
+        },
+        {
+          "name": "Matam Department",
+          "lat": 15.73191,
+          "lng": -13.63393
+        },
+        {
+          "name": "Ouro Sogui",
+          "lat": 15.60588,
+          "lng": -13.3223
+        },
+        {
+          "name": "Ranérou",
+          "lat": 15.3,
+          "lng": -13.96667
+        },
+        {
+          "name": "Sémé",
+          "lat": 15.19422,
+          "lng": -12.94482
+        },
+        {
+          "name": "Waoundé",
+          "lat": 15.26367,
+          "lng": -12.86821
+        }
+      ]
+    },
+    {
+      "name": "Saint-Louis",
+      "lat": 16.0280445,
+      "lng": -16.5048686,
+      "districts": [
+        {
+          "name": "Saint-Louis",
+          "lat": 16.01793,
+          "lng": -16.48962
+        },
+        {
+          "name": "Goléré",
+          "lat": 16.25575,
+          "lng": -14.10165
+        },
+        {
+          "name": "Ndioum",
+          "lat": 16.51293,
+          "lng": -14.64706
+        },
+        {
+          "name": "Polel Diaoubé",
+          "lat": 15.26667,
+          "lng": -13
+        },
+        {
+          "name": "Richard-Toll",
+          "lat": 16.4625,
+          "lng": -15.70083
+        },
+        {
+          "name": "Rosso",
+          "lat": 16.42028,
+          "lng": -15.79834
+        }
+      ]
+    },
+    {
+      "name": "Sédhiou",
+      "lat": 12.704604,
+      "lng": -15.5562304,
+      "districts": [
+        {
+          "name": "Goudomp Department",
+          "lat": 12.57778,
+          "lng": -15.87222
+        },
+        {
+          "name": "Sédhiou",
+          "lat": 12.70806,
+          "lng": -15.55694
+        }
+      ]
+    },
+    {
+      "name": "Tambacounda Region",
+      "lat": 13.8686324,
+      "lng": -13.3190328,
+      "districts": [
+        {
+          "name": "Tambacounda",
+          "lat": 13.77073,
+          "lng": -13.66734
+        },
+        {
+          "name": "Tambacounda Department",
+          "lat": 13.605,
+          "lng": -13.647
+        }
+      ]
+    },
+    {
+      "name": "Thiès Region",
+      "lat": 14.7538661,
+      "lng": -16.8637823,
+      "districts": [
+        {
+          "name": "Thiès",
+          "lat": 14.73004,
+          "lng": -16.86974
+        },
+        {
+          "name": "Thiès Nones",
+          "lat": 14.78333,
+          "lng": -16.96667
+        },
+        {
+          "name": "Tivaouane",
+          "lat": 15.08519,
+          "lng": -16.71058
+        },
+        {
+          "name": "Joal-Fadiout",
+          "lat": 14.16667,
+          "lng": -16.83333
+        },
+        {
+          "name": "Kayar",
+          "lat": 14.91893,
+          "lng": -17.11978
+        },
+        {
+          "name": "Khombole",
+          "lat": 14.76667,
+          "lng": -16.7
+        },
+        {
+          "name": "Mbour",
+          "lat": 14.40569,
+          "lng": -16.85559
+        },
+        {
+          "name": "Mékhé",
+          "lat": 15.1097,
+          "lng": -16.6218
+        },
+        {
+          "name": "Nguékhokh",
+          "lat": 14.51255,
+          "lng": -17.00447
+        },
+        {
+          "name": "Pout",
+          "lat": 14.77099,
+          "lng": -17.06107
+        },
+        {
+          "name": "Tiadiaye",
+          "lat": 14.41667,
+          "lng": -16.7
+        },
+        {
+          "name": "Warang",
+          "lat": 14.37349,
+          "lng": -16.94366
+        }
+      ]
+    },
+    {
+      "name": "Ziguinchor",
+      "lat": 12.5641479,
+      "lng": -16.2639825,
+      "districts": [
+        {
+          "name": "Ziguinchor",
+          "lat": 12.56801,
+          "lng": -16.27326
+        },
+        {
+          "name": "Adéane",
+          "lat": 12.63,
+          "lng": -16.01694
+        },
+        {
+          "name": "Bignona",
+          "lat": 12.81028,
+          "lng": -16.22639
+        },
+        {
+          "name": "Oussouye",
+          "lat": 12.485,
+          "lng": -16.54694
+        },
+        {
+          "name": "Tionk Essil",
+          "lat": 12.78556,
+          "lng": -16.52167
+        }
+      ]
+    }
+  ]
+}

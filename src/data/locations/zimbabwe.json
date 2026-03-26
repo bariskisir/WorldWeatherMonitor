@@ -1,0 +1,623 @@
+{
+  "name": "Zimbabwe",
+  "lat": -20,
+  "lng": 30,
+  "cities": [
+    {
+      "name": "Bulawayo",
+      "lat": -20.1111148,
+      "lng": 28.5356781,
+      "districts": [
+        {
+          "name": "Bulawayo",
+          "lat": -20.15,
+          "lng": 28.58333
+        }
+      ]
+    },
+    {
+      "name": "Harare",
+      "lat": -17.831773,
+      "lng": 31.045686,
+      "districts": [
+        {
+          "name": "Chitungwiza",
+          "lat": -18.01274,
+          "lng": 31.07555
+        },
+        {
+          "name": "Epworth",
+          "lat": -17.89,
+          "lng": 31.1475
+        },
+        {
+          "name": "Harare",
+          "lat": -17.82772,
+          "lng": 31.05337,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Manicaland",
+      "lat": -19.0188422,
+      "lng": 32.368889,
+      "districts": [
+        {
+          "name": "Chipinge District",
+          "lat": -20.54959,
+          "lng": 32.4311
+        },
+        {
+          "name": "Makoni",
+          "lat": -18.3355,
+          "lng": 32.1465
+        },
+        {
+          "name": "Mutare",
+          "lat": -18.9707,
+          "lng": 32.67086
+        },
+        {
+          "name": "Mutasa",
+          "lat": -18.66283,
+          "lng": 32.74547
+        },
+        {
+          "name": "Nyanga District",
+          "lat": -17.92951,
+          "lng": 32.76561
+        },
+        {
+          "name": "Buhera",
+          "lat": -19.45658,
+          "lng": 31.93156
+        },
+        {
+          "name": "Chimanimani",
+          "lat": -19.8,
+          "lng": 32.86667
+        },
+        {
+          "name": "Chimanimani District",
+          "lat": -19.78295,
+          "lng": 32.73338
+        },
+        {
+          "name": "Chipinge",
+          "lat": -20.18833,
+          "lng": 32.62365
+        },
+        {
+          "name": "Dorowa Mining Lease",
+          "lat": -19.06667,
+          "lng": 31.75
+        },
+        {
+          "name": "Headlands",
+          "lat": -18.27733,
+          "lng": 32.0515
+        },
+        {
+          "name": "Mutare District",
+          "lat": -19.25512,
+          "lng": 32.44327
+        },
+        {
+          "name": "Nyanga",
+          "lat": -18.21667,
+          "lng": 32.75
+        },
+        {
+          "name": "Nyazura",
+          "lat": -18.70587,
+          "lng": 32.16796
+        },
+        {
+          "name": "Odzi",
+          "lat": -18.96167,
+          "lng": 32.40557
+        },
+        {
+          "name": "Penhalonga",
+          "lat": -18.89112,
+          "lng": 32.69781
+        },
+        {
+          "name": "Rusape",
+          "lat": -18.52785,
+          "lng": 32.12843
+        }
+      ]
+    },
+    {
+      "name": "Mashonaland Central",
+      "lat": -16.742872,
+      "lng": 31.2952086,
+      "districts": [
+        {
+          "name": "Bindura District",
+          "lat": -17.2123,
+          "lng": 31.303
+        },
+        {
+          "name": "Centenary District",
+          "lat": -16.41667,
+          "lng": 31.16667
+        },
+        {
+          "name": "Guruve",
+          "lat": -16.37206,
+          "lng": 30.60607
+        },
+        {
+          "name": "Mazowe District",
+          "lat": -17.2808,
+          "lng": 30.93231
+        },
+        {
+          "name": "Shamva District",
+          "lat": -17.12366,
+          "lng": 31.64146
+        },
+        {
+          "name": "Bindura",
+          "lat": -17.30192,
+          "lng": 31.33056
+        },
+        {
+          "name": "Centenary",
+          "lat": -16.72289,
+          "lng": 31.11462
+        },
+        {
+          "name": "Concession",
+          "lat": -17.38333,
+          "lng": 30.95
+        },
+        {
+          "name": "Glendale",
+          "lat": -17.35514,
+          "lng": 31.06718
+        },
+        {
+          "name": "Mazowe",
+          "lat": -17.50404,
+          "lng": 30.97388
+        },
+        {
+          "name": "Mount Darwin",
+          "lat": -16.77251,
+          "lng": 31.58381
+        },
+        {
+          "name": "Mvurwi",
+          "lat": -17.03333,
+          "lng": 30.85
+        },
+        {
+          "name": "Rushinga",
+          "lat": -16.60792,
+          "lng": 32.31434
+        },
+        {
+          "name": "Shamva",
+          "lat": -17.31159,
+          "lng": 31.57561
+        }
+      ]
+    },
+    {
+      "name": "Mashonaland East",
+      "lat": -17.7927323,
+      "lng": 31.7678044,
+      "districts": [
+        {
+          "name": "Mudzi",
+          "lat": -17.04711,
+          "lng": 32.65279
+        },
+        {
+          "name": "Murehwa District",
+          "lat": -17.80057,
+          "lng": 31.83083
+        },
+        {
+          "name": "Beatrice",
+          "lat": -18.25283,
+          "lng": 30.8473
+        },
+        {
+          "name": "Chivhu",
+          "lat": -19.02112,
+          "lng": 30.89218
+        },
+        {
+          "name": "Goromonzi",
+          "lat": -17.80695,
+          "lng": 31.36372
+        },
+        {
+          "name": "Macheke",
+          "lat": -18.13901,
+          "lng": 31.84933
+        },
+        {
+          "name": "Marondera",
+          "lat": -18.18527,
+          "lng": 31.55193
+        },
+        {
+          "name": "Marondera District",
+          "lat": -18.29214,
+          "lng": 31.51252
+        },
+        {
+          "name": "Murehwa",
+          "lat": -17.64322,
+          "lng": 31.784
+        },
+        {
+          "name": "Mutoko",
+          "lat": -17.39699,
+          "lng": 32.22677
+        },
+        {
+          "name": "Ruwa",
+          "lat": -17.88972,
+          "lng": 31.24472
+        }
+      ]
+    },
+    {
+      "name": "Mashonaland West",
+      "lat": -17.4851029,
+      "lng": 29.7889248,
+      "districts": [
+        {
+          "name": "Chegutu District",
+          "lat": -18.13097,
+          "lng": 30.40046
+        },
+        {
+          "name": "Kadoma",
+          "lat": -18.33328,
+          "lng": 29.91534
+        },
+        {
+          "name": "Kadoma District",
+          "lat": -18.34049,
+          "lng": 29.82831
+        },
+        {
+          "name": "Makonde",
+          "lat": -17.16667,
+          "lng": 30.08333
+        },
+        {
+          "name": "Banket",
+          "lat": -17.38333,
+          "lng": 30.4
+        },
+        {
+          "name": "Chakari",
+          "lat": -18.06294,
+          "lng": 29.89246
+        },
+        {
+          "name": "Chegutu",
+          "lat": -18.13021,
+          "lng": 30.14074
+        },
+        {
+          "name": "Chinhoyi",
+          "lat": -17.36667,
+          "lng": 30.2
+        },
+        {
+          "name": "Chirundu",
+          "lat": -16.03333,
+          "lng": 28.85
+        },
+        {
+          "name": "Hurungwe",
+          "lat": -16.41301,
+          "lng": 29.5858
+        },
+        {
+          "name": "Kariba",
+          "lat": -16.51667,
+          "lng": 28.8
+        },
+        {
+          "name": "Kariba District",
+          "lat": -16.91011,
+          "lng": 28.65983
+        },
+        {
+          "name": "Karoi",
+          "lat": -16.80993,
+          "lng": 29.69247
+        },
+        {
+          "name": "Mhangura",
+          "lat": -16.89387,
+          "lng": 30.16828
+        },
+        {
+          "name": "Norton",
+          "lat": -17.88333,
+          "lng": 30.7
+        },
+        {
+          "name": "Raffingora",
+          "lat": -17.03333,
+          "lng": 30.43333
+        }
+      ]
+    },
+    {
+      "name": "Masvingo",
+      "lat": -20.7453957,
+      "lng": 31.334138,
+      "districts": [
+        {
+          "name": "Bikita",
+          "lat": -20.13752,
+          "lng": 31.93156
+        },
+        {
+          "name": "Chivi",
+          "lat": -20.5,
+          "lng": 30.58333
+        },
+        {
+          "name": "Masvingo District",
+          "lat": -20.31481,
+          "lng": 30.90008
+        },
+        {
+          "name": "Mwenezi",
+          "lat": -21.35838,
+          "lng": 30.70668
+        },
+        {
+          "name": "Chiredzi",
+          "lat": -21.05,
+          "lng": 31.66667
+        },
+        {
+          "name": "Chiredzi District",
+          "lat": -21.28585,
+          "lng": 31.77039
+        },
+        {
+          "name": "Gutu",
+          "lat": -19.60884,
+          "lng": 31.25059
+        },
+        {
+          "name": "Mashava",
+          "lat": -20.03665,
+          "lng": 30.48225
+        },
+        {
+          "name": "Masvingo",
+          "lat": -20.06373,
+          "lng": 30.82766
+        },
+        {
+          "name": "Zvishavane",
+          "lat": -20.32674,
+          "lng": 30.06648
+        }
+      ]
+    },
+    {
+      "name": "Matabeleland North",
+      "lat": -18.9283715,
+      "lng": 27.4992231,
+      "districts": [
+        {
+          "name": "Binga District",
+          "lat": -17.8046,
+          "lng": 27.70088
+        },
+        {
+          "name": "Hwange District",
+          "lat": -18.75,
+          "lng": 26.5
+        },
+        {
+          "name": "Lupane District",
+          "lat": -18.83608,
+          "lng": 27.99098
+        },
+        {
+          "name": "Nkayi",
+          "lat": -18.92472,
+          "lng": 28.71221
+        },
+        {
+          "name": "Binga",
+          "lat": -17.62027,
+          "lng": 27.34139
+        },
+        {
+          "name": "Bubi",
+          "lat": -19.52508,
+          "lng": 28.67998
+        },
+        {
+          "name": "Dete",
+          "lat": -18.61667,
+          "lng": 26.86667
+        },
+        {
+          "name": "Hwange",
+          "lat": -18.36446,
+          "lng": 26.49877
+        },
+        {
+          "name": "Inyati",
+          "lat": -19.67563,
+          "lng": 28.84687
+        },
+        {
+          "name": "Kamativi Mine",
+          "lat": -18.31563,
+          "lng": 27.05729
+        },
+        {
+          "name": "Lupane",
+          "lat": -18.93149,
+          "lng": 27.80696
+        },
+        {
+          "name": "Victoria Falls",
+          "lat": -17.93285,
+          "lng": 25.83066
+        }
+      ]
+    },
+    {
+      "name": "Matabeleland South",
+      "lat": -20.7364801,
+      "lng": 28.9396495,
+      "districts": [
+        {
+          "name": "Beitbridge District",
+          "lat": -21.89829,
+          "lng": 30.07409
+        },
+        {
+          "name": "Gwanda District",
+          "lat": -21.20929,
+          "lng": 29.17557
+        },
+        {
+          "name": "Matobo",
+          "lat": -20.95545,
+          "lng": 28.49463
+        },
+        {
+          "name": "Beitbridge",
+          "lat": -22.21667,
+          "lng": 30
+        },
+        {
+          "name": "Esigodini",
+          "lat": -20.28979,
+          "lng": 28.92261
+        },
+        {
+          "name": "Filabusi",
+          "lat": -20.53333,
+          "lng": 29.28502
+        },
+        {
+          "name": "Gwanda",
+          "lat": -20.93622,
+          "lng": 29.00698
+        },
+        {
+          "name": "Insiza",
+          "lat": -19.78333,
+          "lng": 29.2
+        },
+        {
+          "name": "Insiza District",
+          "lat": -20.26431,
+          "lng": 29.47392
+        },
+        {
+          "name": "Mangwe",
+          "lat": -20.95545,
+          "lng": 27.98292
+        },
+        {
+          "name": "Plumtree",
+          "lat": -20.48333,
+          "lng": 27.81667
+        },
+        {
+          "name": "Umzingwane",
+          "lat": -20.34704,
+          "lng": 28.94994
+        }
+      ]
+    },
+    {
+      "name": "Midlands",
+      "lat": -19.2785043,
+      "lng": 29.8790852,
+      "districts": [
+        {
+          "name": "Gweru",
+          "lat": -19.45,
+          "lng": 29.81667
+        },
+        {
+          "name": "Kwekwe",
+          "lat": -18.92809,
+          "lng": 29.81486
+        },
+        {
+          "name": "Kwekwe District",
+          "lat": -18.75,
+          "lng": 29.5
+        },
+        {
+          "name": "Mberengwa",
+          "lat": -20.72579,
+          "lng": 30.00962
+        },
+        {
+          "name": "Zvishavane",
+          "lat": -20.30345,
+          "lng": 30.07514
+        },
+        {
+          "name": "Gokwe",
+          "lat": -18.20476,
+          "lng": 28.9349
+        },
+        {
+          "name": "Gweru District",
+          "lat": -19.45665,
+          "lng": 29.64495
+        },
+        {
+          "name": "Lalapanzi",
+          "lat": -19.33225,
+          "lng": 30.17768
+        },
+        {
+          "name": "Mvuma",
+          "lat": -19.27924,
+          "lng": 30.52828
+        },
+        {
+          "name": "Redcliff",
+          "lat": -19.03333,
+          "lng": 29.78333
+        },
+        {
+          "name": "Shangani",
+          "lat": -19.78333,
+          "lng": 29.36667
+        },
+        {
+          "name": "Shurugwi",
+          "lat": -19.67016,
+          "lng": 30.00589
+        },
+        {
+          "name": "Shurugwi District",
+          "lat": -19.75,
+          "lng": 30.16667
+        }
+      ]
+    }
+  ]
+}

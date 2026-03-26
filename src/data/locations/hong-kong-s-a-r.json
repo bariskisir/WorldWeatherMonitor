@@ -1,0 +1,265 @@
+{
+  "name": "Hong Kong S.A.R.",
+  "lat": 22.25,
+  "lng": 114.16666666,
+  "cities": [
+    {
+      "name": "Central and Western",
+      "lat": 22.28666,
+      "lng": 114.15497,
+      "districts": [
+        {
+          "name": "Admiralty",
+          "lat": 22.278,
+          "lng": 114.164
+        },
+        {
+          "name": "Central",
+          "lat": 22.281,
+          "lng": 114.159
+        }
+      ]
+    },
+    {
+      "name": "Eastern",
+      "lat": 22.28411,
+      "lng": 114.22414,
+      "districts": []
+    },
+    {
+      "name": "Islands",
+      "lat": 22.26114,
+      "lng": 113.94608,
+      "districts": [
+        {
+          "name": "Tai O",
+          "lat": 22.247,
+          "lng": 113.869
+        }
+      ]
+    },
+    {
+      "name": "Kowloon City",
+      "lat": 22.3282,
+      "lng": 114.19155,
+      "districts": [
+        {
+          "name": "Kowloon Tong",
+          "lat": 22.337,
+          "lng": 114.179
+        }
+      ]
+    },
+    {
+      "name": "Kwai Tsing",
+      "lat": 22.3634303,
+      "lng": 114.1229825,
+      "districts": []
+    },
+    {
+      "name": "Kwun Tong",
+      "lat": 22.31326,
+      "lng": 114.22581,
+      "districts": [
+        {
+          "name": "Kwun Tong",
+          "lat": 22.31,
+          "lng": 114.225
+        },
+        {
+          "name": "Lam Tin",
+          "lat": 22.307,
+          "lng": 114.235
+        }
+      ]
+    },
+    {
+      "name": "North",
+      "lat": 22.49471,
+      "lng": 114.13812,
+      "districts": [
+        {
+          "name": "Sheung Shui",
+          "lat": 22.501,
+          "lng": 114.123
+        }
+      ]
+    },
+    {
+      "name": "Sai Kung",
+      "lat": 21.6730519,
+      "lng": 108.3954313,
+      "districts": [
+        {
+          "name": "Sai Kung",
+          "lat": 22.384,
+          "lng": 114.273
+        },
+        {
+          "name": "Tseung Kwan O",
+          "lat": 22.319,
+          "lng": 114.263
+        }
+      ]
+    },
+    {
+      "name": "Sha Tin",
+      "lat": 22.38715,
+      "lng": 114.19534,
+      "districts": [
+        {
+          "name": "Ma On Shan",
+          "lat": 22.422,
+          "lng": 114.23
+        },
+        {
+          "name": "Sha Tin",
+          "lat": 22.383,
+          "lng": 114.188
+        },
+        {
+          "name": "Sha Tin Wai",
+          "lat": 22.38,
+          "lng": 114.191
+        }
+      ]
+    },
+    {
+      "name": "Sham Shui Po",
+      "lat": 22.2357383,
+      "lng": 114.1698162,
+      "districts": [
+        {
+          "name": "Cheung Sha Wan",
+          "lat": 22.336,
+          "lng": 114.151
+        },
+        {
+          "name": "Lai Chi Kok",
+          "lat": 22.337,
+          "lng": 114.146
+        }
+      ]
+    },
+    {
+      "name": "Southern",
+      "lat": 22.24725,
+      "lng": 114.15884,
+      "districts": [
+        {
+          "name": "Aberdeen",
+          "lat": 22.247,
+          "lng": 114.152
+        },
+        {
+          "name": "Stanley",
+          "lat": 22.22,
+          "lng": 114.214
+        },
+        {
+          "name": "Stanley Peninsula",
+          "lat": 22.21,
+          "lng": 114.217
+        }
+      ]
+    },
+    {
+      "name": "Tai Po",
+      "lat": 22.45085,
+      "lng": 114.16422,
+      "districts": [
+        {
+          "name": "Tai Po",
+          "lat": 22.449,
+          "lng": 114.16
+        },
+        {
+          "name": "Tai Mei Tuk",
+          "lat": 22.457,
+          "lng": 114.184
+        }
+      ]
+    },
+    {
+      "name": "Tsuen Wan",
+      "lat": 22.36281,
+      "lng": 114.12907,
+      "districts": [
+        {
+          "name": "Tsuen Wan",
+          "lat": 22.371,
+          "lng": 114.114
+        },
+        {
+          "name": "Tuen Mun",
+          "lat": 22.395,
+          "lng": 113.973
+        }
+      ]
+    },
+    {
+      "name": "Tuen Mun",
+      "lat": 22.39163,
+      "lng": 113.9770885,
+      "districts": []
+    },
+    {
+      "name": "Wan Chai",
+      "lat": 22.264499,
+      "lng": 114.1898216,
+      "districts": [
+        {
+          "name": "Wan Chai",
+          "lat": 22.278,
+          "lng": 114.182
+        },
+        {
+          "name": "Causeway Bay",
+          "lat": 22.28,
+          "lng": 114.185
+        }
+      ]
+    },
+    {
+      "name": "Wong Tai Sin",
+      "lat": 22.33353,
+      "lng": 114.19686,
+      "districts": [
+        {
+          "name": "Wong Tai Sin",
+          "lat": 22.341,
+          "lng": 114.193
+        }
+      ]
+    },
+    {
+      "name": "Yau Tsim Mong",
+      "lat": 22.32138,
+      "lng": 114.1726,
+      "districts": [
+        {
+          "name": "Mong Kok",
+          "lat": 22.319,
+          "lng": 114.169
+        },
+        {
+          "name": "Tsim Sha Tsui",
+          "lat": 22.298,
+          "lng": 114.172
+        }
+      ]
+    },
+    {
+      "name": "Yuen Long",
+      "lat": 22.4487051,
+      "lng": 114.0958704,
+      "districts": [
+        {
+          "name": "Yuen Long",
+          "lat": 22.444,
+          "lng": 114.027
+        }
+      ]
+    }
+  ]
+}

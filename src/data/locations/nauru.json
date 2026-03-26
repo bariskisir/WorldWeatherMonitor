@@ -1,0 +1,134 @@
+{
+  "name": "Nauru",
+  "lat": -0.53333333,
+  "lng": 166.91666666,
+  "cities": [
+    {
+      "name": "Aiwo",
+      "lat": -0.5340012,
+      "lng": 166.9138873,
+      "districts": [
+        {
+          "name": "Arijejen",
+          "lat": -0.52545,
+          "lng": 166.91247
+        }
+      ]
+    },
+    {
+      "name": "Anabar",
+      "lat": -0.5133517,
+      "lng": 166.9484624,
+      "districts": [
+        {
+          "name": "Anabar",
+          "lat": -0.50845,
+          "lng": 166.95326
+        }
+      ]
+    },
+    {
+      "name": "Anetan",
+      "lat": -0.5064343,
+      "lng": 166.9427006,
+      "districts": []
+    },
+    {
+      "name": "Anibare",
+      "lat": -0.5294758,
+      "lng": 166.9513432,
+      "districts": []
+    },
+    {
+      "name": "Baiti",
+      "lat": -0.510431,
+      "lng": 166.9275744,
+      "districts": [
+        {
+          "name": "Baiti",
+          "lat": -0.50803,
+          "lng": 166.92945
+        }
+      ]
+    },
+    {
+      "name": "Boe",
+      "lat": -0.5423003,
+      "lng": 166.9160609,
+      "districts": []
+    },
+    {
+      "name": "Buada",
+      "lat": -0.5328777,
+      "lng": 166.9268541,
+      "districts": []
+    },
+    {
+      "name": "Denigomodu",
+      "lat": -0.5247964,
+      "lng": 166.9167689,
+      "districts": []
+    },
+    {
+      "name": "Ewa",
+      "lat": -0.5087241,
+      "lng": 166.9369384,
+      "districts": []
+    },
+    {
+      "name": "Ijuw",
+      "lat": -0.5202767,
+      "lng": 166.9571046,
+      "districts": [
+        {
+          "name": "Ijuw",
+          "lat": -0.521,
+          "lng": 166.95813
+        }
+      ]
+    },
+    {
+      "name": "Meneng",
+      "lat": -0.546724,
+      "lng": 166.938379,
+      "districts": [
+        {
+          "name": "Menen",
+          "lat": -0.54539,
+          "lng": 166.94871
+        }
+      ]
+    },
+    {
+      "name": "Nibok",
+      "lat": -0.5196208,
+      "lng": 166.9189301,
+      "districts": []
+    },
+    {
+      "name": "Uaboe",
+      "lat": -0.5202222,
+      "lng": 166.9311761,
+      "districts": [
+        {
+          "name": "Uaboe",
+          "lat": -0.51393,
+          "lng": 166.92384
+        }
+      ]
+    },
+    {
+      "name": "Yaren",
+      "lat": -0.5466857,
+      "lng": 166.9210913,
+      "districts": [
+        {
+          "name": "Yaren",
+          "lat": -0.55085,
+          "lng": 166.9252,
+          "iscapital": true
+        }
+      ]
+    }
+  ]
+}

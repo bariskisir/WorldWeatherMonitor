@@ -1,0 +1,570 @@
+{
+  "name": "The Gambia",
+  "lat": 13.46666666,
+  "lng": -16.56666666,
+  "cities": [
+    {
+      "name": "Banjul",
+      "lat": 13.4548761,
+      "lng": -16.5790323,
+      "districts": [
+        {
+          "name": "Kombo Saint Mary",
+          "lat": 13.44389,
+          "lng": -16.64583
+        },
+        {
+          "name": "Serekunda",
+          "lat": 13.43833,
+          "lng": -16.67806
+        },
+        {
+          "name": "Banjul",
+          "lat": 13.45274,
+          "lng": -16.57803,
+          "iscapital": true
+        },
+        {
+          "name": "Bakau",
+          "lat": 13.47806,
+          "lng": -16.68194
+        }
+      ]
+    },
+    {
+      "name": "Central River",
+      "lat": 13.5750738,
+      "lng": -14.7797147,
+      "districts": [
+        {
+          "name": "Bansang",
+          "lat": 13.43333,
+          "lng": -14.65
+        },
+        {
+          "name": "Brikama Nding",
+          "lat": 13.53333,
+          "lng": -14.93333
+        },
+        {
+          "name": "Dankunku",
+          "lat": 13.56667,
+          "lng": -15.31667
+        },
+        {
+          "name": "Denton",
+          "lat": 13.5,
+          "lng": -14.93333
+        },
+        {
+          "name": "Fulladu West",
+          "lat": 13.5,
+          "lng": -14.75
+        },
+        {
+          "name": "Galleh Manda",
+          "lat": 13.43333,
+          "lng": -14.78333
+        },
+        {
+          "name": "Georgetown",
+          "lat": 13.54039,
+          "lng": -14.76374
+        },
+        {
+          "name": "Jakhaly",
+          "lat": 13.55,
+          "lng": -14.96667
+        },
+        {
+          "name": "Janjanbureh",
+          "lat": 13.53564,
+          "lng": -14.76515
+        },
+        {
+          "name": "Jarreng",
+          "lat": 13.61667,
+          "lng": -15.18333
+        },
+        {
+          "name": "Karantaba",
+          "lat": 13.66667,
+          "lng": -15.03333
+        },
+        {
+          "name": "Kass Wollof",
+          "lat": 13.78333,
+          "lng": -14.93333
+        },
+        {
+          "name": "Kuntaur",
+          "lat": 13.67085,
+          "lng": -14.88977
+        },
+        {
+          "name": "Kunting",
+          "lat": 13.53333,
+          "lng": -14.66667
+        },
+        {
+          "name": "Lower Saloum",
+          "lat": 13.71667,
+          "lng": -15.36667
+        },
+        {
+          "name": "Niamina East",
+          "lat": 13.63333,
+          "lng": -15.08333
+        },
+        {
+          "name": "Niamina West",
+          "lat": 13.58333,
+          "lng": -15.25
+        },
+        {
+          "name": "Niani",
+          "lat": 13.66667,
+          "lng": -14.91667
+        },
+        {
+          "name": "Nianija",
+          "lat": 13.729,
+          "lng": -15.091
+        },
+        {
+          "name": "Pateh Sam",
+          "lat": 13.61667,
+          "lng": -15.06667
+        },
+        {
+          "name": "Sami",
+          "lat": 13.58333,
+          "lng": -15.2
+        },
+        {
+          "name": "Sami District",
+          "lat": 13.58333,
+          "lng": -14.58333
+        },
+        {
+          "name": "Saruja",
+          "lat": 13.55,
+          "lng": -14.91667
+        },
+        {
+          "name": "Sukuta",
+          "lat": 13.61667,
+          "lng": -14.91667
+        },
+        {
+          "name": "Upper Saloum",
+          "lat": 13.75,
+          "lng": -15.2
+        },
+        {
+          "name": "Wassu",
+          "lat": 13.69094,
+          "lng": -14.87884
+        }
+      ]
+    },
+    {
+      "name": "Lower River",
+      "lat": 13.3978304,
+      "lng": -15.7263312,
+      "districts": [
+        {
+          "name": "Baro Kunda",
+          "lat": 13.48333,
+          "lng": -15.26667
+        },
+        {
+          "name": "Bureng",
+          "lat": 13.41667,
+          "lng": -15.28333
+        },
+        {
+          "name": "Jali",
+          "lat": 13.35,
+          "lng": -15.96667
+        },
+        {
+          "name": "Jarra Central",
+          "lat": 13.41667,
+          "lng": -15.41667
+        },
+        {
+          "name": "Jarra East",
+          "lat": 13.41667,
+          "lng": -15.25
+        },
+        {
+          "name": "Jarra West",
+          "lat": 13.41667,
+          "lng": -15.53333
+        },
+        {
+          "name": "Jenoi",
+          "lat": 13.48333,
+          "lng": -15.56667
+        },
+        {
+          "name": "Jifarong",
+          "lat": 13.3,
+          "lng": -15.86667
+        },
+        {
+          "name": "Kaiaf",
+          "lat": 13.4,
+          "lng": -15.61667
+        },
+        {
+          "name": "Karantaba",
+          "lat": 13.43333,
+          "lng": -15.51667
+        },
+        {
+          "name": "Keneba",
+          "lat": 13.32889,
+          "lng": -16.015
+        },
+        {
+          "name": "Kiang Central",
+          "lat": 13.4,
+          "lng": -15.75
+        },
+        {
+          "name": "Kiang East",
+          "lat": 13.41667,
+          "lng": -15.63333
+        },
+        {
+          "name": "Kiang West",
+          "lat": 13.33333,
+          "lng": -16
+        },
+        {
+          "name": "Mansa Konko",
+          "lat": 13.44325,
+          "lng": -15.5357
+        },
+        {
+          "name": "Nioro",
+          "lat": 13.35,
+          "lng": -15.75
+        },
+        {
+          "name": "Sankwia",
+          "lat": 13.46667,
+          "lng": -15.51667
+        },
+        {
+          "name": "Si Kunda",
+          "lat": 13.43333,
+          "lng": -15.56667
+        },
+        {
+          "name": "Soma",
+          "lat": 13.43333,
+          "lng": -15.53333
+        },
+        {
+          "name": "Sutukung",
+          "lat": 13.46667,
+          "lng": -15.26667
+        },
+        {
+          "name": "Toniataba",
+          "lat": 13.43333,
+          "lng": -15.58333
+        },
+        {
+          "name": "Wellingara Ba",
+          "lat": 13.41667,
+          "lng": -15.4
+        }
+      ]
+    },
+    {
+      "name": "North Bank",
+      "lat": 13.4731283,
+      "lng": -16.1334359,
+      "districts": [
+        {
+          "name": "Bambali",
+          "lat": 13.48333,
+          "lng": -15.33333
+        },
+        {
+          "name": "Barra",
+          "lat": 13.48278,
+          "lng": -16.54556
+        },
+        {
+          "name": "Central Baddibu",
+          "lat": 13.53333,
+          "lng": -15.91667
+        },
+        {
+          "name": "Chilla",
+          "lat": 13.55,
+          "lng": -16.28333
+        },
+        {
+          "name": "Daru Rilwan",
+          "lat": 13.55,
+          "lng": -15.98333
+        },
+        {
+          "name": "Essau",
+          "lat": 13.48389,
+          "lng": -16.53472
+        },
+        {
+          "name": "Farafenni",
+          "lat": 13.56667,
+          "lng": -15.6
+        },
+        {
+          "name": "Gunjur",
+          "lat": 13.52278,
+          "lng": -16.02778
+        },
+        {
+          "name": "Jokadu",
+          "lat": 13.53333,
+          "lng": -16.18333
+        },
+        {
+          "name": "Katchang",
+          "lat": 13.5,
+          "lng": -15.75
+        },
+        {
+          "name": "Kerewan",
+          "lat": 13.4898,
+          "lng": -16.08879
+        },
+        {
+          "name": "Lamin",
+          "lat": 13.35222,
+          "lng": -16.43389
+        },
+        {
+          "name": "Lower Baddibu",
+          "lat": 13.5,
+          "lng": -16.05
+        },
+        {
+          "name": "Lower Niumi",
+          "lat": 13.53333,
+          "lng": -16.41667
+        },
+        {
+          "name": "No Kunda",
+          "lat": 13.56667,
+          "lng": -15.83333
+        },
+        {
+          "name": "Saba",
+          "lat": 13.51639,
+          "lng": -16.04917
+        },
+        {
+          "name": "Sara Kunda",
+          "lat": 13.53333,
+          "lng": -15.41667
+        },
+        {
+          "name": "Upper Baddibu",
+          "lat": 13.55,
+          "lng": -15.66667
+        },
+        {
+          "name": "Upper Niumi",
+          "lat": 13.4,
+          "lng": -16.33333
+        }
+      ]
+    },
+    {
+      "name": "Upper River",
+      "lat": 13.4049977,
+      "lng": -14.1495576,
+      "districts": [
+        {
+          "name": "Fulladu East",
+          "lat": 13.33333,
+          "lng": -14.25
+        },
+        {
+          "name": "Bakadagy",
+          "lat": 13.3,
+          "lng": -14.38333
+        },
+        {
+          "name": "Basse Santa Su",
+          "lat": 13.30995,
+          "lng": -14.21373
+        },
+        {
+          "name": "Brifu",
+          "lat": 13.5,
+          "lng": -13.93333
+        },
+        {
+          "name": "Daba Kunda",
+          "lat": 13.31667,
+          "lng": -14.3
+        },
+        {
+          "name": "Demba Kunda",
+          "lat": 13.25,
+          "lng": -14.26667
+        },
+        {
+          "name": "Diabugu",
+          "lat": 13.38333,
+          "lng": -14.4
+        },
+        {
+          "name": "Diabugu Basilla",
+          "lat": 13.33333,
+          "lng": -13.95
+        },
+        {
+          "name": "Gunjur Kuta",
+          "lat": 13.53333,
+          "lng": -14.11667
+        },
+        {
+          "name": "Kantora",
+          "lat": 13.41667,
+          "lng": -13.91667
+        },
+        {
+          "name": "Koina",
+          "lat": 13.48333,
+          "lng": -13.86667
+        },
+        {
+          "name": "Kumbija",
+          "lat": 13.26667,
+          "lng": -14.18333
+        },
+        {
+          "name": "Nyamanari",
+          "lat": 13.33333,
+          "lng": -13.86667
+        },
+        {
+          "name": "Perai",
+          "lat": 13.38333,
+          "lng": -14.03333
+        },
+        {
+          "name": "Sabi",
+          "lat": 13.23333,
+          "lng": -14.2
+        },
+        {
+          "name": "Sandu",
+          "lat": 13.41667,
+          "lng": -14.36667
+        },
+        {
+          "name": "Sudowol",
+          "lat": 13.36667,
+          "lng": -13.96667
+        },
+        {
+          "name": "Sun Kunda",
+          "lat": 13.38333,
+          "lng": -13.85
+        },
+        {
+          "name": "Sutukoba",
+          "lat": 13.5,
+          "lng": -14.01667
+        },
+        {
+          "name": "Wuli",
+          "lat": 13.5,
+          "lng": -14.08333
+        }
+      ]
+    },
+    {
+      "name": "West Coast",
+      "lat": 13.258513,
+      "lng": -16.4999051,
+      "districts": [
+        {
+          "name": "Abuko",
+          "lat": 13.40417,
+          "lng": -16.65583
+        },
+        {
+          "name": "Brikama",
+          "lat": 13.27136,
+          "lng": -16.64944
+        },
+        {
+          "name": "Foni Bondali",
+          "lat": 13.21667,
+          "lng": -15.93333
+        },
+        {
+          "name": "Foni Brefet",
+          "lat": 13.21667,
+          "lng": -16.33333
+        },
+        {
+          "name": "Foni Jarrol",
+          "lat": 13.23333,
+          "lng": -15.83333
+        },
+        {
+          "name": "Foni Kansala",
+          "lat": 13.21667,
+          "lng": -16.05
+        },
+        {
+          "name": "Gunjur",
+          "lat": 13.20194,
+          "lng": -16.73389
+        },
+        {
+          "name": "Kombo Central",
+          "lat": 13.25,
+          "lng": -16.66667
+        },
+        {
+          "name": "Kombo East",
+          "lat": 13.21667,
+          "lng": -16.51667
+        },
+        {
+          "name": "Kombo North",
+          "lat": 13.36667,
+          "lng": -16.66667
+        },
+        {
+          "name": "Kombo South",
+          "lat": 13.25,
+          "lng": -16.75
+        },
+        {
+          "name": "Somita",
+          "lat": 13.20583,
+          "lng": -16.30556
+        },
+        {
+          "name": "Sukuta",
+          "lat": 13.41033,
+          "lng": -16.70815
+        }
+      ]
+    }
+  ]
+}

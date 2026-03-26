@@ -1,0 +1,933 @@
+{
+  "name": "Latvia",
+  "lat": 57,
+  "lng": 25,
+  "cities": [
+    {
+      "name": "Ādaži",
+      "lat": 57.0874671,
+      "lng": 24.3195797,
+      "districts": [
+        {
+          "name": "Carnikava",
+          "lat": 57.12935,
+          "lng": 24.28423
+        }
+      ]
+    },
+    {
+      "name": "Aizkraukle",
+      "lat": 56.6166708,
+      "lng": 25.2230643,
+      "districts": [
+        {
+          "name": "Aizkraukle",
+          "lat": 56.60477,
+          "lng": 25.25534
+        },
+        {
+          "name": "Jaunjelgava",
+          "lat": 56.61319,
+          "lng": 25.08316
+        },
+        {
+          "name": "Koknese",
+          "lat": 56.65163,
+          "lng": 25.43637
+        },
+        {
+          "name": "Nereta",
+          "lat": 56.20279,
+          "lng": 25.30752
+        },
+        {
+          "name": "Pļaviņas",
+          "lat": 56.6178,
+          "lng": 25.72552
+        },
+        {
+          "name": "Skrīveri",
+          "lat": 56.645,
+          "lng": 25.12058
+        }
+      ]
+    },
+    {
+      "name": "Alūksne",
+      "lat": 57.4254485,
+      "lng": 27.0424968,
+      "districts": [
+        {
+          "name": "Alūksne",
+          "lat": 57.42162,
+          "lng": 27.04662
+        }
+      ]
+    },
+    {
+      "name": "Augšdaugava",
+      "lat": 55.8561323,
+      "lng": 27.0458076,
+      "districts": [
+        {
+          "name": "Daugavpils",
+          "lat": 55.88333,
+          "lng": 26.53333
+        },
+        {
+          "name": "Ilūkste",
+          "lat": 55.97754,
+          "lng": 26.29655
+        }
+      ]
+    },
+    {
+      "name": "Balvi",
+      "lat": 57.132624,
+      "lng": 27.2646685,
+      "districts": [
+        {
+          "name": "Baltinava",
+          "lat": 56.94394,
+          "lng": 27.64401
+        },
+        {
+          "name": "Balvi",
+          "lat": 57.1313,
+          "lng": 27.26583
+        },
+        {
+          "name": "Rugāji",
+          "lat": 57.00325,
+          "lng": 27.13371
+        },
+        {
+          "name": "Viļaka",
+          "lat": 57.18458,
+          "lng": 27.6722
+        }
+      ]
+    },
+    {
+      "name": "Bauska",
+      "lat": 56.4101868,
+      "lng": 24.2000689,
+      "districts": [
+        {
+          "name": "Bauska",
+          "lat": 56.40794,
+          "lng": 24.19443
+        },
+        {
+          "name": "Iecava",
+          "lat": 56.59766,
+          "lng": 24.20763
+        },
+        {
+          "name": "Pilsrundāle",
+          "lat": 56.41812,
+          "lng": 24.01625
+        },
+        {
+          "name": "Vecumnieki",
+          "lat": 56.60608,
+          "lng": 24.52232
+        }
+      ]
+    },
+    {
+      "name": "Cēsis",
+      "lat": 57.3102897,
+      "lng": 25.2676125,
+      "districts": [
+        {
+          "name": "Cēsis",
+          "lat": 57.31188,
+          "lng": 25.27456
+        },
+        {
+          "name": "Līgatne",
+          "lat": 57.23429,
+          "lng": 25.04059
+        },
+        {
+          "name": "Priekuļi",
+          "lat": 57.315,
+          "lng": 25.36147
+        },
+        {
+          "name": "Stalbe",
+          "lat": 57.37065,
+          "lng": 25.03106
+        },
+        {
+          "name": "Vecpiebalga",
+          "lat": 57.0609,
+          "lng": 25.81624
+        }
+      ]
+    },
+    {
+      "name": "Daugavpils",
+      "lat": 55.8712267,
+      "lng": 26.5159337,
+      "districts": []
+    },
+    {
+      "name": "Dienvidkurzemes",
+      "lat": 56.5224575,
+      "lng": 21.4595894,
+      "districts": [
+        {
+          "name": "Aizpute",
+          "lat": 56.72108,
+          "lng": 21.60156
+        },
+        {
+          "name": "Grobiņa",
+          "lat": 56.53521,
+          "lng": 21.16782
+        },
+        {
+          "name": "Lieģi",
+          "lat": 56.58173,
+          "lng": 21.33399
+        },
+        {
+          "name": "Nīca",
+          "lat": 56.34601,
+          "lng": 21.06401
+        },
+        {
+          "name": "Pāvilosta",
+          "lat": 56.88791,
+          "lng": 21.18593
+        },
+        {
+          "name": "Priekule",
+          "lat": 56.44679,
+          "lng": 21.58968
+        },
+        {
+          "name": "Rucava",
+          "lat": 56.16314,
+          "lng": 21.16156
+        },
+        {
+          "name": "Vaiņode",
+          "lat": 56.41848,
+          "lng": 21.85405
+        }
+      ]
+    },
+    {
+      "name": "Dobele",
+      "lat": 56.626305,
+      "lng": 23.2809066,
+      "districts": [
+        {
+          "name": "Auce",
+          "lat": 56.45981,
+          "lng": 22.90169
+        },
+        {
+          "name": "Dobele",
+          "lat": 56.62372,
+          "lng": 23.2751
+        },
+        {
+          "name": "Tērvete",
+          "lat": 56.47989,
+          "lng": 23.38895
+        },
+        {
+          "name": "Zelmeņi",
+          "lat": 56.45167,
+          "lng": 23.35194
+        }
+      ]
+    },
+    {
+      "name": "Gulbene",
+      "lat": 57.1759721,
+      "lng": 26.7514713,
+      "districts": [
+        {
+          "name": "Gulbene",
+          "lat": 57.17767,
+          "lng": 26.75291
+        }
+      ]
+    },
+    {
+      "name": "Jēkabpils",
+      "lat": 56.4958638,
+      "lng": 25.8687747,
+      "districts": [
+        {
+          "name": "Aknīste",
+          "lat": 56.16152,
+          "lng": 25.74783
+        },
+        {
+          "name": "Jēkabpils",
+          "lat": 56.49903,
+          "lng": 25.85735
+        },
+        {
+          "name": "Krustpils",
+          "lat": 56.51068,
+          "lng": 25.86117
+        },
+        {
+          "name": "Viesīte",
+          "lat": 56.34751,
+          "lng": 25.55514
+        }
+      ]
+    },
+    {
+      "name": "Jelgava",
+      "lat": 56.6514394,
+      "lng": 23.7339143,
+      "districts": [
+        {
+          "name": "Ozolnieki",
+          "lat": 56.68986,
+          "lng": 23.7761
+        },
+        {
+          "name": "Tīreļi",
+          "lat": 56.83991,
+          "lng": 23.58902
+        }
+      ]
+    },
+    {
+      "name": "Jelgava",
+      "lat": 56.6514394,
+      "lng": 23.7339143,
+      "districts": [
+        {
+          "name": "Jelgava",
+          "lat": 56.65,
+          "lng": 23.71278
+        }
+      ]
+    },
+    {
+      "name": "Jūrmala",
+      "lat": 56.9727164,
+      "lng": 23.7886979,
+      "districts": [
+        {
+          "name": "Jūrmala",
+          "lat": 56.968,
+          "lng": 23.77038
+        }
+      ]
+    },
+    {
+      "name": "Ķekava",
+      "lat": 56.8258465,
+      "lng": 24.2208128,
+      "districts": [
+        {
+          "name": "Baldone",
+          "lat": 56.74451,
+          "lng": 24.40078
+        },
+        {
+          "name": "Baloži",
+          "lat": 56.87643,
+          "lng": 24.11825
+        },
+        {
+          "name": "Ķekava",
+          "lat": 56.82662,
+          "lng": 24.23
+        }
+      ]
+    },
+    {
+      "name": "Krāslava",
+      "lat": 55.895206,
+      "lng": 27.1619304,
+      "districts": [
+        {
+          "name": "Dagda",
+          "lat": 56.09512,
+          "lng": 27.53723
+        },
+        {
+          "name": "Krāslava",
+          "lat": 55.89514,
+          "lng": 27.16799
+        }
+      ]
+    },
+    {
+      "name": "Kuldīga",
+      "lat": 56.9687257,
+      "lng": 21.9613739,
+      "districts": [
+        {
+          "name": "Alsunga",
+          "lat": 56.98194,
+          "lng": 21.55938
+        },
+        {
+          "name": "Kuldīga",
+          "lat": 56.97399,
+          "lng": 21.95721
+        },
+        {
+          "name": "Skrunda",
+          "lat": 56.67749,
+          "lng": 22.01649
+        }
+      ]
+    },
+    {
+      "name": "Liepāja",
+      "lat": 56.5046678,
+      "lng": 21.010806,
+      "districts": [
+        {
+          "name": "Karosta",
+          "lat": 56.55128,
+          "lng": 21.01287
+        },
+        {
+          "name": "Liepāja",
+          "lat": 56.50474,
+          "lng": 21.01085
+        }
+      ]
+    },
+    {
+      "name": "Limbaži",
+      "lat": 57.5146586,
+      "lng": 24.7131536,
+      "districts": [
+        {
+          "name": "Ainaži",
+          "lat": 57.86348,
+          "lng": 24.35853
+        },
+        {
+          "name": "Aloja",
+          "lat": 57.76723,
+          "lng": 24.87743
+        },
+        {
+          "name": "Limbaži",
+          "lat": 57.51287,
+          "lng": 24.71941
+        },
+        {
+          "name": "Salacgrīva",
+          "lat": 57.75312,
+          "lng": 24.35895
+        },
+        {
+          "name": "Staicele",
+          "lat": 57.83579,
+          "lng": 24.74706
+        }
+      ]
+    },
+    {
+      "name": "Līvāni",
+      "lat": 56.3550942,
+      "lng": 26.172519,
+      "districts": [
+        {
+          "name": "Līvāni",
+          "lat": 56.35431,
+          "lng": 26.17579
+        }
+      ]
+    },
+    {
+      "name": "Ludza",
+      "lat": 56.545959,
+      "lng": 27.7143199,
+      "districts": [
+        {
+          "name": "Cibla",
+          "lat": 56.5498,
+          "lng": 27.8837
+        },
+        {
+          "name": "Kārsava",
+          "lat": 56.78405,
+          "lng": 27.68829
+        },
+        {
+          "name": "Ludza",
+          "lat": 56.53958,
+          "lng": 27.71891
+        },
+        {
+          "name": "Zilupe",
+          "lat": 56.38616,
+          "lng": 28.12165
+        }
+      ]
+    },
+    {
+      "name": "Madona",
+      "lat": 56.8517467,
+      "lng": 26.2184769,
+      "districts": [
+        {
+          "name": "Cesvaine",
+          "lat": 56.96754,
+          "lng": 26.30764
+        },
+        {
+          "name": "Ērgļi",
+          "lat": 56.89752,
+          "lng": 25.63668
+        },
+        {
+          "name": "Lubāna",
+          "lat": 56.90425,
+          "lng": 26.71606
+        },
+        {
+          "name": "Madona",
+          "lat": 56.85329,
+          "lng": 26.21698
+        }
+      ]
+    },
+    {
+      "name": "Mārupe",
+      "lat": 56.8965717,
+      "lng": 24.0460049,
+      "districts": [
+        {
+          "name": "Mārupe",
+          "lat": 56.90544,
+          "lng": 24.05113
+        },
+        {
+          "name": "Piņķi",
+          "lat": 56.94189,
+          "lng": 23.91365
+        }
+      ]
+    },
+    {
+      "name": "Ogre",
+      "lat": 56.8147355,
+      "lng": 24.6044555,
+      "districts": [
+        {
+          "name": "Ikšķile",
+          "lat": 56.83399,
+          "lng": 24.49679
+        },
+        {
+          "name": "Jumprava",
+          "lat": 56.67613,
+          "lng": 24.9721
+        },
+        {
+          "name": "Ķegums",
+          "lat": 56.7451,
+          "lng": 24.72439
+        },
+        {
+          "name": "Lielvārde",
+          "lat": 56.72066,
+          "lng": 24.80743
+        },
+        {
+          "name": "Ogre",
+          "lat": 56.8162,
+          "lng": 24.61401
+        }
+      ]
+    },
+    {
+      "name": "Olaine",
+      "lat": 56.7905906,
+      "lng": 23.9331981,
+      "districts": [
+        {
+          "name": "Olaine",
+          "lat": 56.79472,
+          "lng": 23.9358
+        }
+      ]
+    },
+    {
+      "name": "Preiļi",
+      "lat": 56.2937366,
+      "lng": 26.7266734,
+      "districts": [
+        {
+          "name": "Aglona",
+          "lat": 56.13274,
+          "lng": 27.00682
+        },
+        {
+          "name": "Jaunaglona",
+          "lat": 56.16066,
+          "lng": 27.00714
+        },
+        {
+          "name": "Preiļi",
+          "lat": 56.29444,
+          "lng": 26.72459
+        },
+        {
+          "name": "Riebiņi",
+          "lat": 56.3428,
+          "lng": 26.79995
+        },
+        {
+          "name": "Vecvārkava",
+          "lat": 56.19838,
+          "lng": 26.50811
+        }
+      ]
+    },
+    {
+      "name": "Rēzekne",
+      "lat": 56.506281,
+      "lng": 27.3306623,
+      "districts": [
+        {
+          "name": "Rēzekne",
+          "lat": 56.51028,
+          "lng": 27.34
+        }
+      ]
+    },
+    {
+      "name": "Rēzekne",
+      "lat": 56.506281,
+      "lng": 27.3306623,
+      "districts": [
+        {
+          "name": "Viļāni",
+          "lat": 56.55253,
+          "lng": 26.92449
+        }
+      ]
+    },
+    {
+      "name": "Riga",
+      "lat": 56.9496487,
+      "lng": 24.1051865,
+      "districts": [
+        {
+          "name": "Riga",
+          "lat": 56.946,
+          "lng": 24.10589,
+          "iscapital": true
+        },
+        {
+          "name": "Bolderaja",
+          "lat": 57.03132,
+          "lng": 24.05571
+        },
+        {
+          "name": "Daugavgrīva",
+          "lat": 57.04315,
+          "lng": 24.03613
+        },
+        {
+          "name": "Jaunciems",
+          "lat": 57.0391,
+          "lng": 24.17413
+        },
+        {
+          "name": "Mežaparks",
+          "lat": 57.00008,
+          "lng": 24.15997
+        }
+      ]
+    },
+    {
+      "name": "Ropaži",
+      "lat": 56.9713771,
+      "lng": 24.6307233,
+      "districts": [
+        {
+          "name": "Garkalne",
+          "lat": 57.04486,
+          "lng": 24.41951
+        },
+        {
+          "name": "Ropaži",
+          "lat": 56.9747,
+          "lng": 24.63295
+        },
+        {
+          "name": "Ulbroka",
+          "lat": 56.9363,
+          "lng": 24.30387
+        },
+        {
+          "name": "Vangaži",
+          "lat": 57.09358,
+          "lng": 24.54468
+        }
+      ]
+    },
+    {
+      "name": "Salaspils",
+      "lat": 56.8608152,
+      "lng": 24.3497881,
+      "districts": [
+        {
+          "name": "Salaspils",
+          "lat": 56.86014,
+          "lng": 24.36544
+        }
+      ]
+    },
+    {
+      "name": "Saldus",
+      "lat": 56.6665088,
+      "lng": 22.4935493,
+      "districts": [
+        {
+          "name": "Brocēni",
+          "lat": 56.6789,
+          "lng": 22.56945
+        },
+        {
+          "name": "Saldus",
+          "lat": 56.66363,
+          "lng": 22.48807
+        }
+      ]
+    },
+    {
+      "name": "Saulkrasti",
+      "lat": 57.2579418,
+      "lng": 24.4183146,
+      "districts": [
+        {
+          "name": "Saulkrasti",
+          "lat": 57.26224,
+          "lng": 24.41471
+        }
+      ]
+    },
+    {
+      "name": "Sigulda",
+      "lat": 57.1540561,
+      "lng": 24.8567141,
+      "districts": [
+        {
+          "name": "Inčukalns",
+          "lat": 57.09867,
+          "lng": 24.6863
+        },
+        {
+          "name": "Mālpils",
+          "lat": 57.0101,
+          "lng": 24.95783
+        },
+        {
+          "name": "Sigulda",
+          "lat": 57.15375,
+          "lng": 24.85953
+        }
+      ]
+    },
+    {
+      "name": "Smiltene",
+      "lat": 57.4230332,
+      "lng": 25.900278,
+      "districts": [
+        {
+          "name": "Ape",
+          "lat": 57.53928,
+          "lng": 26.69291
+        },
+        {
+          "name": "Rauna",
+          "lat": 57.33173,
+          "lng": 25.60947
+        },
+        {
+          "name": "Smiltene",
+          "lat": 57.42444,
+          "lng": 25.90164
+        }
+      ]
+    },
+    {
+      "name": "Talsi",
+      "lat": 57.2451926,
+      "lng": 22.5903003,
+      "districts": [
+        {
+          "name": "Dundaga",
+          "lat": 57.50498,
+          "lng": 22.35041
+        },
+        {
+          "name": "Roja",
+          "lat": 57.50146,
+          "lng": 22.80881
+        },
+        {
+          "name": "Sabile",
+          "lat": 57.04577,
+          "lng": 22.57261
+        },
+        {
+          "name": "Stende",
+          "lat": 57.14497,
+          "lng": 22.53482
+        },
+        {
+          "name": "Talsi",
+          "lat": 57.24562,
+          "lng": 22.58137
+        },
+        {
+          "name": "Valdemārpils",
+          "lat": 57.37068,
+          "lng": 22.59188
+        }
+      ]
+    },
+    {
+      "name": "Tukums",
+      "lat": 56.9672868,
+      "lng": 23.1524379,
+      "districts": [
+        {
+          "name": "Engure",
+          "lat": 57.16061,
+          "lng": 23.22527
+        },
+        {
+          "name": "Jaunpils",
+          "lat": 56.73137,
+          "lng": 23.01247
+        },
+        {
+          "name": "Kandava",
+          "lat": 57.04087,
+          "lng": 22.77466
+        },
+        {
+          "name": "Smārde",
+          "lat": 56.9542,
+          "lng": 23.33736
+        },
+        {
+          "name": "Tukums",
+          "lat": 56.96764,
+          "lng": 23.15554
+        }
+      ]
+    },
+    {
+      "name": "Valka",
+      "lat": 57.77439,
+      "lng": 26.017005,
+      "districts": [
+        {
+          "name": "Valka",
+          "lat": 57.7752,
+          "lng": 26.01013
+        }
+      ]
+    },
+    {
+      "name": "Valmiera",
+      "lat": 57.5384659,
+      "lng": 25.4263618,
+      "districts": [
+        {
+          "name": "Kocēni",
+          "lat": 57.52057,
+          "lng": 25.33821
+        },
+        {
+          "name": "Mazsalaca",
+          "lat": 57.86329,
+          "lng": 25.05475
+        },
+        {
+          "name": "Mūrmuiža",
+          "lat": 57.47312,
+          "lng": 25.49174
+        },
+        {
+          "name": "Naukšēni",
+          "lat": 57.88349,
+          "lng": 25.45609
+        },
+        {
+          "name": "Rūjiena",
+          "lat": 57.89752,
+          "lng": 25.33155
+        },
+        {
+          "name": "Seda",
+          "lat": 57.65042,
+          "lng": 25.75089
+        },
+        {
+          "name": "Strenči",
+          "lat": 57.62574,
+          "lng": 25.68535
+        },
+        {
+          "name": "Valmiera",
+          "lat": 57.54108,
+          "lng": 25.42751
+        }
+      ]
+    },
+    {
+      "name": "Varakļāni",
+      "lat": 56.6088743,
+      "lng": 26.7539093,
+      "districts": [
+        {
+          "name": "Varakļāni",
+          "lat": 56.60826,
+          "lng": 26.75377
+        }
+      ]
+    },
+    {
+      "name": "Ventspils",
+      "lat": 57.3903918,
+      "lng": 21.5635991,
+      "districts": [
+        {
+          "name": "Ventspils",
+          "lat": 57.38988,
+          "lng": 21.57288
+        }
+      ]
+    },
+    {
+      "name": "Ventspils",
+      "lat": 57.3903918,
+      "lng": 21.5635991,
+      "districts": [
+        {
+          "name": "Piltene",
+          "lat": 57.22426,
+          "lng": 21.67439
+        }
+      ]
+    }
+  ]
+}

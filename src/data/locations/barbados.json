@@ -1,0 +1,116 @@
+{
+  "name": "Barbados",
+  "lat": 13.16666666,
+  "lng": -59.53333333,
+  "cities": [
+    {
+      "name": "Christ Church",
+      "lat": 13.082618,
+      "lng": -59.5374451,
+      "districts": [
+        {
+          "name": "Oistins",
+          "lat": 13.07067,
+          "lng": -59.54637
+        }
+      ]
+    },
+    {
+      "name": "Saint Andrew",
+      "lat": 13.2432904,
+      "lng": -59.57317,
+      "districts": [
+        {
+          "name": "Greenland",
+          "lat": 13.25808,
+          "lng": -59.57763
+        }
+      ]
+    },
+    {
+      "name": "Saint George",
+      "lat": 13.1384022,
+      "lng": -59.5443721,
+      "districts": []
+    },
+    {
+      "name": "Saint James",
+      "lat": 13.1863793,
+      "lng": -59.625192,
+      "districts": [
+        {
+          "name": "Holetown",
+          "lat": 13.18672,
+          "lng": -59.63808
+        }
+      ]
+    },
+    {
+      "name": "Saint John",
+      "lat": 13.1899463,
+      "lng": -59.5592151,
+      "districts": []
+    },
+    {
+      "name": "Saint Joseph",
+      "lat": 13.1899463,
+      "lng": -59.5592151,
+      "districts": [
+        {
+          "name": "Bathsheba",
+          "lat": 13.21133,
+          "lng": -59.52596
+        }
+      ]
+    },
+    {
+      "name": "Saint Lucy",
+      "lat": 13.3024068,
+      "lng": -59.6129445,
+      "districts": []
+    },
+    {
+      "name": "Saint Michael",
+      "lat": 13.1182985,
+      "lng": -59.6015783,
+      "districts": [
+        {
+          "name": "Bridgetown",
+          "lat": 13.10732,
+          "lng": -59.62021,
+          "iscapital": true
+        }
+      ]
+    },
+    {
+      "name": "Saint Peter",
+      "lat": 13.2619779,
+      "lng": -59.6207444,
+      "districts": [
+        {
+          "name": "Speightstown",
+          "lat": 13.25072,
+          "lng": -59.64396
+        }
+      ]
+    },
+    {
+      "name": "Saint Philip",
+      "lat": 13.129539,
+      "lng": -59.4674102,
+      "districts": [
+        {
+          "name": "Crane",
+          "lat": 13.10487,
+          "lng": -59.44861
+        }
+      ]
+    },
+    {
+      "name": "Saint Thomas",
+      "lat": 13.177202,
+      "lng": -59.5853833,
+      "districts": []
+    }
+  ]
+}
