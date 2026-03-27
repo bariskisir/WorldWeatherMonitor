@@ -2,17 +2,19 @@
 export const API = {
   FORECAST: "https://api.open-meteo.com/v1/forecast",
   AIR_QUALITY: "https://air-quality-api.open-meteo.com/v1/air-quality",
+  MARINE: "https://marine-api.open-meteo.com/v1/marine",
   GEOCODING: "https://geocoding-api.open-meteo.com/v1/search",
 } as const;
 
 export const WEATHER_PARAMS = {
   CURRENT:
-    "temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m,wind_direction_10m,surface_pressure,precipitation,cloud_cover,is_day",
+    "temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m,wind_direction_10m,surface_pressure,precipitation,cloud_cover,visibility,uv_index,is_day",
   HOURLY:
     "temperature_2m,precipitation_probability,precipitation,weather_code,wind_speed_10m,visibility,uv_index,relative_humidity_2m,is_day",
   DAILY:
     "weather_code,temperature_2m_max,temperature_2m_min,sunrise,sunset,uv_index_max,precipitation_sum,precipitation_probability_max,wind_speed_10m_max",
   AIR_QUALITY: "pm2_5,pm10,us_aqi,european_aqi",
+  MARINE_HOURLY: "sea_surface_temperature",
 } as const;
 
 export const MAP_CONFIG = {
@@ -59,10 +61,11 @@ export const UI_CONFIG = {
 } as const;
 
 export const STORAGE_KEYS = {
-  settings: "wwm_settings_v3",
-  mapState: "wwm_map_state_v3",
-  weatherCache: "wwm_weather_v3",
-  aqiCache: "wwm_aqi_cache_v3",
+  settings: "wwm_settings_v3.2",
+  mapState: "wwm_map_state_v3.2",
+  weatherCache: "wwm_weather_cache_v3.2",
+  aqiCache: "wwm_aqi_cache_v3.2",
+  marineCache: "wwm_marine_cache_v3.2",
 } as const;
 
 /** This function returns the minimum marker priority that may be shown at a zoom level. */

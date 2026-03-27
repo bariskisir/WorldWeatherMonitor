@@ -41,6 +41,8 @@ export interface WeatherForecast {
     wind_speed_10m: number;
     surface_pressure: number;
     cloud_cover: number;
+    visibility?: number;
+    uv_index?: number;
     precipitation?: number;
   };
   hourly: {
@@ -55,6 +57,7 @@ export interface WeatherForecast {
     weather_code: number[];
     temperature_2m_max: number[];
     temperature_2m_min: number[];
+    wind_speed_10m_max?: number[];
     sunrise?: string[];
     sunset?: string[];
     uv_index_max?: number[];
@@ -67,6 +70,13 @@ export interface AirQualitySnapshot {
     pm10?: number;
     us_aqi?: number;
     european_aqi?: number;
+  };
+}
+
+export interface MarineSnapshot {
+  hourly?: {
+    time: string[];
+    sea_surface_temperature?: number[];
   };
 }
 

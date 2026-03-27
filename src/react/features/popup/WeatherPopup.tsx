@@ -9,7 +9,7 @@ import type {
   SelectedLocationWeather,
 } from "../../app/types";
 import { WeatherChart } from "../../components/WeatherChart";
-import { fetchAirQuality } from "../../services/weatherApi";
+import { fetchAirQuality, fetchMarineData } from "../../services/weatherApi";
 import { getAQILevel, getWeatherInfo } from "../../services/weatherMappings";
 import { WeatherAnimation } from "../../legacy/WeatherAnimation";
 
@@ -28,6 +28,7 @@ export function WeatherPopup({
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
   const [airQuality, setAirQuality] = useState<AirQualitySnapshot | null>(null);
   const [isAQILoading, setIsAQILoading] = useState(false);
+  const [seaSurfaceTemperatureMax, setSeaSurfaceTemperatureMax] = useState<number | null>(null);
 
   useEffect(() => {
     if (!selectedWeather) {
@@ -62,6 +63,7 @@ export function WeatherPopup({
     if (!selectedWeather) {
       setAirQuality(null);
       setIsAQILoading(false);
+      setSeaSurfaceTemperatureMax(null);
       return;
     }
 
@@ -83,6 +85,44 @@ export function WeatherPopup({
       })
       .finally(() => {
         setIsAQILoading(false);
+      });
+
+    return () => {
+      controller.abort();
+    };
+  }, [selectedWeather, settings]);
+
+  useEffect(() => {
+    if (!selectedWeather) {
+      setSeaSurfaceTemperatureMax(null);
+      return;
+    }
+
+    const controller = new AbortController();
+    setSeaSurfaceTemperatureMax(null);
+
+    fetchMarineData(
+      selectedWeather.city.lat,
+      selectedWeather.city.lng,
+      settings,
+      controller.signal,
+    )
+      .then((result) => {
+        const maxSeaTemperature = result.hourly?.sea_surface_temperature?.reduce<number | null>(
+          (currentMax, value) => {
+            if (typeof value !== "number" || Number.isNaN(value)) {
+              return currentMax;
+            }
+
+            return currentMax === null ? value : Math.max(currentMax, value);
+          },
+          null,
+        );
+
+        setSeaSurfaceTemperatureMax(maxSeaTemperature ?? null);
+      })
+      .catch(() => {
+        setSeaSurfaceTemperatureMax(null);
       });
 
     return () => {
@@ -112,16 +152,16 @@ export function WeatherPopup({
       hourlyItems: hourly.time
         .slice(currentHour, currentHour + UI_CONFIG.popupHourlyItemCount)
         .map((time, index) => {
-        const actualIndex = currentHour + index;
-        return {
-          label: actualIndex === currentHour ? "Now" : `${new Date(time).getHours()}:00`,
-          icon: getWeatherInfo(
-            hourly.weather_code[actualIndex],
-            hourly.is_day?.[actualIndex] ?? true,
-          ).icon,
-          temp: `${formatTemp(hourly.temperature_2m[actualIndex], settings)}°${settings.tempUnit}`,
-        };
-      }),
+          const actualIndex = currentHour + index;
+          return {
+            label: actualIndex === currentHour ? "Now" : `${new Date(time).getHours()}:00`,
+            icon: getWeatherInfo(
+              hourly.weather_code[actualIndex],
+              hourly.is_day?.[actualIndex] ?? true,
+            ).icon,
+            temp: `${formatTemp(hourly.temperature_2m[actualIndex], settings)}°${settings.tempUnit}`,
+          };
+        }),
       dailyItems: daily.time.map((time, index) => ({
         label:
           index === 0
@@ -138,13 +178,13 @@ export function WeatherPopup({
             hour: "2-digit",
             minute: "2-digit",
           })
-        : "—",
+        : "-",
       sunset: daily.sunset?.[0]
         ? new Date(daily.sunset[0]).toLocaleTimeString("en", {
             hour: "2-digit",
             minute: "2-digit",
           })
-        : "—",
+        : "-",
     };
   }, [selectedWeather, settings]);
 
@@ -184,7 +224,7 @@ export function WeatherPopup({
               type="button"
               onClick={handleCloseClick}
             >
-              ✕
+              ×
             </button>
             <div className="dp-location">{derivedState.city.name}</div>
             <div className="dp-country">
@@ -222,29 +262,38 @@ export function WeatherPopup({
               <div className="dp-stat">
                 <span className="ds-icon">💨</span>
                 <span className="ds-val">
-                  {Math.round(derivedState.current.wind_speed_10m)} km/h
+                  {Math.round(
+                    derivedState.daily.wind_speed_10m_max?.[0] ??
+                      derivedState.current.wind_speed_10m,
+                  )} km/h
                 </span>
-                <span className="ds-lbl">Wind</span>
-              </div>
-              <div className="dp-stat">
-                <span className="ds-icon">📊</span>
-                <span className="ds-val">
-                  {Math.round(derivedState.current.surface_pressure)} hPa
-                </span>
-                <span className="ds-lbl">Pressure</span>
-              </div>
-              <div className="dp-stat">
-                <span className="ds-icon">☁️</span>
-                <span className="ds-val">{derivedState.current.cloud_cover}%</span>
-                <span className="ds-lbl">Clouds</span>
+                <span className="ds-lbl">Wind Max</span>
               </div>
               <div className="dp-stat">
                 <span className="ds-icon">☀️</span>
                 <span className="ds-val">
-                  {derivedState.daily.uv_index_max?.[0]?.toFixed(1) ?? "—"}
+                  {derivedState.daily.uv_index_max?.[0]?.toFixed(1) ?? "-"}
                 </span>
                 <span className="ds-lbl">UV Max</span>
               </div>
+              <div className="dp-stat">
+                <span className="ds-icon">👁️</span>
+                <span className="ds-val">
+                  {derivedState.current.visibility !== undefined
+                    ? `${(derivedState.current.visibility / 1000).toFixed(1)} km`
+                    : "-"}
+                </span>
+                <span className="ds-lbl">Visibility</span>
+              </div>
+              {seaSurfaceTemperatureMax !== null ? (
+                <div className="dp-stat">
+                  <span className="ds-icon">🌊</span>
+                  <span className="ds-val">
+                    {formatTemp(seaSurfaceTemperatureMax, settings)}°{settings.tempUnit}
+                  </span>
+                  <span className="ds-lbl">Sea Max</span>
+                </div>
+              ) : null}
             </div>
             <div className="dp-sun-row">
               <div className="dp-sun">🌅 {derivedState.sunrise}</div>
@@ -265,8 +314,8 @@ export function WeatherPopup({
                       {aqiLevel.status}
                     </div>
                     <div className="dp-aqi-detail">
-                      PM2.5: {airQuality.current.pm2_5?.toFixed(1) ?? "—"} · PM10:{" "}
-                      {airQuality.current.pm10?.toFixed(1) ?? "—"}
+                      PM2.5: {airQuality.current.pm2_5?.toFixed(1) ?? "-"} · PM10:{" "}
+                      {airQuality.current.pm10?.toFixed(1) ?? "-"}
                     </div>
                   </div>
                 </div>

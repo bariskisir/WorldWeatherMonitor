@@ -3,6 +3,7 @@ import { API, SEARCH_CONFIG, STORAGE_KEYS, WEATHER_PARAMS } from "../app/constan
 import type {
   AirQualitySnapshot,
   AppSettings,
+  MarineSnapshot,
   SearchLocationResult,
   WeatherForecast,
 } from "../app/types";
@@ -10,6 +11,7 @@ import { CacheManager } from "./cacheManager";
 
 const weatherCache = new CacheManager<WeatherForecast>(STORAGE_KEYS.weatherCache);
 const airQualityCache = new CacheManager<AirQualitySnapshot>(STORAGE_KEYS.aqiCache);
+const marineCache = new CacheManager<MarineSnapshot>(STORAGE_KEYS.marineCache);
 
 /** This function fetches forecast data and respects the current cache duration setting. */
 export async function fetchWeatherData(
@@ -71,6 +73,34 @@ export async function fetchAirQuality(
 
   const data = (await response.json()) as AirQualitySnapshot;
   airQualityCache.set(lat, lng, data);
+  return data;
+}
+
+/** This function fetches marine data and respects the current cache duration setting. */
+export async function fetchMarineData(
+  lat: number,
+  lng: number,
+  settings: AppSettings,
+  signal?: AbortSignal,
+): Promise<MarineSnapshot> {
+  const cached = marineCache.get(lat, lng, settings);
+
+  if (cached) {
+    return cached;
+  }
+
+  const url =
+    `${API.MARINE}?latitude=${lat}&longitude=${lng}` +
+    `&hourly=${WEATHER_PARAMS.MARINE_HOURLY}` +
+    "&timezone=auto&forecast_days=1";
+  const response = await fetch(url, { signal });
+
+  if (!response.ok) {
+    throw new Error(`Marine API error: ${response.status}`);
+  }
+
+  const data = (await response.json()) as MarineSnapshot;
+  marineCache.set(lat, lng, data);
   return data;
 }
 

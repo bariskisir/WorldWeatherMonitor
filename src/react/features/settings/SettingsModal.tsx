@@ -172,7 +172,7 @@ export function SettingsModal({
             Reset
           </button>
           <button className="settings-save-btn" id="settings-save-btn" type="button" onClick={handleSave}>
-            Save Settings
+            Save
           </button>
         </div>
         <div className="settings-credits">
