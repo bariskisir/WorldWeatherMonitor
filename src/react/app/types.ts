@@ -1,6 +1,7 @@
 /** This file defines the shared TypeScript contracts used across the application. */
 export interface AppSettings {
   tempUnit: "C" | "F";
+  distanceSpeedUnit: "metric" | "imperial";
   boxCount: number;
   cacheDuration: number;
   animations: boolean;

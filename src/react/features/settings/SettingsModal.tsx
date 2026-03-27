@@ -91,6 +91,31 @@ export function SettingsModal({
             </div>
           </div>
           <div className="setting-group">
+            <label className="setting-label">Distance & Speed Unit</label>
+            <div className="setting-control">
+              <label className="radio-label">
+                <input
+                  checked={draft.distanceSpeedUnit === "metric"}
+                  name="distanceSpeedUnit"
+                  type="radio"
+                  value="metric"
+                  onChange={() => updateDraft("distanceSpeedUnit", "metric")}
+                />
+                km, km/h
+              </label>
+              <label className="radio-label">
+                <input
+                  checked={draft.distanceSpeedUnit === "imperial"}
+                  name="distanceSpeedUnit"
+                  type="radio"
+                  value="imperial"
+                  onChange={() => updateDraft("distanceSpeedUnit", "imperial")}
+                />
+                mi, mph
+              </label>
+            </div>
+          </div>
+          <div className="setting-group">
             <label className="setting-label">Max Visible Markers</label>
             <div className="setting-control setting-control-slider">
               <span className="settings-slider-value">{draft.boxCount}</span>

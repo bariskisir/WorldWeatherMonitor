@@ -2,7 +2,12 @@
 import type { MouseEvent } from "react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { UI_CONFIG } from "../../app/constants";
-import { formatTemp } from "../../app/settings";
+import {
+  formatDistance,
+  formatSpeed,
+  formatTemp,
+  getSpeedUnitLabel,
+} from "../../app/settings";
 import type {
   AirQualitySnapshot,
   AppSettings,
@@ -262,10 +267,11 @@ export function WeatherPopup({
               <div className="dp-stat">
                 <span className="ds-icon">💨</span>
                 <span className="ds-val">
-                  {Math.round(
+                  {formatSpeed(
                     derivedState.daily.wind_speed_10m_max?.[0] ??
                       derivedState.current.wind_speed_10m,
-                  )} km/h
+                    settings,
+                  )} {getSpeedUnitLabel(settings)}
                 </span>
                 <span className="ds-lbl">Wind Max</span>
               </div>
@@ -280,7 +286,7 @@ export function WeatherPopup({
                 <span className="ds-icon">👁️</span>
                 <span className="ds-val">
                   {derivedState.current.visibility !== undefined
-                    ? `${(derivedState.current.visibility / 1000).toFixed(1)} km`
+                    ? formatDistance(derivedState.current.visibility, settings)
                     : "-"}
                 </span>
                 <span className="ds-lbl">Visibility</span>

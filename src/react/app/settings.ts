@@ -5,6 +5,7 @@ import { readStorage, removeStorage, writeStorage } from "./storage";
 
 export const DEFAULT_SETTINGS: AppSettings = {
   tempUnit: "C",
+  distanceSpeedUnit: "metric",
   boxCount: 15,
   cacheDuration: 15,
   animations: true,
@@ -20,6 +21,15 @@ function normalizeSettingOption(
   return value !== undefined && allowedValues.includes(value) ? value : fallback;
 }
 
+/** This function returns a valid string setting or falls back to the default. */
+function normalizeStringSettingOption<T extends string>(
+  value: T | undefined,
+  allowedValues: readonly T[],
+  fallback: T,
+): T {
+  return value !== undefined && allowedValues.includes(value) ? value : fallback;
+}
+
 /** This function loads the persisted application settings. */
 export function loadSettings(): AppSettings {
   const storedSettings = readStorage<Partial<AppSettings>>(STORAGE_KEYS.settings) ?? {};
@@ -27,6 +37,16 @@ export function loadSettings(): AppSettings {
   return {
     ...DEFAULT_SETTINGS,
     ...storedSettings,
+    tempUnit: normalizeStringSettingOption(
+      storedSettings.tempUnit,
+      ["C", "F"],
+      DEFAULT_SETTINGS.tempUnit,
+    ),
+    distanceSpeedUnit: normalizeStringSettingOption(
+      storedSettings.distanceSpeedUnit,
+      ["metric", "imperial"],
+      DEFAULT_SETTINGS.distanceSpeedUnit,
+    ),
     boxCount: normalizeSettingOption(
       storedSettings.boxCount,
       SETTINGS_OPTIONS.boxCount,
@@ -63,6 +83,41 @@ export function convertTemp(tempC: number, settings: AppSettings): number {
 /** This function rounds a temperature value for display. */
 export function formatTemp(tempC: number, settings: AppSettings): number {
   return Math.round(convertTemp(tempC, settings));
+}
+
+/** This function converts km/h into the active distance and speed unit. */
+export function convertSpeed(speedKmH: number, settings: AppSettings): number {
+  if (settings.distanceSpeedUnit === "imperial") {
+    return speedKmH * 0.621371;
+  }
+
+  return speedKmH;
+}
+
+/** This function rounds a speed value for display. */
+export function formatSpeed(speedKmH: number, settings: AppSettings): number {
+  return Math.round(convertSpeed(speedKmH, settings));
+}
+
+/** This function returns the active speed unit label. */
+export function getSpeedUnitLabel(settings: AppSettings): "km/h" | "mph" {
+  return settings.distanceSpeedUnit === "imperial" ? "mph" : "km/h";
+}
+
+/** This function converts meters into the active distance unit. */
+export function convertDistance(distanceMeters: number, settings: AppSettings): number {
+  if (settings.distanceSpeedUnit === "imperial") {
+    return distanceMeters * 0.000621371;
+  }
+
+  return distanceMeters / 1000;
+}
+
+/** This function formats a distance value for display. */
+export function formatDistance(distanceMeters: number, settings: AppSettings): string {
+  const convertedDistance = convertDistance(distanceMeters, settings);
+  const unitLabel = settings.distanceSpeedUnit === "imperial" ? "mi" : "km";
+  return `${convertedDistance.toFixed(1)} ${unitLabel}`;
 }
 
 /** This function loads the last saved map viewport state. */

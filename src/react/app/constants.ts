@@ -61,11 +61,11 @@ export const UI_CONFIG = {
 } as const;
 
 export const STORAGE_KEYS = {
-  settings: "wwm_settings_v3.2",
-  mapState: "wwm_map_state_v3.2",
-  weatherCache: "wwm_weather_cache_v3.2",
-  aqiCache: "wwm_aqi_cache_v3.2",
-  marineCache: "wwm_marine_cache_v3.2",
+  settings: "wwm_settings",
+  mapState: "wwm_map_state",
+  weatherCache: "wwm_weather_cache",
+  aqiCache: "wwm_aqi_cache",
+  marineCache: "wwm_marine_cache",
 } as const;
 
 /** This function returns the minimum marker priority that may be shown at a zoom level. */
