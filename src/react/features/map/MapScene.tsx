@@ -1,24 +1,24 @@
 /** This file renders the Leaflet map and manages viewport-driven weather markers. */
 import { useCallback, useEffect, useRef } from "react";
 import L from "leaflet";
-import { getMinimumPriorityForZoom, MAP_CONFIG, UI_CONFIG } from "../../app/constants";
-import {
-  formatTemp,
-  loadMapViewport,
-  saveMapViewport,
-} from "../../app/settings";
+import { MAP_CONFIG, UI_CONFIG } from "../../app/constants";
+import { loadMapViewport, saveMapViewport } from "../../app/settings";
 import type {
   AppSettings,
   LocationEntry,
   SearchLocationResult,
   SelectedLocationWeather,
-  VisibleWeatherMarker,
   WeatherForecast,
 } from "../../app/types";
 import { fetchWeatherData } from "../../services/weatherApi";
-import { getWeatherInfo } from "../../services/weatherMappings";
 import { useLocationIndex } from "../../hooks/useLocationIndex";
 import { MapWeatherOverlay } from "./MapWeatherOverlay";
+import {
+  createMarkerIcon,
+  getLocationKey,
+  isLocationAllowedAtZoom,
+  sortLocationsForViewport,
+} from "./markerUtils";
 
 interface MapSceneProps {
   settings: AppSettings;
@@ -29,7 +29,7 @@ interface MapSceneProps {
   onRateLimitError: (message: string) => void;
 }
 
-interface MarkerRecord extends VisibleWeatherMarker {
+interface MarkerRecord extends SelectedLocationWeather {
   marker: L.Marker;
 }
 
@@ -85,66 +85,12 @@ export function MapScene({
     [onRateLimitError],
   );
 
-  /** This function generates the stable key used for marker bookkeeping. */
-  const getLocationKey = useCallback((location: LocationEntry): string => {
-    return `${location.name}-${location.lat}`;
-  }, []);
-
-  /** This function checks whether a location is allowed at the current zoom level. */
-  const isLocationAllowedAtZoom = useCallback((location: LocationEntry, zoom: number): boolean => {
-    return location.priority >= getMinimumPriorityForZoom(zoom);
-  }, []);
-
-  /** This function ranks locations by priority and proximity to the viewport center. */
-  const sortLocationsForViewport = useCallback(
-    (locations: LocationEntry[], center: L.LatLng): LocationEntry[] => {
-      return [...locations].sort((left, right) => {
-        if (left.priority !== right.priority) {
-          return right.priority - left.priority;
-        }
-
-        const leftDistance = (left.lat - center.lat) ** 2 + (left.lng - center.lng) ** 2;
-        const rightDistance = (right.lat - center.lat) ** 2 + (right.lng - center.lng) ** 2;
-        return leftDistance - rightDistance;
-      });
-    },
-    [],
-  );
-
-  /** This function renders the marker HTML string for a location and weather payload. */
-  const createMarkerIcon = useCallback(
-    (location: LocationEntry, weather: WeatherForecast): L.DivIcon => {
-      const currentWeather = weather.current;
-      const weatherInfo = getWeatherInfo(currentWeather.weather_code, Boolean(currentWeather.is_day));
-      const displayedTemp = formatTemp(currentWeather.temperature_2m, settings);
-      const fxHtml = settings.animations ? '<div class="hud-weather-fx"></div>' : "";
-      const html = `<div class="hud-marker priority-${location.priority || 1} weather-${weatherInfo.group}">
-          <div class="hud-card">
-            ${fxHtml}
-            <span class="hud-card-name">${location.name}</span>
-            <div class="hud-card-row">
-              <span class="hud-card-icon">${weatherInfo.icon}</span>
-              <span class="hud-card-temp">${displayedTemp}°${settings.tempUnit}</span>
-            </div>
-          </div>
-        </div>`;
-
-      return L.divIcon({
-        className: `hud-marker-container marker-size-${settings.boxSize}`,
-        html,
-        iconSize: [UI_CONFIG.markerIconSize, UI_CONFIG.markerIconSize],
-        iconAnchor: [UI_CONFIG.markerIconAnchor, UI_CONFIG.markerIconAnchor],
-      });
-    },
-    [settings],
-  );
-
   /** This function refreshes existing marker icons without dropping their cached weather payloads. */
   const refreshMarkerIcons = useCallback((): void => {
     for (const markerRecord of activeMarkersRef.current.values()) {
-      markerRecord.marker.setIcon(createMarkerIcon(markerRecord.city, markerRecord.weather));
+      markerRecord.marker.setIcon(createMarkerIcon(markerRecord.city, markerRecord.weather, settings));
     }
-  }, [createMarkerIcon]);
+  }, [settings]);
 
   /** This function opens the popup for a selected location and weather combination. */
   const openPopup = useCallback(
@@ -157,8 +103,9 @@ export function MapScene({
   /** This function adds or reuses a Leaflet marker for the provided weather payload. */
   const addMarker = useCallback(
     (map: L.Map, city: LocationEntry, weather: WeatherForecast): void => {
-      const icon = createMarkerIcon(city, weather);
-      const existingRecord = activeMarkersRef.current.get(getLocationKey(city));
+      const icon = createMarkerIcon(city, weather, settings);
+      const markerKey = getLocationKey(city);
+      const existingRecord = activeMarkersRef.current.get(markerKey);
       const existingMarker = existingRecord?.marker ?? markerPoolRef.current.pop();
       const marker = existingMarker ?? L.marker([city.lat, city.lng], {
         zIndexOffset: UI_CONFIG.markerZIndexOffset,
@@ -171,9 +118,9 @@ export function MapScene({
         openPopup(city, weather);
       });
       marker.addTo(map);
-      activeMarkersRef.current.set(getLocationKey(city), { marker, city, weather });
+      activeMarkersRef.current.set(markerKey, { marker, city, weather });
     },
-    [createMarkerIcon, getLocationKey, openPopup],
+    [openPopup, settings],
   );
 
   /** This function updates the loading bar state from the current in-flight request count. */
@@ -228,7 +175,7 @@ export function MapScene({
           syncLoadingState();
         });
     },
-    [addMarker, blockRequestsUntilInteraction, getLocationKey, isRateLimitError, settings, syncLoadingState],
+    [addMarker, blockRequestsUntilInteraction, isRateLimitError, settings, syncLoadingState],
   );
 
   /** This function re-evaluates visible cities and syncs the active markers with the current viewport. */
@@ -320,7 +267,7 @@ export function MapScene({
     for (const city of citiesToAdd) {
       requestMarkerWeather(city);
     }
-  }, [getLocationKey, isLocationAllowedAtZoom, isReady, queryVisibleLocations, requestMarkerWeather, settings.boxCount, sortLocationsForViewport]);
+  }, [isReady, queryVisibleLocations, requestMarkerWeather, settings.boxCount]);
 
   useEffect(() => {
     updateVisibleMarkersRef.current = updateVisibleMarkers;

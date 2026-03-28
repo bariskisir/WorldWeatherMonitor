@@ -60,9 +60,9 @@ export function SettingsModal({
       <div className="settings-modal" id="settings-modal">
         <div className="settings-header">
           <h2 className="settings-title">⚙️ Settings</h2>
-          <div className="settings-close" id="settings-close" onClick={onClose}>
+          <button className="settings-close" id="settings-close" type="button" aria-label="Close settings" onClick={onClose}>
             ✕
-          </div>
+          </button>
         </div>
         <div className="settings-body">
           <div className="setting-group">
@@ -182,15 +182,10 @@ export function SettingsModal({
             </select>
           </div>
         </div>
-        <div className="settings-footer" style={{ display: "flex", gap: 8, justifyContent: "flex-end" }}>
+        <div className="settings-footer">
           <button
-            className="settings-save-btn"
+            className="settings-reset-btn"
             id="settings-reset-btn"
-            style={{
-              background: "rgba(255, 255, 255, 0.1)",
-              borderColor: "rgba(255, 255, 255, 0.3)",
-              color: "#fff",
-            }}
             type="button"
             onClick={handleReset}
           >

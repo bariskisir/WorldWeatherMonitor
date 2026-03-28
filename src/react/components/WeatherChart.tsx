@@ -86,7 +86,7 @@ function createHourlyChart(
         },
       ],
     },
-    options: getSharedChartOptions(settings.tempUnit, true),
+    options: getSharedChartOptions(true),
   });
 }
 
@@ -123,13 +123,12 @@ function createDailyChart(
         },
       ],
     },
-    options: getSharedChartOptions(settings.tempUnit, false),
+    options: getSharedChartOptions(false),
   });
 }
 
 /** This function returns the shared styling for both popup charts. */
 function getSharedChartOptions(
-  tempUnit: string,
   dualAxis: boolean,
 ): ChartOptions<"line" | "bar"> {
   const scales: ChartOptions<"line" | "bar">["scales"] = {

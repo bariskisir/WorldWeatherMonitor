@@ -1,6 +1,6 @@
 /** This file renders the weather detail popup and its animated content. */
 import type { MouseEvent } from "react";
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef } from "react";
 import { UI_CONFIG } from "../../app/constants";
 import {
   formatDistance,
@@ -11,17 +11,32 @@ import {
 import type {
   AirQualitySnapshot,
   AppSettings,
+  MarineSnapshot,
   SelectedLocationWeather,
 } from "../../app/types";
 import { WeatherChart } from "../../components/WeatherChart";
 import { fetchAirQuality, fetchMarineData } from "../../services/weatherApi";
 import { getAQILevel, getWeatherInfo } from "../../services/weatherMappings";
 import { WeatherAnimation } from "../../legacy/WeatherAnimation";
+import { useAbortableFetch } from "../../hooks/useAbortableFetch";
 
 interface WeatherPopupProps {
   selectedWeather: SelectedLocationWeather | null;
   settings: AppSettings;
   onClose: () => void;
+}
+
+/** This function extracts the max sea surface temperature from a marine snapshot. */
+function extractMaxSeaTemperature(snapshot: MarineSnapshot): number | null {
+  return (
+    snapshot.hourly?.sea_surface_temperature?.reduce<number | null>((currentMax, value) => {
+      if (typeof value !== "number" || Number.isNaN(value)) {
+        return currentMax;
+      }
+
+      return currentMax === null ? value : Math.max(currentMax, value);
+    }, null) ?? null
+  );
 }
 
 /** This component renders the full weather detail dialog. */
@@ -31,9 +46,54 @@ export function WeatherPopup({
   onClose,
 }: WeatherPopupProps): JSX.Element | null {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
-  const [airQuality, setAirQuality] = useState<AirQualitySnapshot | null>(null);
-  const [isAQILoading, setIsAQILoading] = useState(false);
-  const [seaSurfaceTemperatureMax, setSeaSurfaceTemperatureMax] = useState<number | null>(null);
+
+  const fetchKey = selectedWeather
+    ? `${selectedWeather.city.lat},${selectedWeather.city.lng}`
+    : null;
+
+  const aqiFetcher = useCallback(
+    (signal: AbortSignal) => {
+      if (!selectedWeather) {
+        return Promise.reject(new Error("No location selected"));
+      }
+
+      return fetchAirQuality(
+        selectedWeather.city.lat,
+        selectedWeather.city.lng,
+        settings,
+        signal,
+      );
+    },
+    [selectedWeather, settings],
+  );
+
+  const marineFetcher = useCallback(
+    (signal: AbortSignal) => {
+      if (!selectedWeather) {
+        return Promise.reject(new Error("No location selected"));
+      }
+
+      return fetchMarineData(
+        selectedWeather.city.lat,
+        selectedWeather.city.lng,
+        settings,
+        signal,
+      );
+    },
+    [selectedWeather, settings],
+  );
+
+  const { data: airQuality, isLoading: isAQILoading } = useAbortableFetch<AirQualitySnapshot>(
+    fetchKey,
+    selectedWeather ? aqiFetcher : null,
+  );
+
+  const { data: marineData } = useAbortableFetch<MarineSnapshot>(
+    fetchKey,
+    selectedWeather ? marineFetcher : null,
+  );
+
+  const seaSurfaceTemperatureMax = marineData ? extractMaxSeaTemperature(marineData) : null;
 
   useEffect(() => {
     if (!selectedWeather) {
@@ -63,77 +123,6 @@ export function WeatherPopup({
       animation.stop();
     };
   }, [selectedWeather, settings.animations]);
-
-  useEffect(() => {
-    if (!selectedWeather) {
-      setAirQuality(null);
-      setIsAQILoading(false);
-      setSeaSurfaceTemperatureMax(null);
-      return;
-    }
-
-    const controller = new AbortController();
-    setIsAQILoading(true);
-    setAirQuality(null);
-
-    fetchAirQuality(
-      selectedWeather.city.lat,
-      selectedWeather.city.lng,
-      settings,
-      controller.signal,
-    )
-      .then((result) => {
-        setAirQuality(result);
-      })
-      .catch(() => {
-        setAirQuality(null);
-      })
-      .finally(() => {
-        setIsAQILoading(false);
-      });
-
-    return () => {
-      controller.abort();
-    };
-  }, [selectedWeather, settings]);
-
-  useEffect(() => {
-    if (!selectedWeather) {
-      setSeaSurfaceTemperatureMax(null);
-      return;
-    }
-
-    const controller = new AbortController();
-    setSeaSurfaceTemperatureMax(null);
-
-    fetchMarineData(
-      selectedWeather.city.lat,
-      selectedWeather.city.lng,
-      settings,
-      controller.signal,
-    )
-      .then((result) => {
-        const maxSeaTemperature = result.hourly?.sea_surface_temperature?.reduce<number | null>(
-          (currentMax, value) => {
-            if (typeof value !== "number" || Number.isNaN(value)) {
-              return currentMax;
-            }
-
-            return currentMax === null ? value : Math.max(currentMax, value);
-          },
-          null,
-        );
-
-        setSeaSurfaceTemperatureMax(maxSeaTemperature ?? null);
-      })
-      .catch(() => {
-        setSeaSurfaceTemperatureMax(null);
-      });
-
-    return () => {
-      controller.abort();
-    };
-  }, [selectedWeather, settings]);
 
   const derivedState = useMemo(() => {
     if (!selectedWeather) {

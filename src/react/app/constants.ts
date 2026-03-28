@@ -68,18 +68,19 @@ export const STORAGE_KEYS = {
   marineCache: "wwm_marine_cache",
 } as const;
 
+/** This table maps zoom thresholds to the minimum marker priority that may be shown. */
+const ZOOM_PRIORITY_THRESHOLDS: ReadonlyArray<{ maxZoom: number; priority: number }> = [
+  { maxZoom: 4, priority: 4 },
+  { maxZoom: 6, priority: 3 },
+  { maxZoom: 10, priority: 2 },
+];
+
 /** This function returns the minimum marker priority that may be shown at a zoom level. */
 export function getMinimumPriorityForZoom(zoom: number): number {
-  if (zoom < 4) {
-    return 4;
-  }
-
-  if (zoom < 6) {
-    return 3;
-  }
-
-  if (zoom < 10) {
-    return 2;
+  for (const threshold of ZOOM_PRIORITY_THRESHOLDS) {
+    if (zoom < threshold.maxZoom) {
+      return threshold.priority;
+    }
   }
 
   return 1;

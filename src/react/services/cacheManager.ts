@@ -12,16 +12,18 @@ type CacheStore<T> = Record<string, CacheEntry<T>>;
 /** This class persists keyed API responses using a configurable TTL. */
 export class CacheManager<T> {
   private readonly storageKey: string;
+  private memoryStore: CacheStore<T>;
 
   /** This constructor creates a cache manager for the provided storage key. */
   public constructor(storageKey: string) {
     this.storageKey = storageKey;
+    this.memoryStore = readStorage<CacheStore<T>>(this.storageKey) ?? {};
   }
 
   /** This method returns a cache entry when it is still valid. */
   public get(lat: number, lng: number, settings: AppSettings): T | null {
-    const cacheStore = readStorage<CacheStore<T>>(this.storageKey) ?? {};
-    const entry = cacheStore[this.normalizeKey(lat, lng)];
+    const key = this.normalizeKey(lat, lng);
+    const entry = this.memoryStore[key];
 
     if (!entry) {
       return null;
@@ -30,8 +32,8 @@ export class CacheManager<T> {
     const cacheMs = settings.cacheDuration * 60 * 1000;
 
     if (Date.now() - entry.ts > cacheMs) {
-      delete cacheStore[this.normalizeKey(lat, lng)];
-      writeStorage(this.storageKey, cacheStore);
+      delete this.memoryStore[key];
+      this.persist();
       return null;
     }
 
@@ -40,13 +42,16 @@ export class CacheManager<T> {
 
   /** This method saves a cache entry for the provided coordinates. */
   public set(lat: number, lng: number, data: T): void {
-    const cacheStore = readStorage<CacheStore<T>>(this.storageKey) ?? {};
-    cacheStore[this.normalizeKey(lat, lng)] = {
-      data,
-      ts: Date.now(),
-    };
-    writeStorage(this.storageKey, cacheStore);
+    const key = this.normalizeKey(lat, lng);
+    this.memoryStore[key] = { data, ts: Date.now() };
+    this.persist();
   }
+
+  /** This method writes the in-memory store to localStorage. */
+  private persist(): void {
+    writeStorage(this.storageKey, this.memoryStore);
+  }
+
   /** This method normalizes latitude and longitude into a stable cache key. */
   private normalizeKey(lat: number, lng: number): string {
     return `${Number(lat).toFixed(4)},${Number(lng).toFixed(4)}`;

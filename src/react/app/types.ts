@@ -105,11 +105,6 @@ export interface SelectedLocationWeather {
   weather: WeatherForecast;
 }
 
-export interface VisibleWeatherMarker {
-  city: LocationEntry;
-  weather: WeatherForecast;
-}
-
 export interface LocationQueryBounds {
   west: number;
   east: number;

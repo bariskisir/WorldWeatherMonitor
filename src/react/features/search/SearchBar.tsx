@@ -95,9 +95,9 @@ export const SearchBar = forwardRef<SearchBarHandle, SearchBarProps>(function Se
 
   return (
     <div className="search-container" ref={containerRef}>
-      <div className="settings-trigger" id="settings-btn" onClick={onOpenSettings}>
+      <button className="settings-trigger" id="settings-btn" type="button" aria-label="Open settings" onClick={onOpenSettings}>
         ⚙️
-      </div>
+      </button>
       <div className="search-wrapper">
         <span className="search-icon">🔍</span>
         <input

@@ -1,17 +1,36 @@
 /** This file renders the optional global map overlay canvas used by the reference UI. */
-type MapParticle = {
-  type: "rain" | "snow" | "sparkle";
+type RainParticle = {
+  type: "rain";
   x: number;
   y: number;
-  len?: number;
+  len: number;
   speed: number;
   opacity: number;
-  wind?: number;
-  size?: number;
-  wobble?: number;
-  wobbleSpd?: number;
-  phase?: number;
+  wind: number;
 };
+
+type SnowParticle = {
+  type: "snow";
+  x: number;
+  y: number;
+  size: number;
+  speed: number;
+  opacity: number;
+  wobble: number;
+  wobbleSpd: number;
+};
+
+type SparkleParticle = {
+  type: "sparkle";
+  x: number;
+  y: number;
+  size: number;
+  phase: number;
+  speed: number;
+  opacity: number;
+};
+
+type MapParticle = RainParticle | SnowParticle | SparkleParticle;
 
 /** This class manages the full-screen canvas weather overlay above the map. */
 export class MapWeatherOverlay {
@@ -147,12 +166,16 @@ export class MapWeatherOverlay {
     this.ctx.clearRect(0, 0, this.width, this.height);
 
     for (const particle of this.particles) {
-      if (particle.type === "rain") {
-        this.drawRaindrop(particle);
-      } else if (particle.type === "snow") {
-        this.drawSnowflake(particle);
-      } else {
-        this.drawSparkle(particle);
+      switch (particle.type) {
+        case "rain":
+          this.drawRaindrop(particle);
+          break;
+        case "snow":
+          this.drawSnowflake(particle);
+          break;
+        case "sparkle":
+          this.drawSparkle(particle);
+          break;
       }
     }
 
@@ -175,8 +198,7 @@ export class MapWeatherOverlay {
   }
 
   /** This method paints a single rain streak. */
-  private drawRaindrop(particle: MapParticle): void {
-    if (particle.type !== "rain" || particle.wind === undefined || particle.len === undefined) return;
+  private drawRaindrop(particle: RainParticle): void {
     particle.x += particle.wind;
     particle.y += particle.speed;
 
@@ -194,8 +216,7 @@ export class MapWeatherOverlay {
   }
 
   /** This method paints a single snow particle. */
-  private drawSnowflake(particle: MapParticle): void {
-    if (particle.type !== "snow" || particle.size === undefined || particle.wobble === undefined || particle.wobbleSpd === undefined) return;
+  private drawSnowflake(particle: SnowParticle): void {
     particle.wobble += particle.wobbleSpd;
     particle.x += Math.sin(particle.wobble) * 0.6;
     particle.y += particle.speed;
@@ -212,8 +233,7 @@ export class MapWeatherOverlay {
   }
 
   /** This method paints a single sparkle particle. */
-  private drawSparkle(particle: MapParticle): void {
-    if (particle.type !== "sparkle" || particle.size === undefined || particle.phase === undefined) return;
+  private drawSparkle(particle: SparkleParticle): void {
     particle.phase += particle.speed;
     const opacity = 0.15 * (Math.sin(particle.phase) * 0.5 + 0.5);
     this.ctx.beginPath();

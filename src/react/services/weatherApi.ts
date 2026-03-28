@@ -13,6 +13,17 @@ const weatherCache = new CacheManager<WeatherForecast>(STORAGE_KEYS.weatherCache
 const airQualityCache = new CacheManager<AirQualitySnapshot>(STORAGE_KEYS.aqiCache);
 const marineCache = new CacheManager<MarineSnapshot>(STORAGE_KEYS.marineCache);
 
+/** This function builds a full URL from a base and typed params. */
+function buildUrl(base: string, params: Record<string, string | number>): string {
+  const searchParams = new URLSearchParams();
+
+  for (const [key, value] of Object.entries(params)) {
+    searchParams.set(key, String(value));
+  }
+
+  return `${base}?${searchParams.toString()}`;
+}
+
 /** This function fetches forecast data and respects the current cache duration setting. */
 export async function fetchWeatherData(
   lat: number,
@@ -26,12 +37,15 @@ export async function fetchWeatherData(
     return cached;
   }
 
-  const url =
-    `${API.FORECAST}?latitude=${lat}&longitude=${lng}` +
-    `&current=${WEATHER_PARAMS.CURRENT}` +
-    `&hourly=${WEATHER_PARAMS.HOURLY}` +
-    `&daily=${WEATHER_PARAMS.DAILY}` +
-    "&timezone=auto&forecast_days=7";
+  const url = buildUrl(API.FORECAST, {
+    latitude: lat,
+    longitude: lng,
+    current: WEATHER_PARAMS.CURRENT,
+    hourly: WEATHER_PARAMS.HOURLY,
+    daily: WEATHER_PARAMS.DAILY,
+    timezone: "auto",
+    forecast_days: 7,
+  });
 
   const response = await fetch(url, { signal });
 
@@ -62,9 +76,12 @@ export async function fetchAirQuality(
     return cached;
   }
 
-  const url =
-    `${API.AIR_QUALITY}?latitude=${lat}&longitude=${lng}` +
-    `&current=${WEATHER_PARAMS.AIR_QUALITY}`;
+  const url = buildUrl(API.AIR_QUALITY, {
+    latitude: lat,
+    longitude: lng,
+    current: WEATHER_PARAMS.AIR_QUALITY,
+  });
+
   const response = await fetch(url, { signal });
 
   if (!response.ok) {
@@ -89,10 +106,14 @@ export async function fetchMarineData(
     return cached;
   }
 
-  const url =
-    `${API.MARINE}?latitude=${lat}&longitude=${lng}` +
-    `&hourly=${WEATHER_PARAMS.MARINE_HOURLY}` +
-    "&timezone=auto&forecast_days=1";
+  const url = buildUrl(API.MARINE, {
+    latitude: lat,
+    longitude: lng,
+    hourly: WEATHER_PARAMS.MARINE_HOURLY,
+    timezone: "auto",
+    forecast_days: 1,
+  });
+
   const response = await fetch(url, { signal });
 
   if (!response.ok) {
@@ -110,9 +131,13 @@ export async function searchLocations(query: string): Promise<SearchLocationResu
     return [];
   }
 
-  const url =
-    `${API.GEOCODING}?name=${encodeURIComponent(query)}` +
-    `&count=${SEARCH_CONFIG.resultCount}&language=en&format=json`;
+  const url = buildUrl(API.GEOCODING, {
+    name: query,
+    count: SEARCH_CONFIG.resultCount,
+    language: "en",
+    format: "json",
+  });
+
   const response = await fetch(url);
 
   if (!response.ok) {
