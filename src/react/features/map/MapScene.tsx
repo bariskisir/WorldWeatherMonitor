@@ -52,6 +52,7 @@ export function MapScene({
   const updateVersionRef = useRef(0);
   const desiredMarkerKeysRef = useRef<Set<string>>(new Set());
   const pendingFetchesRef = useRef<Map<string, AbortController>>(new Map());
+  const scheduledMarkerRequestsRef = useRef<Map<string, number>>(new Map());
   const updateVisibleMarkersRef = useRef<(() => Promise<void>) | null>(null);
   const syncLoadingStateRef = useRef<(() => void) | null>(null);
   const updatePendingRef = useRef(false);
@@ -63,6 +64,18 @@ export function MapScene({
     return error instanceof Error && error.message.includes("429");
   }, []);
 
+  /** This function clears any delayed marker requests that have not started yet. */
+  const cancelScheduledMarkerRequests = useCallback((keys?: Set<string>): void => {
+    for (const [key, timeoutId] of scheduledMarkerRequestsRef.current.entries()) {
+      if (keys && keys.has(key)) {
+        continue;
+      }
+
+      window.clearTimeout(timeoutId);
+      scheduledMarkerRequestsRef.current.delete(key);
+    }
+  }, []);
+
   /** This function aborts all in-flight weather requests and blocks new ones until user interaction. */
   const blockRequestsUntilInteraction = useCallback(
     (message: string): void => {
@@ -71,6 +84,7 @@ export function MapScene({
       }
 
       rateLimitBlockedRef.current = true;
+      cancelScheduledMarkerRequests();
 
       for (const controller of pendingFetchesRef.current.values()) {
         controller.abort();
@@ -82,7 +96,7 @@ export function MapScene({
       syncLoadingStateRef.current?.();
       onRateLimitError(message);
     },
-    [onRateLimitError],
+    [cancelScheduledMarkerRequests, onRateLimitError],
   );
 
   /** This function refreshes existing marker icons without dropping their cached weather payloads. */
@@ -238,7 +252,13 @@ export function MapScene({
     }
 
     const citiesToAdd = desiredLocations.filter(
-      (location) => !activeMarkersRef.current.has(getLocationKey(location)),
+      (location) => {
+        const key = getLocationKey(location);
+        return (
+          !activeMarkersRef.current.has(key) &&
+          !scheduledMarkerRequestsRef.current.has(key)
+        );
+      },
     );
 
     for (const [key, controller] of pendingFetchesRef.current.entries()) {
@@ -247,6 +267,8 @@ export function MapScene({
         pendingFetchesRef.current.delete(key);
       }
     }
+
+    cancelScheduledMarkerRequests(desiredKeys);
 
     for (const key of keysToRemove) {
       const markerRecord = activeMarkersRef.current.get(key);
@@ -264,10 +286,15 @@ export function MapScene({
       return;
     }
 
-    for (const city of citiesToAdd) {
-      requestMarkerWeather(city);
+    for (const [index, city] of citiesToAdd.entries()) {
+      const markerKey = getLocationKey(city);
+      const timeoutId = window.setTimeout(() => {
+        scheduledMarkerRequestsRef.current.delete(markerKey);
+        requestMarkerWeather(city);
+      }, index * 25);
+      scheduledMarkerRequestsRef.current.set(markerKey, timeoutId);
     }
-  }, [isReady, queryVisibleLocations, requestMarkerWeather, settings.boxCount]);
+  }, [cancelScheduledMarkerRequests, isReady, queryVisibleLocations, requestMarkerWeather, settings.boxCount]);
 
   useEffect(() => {
     updateVisibleMarkersRef.current = updateVisibleMarkers;
@@ -355,6 +382,7 @@ export function MapScene({
       window.removeEventListener("resize", scheduleMapResize);
       window.removeEventListener("orientationchange", scheduleMapResize);
       window.visualViewport?.removeEventListener("resize", scheduleMapResize);
+      cancelScheduledMarkerRequests();
       for (const controller of pendingFetchesRef.current.values()) {
         controller.abort();
       }
@@ -366,7 +394,7 @@ export function MapScene({
       map.remove();
       mapRef.current = null;
     };
-  }, []);
+  }, [cancelScheduledMarkerRequests]);
 
   useEffect(() => {
     if (!mapRef.current || !isReady) {
