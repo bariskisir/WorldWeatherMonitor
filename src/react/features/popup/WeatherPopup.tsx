@@ -8,6 +8,7 @@ import {
   formatTemp,
   getSpeedUnitLabel,
 } from "../../app/settings";
+import { formatHourlyLabel, getCurrentHourlyForecastIndex } from "../../app/time";
 import type {
   AirQualitySnapshot,
   AppSettings,
@@ -37,6 +38,17 @@ function extractMaxSeaTemperature(snapshot: MarineSnapshot): number | null {
       return currentMax === null ? value : Math.max(currentMax, value);
     }, null) ?? null
   );
+}
+
+/** This function formats a YYYY-MM-DD string as dd.MM for the daily forecast list. */
+function formatDailyListLabel(time: string): string {
+  const [year, month, day] = time.split("-");
+
+  if (!year || !month || !day) {
+    return time;
+  }
+
+  return `${day}.${month}`;
 }
 
 /** This component renders the full weather detail dialog. */
@@ -135,7 +147,7 @@ export function WeatherPopup({
     const hourly = weather.hourly;
     const isDay = Boolean(current.is_day);
     const weatherInfo = getWeatherInfo(current.weather_code, isDay);
-    const currentHour = new Date().getHours();
+    const currentHourlyIndex = getCurrentHourlyForecastIndex(weather);
 
     return {
       city,
@@ -144,11 +156,11 @@ export function WeatherPopup({
       daily,
       weatherInfo,
       hourlyItems: hourly.time
-        .slice(currentHour, currentHour + UI_CONFIG.popupHourlyItemCount)
+        .slice(currentHourlyIndex, currentHourlyIndex + UI_CONFIG.popupHourlyItemCount)
         .map((time, index) => {
-          const actualIndex = currentHour + index;
+          const actualIndex = currentHourlyIndex + index;
           return {
-            label: actualIndex === currentHour ? "Now" : `${new Date(time).getHours()}:00`,
+            label: actualIndex === currentHourlyIndex ? "Now" : formatHourlyLabel(time),
             icon: getWeatherInfo(
               hourly.weather_code[actualIndex],
               hourly.is_day?.[actualIndex] ?? true,
@@ -157,12 +169,7 @@ export function WeatherPopup({
           };
         }),
       dailyItems: daily.time.map((time, index) => ({
-        label:
-          index === 0
-            ? "Today"
-            : index === 1
-              ? "Tomorrow"
-              : new Date(time).toLocaleDateString("en", { weekday: "short" }),
+        label: formatDailyListLabel(time),
         icon: getWeatherInfo(daily.weather_code[index], true).icon,
         high: `${formatTemp(daily.temperature_2m_max[index], settings)}°${settings.tempUnit}`,
         low: `${formatTemp(daily.temperature_2m_min[index], settings)}°${settings.tempUnit}`,
@@ -260,7 +267,8 @@ export function WeatherPopup({
                     derivedState.daily.wind_speed_10m_max?.[0] ??
                       derivedState.current.wind_speed_10m,
                     settings,
-                  )} {getSpeedUnitLabel(settings)}
+                  )}{" "}
+                  {getSpeedUnitLabel(settings)}
                 </span>
                 <span className="ds-lbl">Wind Max</span>
               </div>
@@ -317,9 +325,7 @@ export function WeatherPopup({
               ) : (
                 <div className="dp-aqi">
                   <div className="dp-aqi-info">
-                    <div className="dp-aqi-detail">
-                      Air quality data is unavailable.
-                    </div>
+                    <div className="dp-aqi-detail">Air quality data is unavailable.</div>
                   </div>
                 </div>
               )}
@@ -340,7 +346,7 @@ export function WeatherPopup({
                 </div>
               ))}
             </div>
-            <div className="dp-section-title">7-Day</div>
+            <div className="dp-section-title">14-Day</div>
             <div className="dp-daily-list">
               {derivedState.dailyItems.map((item) => (
                 <div className="popup-day" key={`${item.label}-${item.high}`}>

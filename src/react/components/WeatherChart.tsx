@@ -2,6 +2,7 @@
 import { useEffect, useRef } from "react";
 import Chart from "chart.js/auto";
 import type { ChartOptions } from "chart.js";
+import { formatHourlyLabel, getCurrentHourlyForecastIndex } from "../app/time";
 import type { AppSettings, WeatherForecast } from "../app/types";
 import { convertTemp } from "../app/settings";
 
@@ -44,20 +45,18 @@ function createHourlyChart(
   data: WeatherForecast,
   settings: AppSettings,
 ): Chart {
-  const currentHour = new Date().getHours();
-  const times = data.hourly.time.slice(currentHour, currentHour + 24);
+  const currentHourlyIndex = getCurrentHourlyForecastIndex(data);
+  const times = data.hourly.time.slice(currentHourlyIndex, currentHourlyIndex + 24);
   const temps = data.hourly.temperature_2m
-    .slice(currentHour, currentHour + 24)
+    .slice(currentHourlyIndex, currentHourlyIndex + 24)
     .map((value) => convertTemp(value, settings));
   const precip =
-    data.hourly.precipitation_probability?.slice(currentHour, currentHour + 24) ?? [];
+    data.hourly.precipitation_probability?.slice(currentHourlyIndex, currentHourlyIndex + 24) ?? [];
 
   return new Chart(canvas, {
     type: "line",
     data: {
-      labels: times.map(
-        (time) => `${new Date(time).getHours().toString().padStart(2, "0")}:00`,
-      ),
+      labels: times.map((time) => formatHourlyLabel(time)),
       datasets: [
         {
           label: `Temperature (°${settings.tempUnit})`,

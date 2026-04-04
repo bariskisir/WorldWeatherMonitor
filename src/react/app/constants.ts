@@ -56,7 +56,7 @@ export const UI_CONFIG = {
   mapFocusZoom: 10,
   mapFocusDurationSeconds: 1.5,
   toastDurationMs: 5000,
-  popupHourlyItemCount: 12,
+  popupHourlyItemCount: 24,
   popupWarmThresholdC: 20,
 } as const;
 

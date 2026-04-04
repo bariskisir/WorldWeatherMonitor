@@ -44,7 +44,7 @@ export async function fetchWeatherData(
     hourly: WEATHER_PARAMS.HOURLY,
     daily: WEATHER_PARAMS.DAILY,
     timezone: "auto",
-    forecast_days: 7,
+    forecast_days: 14,
   });
 
   const response = await fetch(url, { signal });

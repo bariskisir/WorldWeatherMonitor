@@ -34,6 +34,7 @@ export interface SearchLocationResult {
 
 export interface WeatherForecast {
   current: {
+    time: string;
     weather_code: number;
     temperature_2m: number;
     is_day: boolean;
