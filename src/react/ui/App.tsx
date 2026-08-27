@@ -1,6 +1,7 @@
 /** This file renders the top-level application shell and coordinates feature modules. */
 import { useCallback, useEffect, useRef, useState } from "react";
 import { UI_CONFIG } from "../app/constants";
+import { trackAppStartup } from "../app/telemetry";
 import {
   loadSettings,
   resetSettings,
@@ -47,6 +48,10 @@ export function App(): JSX.Element {
     return () => {
       document.removeEventListener("keydown", handleKeyDown);
     };
+  }, []);
+
+  useEffect(() => {
+    void trackAppStartup();
   }, []);
 
   useEffect(() => {
