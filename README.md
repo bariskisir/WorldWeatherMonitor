@@ -2,7 +2,7 @@
 
 An interactive world weather map that displays real-time weather conditions for cities around the globe. Click any city marker to view detailed forecasts including hourly and 7-day predictions, animated weather conditions, and air quality data. Search for any location using the built-in search bar.
 
-**🔗 Live Demo: [https://world-weather-monitor.vercel.app](https://world-weather-monitor.vercel.app)**
+**🔗 Live Demo: [https://worldweathermonitor.bariskisir.com](https://worldweathermonitor.bariskisir.com)**
 
 ![WorldWeatherMonitor Screenshot](screenshot.png)
 

@@ -18,10 +18,16 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions: {
       output: {
-        manualChunks: {
-          react: ["react", "react-dom"],
-          leaflet: ["leaflet"],
-          charts: ["chart.js/auto"],
+        manualChunks(id: string) {
+          if (id.includes("node_modules/react/") || id.includes("node_modules/react-dom/")) {
+            return "react";
+          }
+          if (id.includes("node_modules/leaflet/")) {
+            return "leaflet";
+          }
+          if (id.includes("node_modules/chart.js/")) {
+            return "charts";
+          }
         },
       },
     },

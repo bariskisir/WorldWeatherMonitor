@@ -2,6 +2,7 @@
   "name": "world-weather-monitor",
   "version": "3.1.0",
   "private": true,
+  "homepage": "https://worldweathermonitor.bariskisir.com",
   "type": "module",
   "scripts": {
     "predev": "node src/scripts/build-location-index.mjs",
@@ -12,18 +13,18 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "chart.js": "^4.5.1",
+    "chart.js": "^4.6.1",
     "leaflet": "^1.9.4",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
   },
   "devDependencies": {
-    "@types/leaflet": "^1.9.20",
-    "@types/node": "^24.5.2",
-    "@types/react": "^18.3.23",
-    "@types/react-dom": "^18.3.7",
-    "@vitejs/plugin-react": "^4.7.0",
-    "typescript": "^5.9.3",
-    "vite": "^7.3.7"
+    "@types/leaflet": "^1.9.22",
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
   }
 }
