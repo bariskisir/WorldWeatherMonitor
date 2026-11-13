@@ -4,6 +4,8 @@ An interactive world weather map that displays real-time weather conditions for 
 
 **🔗 Live Demo: [https://worldweathermonitor.bariskisir.com](https://worldweathermonitor.bariskisir.com)**
 
+https://github.com/user-attachments/assets/132eb83a-646c-4aa7-a9d1-9363763677f0
+
 ![WorldWeatherMonitor Screenshot](screenshot.png)
 
 ## Getting Started
